@@ -2029,6 +2029,12 @@ Using Bacteria to Help Power Space Missions | Microbiology
 
 #### Shewanella oneidensis MR-1
 
+https://www.ncbi.nlm.nih.gov/nuccore/NC_004347
+Shewanella oneidensis MR-1 chromosome, complete genome
+
+https://www.ncbi.nlm.nih.gov/nuccore/NC_004349
+Shewanella oneidensis MR-1 plasmid megaplasmid, complete sequence
+
 https://www.ncbi.nlm.nih.gov/pubmed/29422884
 Front Microbiol. 2018 Jan 25;8:2568. doi: 10.3389/fmicb.2017.02568. eCollection 2017.
 Redox Sensing within the Genus Shewanella.
@@ -2042,6 +2048,13 @@ PLoS Genet. 2011 Nov;7(11):e1002385. doi: 10.1371/journal.pgen.1002385. Epub 201
 Evidence-based annotation of gene function in Shewanella oneidensis MR-1 using genome-wide fitness profiling across 121 conditions.
 Deutschbauer A1, Price MN, Wetmore KM, Shao W, Baumohl JK, Xu Z, Nguyen M, Tamse R, Davis RW, Arkin AP.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3219624/
+
+https://www.ncbi.nlm.nih.gov/pubmed/12368813
+Nat Biotechnol. 2002 Nov;20(11):1118-23. Epub 2002 Oct 7.
+Genome sequence of the dissimilatory metal ion-reducing bacterium Shewanella oneidensis.
+https://www.nature.com/articles/nbt749
+- multicomponent, branched electron transport
+- Genome analysis revealed 39 c-type cytochromes, including 32 previously unidentified in S. oneidensis, and 
 
 Aug 1, 2014
 https://www.youtube.com/watch?v=cRN0iC9TSyE
