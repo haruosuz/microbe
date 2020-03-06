@@ -305,7 +305,31 @@ http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
 
+https://coromap.web.app/
+coromap - 新型コロナウイルスの状況マップ
+
 ### updates.coronavirus
+
+Published: 02 March 2020
+https://www.nature.com/articles/s41559-020-1124-7
+Dissimilation of synonymous codon usage bias in virus–host coevolution due to translational selection | Nature Ecology & Evolution
+
+https://twitter.com/yashoku_nikki/status/1235812378391937024
+石川伸一 Shin-ichi ISHIKAWA on Twitter: "新型コロナウイルスの遺伝子変異を調べることで、ウイルスの進化と拡散が詳細にリアルタイム追跡されている。 ウイルスの系統樹を使った公衆衛生対策が、ウイルスを食い止める最大のチャンス。 系統樹から、ミュンヘンや米国ワシントン州で静かに広がっていることが示唆。 https://t.co/hlb8KfdRPD" / Twitter
+2020.03.06
+https://www.technologyreview.jp/s/190754/gene-sleuths-are-tracking-the-coronavirus-outbreak-as-it-happens/
+MIT Tech Review: 新型コロナは世界にどう広がったのか？ 遺伝子解析で追跡
+
+https://twitter.com/DNA_PAPA/status/1235317727931305985
+DNAパパ🇦🇺メルボルン永住17年 on Twitter: "よく見かける新型コロナの系統樹を世界に配信している筆者が、新型コロナは1カ月に2個の突然変異を起こす言ってます。そして、新型コロナは7日間隔で次の人にうつるとの事。絵を見てもらいたいんですが、見ると突然変異が2-3人目と4-5人目の感染で起きる計算です https://t.co/v8mdxYd4pP https://t.co/l2z4qsLMdZ" / Twitter
+6:34 AM · Mar 5, 2020
+
+https://twitter.com/hshimodaira/status/1235496066834808841
+はかせ Mk-II on Twitter: "コロナウイルスの系統解析の論文がnature microbiologyに出てました．配列がSARSに近くて，SARSコロナウイルス２と呼ぶべきらしい．系統樹の枝毎に信頼度の指標としてShimodaira-Hasegawa (SH)検定が使われていて，提案手法がリアルで役立つのは嬉しい． https://t.co/GQLDDOkWHh https://t.co/qg8EPNsThw" / Twitter
+6:23 PM · Mar 5, 2020
+https://www.nature.com/articles/s41564-020-0695-z
+The species Severe acute respiratory syndrome-related coronavirus : classifying 2019-nCoV and naming it SARS-CoV-2 | Nature Microbiology
+
 
 https://twitter.com/m_sekijima/status/1232532869035069440
 欧州バイオインフォマティクス研究所（European Bioinformatics Institute : EBI）が、COVID-19の感染拡大に対応し、利用可能なデータリソースについてまとめたウェブページを公開。
@@ -313,8 +337,11 @@ https://twitter.com/m_sekijima/status/1232532869035069440
 https://ebi.ac.uk/ena/pathogens/covid-19
 This page lists data held at EMBL-EBI relating to the COVID-19 outbreak, including sequences of outbreak isolates and records relating to coronavirus biology.
 
-https://coromap.web.app/
-coromap - 新型コロナウイルスの状況マップ
+https://twitter.com/info_nbd/status/1233325026633379841
+日本バイオデータ on Twitter: "武漢で流行っているウイルスは東京のとすこし違う 現在のqPCR検査では見分けられないので、ウイルスのシークエンスデータがもっとほしい https://t.co/Z4UwzoIDVF" / Twitter
+6:36 PM · Feb 28, 2020
+
+![](https://pbs.twimg.com/media/ER2mi9MU4AIL2yM?format=jpg&name=small)
 
 https://twitter.com/info_nbd/status/1229322823816007681
 日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
