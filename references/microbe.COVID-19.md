@@ -6,6 +6,10 @@
 
 ----------
 
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it
+- Disease : coronavirus disease (COVID-19)
+- Virus : severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+
 https://twitter.com/search?q=COVID-19%20SARS-CoV-2%20lang%3Aja&src=typed_query
 
 新型コロナウイルスの名前はCOVID-19ではなく、"SARS-CoV-2"です。
@@ -14,17 +18,31 @@ https://twitter.com/search?q=COVID-19%20SARS-CoV-2%20lang%3Aja&src=typed_query
 - COVID-19は新型コロナウイルス感染症、つまり病気の名前
 - 新型コロナウイルスの名前はSARS-CoV-2
 
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it
+----------
 
-Disease 
+https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak
 
-coronavirus disease 
-(COVID-19)
+https://ja.wikipedia.org/wiki/2019新型コロナウイルス
 
-Virus 
+https://coromap.web.app/
+coromap - 新型コロナウイルスの状況マップ
 
-severe acute respiratory syndrome coronavirus 2 
-(SARS-CoV-2)
+https://www.healthmap.org/covid-19/
+
+https://healthmap.org/wuhan/
+
+https://www.cdc.gov/coronavirus/
+Novel Coronavirus 2019
+
+https://www.cdc.gov/coronavirus/2019-ncov/publications.html
+2019-nCoV Publications | CDC
+
+https://asm.org/Press-Releases/2020/nCoV2019-Resources
+Novel Coronavirus (2019-nCoV) Resources | ASM.org
+
+https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
+2019-nCoV Sequences (Wuhan coronavirus)
+The sequence lists were last updated Friday Feb 07 10:45 2020 EST
 
 ----------
 
@@ -32,13 +50,16 @@ severe acute respiratory syndrome coronavirus 2
 
 ## 2020-03
 
+https://twitter.com/oohamazaki/status/1235924249883193347
+大濱﨑 卓真 on Twitter: "【居住地都道府県別陽性確認数 3/6 22:45】 北海道 88 愛知 60 東京 59 神奈川 41 大阪 34 中華人民共和国 18 千葉 15 和歌山 14 埼玉 9 高知 8 兵庫 8 熊本 6 京都 6 石川 5 新潟 5 奈良 4 山口 3 不明 3 沖縄 3 福岡 3 調査中 3 長野 3 ほか、1〜2多数 ソース：https://t.co/xcUcZX8jFp" / Twitter
+10:44 PM · Mar 6, 2020
+![](https://pbs.twimg.com/card_img/1235173477037953026/RYSiPr1a?format=jpg&name=small)
 
 https://twitter.com/yashoku_nikki/status/1235812378391937024
 石川伸一 Shin-ichi ISHIKAWA on Twitter: "新型コロナウイルスの遺伝子変異を調べることで、ウイルスの進化と拡散が詳細にリアルタイム追跡されている。 ウイルスの系統樹を使った公衆衛生対策が、ウイルスを食い止める最大のチャンス。 系統樹から、ミュンヘンや米国ワシントン州で静かに広がっていることが示唆。 https://t.co/hlb8KfdRPD" / Twitter
 2020.03.06
 https://www.technologyreview.jp/s/190754/gene-sleuths-are-tracking-the-coronavirus-outbreak-as-it-happens/
 MIT Tech Review: 新型コロナは世界にどう広がったのか？ 遺伝子解析で追跡
-
 
 
 https://twitter.com/tonets/status/1236089371113086976
@@ -69,8 +90,6 @@ https://twitter.com/Tyu_Shi/status/1234787060566781954
 https://twitter.com/Tyu_Shi/status/1234785938103926784
 Coronaviridae Study Group of the International Committee on Taxonomy of Virusesが、今回の件のコロナウイルスの名称をSARS-CoV-2にしたようだ。
 7:21 PM · Mar 3, 2020
-
-
 
 
 ----------
@@ -206,18 +225,12 @@ https://twitter.com/trvrb/status/1223361584342265856
 Trevor Bedford on Twitter: "I've written a blog post on #nCoV2019 genomic epidemiology and the global scientific response to the outbreak: https://t.co/BeQzfOkuoO https://t.co/N2yuhx1jWV"
 6:45 AM · Feb 1, 2020
 
-
-
+----------
+## 2020-01
 
 Jan 31, 2020
 https://www.youtube.com/watch?v=mOV1aBVYKGA&feature=emb_title
 Novel coronavirus (2019-nCoV) - YouTube
-
-
-
-
-
-
 
 2020/01/30 15:16
 https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
@@ -227,6 +240,8 @@ https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
 https://twitter.com/pathogenomenick/status/1222656185624682497
 Nick Loman on Twitter: "You could run a pretty successful outbreak phylogenetics course just by discussing the materials posted on @virological_org in the last couple weeks: https://t.co/78QoXcgiph" / Twitter
 8:02 AM · Jan 30, 2020
+
+
 
 https://twitter.com/trvrb/status/1221218730383798272
 Trevor Bedford on Twitter: "Thanks to continued rapid data sharing by @CDCgov, we've updated the analysis of #nCoV2019 at https://t.co/JHWNUOwchc with the genome of the virus from the case in Chicago. It clusters with several other viruses, but is still consistent with acquisition in Wuhan. https://t.co/XeKMDgK9sg" / Twitter
@@ -350,13 +365,17 @@ https://www.niid.go.jp/niid/ja/from-idsc/2482-2020-01-10-06-50-40/9305-coronavir
 コロナウイルスとは（2020年1月10日掲載）
 中国湖北省武漢市で報告されている原因不明の肺炎に対する対応と院内感染対策（PDF）（2020年1月10日掲載）
 
-
-
 ----------
-
 
 ## virological
 http://virological.org/
+
+http://virological.org/c/novel-2019-coronavirus/33
+
+
+http://virological.org/c/novel-2019-coronavirus
+Latest Novel 2019 coronavirus topics - Virological
+
 
 http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
 The Proximal Origin of SARS-CoV-2 - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
@@ -370,6 +389,15 @@ This can be estimated using BEAST [3,4] by assuming a rate of evolution. Here I 
 
 philippe_lemey
 As calibration we used a rate distribution based on OC43 (0.00024 [0.00019,0.00029] subst./sites/yr) and MERS (0.00078 [0.00063,0.00092] subst./sites/yr):
+
+http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
+Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
+The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
+----------
+
+
+
 
 
 ----------
