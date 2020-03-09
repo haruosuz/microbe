@@ -1,10 +1,14 @@
 # COVID-19
 **新型コロナウイルス感染症**
 
+- [references](#references)
+- [map](#map)
 - [updates](#updates)
 - [virological](#virological)
 
 ----------
+
+## references
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it
 - Disease : coronavirus disease (COVID-19)
@@ -18,14 +22,9 @@ https://twitter.com/search?q=COVID-19%20SARS-CoV-2%20lang%3Aja&src=typed_query
 - COVID-19は新型コロナウイルス感染症、つまり病気の名前
 - 新型コロナウイルスの名前はSARS-CoV-2
 
-----------
-
 https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak
 
 https://ja.wikipedia.org/wiki/2019新型コロナウイルス
-
-https://coromap.web.app/
-coromap - 新型コロナウイルスの状況マップ
 
 https://www.healthmap.org/covid-19/
 
@@ -44,23 +43,58 @@ https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
 2019-nCoV Sequences (Wuhan coronavirus)
 The sequence lists were last updated Friday Feb 07 10:45 2020 EST
 
+http://minato.sip21c.org/2019-nCoV-im3r.html
+2019-nCoVについてのメモとリンク
+
+----------
+
+## map
+
+https://coromap.web.app/
+coromap - 新型コロナウイルスの状況マップ
+
+https://gis.jag-japan.com/covid19jp/
+都道府県別新型コロナウイルス感染者数マップ Coronavirus COVID-19 Japan Case (2019-nCoV)
+https://jagjapan.maps.arcgis.com/apps/opsdashboard/index.html#/55c22ee976bc42338cb454765a6edf6b
+Coronavirus COVID-19 Japan Case (2019-nCoV) - English
+
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+Coronavirus COVID-19 (2019-nCoV)
+
+https://karaage0703.github.io/covid19_memo/
+covid19_memo | 新型コロナウイルス感染症に関する可視化情報等の個人的なまとめ
+
 ----------
 
 ## updates
 
 ## 2020-03
 
+https://twitter.com/yutatatatata/status/1236805584025862144
+吉田勇太 / ysdyt on Twitter: "東京都コロナサイトも良いけど、他のグラフィカルに優れたマップたち - ジョンズホプキンズ大が公開してる全世界版ダッシュボード https://t.co/EOAzkGhngN - 上記にインスパイアされてジャッグジャパン株式会社が公開している日本全国版 https://t.co/N7acWcvHKS 全体傾向を把握しておくのも大切" / Twitter
+9:06 AM · Mar 9, 2020
+
+3/7(土) 11:26
+https://news.yahoo.co.jp/byline/kutsunasatoshi/20200307-00166492/
+感染症専門医がおすすめする 新型コロナの正しい最新情報が得られるWebサイトまとめ(忽那賢志) - 個人 - Yahoo!ニュース
+
+https://twitter.com/MinatoNakazawa/status/1236103038340751361
+中澤 港％人類生態学者＠神戸大学 on Twitter: "これも2月半ばにはハーバードSPHのProf. Lipsitchは指摘していたこと。 https://t.co/SXbfGqF5fQ https://t.co/4O267OpoSu" / Twitter
+10:35 AM · Mar 7, 2020
+http://minato.sip21c.org/2019-nCoV-im3r.html#SPECIALISTS
+ハーバードSPHの感染症疫学のMarc Lipsitch教授が，パンデミックの結果，世界の人口の40-70％が感染するという予測（このtweetから始まる連ツイで理由を説明している）を出している。
+
 https://twitter.com/oohamazaki/status/1235924249883193347
 大濱﨑 卓真 on Twitter: "【居住地都道府県別陽性確認数 3/6 22:45】 北海道 88 愛知 60 東京 59 神奈川 41 大阪 34 中華人民共和国 18 千葉 15 和歌山 14 埼玉 9 高知 8 兵庫 8 熊本 6 京都 6 石川 5 新潟 5 奈良 4 山口 3 不明 3 沖縄 3 福岡 3 調査中 3 長野 3 ほか、1〜2多数 ソース：https://t.co/xcUcZX8jFp" / Twitter
 10:44 PM · Mar 6, 2020
-![](https://pbs.twimg.com/card_img/1235173477037953026/RYSiPr1a?format=jpg&name=small)
 
 https://twitter.com/yashoku_nikki/status/1235812378391937024
 石川伸一 Shin-ichi ISHIKAWA on Twitter: "新型コロナウイルスの遺伝子変異を調べることで、ウイルスの進化と拡散が詳細にリアルタイム追跡されている。 ウイルスの系統樹を使った公衆衛生対策が、ウイルスを食い止める最大のチャンス。 系統樹から、ミュンヘンや米国ワシントン州で静かに広がっていることが示唆。 https://t.co/hlb8KfdRPD" / Twitter
 2020.03.06
 https://www.technologyreview.jp/s/190754/gene-sleuths-are-tracking-the-coronavirus-outbreak-as-it-happens/
 MIT Tech Review: 新型コロナは世界にどう広がったのか？ 遺伝子解析で追跡
-
+https://www.technologyreview.com/s/615317/gene-sleuths-are-tracking-the-coronavirus-outbreak-as-it-happens/
+Gene sleuths are tracking the coronavirus outbreak as it happens - MIT Technology Review
 
 https://twitter.com/tonets/status/1236089371113086976
 大上雅史｜Ohue M on Twitter: "Covid 19 20200305 #covid19 # https://t.co/JJYtaykYmk @SlideShareより 良い資料" / Twitter
@@ -102,15 +136,12 @@ https://ebi.ac.uk/ena/pathogens/covid-19
 This page lists data held at EMBL-EBI relating to the COVID-19 outbreak, including sequences of outbreak isolates and records relating to coronavirus biology.
 
 
-
 https://twitter.com/info_nbd
 日本バイオデータ (@info_nbd) / Twitter
 
 https://twitter.com/info_nbd/status/1233325026633379841
 日本バイオデータ on Twitter: "武漢で流行っているウイルスは東京のとすこし違う 現在のqPCR検査では見分けられないので、ウイルスのシークエンスデータがもっとほしい https://t.co/Z4UwzoIDVF" / Twitter
 6:36 PM · Feb 28, 2020
-
-![](https://pbs.twimg.com/media/ER2mi9MU4AIL2yM?format=jpg&name=small)
 
 https://twitter.com/windowmoon/status/1230787779593785344
 早いのはいいけど、マテメソの記述が全然足りてない。私が査読者なら確実に却下。「再現可能性・検証可能性」の確保できてない原稿はやめてほしい。使用したプログラムだけじゃなくて、そのプログラムの設定も必要ってことね。「デフォルト設定」でもいいけど書いてないのはダメ。
