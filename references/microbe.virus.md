@@ -31,8 +31,6 @@ Coronaviridae ~ ViralZone page
 
 新型コロナウイルス感染症 (COVID-19)
 https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
-- Disease : coronavirus disease (COVID-19)
-- Virus : severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
 
 ----------
 
@@ -65,33 +63,12 @@ Last month, Japan imported Ebola and four other dangerous viruses in preparation
 - 2014-11-10 [エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー](https://gigazine.net/news/20141110-ebola-virus-mechanism/)
 The Ebola Virus Explained — How Your Body Fights For Survival
 
-
-
-
 ----------
 ## updates
 
 ## 2020
 
-https://twitter.com/y_tambe/status/1233271239747063808
-Y Tambe on Twitter: "あの方は、だいたい調子が出てくると陰謀論を出してくるのが毎度のことなのです。なので「あ、またか。では解散」以上の感想はなし。 https://t.co/PVu4QEWeH4" / Twitter
-3:02 PM · Feb 28, 2020
-
-https://twitter.com/HattoriM/status/1233242963288838144
-HattoriM on Twitter: "デマです https://t.co/jGNoegmwtW" / Twitter
-1:10 PM · Feb 28, 2020
-
 ## 2019
-
-ドラマ『ホット・ゾーン』に学ぶリスクとの向き合い方
-
-2019年10月15日（火）11時00分
-https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
-岡田晴恵：訪日客急増の2020年､感染症は「今そこにある危機」になる可能性 | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2019年10月8日（火）13時00分
-https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone01.php
-モーリー･ロバートソン：ウイルス同様に｢偽情報も進化する時代｣に備えよ | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
 
 https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2662
 ホット・ゾーン｜番組紹介｜ナショナル ジオグラフィック (TV)
