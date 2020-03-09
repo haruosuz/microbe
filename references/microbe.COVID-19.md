@@ -87,6 +87,26 @@ Coronavirus COVID-19 (2019-nCoV)
 https://karaage0703.github.io/covid19_memo/
 covid19_memo | 新型コロナウイルス感染症に関する可視化情報等の個人的なまとめ
 
+https://twitter.com/kankan7780/status/1236857631135789057
+アプリで「新型コロナウイルスの国内感染状況をビジュアル化する試み」をトゥギャりました。
+12:33 PM · Mar 9, 2020
+https://togetter.com/li/1478960
+新型コロナウイルスの国内感染状況をビジュアル化する試み - Togetter
+
+https://twitter.com/oohamazaki/status/1235924249883193347
+大濱﨑 卓真 on Twitter: "【居住地都道府県別陽性確認数 3/6 22:45】 北海道 88 愛知 60 東京 59 神奈川 41 大阪 34 中華人民共和国 18 千葉 15 和歌山 14 埼玉 9 高知 8 兵庫 8 熊本 6 京都 6 石川 5 新潟 5 奈良 4 山口 3 不明 3 沖縄 3 福岡 3 調査中 3 長野 3 ほか、1〜2多数 ソース：https://t.co/xcUcZX8jFp" / Twitter
+10:44 PM · Mar 6, 2020
+
+https://twitter.com/oohamazaki/status/1229607308549713921
+【御礼とシェアのお願い】 昨日リリースした都道府県別新型コロナウイルス感染症数マップ（ http://bit.ly/covid19jp )、公開24Hで66,581アクセス、スマホ版・英語版も無事リリースしました。海外では各国政府や大学がやっていることを弱小企業がやっていますが、応援頂ける方は是非RTをお願いします！
+12:23 PM · Feb 18, 2020
+https://twitter.com/oohamazaki/status/1229296257874591745
+奥村様、サイト拝見させて頂きました！このGISを公開している者です。こちらのGISでは厚労省のほか、自治体の公開した事例も加えているため、例えば16日現在であればWHOは53でしたが、当方ではこれに加え東京都＋名古屋市の事例を加え59としていました。（現在はこれに加え本日の2例を追加しています）
+3:47 PM · Feb 17, 2020
+https://twitter.com/h_okumura/status/1229019259856023557
+PythonでCOVID-19の感染者数・死者数の推移をグラフにする https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html
+9:26 PM · Feb 16, 2020
+
 ----------
 
 ## nextstrain
@@ -160,10 +180,6 @@ https://twitter.com/MinatoNakazawa/status/1236103038340751361
 10:35 AM · Mar 7, 2020
 http://minato.sip21c.org/2019-nCoV-im3r.html#SPECIALISTS
 ハーバードSPHの感染症疫学のMarc Lipsitch教授が，パンデミックの結果，世界の人口の40-70％が感染するという予測（このtweetから始まる連ツイで理由を説明している）を出している。
-
-https://twitter.com/oohamazaki/status/1235924249883193347
-大濱﨑 卓真 on Twitter: "【居住地都道府県別陽性確認数 3/6 22:45】 北海道 88 愛知 60 東京 59 神奈川 41 大阪 34 中華人民共和国 18 千葉 15 和歌山 14 埼玉 9 高知 8 兵庫 8 熊本 6 京都 6 石川 5 新潟 5 奈良 4 山口 3 不明 3 沖縄 3 福岡 3 調査中 3 長野 3 ほか、1〜2多数 ソース：https://t.co/xcUcZX8jFp" / Twitter
-10:44 PM · Mar 6, 2020
 
 https://twitter.com/yashoku_nikki/status/1235812378391937024
 石川伸一 Shin-ichi ISHIKAWA on Twitter: "新型コロナウイルスの遺伝子変異を調べることで、ウイルスの進化と拡散が詳細にリアルタイム追跡されている。 ウイルスの系統樹を使った公衆衛生対策が、ウイルスを食い止める最大のチャンス。 系統樹から、ミュンヘンや米国ワシントン州で静かに広がっていることが示唆。 https://t.co/hlb8KfdRPD" / Twitter
@@ -247,16 +263,6 @@ Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "I have just posted a p
 
 
 ----------
-
-https://twitter.com/oohamazaki/status/1229607308549713921
-【御礼とシェアのお願い】 昨日リリースした都道府県別新型コロナウイルス感染症数マップ（ http://bit.ly/covid19jp )、公開24Hで66,581アクセス、スマホ版・英語版も無事リリースしました。海外では各国政府や大学がやっていることを弱小企業がやっていますが、応援頂ける方は是非RTをお願いします！
-12:23 PM · Feb 18, 2020
-https://twitter.com/oohamazaki/status/1229296257874591745
-奥村様、サイト拝見させて頂きました！このGISを公開している者です。こちらのGISでは厚労省のほか、自治体の公開した事例も加えているため、例えば16日現在であればWHOは53でしたが、当方ではこれに加え東京都＋名古屋市の事例を加え59としていました。（現在はこれに加え本日の2例を追加しています）
-3:47 PM · Feb 17, 2020
-https://twitter.com/h_okumura/status/1229019259856023557
-PythonでCOVID-19の感染者数・死者数の推移をグラフにする https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html
-9:26 PM · Feb 16, 2020
 
 https://mainichi.jp/articles/20200214/k00/00m/040/374000c
 新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
@@ -401,9 +407,6 @@ The Menachery Lab on Twitter: "Some quick analysis of the new Wuhan CoV sequence
 https://twitter.com/edwardcholmes/status/1215802670176276482
 Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus associated with the Wuhan outbreak is now available at https://t.co/EeqQXCs3n3 here: https://t.co/jdCM9USkSK" / Twitter
 10:08 AM · Jan 11, 2020
-
-
-
 
 
 2020/01/30 15:16
