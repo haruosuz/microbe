@@ -4,6 +4,7 @@
 - [references](#references)
 - [data](#data)
 - [map](#map)
+- [nextstrain](#nextstrain)
 - [updates](#updates)
 - [virological](#virological)
 
@@ -85,6 +86,64 @@ Coronavirus COVID-19 (2019-nCoV)
 
 https://karaage0703.github.io/covid19_memo/
 covid19_memo | 新型コロナウイルス感染症に関する可視化情報等の個人的なまとめ
+
+----------
+
+## nextstrain
+
+https://twitter.com/nextstrain
+
+https://nextstrain.org/
+
+https://nextstrain.org/ncov
+
+https://twitter.com/TJO_datasci/status/1235826294979325955
+Nextstrainの紹介がされた良記事
+4:15 PM · Mar 6, 2020
+https://twitter.com/TJO_datasci/status/1234684245538267137
+新型コロナウイルスのゲノム解析＆変異系統をまとめたサイトがあった。非常に分かりやすい。検体の採取された地名から検索することも可能。これを見ればどことどことの間で感染が広がったか、また市中感染があったかどうかもある程度推測できる https://nextstrain.org/ncov
+12:37 PM · Mar 3, 2020
+日本で解析されたウイルスの周辺系統がこちら。意外にも近隣の系統にUSで検出されたウイルスがあったりする
+米ワシントン州で解析されて「市中感染が起きている（同一の起源の株から枝分かれしているので変異が起きたという趣旨）」という推測がなされた辺りのデータ。良くみると似たような並列の関係のウイルスがオーストラリア、イングランドでも見られるような。。。
+
+https://twitter.com/Beer_yeast/status/1229327375936061440
+系統樹からどうウイルスが広がっていったのか可視化してる
+https://nextstrain.org/ncov
+5:51 PM · Feb 17, 2020
+
+https://nextstrain.org/groups/blab/sars-like-cov
+Phylogeny of SARS-like betacoronaviruses including novel coronavirus (nCoV)
+avatarBuilt with github.com/blab/sars-like-cov. Maintained by Trevor Bedford.
+Showing 49 of 49 genomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29790939
+Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
+Nextstrain: real-time tracking of pathogen evolution.
+Hadfield J1, Megill C1, Bell SM1,2, Huddleston J1,2, Potter B1, Callender C1, Sagulenko P3, Bedford T1, Neher RA3,4,5.
+
+https://bibgraph.hpcr.jp/abst/pubmed/31671157
+Nextstrainで視覚化されたアメリカ大陸での20年にわたるウエストナイルウイルスの拡散と進化 - Bibgraph（ビブグラフ）| PubMedを日本語で論文検索
+Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain.
+PLoS pathogens
+2019Oct01
+https://www.ncbi.nlm.nih.gov/pubmed/31671157
+PLoS Pathog. 2019 Oct 31;15(10):e1008042. doi: 10.1371/journal.ppat.1008042. eCollection 2019 Oct.
+Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain.
+Hadfield J1, Brito AF2, Swetnam DM3, Vogels CBF2, Tokarz RE4, Andersen KG5,6, Smith RC4, Bedford T1, Grubaugh ND2.
+
+2017年03月07日
+https://jipsti.jst.go.jp/johokanri/sti_updates/?id=9489
+NIH、オープンサイエンス懸賞受賞者を発表
+
+2017.01.20
+https://ritsuan.com/blog/5298/
+Open Science(生命科学分野)3 | リツアンSTC
+本プロジェクトは、ジカ熱ウイルスとエボラウイルスのゲノムデータから得られる、進化系統樹を一カ所でまとめシェアするプロジェクトです。
+それにより、どの国からどの国へ、ウイルスがいつ持ち運ばれたかがわかり、もしある系統のウイルスに有効な治療方法が分かった場合、同じ系統のウイルス感染者への治療に生かすことができたり、感染拡大を封じ込める手段を推測することができます。
+以上見てきたように、各地域の患者のウイルスのゲノムを解析し、そのデータをシェアして、一つのサイトで素人にもかかりやすく可視化すると、いつどの国からどの国へどんな系統のウイルスが移っているかを、把握することができます。
+
+https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
+ジカ熱のウイルスのゲノム系統図、インタラクティブ・マップ - pelicanmemo
 
 ----------
 
