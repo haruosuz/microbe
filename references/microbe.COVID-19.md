@@ -97,19 +97,15 @@ https://nextstrain.org/
 
 https://nextstrain.org/ncov
 
-https://twitter.com/TJO_datasci/status/1235826294979325955
-Nextstrainの紹介がされた良記事
-4:15 PM · Mar 6, 2020
-https://twitter.com/TJO_datasci/status/1234684245538267137
-新型コロナウイルスのゲノム解析＆変異系統をまとめたサイトがあった。非常に分かりやすい。検体の採取された地名から検索することも可能。これを見ればどことどことの間で感染が広がったか、また市中感染があったかどうかもある程度推測できる https://nextstrain.org/ncov
-12:37 PM · Mar 3, 2020
-日本で解析されたウイルスの周辺系統がこちら。意外にも近隣の系統にUSで検出されたウイルスがあったりする
-米ワシントン州で解析されて「市中感染が起きている（同一の起源の株から枝分かれしているので変異が起きたという趣旨）」という推測がなされた辺りのデータ。良くみると似たような並列の関係のウイルスがオーストラリア、イングランドでも見られるような。。。
+https://nextstrain.org/narratives/ncov/sit-rep/2020-03-04
 
-https://twitter.com/Beer_yeast/status/1229327375936061440
-系統樹からどうウイルスが広がっていったのか可視化してる
-https://nextstrain.org/ncov
-5:51 PM · Feb 17, 2020
+https://twitter.com/yutakashino/status/1236181231684943872
+Yuta Kashino on Twitter: "Nextstrain / narratives / ncov / sit-rep / 2020-03-04 https://t.co/0qQRhkMxZg COVID-19が世界中で大変なことになってきましたが，イタリアのSARS-CoV-2株がどう感染していったかを分子系統樹の解析により解明していくこのNextstrainのナラティブは圧巻…" / Twitter
+3:45 PM · Mar 7, 2020
+
+https://twitter.com/TJO_datasci/status/1234684245538267137
+新型コロナウイルスのゲノム解析＆変異系統をまとめたサイトがあった。非常に分かりやすい。検体の採取された地名から検索することも可能。これを見ればどことどことの間で感染が広がったか、また市中感染があったかどうかもある程度推測できる 
+12:37 PM · Mar 3, 2020
 
 https://nextstrain.org/groups/blab/sars-like-cov
 Phylogeny of SARS-like betacoronaviruses including novel coronavirus (nCoV)
