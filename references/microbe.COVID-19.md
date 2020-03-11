@@ -70,23 +70,16 @@ https://www.ebi.ac.uk/about/news/announcements/coronavirus-data
 Coronavirus data resources at EMBL-EBI | European Bioinformatics Institute
 
 
-https://www.ncbi.nlm.nih.gov/nuccore/LC528232
-```
-Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/DP/Kng/19-020 RNA, complete genome
-
-LOCUS       LC528232               29902 bp    RNA     linear   VRL 29-FEB-2020
-```
-
-https://www.ncbi.nlm.nih.gov/nuccore/LC528233
-```
-Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/DP/Kng/19-027 RNA, complete genome
-
-LOCUS       LC528233               29902 bp    RNA     linear   VRL 29-FEB-2020
-
-  TITLE     Development of SmartAmp system for SARS-CoV-2 using viruses
-            isolated from patients in a Cruse Ship
-```
 クルーズ船で患者から分離されたウイルスのコンプリートゲノム配列
+- https://www.ncbi.nlm.nih.gov/nuccore/LC528232
+SARS-CoV-2/Hu/DP/Kng/19-020 RNA
+- https://www.ncbi.nlm.nih.gov/nuccore/LC528233
+SARS-CoV-2/Hu/DP/Kng/19-027 RNA
+```
+Severe acute respiratory syndrome coronavirus 2
+Development of SmartAmp system for SARS-CoV-2 using viruses isolated from patients in a Cruse Ship
+/isolation_source="throat swab"
+```
 
 https://medit.tech/smartamp-for-newcorona-virus/
 理化学研究所と神奈川県衛生研、等温核酸増幅技術を応用した新型コロナウイルス検査法を開発 | Med IT Tech
