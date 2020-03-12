@@ -51,7 +51,7 @@ http://minato.sip21c.org/2019-nCoV-im3r.html
 https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
 2019-nCoV Sequences (Wuhan coronavirus)
 SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences
-The sequence lists were last updated Friday Mar 06 13:10 2020 EST, and are updated as additional sequences are released. The table content is available for download.
+The sequence lists were last updated Tuesday Mar 10 08:50 2020 EST, and are updated as additional sequences are released. The table content is available for download.
 https://www.ncbi.nlm.nih.gov/core/assets/genbank/files/ncov-sequences.yaml
 
 https://twitter.com/NBDC_info/status/1234655020991250432
@@ -69,6 +69,15 @@ This page lists data held at EMBL-EBI relating to the COVID-19 outbreak, includi
 https://www.ebi.ac.uk/about/news/announcements/coronavirus-data
 Coronavirus data resources at EMBL-EBI | European Bioinformatics Institute
 
+https://gigazine.net/news/20200312-databrew-covid19-data-explorer/
+新型コロナウイルスの流行の勢いを国別で可視化・比較できる「COVID-19 data explorer」 - GIGAZINE
+
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks
+Novel Corona Virus 2019 Dataset | Kaggle
+
+https://twitter.com/cychiu98/status/1236185692415254528
+Hi all, we submitted the #COVIDー19 genome sequence from the viral strain linked to the #GrandPrincess cruise ship off coast of San Francisco to #GISAID. Phylogenetic analysis shows that it clusters with the outbreak clade circulating in Washington State.  
+4:03 PM · Mar 7, 2020
 
 クルーズ船で患者から分離されたウイルスのコンプリートゲノム配列
 - https://www.ncbi.nlm.nih.gov/nuccore/LC528232
