@@ -69,8 +69,6 @@ This page lists data held at EMBL-EBI relating to the COVID-19 outbreak, includi
 https://www.ebi.ac.uk/about/news/announcements/coronavirus-data
 Coronavirus data resources at EMBL-EBI | European Bioinformatics Institute
 
-https://gigazine.net/news/20200312-databrew-covid19-data-explorer/
-新型コロナウイルスの流行の勢いを国別で可視化・比較できる「COVID-19 data explorer」 - GIGAZINE
 
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks
 Novel Corona Virus 2019 Dataset | Kaggle
@@ -111,6 +109,9 @@ Coronavirus COVID-19 (2019-nCoV)
 https://karaage0703.github.io/covid19_memo/
 covid19_memo | 新型コロナウイルス感染症に関する可視化情報等の個人的なまとめ
 
+https://gitpress.io/@statrstart/Coronavirus06
+RでGitHub03 (Coronavirus)[2020-03-10更新] - GitPress.io
+
 https://twitter.com/kankan7780/status/1236857631135789057
 アプリで「新型コロナウイルスの国内感染状況をビジュアル化する試み」をトゥギャりました。
 12:33 PM · Mar 9, 2020
@@ -130,6 +131,7 @@ https://twitter.com/oohamazaki/status/1229296257874591745
 https://twitter.com/h_okumura/status/1229019259856023557
 PythonでCOVID-19の感染者数・死者数の推移をグラフにする https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html
 9:26 PM · Feb 16, 2020
+
 
 ----------
 
@@ -190,6 +192,18 @@ https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
 ## updates
 
 ## 2020-03
+
+https://gigazine.net/news/20200312-databrew-covid19-data-explorer/
+新型コロナウイルスの流行の勢いを国別で可視化・比較できる「COVID-19 data explorer」 - GIGAZINE
+
+https://gigazine.net/news/20200311-harvard-mit-moving-online-classes/
+ハーバード大学やマサチューセッツ工科大学などが「全ての授業をオンラインに移行する」ことを決定 - GIGAZINE
+
+https://twitter.com/jburnmurdoch/status/1237737352879112194
+John Burn-Murdoch on Twitter: "NEW on coronavirus: many western countries may soon face Italy’s situation Case numbers since outbreaks began in several countries have tracked a ~33% daily rise. This is as true for UK, France, Germany as Italy; the latter is simply further down the path https://t.co/VcSZISFxzF https://t.co/xM6wXuMk4n" / Twitter
+10:49 PM · Mar 11, 2020
+https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441
+Coronavirus tracked: the latest figures as the outbreak spreads | Financial Times
 
 https://twitter.com/yutatatatata/status/1236805584025862144
 吉田勇太 / ysdyt on Twitter: "東京都コロナサイトも良いけど、他のグラフィカルに優れたマップたち - ジョンズホプキンズ大が公開してる全世界版ダッシュボード https://t.co/EOAzkGhngN - 上記にインスパイアされてジャッグジャパン株式会社が公開している日本全国版 https://t.co/N7acWcvHKS 全体傾向を把握しておくのも大切" / Twitter
