@@ -2,7 +2,9 @@
 **新型コロナウイルス感染症**
 
 - [references](#references)
+- [books](#books)
 - [data](#data)
+  - [ourworldindata](#ourworldindata)
 - [map](#map)
 - [nextstrain](#nextstrain)
 - [updates](#updates)
@@ -43,6 +45,24 @@ Novel Coronavirus (2019-nCoV) Resources | ASM.org
 
 http://minato.sip21c.org/2019-nCoV-im3r.html
 2019-nCoVについてのメモとリンク
+
+----------
+
+## books
+
+2020/02/12 17:30
+https://shinsho.kobunsha.com/n/nd4c6579ddc38
+岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
+新書: 313ページ
+出版社: 光文社 (2014/11/13)
+
+https://www.maruzen-publishing.co.jp/info/n19784.html
+『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
+第9章「SARSとMERS」PDF版はこちら
+最新データに基づく加藤茂孝先生によるコラム
+【コラム】新型コロナウイルスはどう落ち着くのか？（2020/2/13up）
+https://www.maruzen-publishing.co.jp/info/n19786.html
+【コラム】新型コロナウイルスはどう落ち着くのか？ - 丸善出版 理工・医学・人文社会科学の専門書出版社
 
 ----------
 
@@ -91,6 +111,21 @@ Development of SmartAmp system for SARS-CoV-2 using viruses isolated from patien
 https://medit.tech/smartamp-for-newcorona-virus/
 理化学研究所と神奈川県衛生研、等温核酸増幅技術を応用した新型コロナウイルス検査法を開発 | Med IT Tech
 
+
+March 11, 2020
+https://r-posts.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/
+Covid-19 interactive map (using R with shiny, leaflet and dplyr) – R-posts.com
+
+### OurWorldInData
+
+https://twitter.com/OurWorldInData
+
+https://ourworldindata.org/coronavirus#confirmed-covid-19-cases-by-country
+
+Mar 13, 2020
+https://twitter.com/jcamthrash/status/1238242466840498177
+https://twitter.com/morqon/status/1238166796080988165
+
 ----------
 
 ## map
@@ -131,7 +166,6 @@ https://twitter.com/oohamazaki/status/1229296257874591745
 https://twitter.com/h_okumura/status/1229019259856023557
 PythonでCOVID-19の感染者数・死者数の推移をグラフにする https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html
 9:26 PM · Feb 16, 2020
-
 
 ----------
 
@@ -192,6 +226,18 @@ https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
 ## updates
 
 ## 2020-03
+
+2020年3月11日 20:32
+https://news.denfaminicogamer.jp/news/200311z
+ゲームが新型コロナウイルスを止める可能性。ワシントン大学の博士が『Flodit』のプレイをゲーマーに呼びかけ、タンパク質の立体構造を用いたパズルゲーム
+
+https://twitter.com/ma31stm/status/1237740022251450369
+まつこ on Twitter: "「ウイルスを無毒化するタンパク質の立体構造をゲーマーたちに設計してもらう計画。ワシントン大学タンパク質設計研究所によって主催され、ゲームのダウンロード可能。Foldit https://t.co/qEz0aV78Dc」 → 新型コロナウイルスを「オンラインゲーム」で無毒化する計画が進行中 https://t.co/otYO6fx0NQ" / Twitter
+10:59 PM · Mar 11, 2020
+2020/03/10
+https://nazology.net/archives/53854
+新型コロナウイルスを「オンラインゲーム」で無毒化する計画が進行中 | ナゾロジー
+
 
 https://gigazine.net/news/20200312-databrew-covid19-data-explorer/
 新型コロナウイルスの流行の勢いを国別で可視化・比較できる「COVID-19 data explorer」 - GIGAZINE
