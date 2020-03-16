@@ -8,6 +8,8 @@
 - [map](#map)
 - [nextstrain](#nextstrain)
 - [updates](#updates)
+- [statistics](#statistics)
+- [twitter](#twitter)
 - [virological](#virological)
 
 ----------
@@ -26,9 +28,15 @@ https://twitter.com/search?q=COVID-19%20SARS-CoV-2%20lang%3Aja&src=typed_query
 - COVID-19は新型コロナウイルス感染症、つまり病気の名前
 - 新型コロナウイルスの名前はSARS-CoV-2
 
-https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak
+https://ja.wikipedia.org/wiki/2019新型コロナウイルスによる急性呼吸器疾患
+Coronavirus disease 2019, COVID-19
+
+https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 
 https://ja.wikipedia.org/wiki/2019新型コロナウイルス
+SARS-CoV-2（英: Severe acute respiratory syndrome coronavirus 2
+
+https://en.wikipedia.org/wiki/2019–20_coronavirus_pandemic
 
 https://www.healthmap.org/covid-19/
 
@@ -177,6 +185,13 @@ https://nextstrain.org/
 
 https://nextstrain.org/ncov
 
+https://nextstrain.org/help/general/how-to-read-a-tree
+How to interpret the phylogenetic trees
+
+https://artic.network/how-to-read-a-tree.html
+How to read a phylogenetic tree
+Revision Date:	2018-07-30
+
 https://nextstrain.org/narratives/ncov/sit-rep/2020-03-04
 
 https://twitter.com/yutakashino/status/1236181231684943872
@@ -227,6 +242,26 @@ https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
 
 ## 2020-03
 
+2020-03-14
+https://www.technologyreview.jp/s/192282/heres-how-long-the-coronavirus-can-live-in-the-air-and-on-packages/
+新型コロナはダンボールに1日残存、吊革も感染ルートか
+
+https://news.yahoo.co.jp/byline/tsugawayusuke/20200315-00167833/
+コロナ対策に休校は無意味なのか？医療政策のエビデンスをもとに解説(津川友介) - 個人 - Yahoo!ニュース
+
+2020/03/13 10:26
+https://note.com/sheemer/n/ne297d1e846fe?fbclid=IwAR3RC3PlbB3lKybQp6QFJiOUO8TX8JAzVnyKNG8skiD0UviGySQl8BiMuME
+「コロナは全員PCRしろ」という人は「ベイズ推定」と検査の実効を理解する必要がある｜sheemer｜note
+
+https://twitter.com/oohamazaki/status/1237688029415784449
+大濱﨑 卓真
+@oohamazaki
+【速報／神奈川県藤沢市で新たに２人の感染】神奈川県藤沢市で新たに２人の感染が確認されました。（藤沢市は保健所政令市（３号）のため、市区町村までの公開のようです）
+PC&スマホ：https://gis.jag-japan.com/covid19jp/
+#新型コロナウイルス  #COVID19japan #COVID19
+7:33 PM · Mar 11, 2020
+
+
 2020年3月11日 20:32
 https://news.denfaminicogamer.jp/news/200311z
 ゲームが新型コロナウイルスを止める可能性。ワシントン大学の博士が『Flodit』のプレイをゲーマーに呼びかけ、タンパク質の立体構造を用いたパズルゲーム
@@ -264,6 +299,9 @@ https://twitter.com/MinatoNakazawa/status/1236103038340751361
 10:35 AM · Mar 7, 2020
 http://minato.sip21c.org/2019-nCoV-im3r.html#SPECIALISTS
 ハーバードSPHの感染症疫学のMarc Lipsitch教授が，パンデミックの結果，世界の人口の40-70％が感染するという予測（このtweetから始まる連ツイで理由を説明している）を出している。
+
+https://wired.jp/2020/03/06/coronavirus-uk-schools-closed/
+新型コロナウイルス対策としての「休校」は本当に有効？ 感染が広がる英国で波紋｜WIRED.jp
 
 https://twitter.com/yashoku_nikki/status/1235812378391937024
 石川伸一 Shin-ichi ISHIKAWA on Twitter: "新型コロナウイルスの遺伝子変異を調べることで、ウイルスの進化と拡散が詳細にリアルタイム追跡されている。 ウイルスの系統樹を使った公衆衛生対策が、ウイルスを食い止める最大のチャンス。 系統樹から、ミュンヘンや米国ワシントン州で静かに広がっていることが示唆。 https://t.co/hlb8KfdRPD" / Twitter
@@ -419,6 +457,13 @@ Trevor Bedford on Twitter: "I've written a blog post on #nCoV2019 genomic epidem
 ----------
 ## 2020-01
 
+2020年1月31日
+https://www.fnn.jp/posts/00050030HDK/202001311747_MEZAMASHITelevision_HDK
+新型コロナウイルス「手すり・つり革」は“危険度大”…街中に潜む感染リスクと専門家の自己防衛策 - FNN.jpプライムオンライン
+手すりや、エスカレーターの手すりなども、ウイルスに感染する危険度大。
+金属やプラスチックなど、表面がつるつるした場所は、特に注意が必要。
+
+
 Jan 31, 2020
 https://www.youtube.com/watch?v=mOV1aBVYKGA&feature=emb_title
 Novel coronavirus (2019-nCoV) - YouTube
@@ -554,7 +599,53 @@ https://www.niid.go.jp/niid/ja/from-idsc/2482-2020-01-10-06-50-40/9305-coronavir
 中国湖北省武漢市で報告されている原因不明の肺炎に対する対応と院内感染対策（PDF）（2020年1月10日掲載）
 
 ----------
+## statistics
 
+https://twitter.com/HYtane/status/1238108423389990913
+Hikari_Yoshitane on Twitter: "新型コロナに対して疑わしい人をどんどんPCR検査しろという人は、PCR検査には偽陰性と偽陽性があることに加えてベイズの定理を理解するべき。ベイスの定理って何？って人は例えばこの動画でも見てくれ。これでもわからない人は検査についての発言をひかえて欲しい。 https://t.co/AQb8IecJmQ" / Twitter
+11:23 PM · Mar 12, 2020
+
+https://twitter.com/h_okumura/status/1231369239887400960
+感度: 感染している人が陽性と判定される確率
+特異度: 感染してない人が陰性と判定される確率
+COVID-19のPCRは感度30-50%（educated guess?），71%（n=51）など諸説あり
+特異度は100%に近い？（ただしコンタミ（検体に外からウイルスが混入すること）に注意）
+9:04 AM · Feb 23, 2020
+インフルエンザ迅速検査では感度62.3%，特異度98.2%（2012年のメタアナリシス，PMID: 22371850）
+特に初期は感度が低いので，インフル陰性ですと言われても感染していること多い。
+インフルもCOVIDも検査に頼りすぎず症状があれば休むべし
+
+2020年02月19日
+https://www.gohongi-clinic.com/k_blog/3873/
+新型コロナウイルス感染をPCRで判定しても、様々な問題が発生する可能性があります。 | 五本木クリニック
+
+----------
+## twitter
+
+- https://twitter.com/arambaut
+Andrew Rambaut
+- https://twitter.com/edwardcholmes
+Eddie Holmes
+- 
+- https://twitter.com/DLYDDDDK
+空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
+- https://twitter.com/mdfujita
+藤田康介 (@mdfujita) / Twitter
+- https://twitter.com/hiro_icd
+高山義浩 (@hiro_icd) / Twitter
+- https://twitter.com/georgebest1969
+岩田健太郎 (@georgebest1969) / Twitter
+- https://twitter.com/EARL_Med_Tw
+EARLの医学ツイート (@EARL_Med_Tw) / Twitter
+- https://twitter.com/NATROM
+名取宏（なとろむ） (@NATROM) / Twitter
+- https://twitter.com/y_tambe
+Y Tambe (@y_tambe) / Twitter
+- https://twitter.com/HattoriM
+HattoriM (@HattoriM) / Twitter
+上海の大学で老師をしてゐる。Working on the structural and chemical biology of metal homeostasis.
+
+----------
 ## virological
 http://virological.org/
 
@@ -583,8 +674,6 @@ Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virologic
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
 
 ----------
-
-
 
 
 
