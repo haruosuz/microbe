@@ -10,6 +10,7 @@
 - [updates](#updates)
 - [statistics](#statistics)
 - [twitter](#twitter)
+- [info_nbd](#info_nbd) 日本バイオデータ
 - [virological](#virological)
 
 ----------
@@ -183,8 +184,6 @@ https://twitter.com/nextstrain
 
 https://nextstrain.org/
 
-https://nextstrain.org/ncov
-
 https://nextstrain.org/help/general/how-to-read-a-tree
 How to interpret the phylogenetic trees
 
@@ -192,7 +191,25 @@ https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
 Revision Date:	2018-07-30
 
-https://nextstrain.org/narratives/ncov/sit-rep/2020-03-04
+https://nextstrain.org/groups/blab/sars-like-cov
+Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
+avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
+Showing 52 of 52 genomes.
+
+https://nextstrain.org/ncov
+
+Situation Report 
+https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13
+新型コロナウイルス拡散の遺伝的解析と状況報告 2020-03-13.
+
+https://twitter.com/nextstrain/status/1238875482881318912
+Nextstrain on Twitter: "コロナウィルス及び #COVID19 についての状況報告（日本語）更新されました！https://t.co/R421TpCp1i 翻訳担当の @tommy_nezy さん、 @fengjun_zhang さんとTakeshi Satoさん、お疲れ様です。 The March 13 situation report is now available in Japanese! #HCoV19 #SARSCoV2 https://t.co/qFQJhaM0FG" / Twitter
+2:11 AM · Mar 15, 2020
+
+
+https://ubinaural.com/podcast/2020/3/10
+A.I.に意識を与える研究 BLOG
+取り上げているwebサイトはhttps://nextstrain.org/です。このサイトの使用しているデータは、https://www.gisaid.org/に基づいています。nextstrain.orgの活動はオープン・ソースであり、GitHubに公開されています。
 
 https://twitter.com/yutakashino/status/1236181231684943872
 Yuta Kashino on Twitter: "Nextstrain / narratives / ncov / sit-rep / 2020-03-04 https://t.co/0qQRhkMxZg COVID-19が世界中で大変なことになってきましたが，イタリアのSARS-CoV-2株がどう感染していったかを分子系統樹の解析により解明していくこのNextstrainのナラティブは圧巻…" / Twitter
@@ -202,10 +219,13 @@ https://twitter.com/TJO_datasci/status/1234684245538267137
 新型コロナウイルスのゲノム解析＆変異系統をまとめたサイトがあった。非常に分かりやすい。検体の採取された地名から検索することも可能。これを見ればどことどことの間で感染が広がったか、また市中感染があったかどうかもある程度推測できる 
 12:37 PM · Mar 3, 2020
 
-https://nextstrain.org/groups/blab/sars-like-cov
-Phylogeny of SARS-like betacoronaviruses including novel coronavirus (nCoV)
-avatarBuilt with github.com/blab/sars-like-cov. Maintained by Trevor Bedford.
-Showing 49 of 49 genomes.
+
+2020/02/12
+https://toyokeizai.net/articles/-/329766?page=6
+新型コロナウイルス｢生物兵器論｣は本当なのか
+専門家見解｢人工で製造することは不可能｣
+トレバー・ベッドフォードはオープンソースのウェブサイト（nextstrain.org）を開設し、各種の病原体の遺伝子配列についての分析と可視化を行えるようにした。
+その中には以前から知られているコロナウイルスのファミリー（コウモリ、ハクビシン、SARS）の遺伝子配列の系譜から、世界的なインフルエンザウイルスの共有データベースGISAID（Global Initiative on Sharing All Influenza Data）で共有されている新型コロナウイルス関連肺炎患者53人のウイルス遺伝子の全配列が含まれている。
 
 https://www.ncbi.nlm.nih.gov/pubmed/29790939
 Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
@@ -237,10 +257,39 @@ https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
 ジカ熱のウイルスのゲノム系統図、インタラクティブ・マップ - pelicanmemo
 
 ----------
+## gisaid
+
+https://www.gisaid.org/
+GISAID - Global Initiative on Sharing All Influenza Data
+
+https://twitter.com/GISAID
+GISAID Initiative (@GISAID) / Twitter
+
+https://wired.jp/2020/03/15/data-sharing-open-source-software-combat-covid-19/
+オープンソースの活用と遺伝子データの共有は、新型コロナウイルスとの闘いで人類を有利に導けるか｜WIRED.jp
+
+シアトル近郊の10代の症例では、採取された新型コロナウイルスの遺伝データが、ゲノムデータ共有プラットフォーム「GISAID」にアップロードされた。そして、「Nextstrain（ネクストストレイン）」の研究者が、10代の患者を先に発見されていた患者に結びつけた。
+
+Nextstrainは、新型コロナウイルス感染症やエボラ出血熱、エンテロウイルスD68型（EV-D68）感染症など、あまり知られていないアウトブレイク（集団感染）に関連するウイルスや細菌の進化を追跡するオープンソースアプリケーションで、GISAIDがその主なデータ源となっている。Nextstrainプロジェクトに関与しているホドクロフトや他の研究者は、GISAIDで共有されている変異データを分析し、結果を視覚化する。その結果、ワシントン州での2件の新型コロナウイルス感染症例の間につながりを発見できた。
+
+Nextstrainが進めているような遺伝子分析は、それ自体は新しいものではない。研究者は伝統的に、主に学術雑誌を通じて研究を発表する。しかし、GISAIDで利用可能なゲノムデータの爆発的増加と、迅速なゲノムデータのアップロードで公衆衛生と学界のギャップを埋め、初心者ユーザーもデータを探索する機会が生まれる。
+
+2020年03月02日
+http://crisp-bio.blog.jp/archives/22091842.html
+新型コロナウイルス：台湾・米国・日本で分離されたウイルスの配列解析から見えてきたこと : crisp_bio
+
+----------
 
 ## updates
 
 ## 2020-03
+
+https://twitter.com/sounaka/status/1239789326830948353
+So Nakagawa on Twitter: "実験医学誌にコロナウイルスに関する総説を書きました、4/20発売の5月号に掲載予定です。そちらに掲載される予定のコロナウイルスの系統樹をshareします。SARS-CoV-2の類似配列のみならず、61種のコロナウイルスの配列を使って系統樹を作りました。#新型コロナウイルス https://t.co/ALRM9lmXTl" / Twitter
+2:43 PM · Mar 17, 2020
+ヒトに感染するウイルスはベータコロナウイルス属とアルファコロナウイルス属からのみ見つかっています。コウモリが宿主となっている例も多いですが、その他の生物も様々なコロナウイルスを持っています。一部配列はGISAID（https://gisaid.org）から入手しました。 #新型コロナウイルス
+この図のshareに関しては羊土社実験医学編集部から許可をもらっています（掲載時には多少変更があるかも）。また、outgroupに使っているコロナウイルスをはじめ、多くのコロナウイルスが中国を中心に世界様々な研究グループによって発見されています、GISAID含め、それら研究グループに感謝します。
+
 
 2020-03-14
 https://www.technologyreview.jp/s/192282/heres-how-long-the-coronavirus-can-live-in-the-air-and-on-packages/
@@ -339,26 +388,6 @@ https://twitter.com/Tyu_Shi/status/1234787060566781954
 https://twitter.com/Tyu_Shi/status/1234785938103926784
 Coronaviridae Study Group of the International Committee on Taxonomy of Virusesが、今回の件のコロナウイルスの名称をSARS-CoV-2にしたようだ。
 7:21 PM · Mar 3, 2020
-
-
-----------
-## 2020-02
-
-https://twitter.com/info_nbd
-日本バイオデータ (@info_nbd) / Twitter
-
-https://twitter.com/info_nbd/status/1233325026633379841
-日本バイオデータ on Twitter: "武漢で流行っているウイルスは東京のとすこし違う 現在のqPCR検査では見分けられないので、ウイルスのシークエンスデータがもっとほしい https://t.co/Z4UwzoIDVF" / Twitter
-6:36 PM · Feb 28, 2020
-
-https://twitter.com/windowmoon/status/1230787779593785344
-早いのはいいけど、マテメソの記述が全然足りてない。私が査読者なら確実に却下。「再現可能性・検証可能性」の確保できてない原稿はやめてほしい。使用したプログラムだけじゃなくて、そのプログラムの設定も必要ってことね。「デフォルト設定」でもいいけど書いてないのはダメ。
-Translate Tweet
-6:34 PM · Feb 21, 2020
-
-https://twitter.com/info_nbd/status/1229322823816007681
-日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
-5:32 PM · Feb 17, 2020
 
 
 ----------
@@ -644,6 +673,34 @@ Y Tambe (@y_tambe) / Twitter
 - https://twitter.com/HattoriM
 HattoriM (@HattoriM) / Twitter
 上海の大学で老師をしてゐる。Working on the structural and chemical biology of metal homeostasis.
+
+----------
+## info_nbd
+
+https://twitter.com/info_nbd
+日本バイオデータ (@info_nbd) / Twitter
+
+http://crisp-bio.blog.jp/archives/22091842.html
+新型コロナウイルス：台湾・米国・日本で分離されたウイルスの配列解析から見えてきたこと : crisp_bio
+# 2020-03-15 2020-02-28にarXiv投稿はv2へと更新されましたが、本記事への反映は未定です。
+# 2020-03-03 GISAID (Global Initiative on Sharing All Influenza Data)が、新規配列登録に応じてPhylogenyを刻々と更新・公開し、順次ツイート (https://twitter.com/nextstrain)している (本記事文末に、https://nextstrain.org/ncov から3月3日にキャプチャした画面を添付) [＊]。
+
+[出典] "Phylogenetic analyses of the severe acute respiratory syndrome coronavirus 2 reflected the several routes of invasion in Taiwan, the United States, and Japan" Matsuda T, Suzuki H, Ogata N. arXiv.prg 2020-02-20 15:29:37 UTC
+
+　日本バイオデータのデータ解析チームによる解析結果は
+
+https://twitter.com/info_nbd/status/1233325026633379841
+日本バイオデータ on Twitter: "武漢で流行っているウイルスは東京のとすこし違う 現在のqPCR検査では見分けられないので、ウイルスのシークエンスデータがもっとほしい https://t.co/Z4UwzoIDVF" / Twitter
+6:36 PM · Feb 28, 2020
+
+https://twitter.com/windowmoon/status/1230787779593785344
+早いのはいいけど、マテメソの記述が全然足りてない。私が査読者なら確実に却下。「再現可能性・検証可能性」の確保できてない原稿はやめてほしい。使用したプログラムだけじゃなくて、そのプログラムの設定も必要ってことね。「デフォルト設定」でもいいけど書いてないのはダメ。
+Translate Tweet
+6:34 PM · Feb 21, 2020
+
+https://twitter.com/info_nbd/status/1229322823816007681
+日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
+5:32 PM · Feb 17, 2020
 
 ----------
 ## virological
