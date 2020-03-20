@@ -1,22 +1,36 @@
 # microbe.memo
 
-## Table of Contents
-- [definition](#definition)
-- [asepsis](#asepsis) 無菌
-- [cell number](#cell-number)
-- [culture](#culture)
-- [featuring](#featuring)
-- [updates](#updates)
-[2019](#2019)
-[2018](#2018)
-[2017](#2017)
-[2016](#2016)
-- [prokaryote](#prokaryote)
-- [archaea](#archaea)
-- [products](#products)
-[jokin](#jokin)
-[aobiome](#aobiome)
-[varinos](#varinos)
+Table of Contents
+=================
+
+   * [microbe.memo](#microbememo)
+      * [Table of Contents](#table-of-contents)
+      * [definition](#definition)
+      * [products](#products)
+         * [jokin](#jokin)
+         * [varinos](#varinos)
+         * [aobiome](#aobiome)
+      * [featuring](#featuring)
+      * [infection](#infection)
+      * [asepsis](#asepsis)
+      * [sensor](#sensor)
+      * [cell number](#cell-number)
+      * [culture](#culture)
+      * [prokaryote](#prokaryote)
+      * [archaea](#archaea)
+      * [updates](#updates)
+      * [2019](#2019)
+         * [2019-06](#2019-06)
+         * [2019-05](#2019-05)
+      * [2018](#2018)
+         * [2018-12](#2018-12)
+      * [2018-09](#2018-09)
+      * [2018-07](#2018-07)
+      * [2017](#2017)
+      * [2016](#2016)
+      * [2018-01](#2018-01)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ----------
 ## definition
@@ -82,6 +96,16 @@ p.096:
 
 ### jokin
 
+https://twitter.com/agrilus/status/1240553405350731776
+今日のTLで印象深かった画像2枚
+5:19 PM · Mar 19, 2020
+北海道新聞
+
+https://twitter.com/y_tambe/status/1240102393145987072
+Y Tambe on Twitter: "@tuyositt11 承前）で、さらに「次亜塩素酸ナトリウムの濃度をもっと薄くして、酸性にした状態」が次亜塩素酸水。十分な殺菌力があるなら有毒、安全というなら殺菌力が期待できない。しかも不安定 なお、これをもっと高濃度にしたり、もっと強い酸性にしてpH下げたのが「まぜるな危険」状態（塩素ガス発生）" / Twitter
+11:27 AM · Mar 18, 2020
+
+2020年03月10日 
 https://www.itmedia.co.jp/news/articles/2003/10/news100.html
 新型コロナ予防効果うたう広告に消費者庁が改善要請　マイナスイオン発生器や空間除菌剤も - ITmedia NEWS
 　消費者庁が2月25日から3月6日にインターネット広告を緊急監視したところ、30事業者の46商品で「ビタミンCはコロナウイルスから体を守る」「新型コロナウイルスはマイナスイオンで死滅します！」「身に付けるだけで空間のウイルス除去・除菌」といった新型コロナウイルスに対する予防効果を標ぼうする文言が見つかった。
