@@ -1,10 +1,7 @@
-# microbe.memo
+microbe.memo
 
 Table of Contents
-=================
 
-   * [microbe.memo](#microbememo)
-      * [Table of Contents](#table-of-contents)
       * [definition](#definition)
       * [products](#products)
          * [jokin](#jokin)
