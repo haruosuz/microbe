@@ -1,8 +1,6 @@
 microbe.memo
 
 Table of Contents
-
-Table of Contents
 =================
 
    * [Table of Contents](#table-of-contents)
@@ -32,7 +30,6 @@ Table of Contents
       * [2018-01](#2018-01)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
-
 
 ----------
 ## definition
