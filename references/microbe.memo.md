@@ -2,7 +2,6 @@ microbe.memo
 
 Table of Contents
 
-   * [Table of Contents](#table-of-contents)
       * [definition](#definition)
       * [products](#products)
          * [jokin](#jokin)
