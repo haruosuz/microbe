@@ -250,6 +250,8 @@ Revision Date:	2018-07-30
 
 https://twitter.com/nextstrain
 
+https://twitter.com/search?q=nextstrain%20lang%3Aja&f=live
+
 https://nextstrain.org/
 
 https://nextstrain.org/ncov
@@ -271,6 +273,19 @@ https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13
 https://twitter.com/nextstrain/status/1238875482881318912
 Nextstrain on Twitter: "コロナウィルス及び #COVID19 についての状況報告（日本語）更新されました！https://t.co/R421TpCp1i 翻訳担当の @tommy_nezy さん、 @fengjun_zhang さんとTakeshi Satoさん、お疲れ様です。 The March 13 situation report is now available in Japanese! #HCoV19 #SARSCoV2 https://t.co/qFQJhaM0FG" / Twitter
 2:11 AM · Mar 15, 2020
+
+https://twitter.com/level3defless/status/1242590691462492160
+Koichi Higashi on Twitter: "SARS-CoV-2の進化生物学。系統樹、現状観測されてる進化のパターン、創始者効果とか。すごくわかりやすいし英語も聞き取りやすい https://t.co/mUhoO17pig" / Twitter
+8:14 AM · Mar 25, 2020
+
+https://twitter.com/vscooper/status/1242562671108599808
+Vaughn Cooper on Twitter: "Where did #COVID19 come from? Where's it going? This video discusses: source of SARS-CoV-2, relatedness to other CoV, how it's currently evolving but likely not affecting function, and value for epidemiology. https://t.co/rJe8QhX5un" / Twitter
+6:23 AM · Mar 25, 2020
+
+
+https://twitter.com/Laurie_Garrett/status/1242517753002700802
+Laurie Garrett on Twitter: "Latest #CoronaVirus19 - 1,258 full genomes Notable changes: •S clade 333 (+71) •G clade 406 (+76) •V clade 97 (+9) •Other clades 422 (+82) Includes 70 from Diamond Princess Cruise ship close to early Wuhan sequences. @GISAID https://t.co/RrAINkJpVI" / Twitter
+3:24 AM · Mar 25, 2020
 
 
 https://ubinaural.com/podcast/2020/3/10
@@ -341,6 +356,12 @@ http://crisp-bio.blog.jp/archives/22091842.html
 ## updates
 
 ## 2020-03
+
+https://twitter.com/yucky1313/status/1242641221689827328
+新型コロナで日本がやってる事
+ライブに行きたくて調べて理解したことを素人文系がめちゃくちゃ噛み砕いて描いてみた（1/2）
+11:35 AM · Mar 25, 2020
+
 
 2020/03/20 21:38
 https://note.com/kyoshimine/n/n6bf078a369f9
