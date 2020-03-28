@@ -265,6 +265,13 @@ Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
 avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
 Showing 52 of 52 genomes.
 
+https://twitter.com/nextstrain/status/1238418274041372673
+Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Shanghai MOE/NHC/CAMS, & 
+@GISAID
+, we've updated http://nextstrain.org/ncov with 2 new #COVID19 #SARSCoV2 #hCoV19 sequences from Japan & Shanghai.
+7:54 PM · Mar 13, 2020
+
+![](https://pbs.twimg.com/media/ES--jykWkAANZCF?format=jpg&name=small)
 
 Situation Report 
 https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13
