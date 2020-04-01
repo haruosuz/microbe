@@ -7,12 +7,12 @@
 - [data](#data)
   - [ourworldindata](#ourworldindata)
 - [map](#map)
+- [tree](#tree)
 - [nextstrain](#nextstrain)
 - [updates](#updates)
 - [statistics](#statistics)
 - [info_nbd](#info_nbd) 日本バイオデータ
 - [virological](#virological)
-
 
 ----------
 ## twitter
@@ -25,8 +25,10 @@ Eddie Holmes (@edwardcholmes) / Virus spotter
 james hadfield (@hamesjadfield) / Phylogeneticist. Work for @trvrb & @nextstrain
 - https://twitter.com/trvrb
 Trevor Bedford (@trvrb) / Scientist @fredhutch, studying viruses, evolution and immunity.
-- https://twitter.com/nishiurah
+- https://twitter.com/firefoxx66
+Dr Emma Hodcroft (@firefoxx66) / Co-developer of @nextstrain ! Using programming & phylogenetics, I study & track viruses. I like airplanes & cats
 - 
+- https://twitter.com/nishiurah
 Hiroshi Nishiura (@nishiurah) / Theoretical epidemiologist.
 - https://twitter.com/imamura_kansen
 今村顕史 (@imamura_kansen) / 感染症は、正しく知って、正しく対応することが大切です。流行感染症の最新情報などを、やさしく、わかりやすく、つぶやきます。医師/感染症/HIV感染症【過去のつぶやき】→ http://twilog.org/imamura_kansen
@@ -93,12 +95,10 @@ Novel Coronavirus (2019-nCoV) Resources | ASM.org
 http://minato.sip21c.org/2019-nCoV-im3r.html
 2019-nCoVについてのメモとリンク
 
-
 https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00093.html
 新型コロナウイルス感染症対策専門家会議の見解等（新型コロナウイルス感染症）｜厚生労働省
 新型コロナウイルス感染症対策の状況分析・提言（3月19日）
 https://www.mhlw.go.jp/content/10900000/000610566.pdf
-
 
 
 ----------
@@ -235,6 +235,7 @@ PythonでCOVID-19の感染者数・死者数の推移をグラフにする https
 
 
 ----------
+## tree
 
 https://nextstrain.org/help/general/how-to-read-a-tree
 How to interpret the phylogenetic trees
@@ -243,6 +244,17 @@ https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
 Revision Date:	2018-07-30
 
+https://www.youtube.com/watch?v=Dd1RSMETXfI
+nanoTalk: Seeing the Epidemic Through the Trees – Why is sequencing important for COVID-19? - YouTube
+
+https://twitter.com/DrKatHolt/status/1244942488634363906
+If you want to learn more about how to interpret these phylogenies, read this https://nextstrain.org/help/general/about-nextstrain or watch this vid from 
+@firefoxx66
+7:59 PM · Mar 31, 2020
+
+https://twitter.com/firefoxx66/status/1243610978710929414
+Dr Emma Hodcroft on Twitter: "Stuck at home on a Friday night? (I hope you are!) If you're looking for something to curl up with and watch, why not learn about #COVID19 #hCoV19? First, why is sequencing important for fighting #SARSCoV2? Includes a demonstration of @nextstrain! https://t.co/2eFy0eSi6w 1/2 https://t.co/ULSskoFlRA" / Twitter
+3:48 AM · Mar 28, 2020
 
 ----------
 
@@ -363,6 +375,14 @@ http://crisp-bio.blog.jp/archives/22091842.html
 ## updates
 
 ## 2020-03
+
+https://twitter.com/kakenman/status/1244960865759055878
+清水信哉@Elephantech on Twitter: "めちゃくちゃ勉強になる。あと異常に分かりやすくて情報プレゼンテーション能力の高さも感じる、すごい。 新型コロナウイルスに関連した感染症対策に関する厚生労働省対策推進本部クラスター対策班「COVID-19への対策の概念」 https://t.co/JBpjPjoAOr" / Twitter
+https://www.jsph.jp/covid/files/gainen.pdf
+COVID-19への対策の概念
+新型コロナウイルスに関連した感染症対策に関する厚生労働省対策推進本部クラスター対策班
+東北大学大学院医学系研究科・押谷仁
+（2020年3月29日暫定版）
 
 https://twitter.com/yucky1313/status/1242641221689827328
 新型コロナで日本がやってる事
