@@ -185,6 +185,9 @@ https://twitter.com/morqon/status/1238166796080988165
 
 ## map
 
+https://www.stopcovid19.jp/
+COVID-19 Japan - 新型コロナウイルス対策ダッシュボード
+
 https://coromap.web.app/
 coromap - 新型コロナウイルスの状況マップ
 
@@ -277,6 +280,13 @@ Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
 avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
 Showing 52 of 52 genomes.
 
+
+https://twitter.com/nextstrain/status/1244743250595827712
+Nextstrain on Twitter: "The video version of this week's #COVID19 #SARSCov2 situation report is now live at https://t.co/I6KEj2j8xY. Give @OliviaPhamNow a big thanks for creating these videos." / Twitter
+6:48 AM · Mar 31, 2020
+https://www.youtube.com/watch?v=Rb6gujhWy9k
+Nextstrain Situation Report 2020-03-27 - YouTube
+
 https://twitter.com/nextstrain/status/1238418274041372673
 Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Shanghai MOE/NHC/CAMS, & 
 @GISAID
@@ -297,10 +307,24 @@ https://twitter.com/level3defless/status/1242590691462492160
 Koichi Higashi on Twitter: "SARS-CoV-2の進化生物学。系統樹、現状観測されてる進化のパターン、創始者効果とか。すごくわかりやすいし英語も聞き取りやすい https://t.co/mUhoO17pig" / Twitter
 8:14 AM · Mar 25, 2020
 
+https://twitter.com/level3defless/status/1242590691462492160
+SARS-CoV-2の進化生物学。系統樹、現状観測されてる進化のパターン、創始者効果とか。すごくわかりやすいし英語も聞き取りやすい
+8:14 AM · Mar 25, 2020
 https://twitter.com/vscooper/status/1242562671108599808
 Vaughn Cooper on Twitter: "Where did #COVID19 come from? Where's it going? This video discusses: source of SARS-CoV-2, relatedness to other CoV, how it's currently evolving but likely not affecting function, and value for epidemiology. https://t.co/rJe8QhX5un" / Twitter
 6:23 AM · Mar 25, 2020
+https://www.youtube.com/watch?v=MHRGPzoFyEM
+Evolution of SARS-CoV-2 - YouTube
 
+Vaughn Cooper
+
+Where did COVID19 come from? Where's it going? This brief educational video addresses the following:
+1) What was the likely source of the novel coronavirus, SARS-CoV-2?
+2) How is related to other coronaviruses?
+3) How SARS-CoV-2 is currently evolving -- by accumulating small numbers of random mutations, viruses in different regions are slightly different
+4) These mutations do not appear to alter virus function or treatment, but can be beneficial for tracking viruses and improving epidemiological control.
+
+Slides freely available here: https://figshare.com/articles/Evolution_of_SARS-CoV-2/12026913
 
 https://twitter.com/Laurie_Garrett/status/1242517753002700802
 Laurie Garrett on Twitter: "Latest #CoronaVirus19 - 1,258 full genomes Notable changes: •S clade 333 (+71) •G clade 406 (+76) •V clade 97 (+9) •Other clades 422 (+82) Includes 70 from Diamond Princess Cruise ship close to early Wuhan sequences. @GISAID https://t.co/RrAINkJpVI" / Twitter
@@ -373,6 +397,14 @@ http://crisp-bio.blog.jp/archives/22091842.html
 ----------
 
 ## updates
+
+## 2020-04
+
+https://twitter.com/DNA_PAPA/status/1245671281158045696
+この記事のように新型コロナは表面の上で生きているって書いてるが、活性があるって言うだけで、生きていません。細菌とウイルスを混同しては駄目です。細菌は自分で増殖できますが、ウイルスは、宿主がいないと増殖できません。人間に感染できなければ、いずれ消滅します。
+8:15 PM · Apr 2, 2020
+https://wired.jp/2020/04/02/how-long-does-the-coronavirus-last-on-surfaces/
+新型コロナウイルスは、物体の表面で数日間は生き続ける？ 研究結果から見えてきたこと｜WIRED.jp
 
 ## 2020-03
 
