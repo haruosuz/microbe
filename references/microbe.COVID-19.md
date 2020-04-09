@@ -101,6 +101,10 @@ https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00093.html
 https://www.mhlw.go.jp/content/10900000/000610566.pdf
 
 
+http://sesj.kenkyuukai.jp/special/?id=33015
+日本進化学会　/　m3.com学会研究会
+新型コロナウイルス（COVID-19）に関する情報
+
 ----------
 
 ## books
@@ -255,57 +259,16 @@ If you want to learn more about how to interpret these phylogenies, read this ht
 @firefoxx66
 7:59 PM · Mar 31, 2020
 
+https://twitter.com/firefoxx66/status/1244932312900534275
 https://twitter.com/firefoxx66/status/1243610978710929414
 Dr Emma Hodcroft on Twitter: "Stuck at home on a Friday night? (I hope you are!) If you're looking for something to curl up with and watch, why not learn about #COVID19 #hCoV19? First, why is sequencing important for fighting #SARSCoV2? Includes a demonstration of @nextstrain! https://t.co/2eFy0eSi6w 1/2 https://t.co/ULSskoFlRA" / Twitter
 3:48 AM · Mar 28, 2020
 
-----------
-
-## nextstrain
-
-https://twitter.com/nextstrain
-
-https://twitter.com/search?q=nextstrain%20lang%3Aja&f=live
-
-https://nextstrain.org/
-
-https://nextstrain.org/ncov
-
-https://nextstrain.org/narratives/trees-background
-
-https://nextstrain.org/narratives/trees-background/ja
-
-https://nextstrain.org/groups/blab/sars-like-cov
-Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
-avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
-Showing 52 of 52 genomes.
 
 
-https://twitter.com/nextstrain/status/1244743250595827712
-Nextstrain on Twitter: "The video version of this week's #COVID19 #SARSCov2 situation report is now live at https://t.co/I6KEj2j8xY. Give @OliviaPhamNow a big thanks for creating these videos." / Twitter
-6:48 AM · Mar 31, 2020
-https://www.youtube.com/watch?v=Rb6gujhWy9k
-Nextstrain Situation Report 2020-03-27 - YouTube
-
-https://twitter.com/nextstrain/status/1238418274041372673
-Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Shanghai MOE/NHC/CAMS, & 
-@GISAID
-, we've updated http://nextstrain.org/ncov with 2 new #COVID19 #SARSCoV2 #hCoV19 sequences from Japan & Shanghai.
-7:54 PM · Mar 13, 2020
-
-![](https://pbs.twimg.com/media/ES--jykWkAANZCF?format=jpg&name=small)
-
-Situation Report 
-https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13
-新型コロナウイルス拡散の遺伝的解析と状況報告 2020-03-13.
-
-https://twitter.com/nextstrain/status/1238875482881318912
-Nextstrain on Twitter: "コロナウィルス及び #COVID19 についての状況報告（日本語）更新されました！https://t.co/R421TpCp1i 翻訳担当の @tommy_nezy さん、 @fengjun_zhang さんとTakeshi Satoさん、お疲れ様です。 The March 13 situation report is now available in Japanese! #HCoV19 #SARSCoV2 https://t.co/qFQJhaM0FG" / Twitter
-2:11 AM · Mar 15, 2020
-
-https://twitter.com/level3defless/status/1242590691462492160
-Koichi Higashi on Twitter: "SARS-CoV-2の進化生物学。系統樹、現状観測されてる進化のパターン、創始者効果とか。すごくわかりやすいし英語も聞き取りやすい https://t.co/mUhoO17pig" / Twitter
-8:14 AM · Mar 25, 2020
+https://twitter.com/vscooper/status/1245488863038124032
+Vaughn Cooper on Twitter: "Is the #COVID19 virus evolving? What do the mutations mean? Should I worry (no!)? What can we lean from this? My next 11min video lecture here: The ongoing evolution of #SARSCoV2 https://t.co/v5CvGEvP6z" / Twitter
+8:10 AM · Apr 2, 2020
 
 https://twitter.com/level3defless/status/1242590691462492160
 SARS-CoV-2の進化生物学。系統樹、現状観測されてる進化のパターン、創始者効果とか。すごくわかりやすいし英語も聞き取りやすい
@@ -325,6 +288,75 @@ Where did COVID19 come from? Where's it going? This brief educational video addr
 4) These mutations do not appear to alter virus function or treatment, but can be beneficial for tracking viruses and improving epidemiological control.
 
 Slides freely available here: https://figshare.com/articles/Evolution_of_SARS-CoV-2/12026913
+
+
+----------
+
+## nextstrain
+
+https://twitter.com/nextstrain
+
+https://twitter.com/search?q=nextstrain%20lang%3Aja&f=live
+
+https://nextstrain.org/
+
+https://nextstrain.org/ncov
+
+https://nextstrain.org/narratives/trees-background
+How to interpret phylogenetic trees
+
+https://nextstrain.org/narratives/trees-background/ja
+系統発生樹の解読について
+
+https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03
+新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-03.
+
+https://nextstrain.org/groups/blab/sars-like-cov
+Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
+avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
+Showing 52 of 52 genomes.
+
+
+https://twitter.com/gigazine/status/1244942572197277696
+GIGAZINE(ギガジン) on Twitter: "新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 https://t.co/dKooleeMXP" / Twitter
+8:00 PM · Mar 31, 2020
+https://gigazine.net/news/20200331-nextstrain-covid19-report/
+新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 - GIGAZINE
+
+https://twitter.com/nextstrain/status/1246952401111625728
+Nextstrain on Twitter: "Want to know more about what we've learned from #SARSCoV2 #hCoV19 sequences? Watch the latest video situation report: https://t.co/LABZVyZxhw Thanks to @OliviaPhamNow &amp; @pleunipennings for making these videos." / Twitter
+9:06 AM · Apr 6, 2020
+
+https://twitter.com/nextstrain/status/1244743250595827712
+Nextstrain on Twitter: "The video version of this week's #COVID19 #SARSCov2 situation report is now live at https://t.co/I6KEj2j8xY. Give @OliviaPhamNow a big thanks for creating these videos." / Twitter
+6:48 AM · Mar 31, 2020
+https://www.youtube.com/watch?v=Rb6gujhWy9k
+Nextstrain Situation Report 2020-03-27 - YouTube
+
+https://twitter.com/nextstrain/status/1244289986607738880
+Nextstrain on Twitter: "最新の#COVID19 #SARSCoV2 #HCoV19 状況レポートが日本語で利用可能になりました。 今週は、地域ごとにデータを分類しました。 翻訳してくれTakeshiSato、@tommy_nezy、@fengjun_zhang に感謝します。 https://t.co/E0gXp9vVrO The latest situation report is now available in Japanese. https://t.co/fWppSk4PE9" / Twitter
+12:47 AM · Mar 30, 2020
+
+https://twitter.com/nextstrain/status/1238875482881318912
+Nextstrain on Twitter: "コロナウィルス及び #COVID19 についての状況報告（日本語）更新されました！https://t.co/R421TpCp1i 翻訳担当の @tommy_nezy さん、 @fengjun_zhang さんとTakeshi Satoさん、お疲れ様です。 The March 13 situation report is now available in Japanese! #HCoV19 #SARSCoV2 https://t.co/qFQJhaM0FG" / Twitter
+2:11 AM · Mar 15, 2020
+
+
+https://twitter.com/nextstrain/status/1238418274041372673
+Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Shanghai MOE/NHC/CAMS, & 
+@GISAID
+, we've updated http://nextstrain.org/ncov with 2 new #COVID19 #SARSCoV2 #hCoV19 sequences from Japan & Shanghai.
+7:54 PM · Mar 13, 2020
+
+![](https://pbs.twimg.com/media/ES--jykWkAANZCF?format=jpg&name=small)
+
+Situation Report 
+https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13
+新型コロナウイルス拡散の遺伝的解析と状況報告 2020-03-13.
+
+
+
+
 
 https://twitter.com/Laurie_Garrett/status/1242517753002700802
 Laurie Garrett on Twitter: "Latest #CoronaVirus19 - 1,258 full genomes Notable changes: •S clade 333 (+71) •G clade 406 (+76) •V clade 97 (+9) •Other clades 422 (+82) Includes 70 from Diamond Princess Cruise ship close to early Wuhan sequences. @GISAID https://t.co/RrAINkJpVI" / Twitter
