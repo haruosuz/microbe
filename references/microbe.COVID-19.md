@@ -17,7 +17,6 @@
 
 ----------
 
-
 https://twitter.com/copypasteusa/status/1245668507557097473
 Haruo Suzuki on Twitter: "ニューヨークの地下鉄で新型コロナウイルス（SARS-CoV-2）は今のところ見つかっていない。10％はヒトRNA、1～2％はウイルスRNA（インフルエンザウイルスを含む）、残りの88％は由来不明。 https://t.co/V2rziTjs9N" / Twitter
 8:04 PM · Apr 2, 2020
@@ -26,6 +25,49 @@ https://twitter.com/mason_lab/status/1245394591819477003
 Christopher Mason on Twitter: ""NYC Scientists Swab the Subway in Search of SARS-CoV-2." Is it there? So far, nope! Environmental and ongoing clinical #COVID19 efforts discussed here: https://t.co/D8gYGQaU7I thx @GENbio @NEBiolabs @illumina @TwistBioscience @nanopore @nygenome @metasub @BenKallos @ZymoResearch" / Twitter
 1:56 AM · Apr 2, 2020
 
+----------
+## 2020-04-07
+
+https://www.pnas.org/content/early/2020/04/07/2004999117
+Phylogenetic network analysis of SARS-CoV-2 genomes | PNAS
+Contributed by Colin Renfrew, March 30, 2020 (sent for review March 17, 2020; reviewed by Toomas Kivisild and Carol Stocking)
+https://www.pnas.org/content/suppl/2020/04/08/2004999117.DCSupplemental
+
+![](https://www.pnas.org/content/pnas/early/2020/04/07/2004999117/F1.small.gif)
+
+https://note.com/kilalanorthwave/n/nff657afb119a
+SARS-CoV-2ゲノムの系統発生ネットワーク分析｜キララ｜note
+2020/04/10 14:50
+
+network pnas
+contributed pnas
+
+https://twitter.com/CT_Bergstrom/status/1248599301070057472
+Carl T. Bergstrom on Twitter: "So about that new PNAS paper.... https://t.co/zwg6Zt1Z50" / Twitter
+10:10 PM · Apr 10, 2020
+
+https://twitter.com/arambaut/status/1248387395201847296
+Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "There are many things that are terribly wrong about this paper. Both in its content, findings and route to publication. https://t.co/7CFctlMEAd" / Twitter
+8:08 AM · Apr 10, 2020
+
+https://twitter.com/LucyvanDorp/status/1248368782248214529
+Lucy van Dorp on Twitter: "Today’s PNAS paper https://t.co/iA9HcE1nAE, despite being widely denounced, has sparked many a headline including that there are “3 separate types of #coronavirus”, inventively called A, B, C. Just like previous claims of L &amp; S lineages, or of 8 lineages, this one isn’t better /1" / Twitter
+6:54 AM · Apr 10, 2020
+
+https://twitter.com/HemiCv/status/1248804757524938753
+That's why I don't trust in "contributed" PNAS papers
+11:47 AM · Apr 11, 2020
+
+https://twitter.com/BallouxFrancois/status/1248332593512296455
+Prof Francois Balloux on Twitter: "This paper is extraordinary, and not for its contribution to human knowledge. It epitomises many things that are deeply wrong with academia. It actually makes me feel a bit dirty just for being an member of the scientific establishment. (1/6) https://t.co/wok6ONTeau" / Twitter
+4:30 AM · Apr 10, 2020
+
+https://twitter.com/n0rr/status/1248477292533174276
+Contributed by 著者なPNAS並みのゴミ論文
+
+http://pooneil.sakura.ne.jp/archives/permalink/000478.php
+pooneilの脳科学論文コメント: PNAS
+Track III: タイトルの下に"Contributed by" と書かれているやつです。アカデミーのメンバーが自分自身の論文を寄稿するもの。以前言及したFrancis Crickのサーチライト仮説はこの範疇ですな。
 
 ----------
 ## papers
