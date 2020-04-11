@@ -39,6 +39,10 @@ https://note.com/kilalanorthwave/n/nff657afb119a
 SARS-CoV-2ゲノムの系統発生ネットワーク分析｜キララ｜note
 2020/04/10 14:50
 
+2020年4月10日 11時16分
+https://www.asahi.com/articles/ASN4B3HVLN49UBQU007.html
+新型コロナ、3種類に分類可能　東アジアや欧米など違い [新型コロナウイルス]：朝日新聞デジタル
+
 network pnas
 contributed pnas
 
@@ -555,6 +559,8 @@ http://crisp-bio.blog.jp/archives/22091842.html
 https://twitter.com/search?q=モデリングから考える長期的なCOVID-19戦略
 
 
+https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
+新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
 
 ## 2020-04
 
