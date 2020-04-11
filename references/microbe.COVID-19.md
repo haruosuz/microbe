@@ -69,9 +69,31 @@ Prof Francois Balloux on Twitter: "This paper is extraordinary, and not for its 
 https://twitter.com/n0rr/status/1248477292533174276
 Contributed by 著者なPNAS並みのゴミ論文
 
+
+PNAS
+https://www.pnas.org/page/authors/submission
+Contributed Submission
+
 http://pooneil.sakura.ne.jp/archives/permalink/000478.php
 pooneilの脳科学論文コメント: PNAS
 Track III: タイトルの下に"Contributed by" と書かれているやつです。アカデミーのメンバーが自分自身の論文を寄稿するもの。以前言及したFrancis Crickのサーチライト仮説はこの範疇ですな。
+
+2016-05-05
+http://fuyomilk.hatenablog.com/entry/2016/05/05/114944
+PNASという雑誌 - ロンドンはイギリスにある
+PNASでは、レビューのプロセスに応じて、大きく分けて２種類の論文がある。１つはDirect submissionと呼ばれるもので、通常の論文レビューと似ていて、編集部にそのまま論文を提出してエディターがつく、というものである。２つ目はContributed submissionというもので、NAS会員が自分でレビューワーを選んで自分のmanuscriptをレビューしてもらうというものだ。direct submissionとcontributed submissionは、論文には明記されているのでどちらだったかはわかるのだが、このcontributed submissionというものになると、論文の質が微妙なものが多い…ように思う。
+
+2016年1月19日
+https://current.ndl.go.jp/node/30483
+米国科学アカデミー紀要（PNAS）における投稿種別と被引用数の関係（文献紹介）
+PNAS誌には通常の査読プロセスのほかに、米国科学アカデミーの会員用の投稿枠（”Contributed”）が設けられています。この会員用投稿枠での投稿を選択した場合、投稿者は自ら査読者を選び、その査読コメントを付して論文を投稿することができます。会員用投稿枠を利用した論文は通常の査読を経た論文に比べて平均的に被引用数が少ないとする批判がある一方で、突出して被引用数の多い論文も会員用投稿枠には含まれていることがわかっていましたが、従来の研究では分析対象期間が限られていました。
+
+http://blog.livedoor.jp/braindrain23/archives/50956299.html
+PNAS論文回想
+2010年11月27日 00:01
+ご存知の通り、PNASに投稿するにはいくつかの方法があって一部の人（とうか結構の人）がPNASが好きではない理由だ。一つはガチンコsubmit。論文の筆者の下にEdited by ほにゃららと書いてあって、1pの右下にDirect Submissionと書いてある。もう一つはCommunicationという方法。これはPNAS会員が年に4報まで自分の論文を乗せる事ができる方法。一応査読しているという事になっているが、あってないようなものらしい。のでPNAS会員ならば年に4回までPNASに乗せる事ができる。この論文は筆者の下に"Contributed by ほにゃらら"と書いてある。つい最近まで自分の論文でなくてもCommunicateできた。のでPNAS会員に知り合いがいる人は比較的簡単にPNASに乗せる事が出来た。これがPNASがimpact factorを下げてきた原因の一つだと思う。なんか裏口入学っぽいもんね。だから今年でその制度は無しになったのだと思う。
+
+
 
 ----------
 ## papers
