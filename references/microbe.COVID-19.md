@@ -371,13 +371,11 @@ How to interpret phylogenetic trees
 https://nextstrain.org/narratives/trees-background/ja
 系統発生樹の解読について
 
-https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03
-新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-03.
-
 https://nextstrain.org/groups/blab/sars-like-cov
 Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
 avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
 Showing 52 of 52 genomes.
+
 
 
 
@@ -388,22 +386,29 @@ https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10
 Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
 
 
+https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03
+新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-03.
+
+
+
+https://twitter.com/nextstrain/status/1246952401111625728
+Nextstrain on Twitter: "Want to know more about what we've learned from #SARSCoV2 #hCoV19 sequences? Watch the latest video situation report: https://t.co/LABZVyZxhw Thanks to @OliviaPhamNow &amp; @pleunipennings for making these videos." / Twitter
+9:06 AM · Apr 6, 2020
 
 https://twitter.com/gigazine/status/1244942572197277696
 GIGAZINE(ギガジン) on Twitter: "新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 https://t.co/dKooleeMXP" / Twitter
 8:00 PM · Mar 31, 2020
 https://gigazine.net/news/20200331-nextstrain-covid19-report/
 新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 - GIGAZINE
+記事作成時点での最新版となるのは2020年3月27日に公開されたレポートの日本語版ですが、
 
-https://twitter.com/nextstrain/status/1246952401111625728
-Nextstrain on Twitter: "Want to know more about what we've learned from #SARSCoV2 #hCoV19 sequences? Watch the latest video situation report: https://t.co/LABZVyZxhw Thanks to @OliviaPhamNow &amp; @pleunipennings for making these videos." / Twitter
-9:06 AM · Apr 6, 2020
 
 https://twitter.com/nextstrain/status/1244743250595827712
 Nextstrain on Twitter: "The video version of this week's #COVID19 #SARSCov2 situation report is now live at https://t.co/I6KEj2j8xY. Give @OliviaPhamNow a big thanks for creating these videos." / Twitter
 6:48 AM · Mar 31, 2020
 https://www.youtube.com/watch?v=Rb6gujhWy9k
 Nextstrain Situation Report 2020-03-27 - YouTube
+
 
 https://twitter.com/nextstrain/status/1244289986607738880
 Nextstrain on Twitter: "最新の#COVID19 #SARSCoV2 #HCoV19 状況レポートが日本語で利用可能になりました。 今週は、地域ごとにデータを分類しました。 翻訳してくれTakeshiSato、@tommy_nezy、@fengjun_zhang に感謝します。 https://t.co/E0gXp9vVrO The latest situation report is now available in Japanese. https://t.co/fWppSk4PE9" / Twitter
