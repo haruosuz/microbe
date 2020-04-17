@@ -350,10 +350,18 @@ Development of SmartAmp system for SARS-CoV-2 using viruses isolated from patien
 https://medit.tech/smartamp-for-newcorona-virus/
 理化学研究所と神奈川県衛生研、等温核酸増幅技術を応用した新型コロナウイルス検査法を開発 | Med IT Tech
 
-
 March 11, 2020
 https://r-posts.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/
 Covid-19 interactive map (using R with shiny, leaflet and dplyr) – R-posts.com
+
+https://recombinomics.co/topic/4351-wuhan-coronavirus-2019-ncov-sequences/
+Wuhan Coronavirus 2019-nCoV Sequences
+By niman, January 11 in Sequences (COVID)
+
+
+https://twitter.com/edwardcholmes/status/1215802670176276482
+Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus associated with the Wuhan outbreak is now available at https://t.co/EeqQXCs3n3 here: https://t.co/jdCM9USkSK" / Twitter
+10:08 AM · Jan 11, 2020
 
 ### OurWorldInData
 
@@ -964,20 +972,9 @@ Rapid outbreak response requires trust | Nature Microbiology
 
 
 
-
-
-http://recombinomics.co/topic/4351-wuhan-coronavirus-sequences/
-Wuhan Coronavirus 2019-nCoV Sequences
-By niman, January 11 in Sequences (COVID)
-
-
 https://twitter.com/TheMenacheryLab/status/1215826855086952448
 The Menachery Lab on Twitter: "Some quick analysis of the new Wuhan CoV sequence: 1) Looks like a group 2B CoV, same family as SARS with about 73% conservation at genome 2)Rough tree puts it between HKU3/273-CoV and SHC014-CoV, a bat virus capable of using human ACE2." / Twitter
 11:44 AM · Jan 11, 2020
-
-https://twitter.com/edwardcholmes/status/1215802670176276482
-Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus associated with the Wuhan outbreak is now available at https://t.co/EeqQXCs3n3 here: https://t.co/jdCM9USkSK" / Twitter
-10:08 AM · Jan 11, 2020
 
 
 2020/01/30 15:16
