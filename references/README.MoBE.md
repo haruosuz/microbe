@@ -59,6 +59,23 @@ Whole genome sequencing revealed new molecular characteristics in multidrug resi
 
 ----------
 ## people
+
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H06216/
+建築環境マイクロバイオームの実態把握による集団感染機構のモニタリング
+研究分野	建築学およびその関連分野
+研究代表者
+加藤 信介  東京都市大学, 工学部, 教授 (00142240)
+研究分担者	
+柳 宇  工学院大学, 建築学部(公私立大学の部局等), 教授 (50370945)
+キーワード	建築環境工学 / 公衆衛生学 / 感染防止 / マイクロバイオーム / 全遺伝子解析 / 建築環境・設備 / 公衆衛生 / 集団感染 / モニタリング
+https://kaken.nii.ac.jp/ja/report/KAKENHI-PROJECT-17H06216/17H062162018jisseki/
+研究実績の概要	
+室内環境中のマイクロバイオームの実態調査は、北海道から九州までの日本の主要な都市をカバーする。
+本年度は、その二年目として、保育施設、小学校、病院、バス車内などの室内における室内空気中及び室内表面のマイクロバイオームを採取し、その組成を遺伝子解析した。その結果、腸内細菌や皮膚常在菌を含むグループであるフィルミクテス門Firmicutesが多く検出され、大腸菌や緑膿菌を含むグループや、腸内や土壌などに広く存在するバクテロイデス門Bacterioidetesも検出された。日和見感染症や呼吸器系疾患の原因菌も検出され、室内環境における疾患リスクが明らかとなった。
+
+今後の研究の推進方策	
+本研究は、海外からの人から人への感染症侵入のリスクの高まる2020年の東京オリンピック開催までに一応の結果を出すことを念頭にまず3年間の研究を予定しており、現在までに研究は順調に進捗している。室内環境中のマイクロバイオームの実態調査は、北海道から九州までの日本の主要な都市をカバーし、建物用途としては、感染リスクの高い不特定多数の人々が集まる病院待合室、免疫が低く感染リスクの高い老健施設、小学校、一般のオフィス環境を想定した大学研究室などを対象としているが、この方針は変わりない。今後は、検出されたマイクロバイオームの地域特性や、周囲環境条件との相関を分析することを目指す。
+
 ### Yanagi
 
 https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
@@ -66,7 +83,10 @@ https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
 
 https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
 環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
+研究分野	建築環境・設備
 研究分担者	柳 宇  工学院大学, 建築学部(公私立大学の部局等), 教授 (50370945)
+キーワード	建築環境・設備 / 空気環境 / 建築公衆衛生 / マイクロバイオーム / 集団感染 / 遺伝子解析 / 行動観察 / エージェントシミュレーション / 遺伝子 / 社会医学 / 人間生活環境 / 流体工学
+研究成果の概要	
 本研究は、集団内での病原物質のミクロな伝搬機構を明らかにし、建築公衆衛生の観点から、その伝搬を制御し感染防止に役立てることを目的としている。そのため、室内環境並びに人由来の、①微生物叢（Micro-Biome、マイクロバイオーム）の全遺伝子を直接解析し、病原物質の不活化の過程も考慮してその伝搬を解析し、②人の行動観察により、人の接触による病原物質の伝搬可能性を解析し、③人の行動シミュレーションにより具体的に病原物質の伝搬を予測する手法を開発する。
 
 https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
@@ -903,6 +923,12 @@ https://gigazine.net/news/20170201-nasa-twins-study/
 白血球内に含まれるDNAとRNAについて調べたクリス・メーソン氏によると、2人のゲノム配列には正常変異による何百もの独自の変化があったとのこと。RNAでは、20万以上の異なる配列があったそうです。これは、スコット氏が宇宙に滞在したことで「宇宙遺伝子(space gene)」が活性化したものかもしれないとのこと。
 
 ![](https://i.gzn.jp/img/2017/02/01/nasa-twins-study/snap2260.png)
+
+https://www.ncbi.nlm.nih.gov/pubmed/27790191
+Front Microbiol. 2016 Oct 13;7:1573. eCollection 2016.
+Microorganisms in Confined Habitats: Microbial Monitoring and Control of Intensive Care Units, Operating Rooms, Cleanrooms and the International Space Station.
+Mora M1, Mahnert A2, Koskinen K3, Pausan MR1, Oberauner-Wappis L4, Krause R1, Perras AK5, Gorkiewicz G6, Berg G2, Moissl-Eichinger C3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5061736/
 
 https://www.ncbi.nlm.nih.gov/pubmed/27019789
 PeerJ. 2016 Mar 22;4:e1842. doi: 10.7717/peerj.1842. eCollection 2016.
