@@ -810,6 +810,15 @@ https://www.pref.miyagi.jp/uploaded/attachment/244677.pdf
 ７ PCR を用いた細菌の生・死菌判別方法の検討
 今回、EMA（ethidium bromide monoazide）及び PMA（propidium monoazide）を用いて[1] [2]、 PCR により試料中の生菌のみを検出する方法を検討したので、その結果について報告する。
 
+#### 2019-03-19
+
+https://www.ncbi.nlm.nih.gov/pubmed/30941112
+Front Microbiol. 2019 Mar 19;10:543. doi: 10.3389/fmicb.2019.00543. eCollection 2019.
+Biofilm Forming Antibiotic Resistant Gram-Positive Pathogens Isolated From Surfaces on the International Space Station.
+Sobisch LY1, Rogowski KM1, Fuchs J2, Schmieder W2, Vaishampayan A1, Oles P1, Novikova N3, Grohmann E1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6433718/
+
+
 #### 2019-01-08
 https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
 
@@ -831,7 +840,7 @@ Space microbes aren't so alien after all: Genetic evidence shows bacteria on the
 https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
 https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
 
-#### 
+#### 2018
 
 二次代謝産物
 https://www.ncbi.nlm.nih.gov/pubmed/30539259
@@ -876,6 +885,8 @@ Astronauts Identify Mystery Microbes in Space for the 1st Time
 of the three colonies grown and then sequenced on the space station, one ended up being Staphylococcus capitis and two were Staphylococcus hominis.
 "Staphylococcus hominis and Staphylococcus capitis are commonly associated with the human microbiome," 
 
+#### 2017
+
 https://www.nature.com/articles/s41598-017-18364-0
 Sci Rep. 2017 Dec 21;7(1):18022. doi: 10.1038/s41598-017-18364-0.
 Nanopore DNA Sequencing and Genome Assembly on the International Space Station.
@@ -906,6 +917,17 @@ MIT Tech Review: 宇宙飛行士（遺伝子組み換え）の極秘？研究
 ワイルコーネル医科大学のクリストファー・メイソン准教授（生理学・生物理学部）は、このアイデアを模索しているひとりだ。2011年にメイソン准教授は人間を地球から送り出す「500年計画」を発案した。
 メイソン准教授の研究所が参加している、米国航空宇宙局（NASA）の双子研究では、双子の片方が国際宇宙ステーションに送られ、1年間宇宙飛行士として過ごし、地球に残ったもう片方との生理学上の変化を追跡する。
 
+
+2017-06
+https://www.nasa.gov/sites/default/files/atoms/files/roscosmos_addendum.pdf
+International Space Station Research Results ... - NASA
+SPACE BENEFITS
+Data obtained on the influence
+of orbital flight conditions on the effectiveness of transferring chromosome and plasmid DNA
+using bacterial conjunction may be used to create process lines to produce recombinant
+proteins under microgravity conditions.
+
+
 https://twitter.com/wired_jp/status/832893488907898880
 WIRED.jp on Twitter: "宇宙と地球、わかれて暮らした双子の宇宙飛行士の遺伝子に起きたこと https://t.co/EWRtmWbkal #最新記事"
 5:04 AM - 18 Feb 2017
@@ -929,6 +951,8 @@ Front Microbiol. 2016 Oct 13;7:1573. eCollection 2016.
 Microorganisms in Confined Habitats: Microbial Monitoring and Control of Intensive Care Units, Operating Rooms, Cleanrooms and the International Space Station.
 Mora M1, Mahnert A2, Koskinen K3, Pausan MR1, Oberauner-Wappis L4, Krause R1, Perras AK5, Gorkiewicz G6, Berg G2, Moissl-Eichinger C3.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5061736/
+FIGURE 1
+Graphical display of the confined habitats addressed in this review. 
 
 https://www.ncbi.nlm.nih.gov/pubmed/27019789
 PeerJ. 2016 Mar 22;4:e1842. doi: 10.7717/peerj.1842. eCollection 2016.
