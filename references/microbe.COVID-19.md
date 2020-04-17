@@ -2,7 +2,6 @@
 **新型コロナウイルス感染症**
 
 - [references](#references)
-- [twitter](#twitter)
 - [books](#books)
 - [data](#data)
   - [ourworldindata](#ourworldindata)
@@ -11,13 +10,19 @@
 - [nextstrain](#nextstrain)
 - [updates](#updates)
 - [statistics](#statistics)
-- [DNA_PAPA](#DNA_PAPA) DNAパパ
-- [info_nbd](#info_nbd) 日本バイオデータ
-- [virological](#virological)
+- [twitter](#twitter)
+  - [trvrb](#trvrb) Trevor Bedford
+  - [arambaut](#arambaut) Andrew Rambaut
+  - [DNA_PAPA](#DNA_PAPA) DNAパパ
+  - [info_nbd](#info_nbd) 日本バイオデータ
+  - [sounaka](#sounaka) So Nakagawa
+  - [virological](#virological)
+- [rumour](#rumour) デマ 噂 誤報 陰謀論
 - [papers](#papers)
 - [2020-04-07](#2020-04-07) pnas
 
 ----------
+## metasub
 
 https://twitter.com/copypasteusa/status/1245668507557097473
 Haruo Suzuki on Twitter: "ニューヨークの地下鉄で新型コロナウイルス（SARS-CoV-2）は今のところ見つかっていない。10％はヒトRNA、1～2％はウイルスRNA（インフルエンザウイルスを含む）、残りの88％は由来不明。 https://t.co/V2rziTjs9N" / Twitter
@@ -26,6 +31,54 @@ Haruo Suzuki on Twitter: "ニューヨークの地下鉄で新型コロナウイ
 https://twitter.com/mason_lab/status/1245394591819477003
 Christopher Mason on Twitter: ""NYC Scientists Swab the Subway in Search of SARS-CoV-2." Is it there? So far, nope! Environmental and ongoing clinical #COVID19 efforts discussed here: https://t.co/D8gYGQaU7I thx @GENbio @NEBiolabs @illumina @TwistBioscience @nanopore @nygenome @metasub @BenKallos @ZymoResearch" / Twitter
 1:56 AM · Apr 2, 2020
+
+----------
+## rumour
+rumour
+misinformation 
+conspiracy theories 
+噂
+誤報 
+陰謀論 
+
+### 2020-02-19
+
+https://twitter.com/EARL_Med_Tw/status/1230746232223490048
+EARLの医学ツイート on Twitter: "新型コロナウイルスが人工ウイルスであるとする陰謀論を強く非難する．複数国の科学者達がゲノムを公開・分析して野生生物に由来したものであることが強く結論づけられている．陰謀論は世界的な協力を危うくする恐怖，デマ，偏見を作り出すだけである（Lancet 2020, Feb19） https://t.co/vo1yUCAw2Q" / Twitter
+3:49 PM · Feb 21, 2020
+
+Published:February 19, 2020
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
+Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
+Scientists from multiple countries have published and analysed genomes of the causative agent, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),1 and they overwhelmingly conclude that this coronavirus originated in wildlife,2,  3,  4,  5,  6,  7,  8,  9,  10 as have so many other emerging pathogens.11,  12 
+
+### 2020-03-17
+
+http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
+The Proximal Origin of SARS-CoV-2 - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
+This paper has now been published here: https://www.nature.com/articles/s41591-020-0820-9
+
+Published: 17 March 2020
+The proximal origin of SARS-CoV-2
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
+Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
+
+https://twitter.com/rikomrnk/status/1229782895901806597
+村中璃子 RIKO MURANAKA on Twitter: "新型コロナは遺伝子解析の結果、ラボで作られたものでは「ない」ことが分かってきました。論文がまもなく発表されます。 https://t.co/lAFp8BCAsj"
+12:01 AM · Feb 19, 2020
+
+https://twitter.com/AdamJKucharski/status/1229371111500062721
+"This analysis provides evidence that SARS-CoV-2 is not a laboratory construct nor a purposefully manipulated virus." Before you read any speculation about SARS-CoV-2 origins, read this post by some leading researchers in pathogen evolution/genomics
+8:44 PM · Feb 17, 2020
+
+https://twitter.com/arambaut/status/1229366869095800832
+Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "I have just posted a pre-print of a review written by @K_G_Andersen, @edwardcholmes, Ian Lipkin &amp; Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans. https://t.co/kEVHK2mPX1" / Twitter
+8:27 PM · Feb 17, 2020
+
+
+----------
+## papers
 
 ----------
 ## 2020-04-07
@@ -45,8 +98,9 @@ SARS-CoV-2ゲノムの系統発生ネットワーク分析｜キララ｜note
 https://www.asahi.com/articles/ASN4B3HVLN49UBQU007.html
 新型コロナ、3種類に分類可能　東アジアや欧米など違い [新型コロナウイルス]：朝日新聞デジタル
 
-network pnas
-contributed pnas
+https://twitter.com/KeikoUTorii/status/1249137193479811075
+Prof. Keiko Torii on Twitter: "当該PNAS論文に関しましては、SARS-Cov2のゲノム解析をしている研究者から批判が上がっています。英語が読めて分子遺伝学が多少わかる方は、このスレを読まれることをお勧めします。 https://t.co/DooDlsf2vB" / Twitter
+9:48 AM · Apr 12, 2020
 
 https://twitter.com/CT_Bergstrom/status/1248599301070057472
 Carl T. Bergstrom on Twitter: "So about that new PNAS paper.... https://t.co/zwg6Zt1Z50" / Twitter
@@ -67,10 +121,6 @@ That's why I don't trust in "contributed" PNAS papers
 https://twitter.com/BallouxFrancois/status/1248332593512296455
 Prof Francois Balloux on Twitter: "This paper is extraordinary, and not for its contribution to human knowledge. It epitomises many things that are deeply wrong with academia. It actually makes me feel a bit dirty just for being an member of the scientific establishment. (1/6) https://t.co/wok6ONTeau" / Twitter
 4:30 AM · Apr 10, 2020
-
-https://twitter.com/n0rr/status/1248477292533174276
-Contributed by 著者なPNAS並みのゴミ論文
-
 
 PNAS
 https://www.pnas.org/page/authors/submission
@@ -95,10 +145,55 @@ PNAS論文回想
 2010年11月27日 00:01
 ご存知の通り、PNASに投稿するにはいくつかの方法があって一部の人（とうか結構の人）がPNASが好きではない理由だ。一つはガチンコsubmit。論文の筆者の下にEdited by ほにゃららと書いてあって、1pの右下にDirect Submissionと書いてある。もう一つはCommunicationという方法。これはPNAS会員が年に4報まで自分の論文を乗せる事ができる方法。一応査読しているという事になっているが、あってないようなものらしい。のでPNAS会員ならば年に4回までPNASに乗せる事ができる。この論文は筆者の下に"Contributed by ほにゃらら"と書いてある。つい最近まで自分の論文でなくてもCommunicateできた。のでPNAS会員に知り合いがいる人は比較的簡単にPNASに乗せる事が出来た。これがPNASがimpact factorを下げてきた原因の一つだと思う。なんか裏口入学っぽいもんね。だから今年でその制度は無しになったのだと思う。
 
+----------
+## 2020-03-02
 
+Published: 02 March 2020
+https://www.nature.com/articles/s41564-020-0695-z
+The species Severe acute respiratory syndrome-related coronavirus : classifying 2019-nCoV and naming it SARS-CoV-2 | Nature Microbiology
+
+https://twitter.com/hshimodaira/status/1235496066834808841
+はかせ Mk-II on Twitter: "コロナウイルスの系統解析の論文がnature microbiologyに出てました．配列がSARSに近くて，SARSコロナウイルス２と呼ぶべきらしい．系統樹の枝毎に信頼度の指標としてShimodaira-Hasegawa (SH)検定が使われていて，提案手法がリアルで役立つのは嬉しい． https://t.co/GQLDDOkWHh https://t.co/qg8EPNsThw" / Twitter
+6:23 PM · Mar 5, 2020
+
+https://twitter.com/Tyu_Shi/status/1234787060566781954
+こっちが正式なリンクかな。 The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2
+7:25 PM · Mar 3, 2020
+https://twitter.com/Tyu_Shi/status/1234785938103926784
+Coronaviridae Study Group of the International Committee on Taxonomy of Virusesが、今回の件のコロナウイルスの名称をSARS-CoV-2にしたようだ。
+7:21 PM · Mar 3, 2020
 
 ----------
-## papers
+## bats
+
+2020/04/14
+https://nazology.net/archives/56612
+コウモリから6つの新しいコロナウイルスを発見。未来のパンデミックを防ぐ研究 | ナゾロジー
+コウモリから新しいコロナウイルスが6種類発見された
+世界中のコウモリのコロニー内には、3200以上ものコロナウイルスが存在するかもしれない
+異種間感染の分析は、将来のパンデミック防止に有効
+
+https://www.ncbi.nlm.nih.gov/pubmed/32271768
+PLoS One. 2020 Apr 9;15(4):e0230802. doi: 10.1371/journal.pone.0230802. eCollection 2020.
+Detection of novel coronaviruses in bats in Myanmar.
+Valitutto MT1, Aung O1, Tun KYN1, Vodzak ME1, Zimmerman D1, Yu JH1, Win YT2, Maw MT2, Thein WZ2, Win HH2, Dhanota J3, Ontiveros V3, Smith B3, Tremeau-Brevard A3, Goldstein T3, Johnson CK3, Murray S1, Mazet J3.
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230802
+Anthony et al. estimated that over 3,200 CoVs occur in bats, most of which remain undiscovered [28].
+Additionally, because only short fragments of the conserved RdRp gene (328 bp and 434 bp) were amplified in this study, protein sequence and phylogenetic analyses were not pursued, and identification of recombination events was not possible. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/28630747
+Virus Evol. 2017 Jun 12;3(1):vex012. doi: 10.1093/ve/vex012. eCollection 2017 Jan.
+Global patterns in coronavirus diversity.
+Anthony SJ1,2,3, Johnson CK4, Greig DJ4, Kramer S1,5, Che X1, Wells H1, Hicks AL1, Joly DO6,7, Wolfe ND6, Daszak P3, Karesh W3, Lipkin WI1,2, Morse SS2; PREDICT Consortium, Mazet JAK4, Goldstein T4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467638/
+3.3 Estimated number of CoVs in bats
+A large number of host (bat) species in our study were negative for CoV (n = 197), however none of these species were sampled extensively (Fig. 6). 
+We then extrapolated the average to all 1,200 bat species to estimate a total potential richness of 3,204 CoVs (range = 1,200–6,000 CoVs), most of which have yet to be described.
+4. Discussion
+In total, we estimated that there are at least 3,204 CoVs (based on the cluster definition used in this study) in bats. 
+
+----------
+## codon
 
 Posted April 04, 2020.
 https://www.biorxiv.org/content/10.1101/2020.04.01.019463v2
@@ -128,50 +223,6 @@ https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3
 Multivariate Analyses of Codon Usage of SARS-CoV-2 and other betacoronaviruses | bioRxiv
 https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3.full
 Amino acid composition sometime can also introduce confounding effects when one only focuses on studying the variations of synonymous codon usage. The use of global correspondence analysis (CA) and its derivatives within-group correspondence analysis (WCA) and between-group correspondence analysis (BCA) to analyze codon usages can overcome the above problem. In fact, WCA becomes “model of choice” for analyzing synonymous codon usage in recent years, as it is more robust than other traditional methods (e.g. CA with relative codon frequency or CA with RSCU values)7,8. This analytic approach, however, has not been used in studying viral sequences.
-
-----------
-## twitter
-
-- https://twitter.com/arambaut
-Andrew Rambaut / Professor of Molecular Evolution | University of Edinburgh | FRSE
-- https://twitter.com/edwardcholmes
-Eddie Holmes (@edwardcholmes) / Virus spotter
-- https://twitter.com/hamesjadfield
-james hadfield (@hamesjadfield) / Phylogeneticist. Work for @trvrb & @nextstrain
-- https://twitter.com/trvrb
-Trevor Bedford (@trvrb) / Scientist @fredhutch, studying viruses, evolution and immunity.
-- https://twitter.com/firefoxx66
-Dr Emma Hodcroft (@firefoxx66) / Co-developer of @nextstrain ! Using programming & phylogenetics, I study & track viruses. I like airplanes & cats
-- 
-- https://twitter.com/senmonka21
-新型コロナウイルス感染症に関する専門家有志の会 (@senmonka21) / 政府対策本部の専門家会議や厚労省クラスター対策班等の関係者で組織された専門家の有志の会です。全世代のみなさまに拡散してほしいメッセージをお知らせしています。一人でも多くの方に私たちのメッセージが伝わることを願っています。ともに困難を乗り越えましょう。クラスター対策の詳しい情報は
-@ClusterJapan
-へ。
-- https://twitter.com/ClusterJapan
-新型コロナクラスター対策専門家 (@ClusterJapan) / 新型コロナウイルスクラスター対策専門家のアカウントです。大切な人に会えない、会いづらい今の状況を変えるためにはたくさんの方の協力が必要です。そのために情報発信が必要と考えました。できるだけ分かりやすい情報発信ができるよう頑張ります。頂いたリプライへの対応は難しいですが、そのリプライの内容を参考に投稿を考えます。
-- https://twitter.com/nishiurah
-Hiroshi Nishiura (@nishiurah) / Theoretical epidemiologist.
-- https://twitter.com/imamura_kansen
-今村顕史 (@imamura_kansen) / 感染症は、正しく知って、正しく対応することが大切です。流行感染症の最新情報などを、やさしく、わかりやすく、つぶやきます。医師/感染症/HIV感染症【過去のつぶやき】→ http://twilog.org/imamura_kansen
-- https://twitter.com/DLYDDDDK
-空飛ぶペプチドタグ (@DLYDDDDK) / 日々是妄想。よろずウイルスのこと承ります。
-- https://twitter.com/hiro_icd
-高山義浩 (@hiro_icd) / 地域医療から国際保健、臨床から行政まで、まとまりなく活動。行政では、厚生労働省においてパンデミック医療体制の構築に取り組んだほか、２０２５年問題に対応する地域医療構想（ビジョン）の策定支援などに従事。臨床では感染症を一応専門とし、地域では在宅緩和ケアにも取り組んでいる。
-- https://twitter.com/georgebest1969
-岩田健太郎 (@georgebest1969) / 神戸大学医学研究科感染症内科教授です。
-- https://twitter.com/EARL_Med_Tw
-EARLの医学ツイート (@EARL_Med_Tw) / 論文をはじめとする医学・医療情報をツイートする手動botです。医療に関連しうる災害や放射能関連もツイートしています。医療デマアカウントリスト公開中。中の人はブロガー医です。Twitter医学会評議員資格満たしてるようです。専門は感染症、感染制御、急性呼吸器疾患、敗血症、PICSなど
-- https://twitter.com/NATROM
-名取宏（なとろむ） (@NATROM) / 
-内科勤務医。
-『医師が教える 最善の健康法』http://amazon.co.jp/dp/4862574718。
-『新装版「ニセ医学」に騙されないために』http://amazon.co.jp/dp/4862574025。
-- https://twitter.com/y_tambe
-Y Tambe (@y_tambe) / 本職は癌関連遺伝子研究者兼微生物学者。コーヒーの深淵を目指して潜り続ける毎日
-- https://twitter.com/HattoriM
-HattoriM (@HattoriM) / 上海の大学で老師をしてゐる。Working on the structual and chemical biology of metal homeostasis.
-- https://twitter.com/mdfujita
-藤田康介 (@mdfujita) / 上海東和クリニックで中国伝統医学医師。
 
 ----------
 
@@ -247,6 +298,10 @@ https://www.maruzen-publishing.co.jp/info/n19786.html
 ----------
 
 ## data
+
+新型コロナウイルス感染症（COVID-19）：オープンアクセスデータと計算資源
+https://datascience.nih.gov/covid-19-open-access-resources
+Open-Access Data and Computational Resources to Address COVID-19 | Data Science at NIH
 
 https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
 2019-nCoV Sequences (Wuhan coronavirus)
@@ -389,6 +444,14 @@ https://twitter.com/vscooper/status/1245488863038124032
 Vaughn Cooper on Twitter: "Is the #COVID19 virus evolving? What do the mutations mean? Should I worry (no!)? What can we lean from this? My next 11min video lecture here: The ongoing evolution of #SARSCoV2 https://t.co/v5CvGEvP6z" / Twitter
 8:10 AM · Apr 2, 2020
 
+https://twitter.com/copypasteusa/status/1250393271244742657
+Ongoing evolution of SARS-CoV-2
+Most mutations don't cause scary monsters
+https://www.youtube.com/watch?v=7gCY9tP981I
+5:00 / 11:20
+https://figshare.com/articles/Ongoing_evolution_of_SARS-CoV-2_/12061692
+8 / 16
+
 https://twitter.com/level3defless/status/1242590691462492160
 SARS-CoV-2の進化生物学。系統樹、現状観測されてる進化のパターン、創始者効果とか。すごくわかりやすいし英語も聞き取りやすい
 8:14 AM · Mar 25, 2020
@@ -397,14 +460,9 @@ Vaughn Cooper on Twitter: "Where did #COVID19 come from? Where's it going? This 
 6:23 AM · Mar 25, 2020
 https://www.youtube.com/watch?v=MHRGPzoFyEM
 Evolution of SARS-CoV-2 - YouTube
-
-Vaughn Cooper
-
-Where did COVID19 come from? Where's it going? This brief educational video addresses the following:
-1) What was the likely source of the novel coronavirus, SARS-CoV-2?
-2) How is related to other coronaviruses?
-3) How SARS-CoV-2 is currently evolving -- by accumulating small numbers of random mutations, viruses in different regions are slightly different
-4) These mutations do not appear to alter virus function or treatment, but can be beneficial for tracking viruses and improving epidemiological control.
+7:35 / 11:48
+https://ja.wikipedia.org/wiki/創始者効果
+founder effect
 
 Slides freely available here: https://figshare.com/articles/Evolution_of_SARS-CoV-2/12026913
 
@@ -417,6 +475,20 @@ https://twitter.com/nextstrain
 https://twitter.com/search?q=nextstrain%20lang%3Aja&f=live
 
 https://nextstrain.org/
+
+https://www.ncbi.nlm.nih.gov/pubmed/29790939
+Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
+Nextstrain: real-time tracking of pathogen evolution.
+Hadfield J1, Megill C1, Bell SM1,2, Huddleston J1,2, Potter B1, Callender C1, Sagulenko P3, Bedford T1, Neher RA3,4,5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247931/
+
+https://www.ncbi.nlm.nih.gov/pubmed/29340210
+Virus Evol. 2018 Jan 8;4(1):vex042. doi: 10.1093/ve/vex042. eCollection 2018 Jan.
+TreeTime: Maximum-likelihood phylodynamic analysis.
+Sagulenko P1, Puller V1,2,3, Neher RA1,2,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758920/
+It is already in use as an integral component of the real-time time outbreak tracking tools nextstrain and nextflu (Neher and Bedford, 2015). 
+TreeTime was developed to analyse large heterochronous viral sequence alignments and we have used TreeTime as the core component of the real-time phylogenetics pipelines nextstrain and nextflu (Neher and Bedford, 2015). 
 
 https://nextstrain.org/ncov
 
@@ -540,10 +612,8 @@ https://toyokeizai.net/articles/-/329766?page=6
 トレバー・ベッドフォードはオープンソースのウェブサイト（nextstrain.org）を開設し、各種の病原体の遺伝子配列についての分析と可視化を行えるようにした。
 その中には以前から知られているコロナウイルスのファミリー（コウモリ、ハクビシン、SARS）の遺伝子配列の系譜から、世界的なインフルエンザウイルスの共有データベースGISAID（Global Initiative on Sharing All Influenza Data）で共有されている新型コロナウイルス関連肺炎患者53人のウイルス遺伝子の全配列が含まれている。
 
-https://www.ncbi.nlm.nih.gov/pubmed/29790939
-Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
-Nextstrain: real-time tracking of pathogen evolution.
-Hadfield J1, Megill C1, Bell SM1,2, Huddleston J1,2, Potter B1, Callender C1, Sagulenko P3, Bedford T1, Neher RA3,4,5.
+
+
 
 https://bibgraph.hpcr.jp/abst/pubmed/31671157
 Nextstrainで視覚化されたアメリカ大陸での20年にわたるウエストナイルウイルスの拡散と進化 - Bibgraph（ビブグラフ）| PubMedを日本語で論文検索
@@ -594,6 +664,24 @@ http://crisp-bio.blog.jp/archives/22091842.html
 ----------
 
 ## updates
+
+
+
+https://twitter.com/takavet1/status/1250635156819341313
+Takayuki Miyazawa（宮沢 孝幸） on Twitter: "新型ウイルスからの防御法1 普通のウイルス研究者が普段「それはおかしいよ！」と思っていることをお話ししました。 これも準備無し垂れ流しLiveで、22分くらいと長いのですが、是非ご覧下さい。 https://t.co/v45Qh6oZHK" / Twitter
+1:00 PM · Apr 16, 2020
+
+
+4/15(水) 1:47配信
+https://headlines.yahoo.co.jp/hl?a=20200415-24150020-nksports-soci
+靴底もコロナウイルスを運ぶ？！　米ＣＤＣが発表（日刊スポーツ） - Yahoo!ニュース
+コロナウイルスの流行が始まった中国・武漢の病院で空気と表面のサンプルを解析。集中治療室で働く医療従事者の約半数が靴の裏にコロナウイルスを持っていた。さらに、感染した患者ではなく、医療従事者だけが移動した薬局の床からの陽性率は100％であった。
+https://footwearnews.com/2020/focus/news/shoes-can-carry-coronavirus-cdc-1202965214/ 
+Shoes Can Carry the Coronavirus, According to the CDC – Footwear News
+https://wwwnc.cdc.gov/eid/article/26/7/20-0885_article
+Early Release - Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - Volume 26, Number 7—July 2020 - Emerging Infectious Diseases journal - CDC
+
+
 
 
 2020-04-11
@@ -681,24 +769,6 @@ Masahiro Ono 小野　昌弘 on Twitter: "インペリアルの数理疫学の�
 5:55 AM · Mar 18, 2020
 
 
-https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
-新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析｜2020年5月号｜実験医学online：羊土社 - 羊土社
-
-https://twitter.com/sounaka/status/1247017759088603141
-So Nakagawa on Twitter: "こちら先日ご連絡しました新型コロナウイルスに関する総説について、羊土社様のご厚意により無料先行公開されることになりました（閲覧には無料の会員登録が必要です）。 https://t.co/iKAlA2btM0" / Twitter
-1:26 PM · Apr 6, 2020
-https://twitter.com/sounaka/status/1247082658179366913
-こちら少し書きました、総説を読んだ人で、もう少し背景とか知りたいというヒト向けです（いるのかな？）。
-https://sites.google.com/site/sonakagawa/etc/sars-cov-2_yodosha_etc
-「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」執筆のよもやま話 - So Nakagawa Website
-
-https://twitter.com/sounaka/status/1239789326830948353
-So Nakagawa on Twitter: "実験医学誌にコロナウイルスに関する総説を書きました、4/20発売の5月号に掲載予定です。そちらに掲載される予定のコロナウイルスの系統樹をshareします。SARS-CoV-2の類似配列のみならず、61種のコロナウイルスの配列を使って系統樹を作りました。#新型コロナウイルス https://t.co/ALRM9lmXTl" / Twitter
-2:43 PM · Mar 17, 2020
-ヒトに感染するウイルスはベータコロナウイルス属とアルファコロナウイルス属からのみ見つかっています。コウモリが宿主となっている例も多いですが、その他の生物も様々なコロナウイルスを持っています。一部配列はGISAID（https://gisaid.org）から入手しました。 #新型コロナウイルス
-この図のshareに関しては羊土社実験医学編集部から許可をもらっています（掲載時には多少変更があるかも）。また、outgroupに使っているコロナウイルスをはじめ、多くのコロナウイルスが中国を中心に世界様々な研究グループによって発見されています、GISAID含め、それら研究グループに感謝します。
-
-
 2020-03-14
 https://www.technologyreview.jp/s/192282/heres-how-long-the-coronavirus-can-live-in-the-air-and-on-packages/
 新型コロナはダンボールに1日残存、吊革も感染ルートか
@@ -776,46 +846,9 @@ Shinya Kamiyama
 本スライドの内容は作者の個人的な見解であり、所属する団体等の公式見解ではありません。
 
 
-----------
-## 2020-03-02
-
-Published: 02 March 2020
-https://www.nature.com/articles/s41564-020-0695-z
-The species Severe acute respiratory syndrome-related coronavirus : classifying 2019-nCoV and naming it SARS-CoV-2 | Nature Microbiology
-
-https://twitter.com/hshimodaira/status/1235496066834808841
-はかせ Mk-II on Twitter: "コロナウイルスの系統解析の論文がnature microbiologyに出てました．配列がSARSに近くて，SARSコロナウイルス２と呼ぶべきらしい．系統樹の枝毎に信頼度の指標としてShimodaira-Hasegawa (SH)検定が使われていて，提案手法がリアルで役立つのは嬉しい． https://t.co/GQLDDOkWHh https://t.co/qg8EPNsThw" / Twitter
-6:23 PM · Mar 5, 2020
-
-https://twitter.com/Tyu_Shi/status/1234787060566781954
-こっちが正式なリンクかな。 The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2
-7:25 PM · Mar 3, 2020
-https://twitter.com/Tyu_Shi/status/1234785938103926784
-Coronaviridae Study Group of the International Committee on Taxonomy of Virusesが、今回の件のコロナウイルスの名称をSARS-CoV-2にしたようだ。
-7:21 PM · Mar 3, 2020
 
 
-----------
-## 2020-02-17
 
-https://twitter.com/EARL_Med_Tw/status/1230746232223490048
-EARLの医学ツイート on Twitter: "新型コロナウイルスが人工ウイルスであるとする陰謀論を強く非難する．複数国の科学者達がゲノムを公開・分析して野生生物に由来したものであることが強く結論づけられている．陰謀論は世界的な協力を危うくする恐怖，デマ，偏見を作り出すだけである（Lancet 2020, Feb19） https://t.co/vo1yUCAw2Q" / Twitter
-3:49 PM · Feb 21, 2020
-
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
-Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
-
-https://twitter.com/rikomrnk/status/1229782895901806597
-村中璃子 RIKO MURANAKA on Twitter: "新型コロナは遺伝子解析の結果、ラボで作られたものでは「ない」ことが分かってきました。論文がまもなく発表されます。 https://t.co/lAFp8BCAsj"
-12:01 AM · Feb 19, 2020
-
-https://twitter.com/AdamJKucharski/status/1229371111500062721
-"This analysis provides evidence that SARS-CoV-2 is not a laboratory construct nor a purposefully manipulated virus." Before you read any speculation about SARS-CoV-2 origins, read this post by some leading researchers in pathogen evolution/genomics
-8:44 PM · Feb 17, 2020
-
-https://twitter.com/arambaut/status/1229366869095800832
-Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "I have just posted a pre-print of a review written by @K_G_Andersen, @edwardcholmes, Ian Lipkin &amp; Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans. https://t.co/kEVHK2mPX1" / Twitter
-8:27 PM · Feb 17, 2020
 
 
 ----------
@@ -906,13 +939,6 @@ Nick Loman on Twitter: "You could run a pretty successful outbreak phylogenetics
 8:02 AM · Jan 30, 2020
 
 
-
-https://twitter.com/trvrb/status/1221218730383798272
-Trevor Bedford on Twitter: "Thanks to continued rapid data sharing by @CDCgov, we've updated the analysis of #nCoV2019 at https://t.co/JHWNUOwchc with the genome of the virus from the case in Chicago. It clusters with several other viruses, but is still consistent with acquisition in Wuhan. https://t.co/XeKMDgK9sg" / Twitter
-8:50 AM · Jan 26, 2020
-
-<img src="https://pbs.twimg.com/media/EPKj9XGVAAAZRyH?format=jpg" width=50%>
-
 Posted January 25, 2020.
 https://www.biorxiv.org/content/10.1101/2020.01.24.919183v1
 Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China | bioRxiv
@@ -930,28 +956,16 @@ https://www.nature.com/articles/s41564-020-0670-8
 Rapid outbreak response requires trust | Nature Microbiology
 
 
-https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
 
-https://twitter.com/trvrb/status/1216118434850725888
-Trevor Bedford on Twitter: "As others have already said, we see the novel coronavirus from Wuhan grouping with sampled SARS-related bat coronaviruses. We thank Professor Zhang and colleagues for amazingly rapid data sharing. A full interactive phylogeny of beta-CoV diversity is here: https://t.co/koZGMWy0hI https://t.co/ozYLnFsF7o" / Twitter
-7:03 AM · Jan 12, 2020
 
-https://twitter.com/trvrb/status/1216119625651326977
-Zoom-in of the grouping with SARS-related bat coronaviruses is visible here:
 
-https://twitter.com/EcoHealthNYC/status/1216062570035138561
-EcoHealth Alliance on Twitter: "Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR https://t.co/3WbFpQ02Pc" / Twitter
-3:21 AM · Jan 12, 2020
 
-https://twitter.com/arambaut/status/1216060707143344134
-Andrew Rambaut 🦠🧬🌲🔮🤦
-♂️ on Twitter: "This is one of the reasons why people are reticent to share data. No acknowledgement of where the data comes from or who generated it. The figure is even branded with a logo. @JeremyFarrar @edwardcholmes @EvolveDotZoo https://t.co/oxjF05hbNx" / Twitter
-3:14 AM · Jan 12, 2020
 
-https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
-Phylogenetic Analysis Shows Novel Wuhan Coronavirus Clusters with SARS - EcoHealth Alliance
 
 http://recombinomics.co/topic/4351-wuhan-coronavirus-sequences/
+Wuhan Coronavirus 2019-nCoV Sequences
+By niman, January 11 in Sequences (COVID)
+
 
 https://twitter.com/TheMenacheryLab/status/1215826855086952448
 The Menachery Lab on Twitter: "Some quick analysis of the new Wuhan CoV sequence: 1) Looks like a group 2B CoV, same family as SARS with about 73% conservation at genome 2)Rough tree puts it between HKU3/273-CoV and SHC014-CoV, a bat virus capable of using human ACE2." / Twitter
@@ -1044,7 +1058,107 @@ https://www.gohongi-clinic.com/k_blog/3873/
 新型コロナウイルス感染をPCRで判定しても、様々な問題が発生する可能性があります。 | 五本木クリニック
 
 ----------
-## DNA_PAPA
+## twitter
+
+- https://twitter.com/arambaut
+Andrew Rambaut / Professor of Molecular Evolution | University of Edinburgh | FRSE
+- https://twitter.com/edwardcholmes
+Eddie Holmes (@edwardcholmes) / Virus spotter
+- https://twitter.com/hamesjadfield
+james hadfield (@hamesjadfield) / Phylogeneticist. Work for @trvrb & @nextstrain
+- https://twitter.com/trvrb
+Trevor Bedford (@trvrb) / Scientist @fredhutch, studying viruses, evolution and immunity.
+- https://twitter.com/firefoxx66
+Dr Emma Hodcroft (@firefoxx66) / Co-developer of @nextstrain ! Using programming & phylogenetics, I study & track viruses. I like airplanes & cats
+- 
+- https://twitter.com/senmonka21
+新型コロナウイルス感染症に関する専門家有志の会 (@senmonka21) / 政府対策本部の専門家会議や厚労省クラスター対策班等の関係者で組織された専門家の有志の会です。全世代のみなさまに拡散してほしいメッセージをお知らせしています。一人でも多くの方に私たちのメッセージが伝わることを願っています。ともに困難を乗り越えましょう。クラスター対策の詳しい情報は
+@ClusterJapan
+へ。
+- https://twitter.com/ClusterJapan
+新型コロナクラスター対策専門家 (@ClusterJapan) / 新型コロナウイルスクラスター対策専門家のアカウントです。大切な人に会えない、会いづらい今の状況を変えるためにはたくさんの方の協力が必要です。そのために情報発信が必要と考えました。できるだけ分かりやすい情報発信ができるよう頑張ります。頂いたリプライへの対応は難しいですが、そのリプライの内容を参考に投稿を考えます。
+- https://twitter.com/takavet1
+Takayuki Miyazawa（宮沢 孝幸） (@takavet1) / 京都大学 ウイルス・再生医科学研究所 附属感染症モデル研究センター ウイルス共進化研究分野主宰
+- https://twitter.com/nishiurah
+Hiroshi Nishiura (@nishiurah) / Theoretical epidemiologist.
+- https://twitter.com/imamura_kansen
+今村顕史 (@imamura_kansen) / 感染症は、正しく知って、正しく対応することが大切です。流行感染症の最新情報などを、やさしく、わかりやすく、つぶやきます。医師/感染症/HIV感染症【過去のつぶやき】→ http://twilog.org/imamura_kansen
+- https://twitter.com/DLYDDDDK
+空飛ぶペプチドタグ (@DLYDDDDK) / 日々是妄想。よろずウイルスのこと承ります。
+- https://twitter.com/hiro_icd
+高山義浩 (@hiro_icd) / 地域医療から国際保健、臨床から行政まで、まとまりなく活動。行政では、厚生労働省においてパンデミック医療体制の構築に取り組んだほか、２０２５年問題に対応する地域医療構想（ビジョン）の策定支援などに従事。臨床では感染症を一応専門とし、地域では在宅緩和ケアにも取り組んでいる。
+- https://twitter.com/georgebest1969
+岩田健太郎 (@georgebest1969) / 神戸大学医学研究科感染症内科教授です。
+- https://twitter.com/EARL_Med_Tw
+EARLの医学ツイート (@EARL_Med_Tw) / 論文をはじめとする医学・医療情報をツイートする手動botです。医療に関連しうる災害や放射能関連もツイートしています。医療デマアカウントリスト公開中。中の人はブロガー医です。Twitter医学会評議員資格満たしてるようです。専門は感染症、感染制御、急性呼吸器疾患、敗血症、PICSなど
+- https://twitter.com/NATROM
+名取宏（なとろむ） (@NATROM) / 
+内科勤務医。
+『医師が教える 最善の健康法』http://amazon.co.jp/dp/4862574718。
+『新装版「ニセ医学」に騙されないために』http://amazon.co.jp/dp/4862574025。
+- https://twitter.com/y_tambe
+Y Tambe (@y_tambe) / 本職は癌関連遺伝子研究者兼微生物学者。コーヒーの深淵を目指して潜り続ける毎日
+- https://twitter.com/HattoriM
+HattoriM (@HattoriM) / 上海の大学で老師をしてゐる。Working on the structual and chemical biology of metal homeostasis.
+- https://twitter.com/mdfujita
+藤田康介 (@mdfujita) / 上海東和クリニックで中国伝統医学医師。
+
+
+----------
+### trvrb
+Trevor Bedford
+
+Carl T. Bergstrom
+5. It's hard to predict for certain, but my personal opinion is that given the rates at which we seeing mutations in the virus and the structure of its genome, there is not strong reason to expect more transmissible variants to evolve and become widespread over the next year.
+https://twitter.com/trvrb/status/1242319784798117888
+Trevor Bedford on Twitter: "@CT_Bergstrom Seasonal influenza H3N2 has had 50 years to evolve to increase transmissibility. We don’t have evidence for this. Generally would not be my expectation. Still, we’re watching for signs of adaptive evolution among #SARSCoV2 variants." / Twitter
+2:18 PM · Mar 24, 2020
+
+https://twitter.com/trvrb/status/1221218730383798272
+Trevor Bedford on Twitter: "Thanks to continued rapid data sharing by @CDCgov, we've updated the analysis of #nCoV2019 at https://t.co/JHWNUOwchc with the genome of the virus from the case in Chicago. It clusters with several other viruses, but is still consistent with acquisition in Wuhan. https://t.co/XeKMDgK9sg" / Twitter
+8:50 AM · Jan 26, 2020
+
+<img src="https://pbs.twimg.com/media/EPKj9XGVAAAZRyH?format=jpg" width=50%>
+
+https://twitter.com/trvrb/status/1216118434850725888
+As others have already said, we see the novel coronavirus from Wuhan grouping with sampled SARS-related bat coronaviruses. We thank Professor Zhang and colleagues for amazingly rapid data sharing. A full interactive phylogeny of beta-CoV diversity is here: https://nextstrain.org/groups/blab/beta-cov
+Zoom-in of the grouping with SARS-related bat coronaviruses is visible here:
+Alongside the Wuhan genome, this tree is based on 522 beta-CoV sequences from Genbank with more than 5000 bases. Fully reproducible code to generate this phylogeny is available on GitHub here:
+7:08 AM · Jan 12, 2020
+
+----------
+### arambaut
+Andrew Rambaut
+
+https://twitter.com/arambaut/status/1250759386827554816
+Our paper looking at the evidence for the natural origins for SARS-CoV-2 seems to have become more relevant this week.
+9:14 PM · Apr 16, 2020
+
+https://twitter.com/arambaut/status/1235584432809086983
+During the last big epidemic (either Swine flu or Ebola virus, I can't remember) I wrote a short post about 'how to read a tree' which people might find useful given how phylogenies are everywhere now on Twitter. Perhaps I will finish it some day. https://artic.network/how-to-read-a-tree.html
+12:14 AM · Mar 6, 2020
+
+https://twitter.com/arambaut/status/1235360145133232128
+A cautionary example - do not make inferences about directionality of transmission from a sparsely and heterogeneously sampled tree. These Canadians did not transmit to the Californians - there was independent travel from China.
+9:23 AM · Mar 5, 2020
+
+Published: 17 March 2020
+https://www.nature.com/articles/s41591-020-0820-9/
+The proximal origin of SARS-CoV-2
+
+
+https://twitter.com/arambaut/status/1216060707143344134
+This is one of the reasons why people are reticent to share data. No acknowledgement of where the data comes from or who generated it. The figure is even branded with a logo. 
+3:14 AM · Jan 12, 2020
+
+https://twitter.com/EcoHealthNYC/status/1216062570035138561
+EcoHealth Alliance on Twitter: "Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR https://t.co/3WbFpQ02Pc" / Twitter
+3:21 AM · Jan 12, 2020
+https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
+Phylogenetic Analysis Shows Novel Wuhan Coronavirus Clusters with SARS - EcoHealth Alliance
+
+----------
+### DNA_PAPA
 https://twitter.com/DNA_PAPA
 
 https://dnanohanashi.com/2020/02/24/youtubehosoku/
@@ -1053,7 +1167,6 @@ YouTube "新型コロナとSARSの比較　簡単なゲノム解析の説明"の
 https://twitter.com/DNA_PAPA/status/1235317727931305985
 DNAパパ🇦🇺メルボルン永住17年 on Twitter: "よく見かける新型コロナの系統樹を世界に配信している筆者が、新型コロナは1カ月に2個の突然変異を起こす言ってます。そして、新型コロナは7日間隔で次の人にうつるとの事。絵を見てもらいたいんですが、見ると突然変異が2-3人目と4-5人目の感染で起きる計算です https://t.co/v8mdxYd4pP https://t.co/l2z4qsLMdZ" / Twitter
 6:34 AM · Mar 5, 2020
-
 
 https://twitter.com/DNA_PAPA/status/1231681037089955840
 DNAパパ👨🏻‍🔬ゲノム🧬解析サイエンティスト　🇦🇺永住17年目 on Twitter: "YouTube 2本アップしました。是非ご覧下さい 新型コロナとSARSの比較　簡単なゲノム解析の説明 https://t.co/zo3glCTc6i via @YouTube 新型コロナ最近の状況　2020年2月3週目 https://t.co/yzCGykVXyW" / Twitter
@@ -1073,7 +1186,7 @@ https://www.youtube.com/watch?v=SUKmIIlys2k
 Feb 5, 2020
 
 ----------
-## info_nbd
+### info_nbd
 
 https://twitter.com/info_nbd
 日本バイオデータ (@info_nbd) / Twitter
@@ -1100,6 +1213,47 @@ https://twitter.com/info_nbd/status/1229322823816007681
 5:32 PM · Feb 17, 2020
 
 ----------
+### sounaka
+So Nakagawa
+
+2020年04月15日
+https://hc.nikkan-gendai.com/articles/271877
+【新型コロナウイルス】新進気鋭ゲノム学者語る 人間からネコやトラに感染した意味｜日刊ゲンダイヘルスケア
+https://hc.nikkan-gendai.com/articles/271877?page=4
+「ウイルスの突然変異や組み換えは、ほとんどの場合はウイルスの病原性は変化しない。もしくは、わずかに下げる方向に働く場合が多いです。そのため、ウイルスの新しい変異株が見つかった、新しい組み換えが見つかった、というニュースについては、そこまで神経質になる必要はないと思います。一方で、まれにそうではない場合もありますので、今後も更に研究を続ける必要があると考えます」
+
+https://twitter.com/sounaka/status/1250223836202545152
+先日電話インタビューを受けたものが記事として公開されました。文字数の関係で細かい話ができていないので、ネコで新型コロナウイルスが「空気感染」する可能性と、ネコが新型コロナウイルスの中間宿主ではない可能性について、更に詳細記したいと思います。
+
+4月8日にオンライン公開された米国サイエンス誌に掲載された中国のハルビン獣医学研究所からの論文（https://science.sciencemag.org/content/early/2020/04/07/science.abb7015）では「空気感染」という言葉が確かに使われています。
+
+ただし、この実験では、高濃度の新型コロナウイルスを猫に噴霧して感染させた実験のため、そもそもの濃度が高かった可能性も他の研究者から指摘されています（https://nature.com/articles/d41586-020-00984-8）ので、「空気感染」はあくまでも実験室レベルでの話です。今後他の研究グループからの追試が待たれるところです。
+
+また、それではネコが原因で今回の新型コロナウイルスが広まったかもと考える人がいるかもしれません。プレプリント（査読前の論文）の報告ですが、武漢に生息する猫の抗体検査が大規模に調べた研究成果があります（https://biorxiv.org/content/10.1101/2020.04.01.021196v1）。
+
+新型コロナウイルスの感染以後にサンプリングを行った猫には抗体があった、つまり猫の一部は新型コロナウイルスに感染していたと考えれます。一方、流行前に武漢で採取された猫の血液からは抗体は検出されませんでした。従って猫の集団中にもともとウイルスがあったわけではないと示唆されています。
+
+以上の結果から、猫が媒体となって新型コロナウイルスを人に感染させたのではなくて、人から猫に感染した可能性が高いと考えられます。
+
+
+https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
+新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析｜2020年5月号｜実験医学online：羊土社 - 羊土社
+
+https://twitter.com/sounaka/status/1247017759088603141
+So Nakagawa on Twitter: "こちら先日ご連絡しました新型コロナウイルスに関する総説について、羊土社様のご厚意により無料先行公開されることになりました（閲覧には無料の会員登録が必要です）。 https://t.co/iKAlA2btM0" / Twitter
+1:26 PM · Apr 6, 2020
+https://twitter.com/sounaka/status/1247082658179366913
+こちら少し書きました、総説を読んだ人で、もう少し背景とか知りたいというヒト向けです（いるのかな？）。
+https://sites.google.com/site/sonakagawa/etc/sars-cov-2_yodosha_etc
+「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」執筆のよもやま話 - So Nakagawa Website
+
+https://twitter.com/sounaka/status/1239789326830948353
+So Nakagawa on Twitter: "実験医学誌にコロナウイルスに関する総説を書きました、4/20発売の5月号に掲載予定です。そちらに掲載される予定のコロナウイルスの系統樹をshareします。SARS-CoV-2の類似配列のみならず、61種のコロナウイルスの配列を使って系統樹を作りました。#新型コロナウイルス https://t.co/ALRM9lmXTl" / Twitter
+2:43 PM · Mar 17, 2020
+ヒトに感染するウイルスはベータコロナウイルス属とアルファコロナウイルス属からのみ見つかっています。コウモリが宿主となっている例も多いですが、その他の生物も様々なコロナウイルスを持っています。一部配列はGISAID（https://gisaid.org）から入手しました。 #新型コロナウイルス
+この図のshareに関しては羊土社実験医学編集部から許可をもらっています（掲載時には多少変更があるかも）。また、outgroupに使っているコロナウイルスをはじめ、多くのコロナウイルスが中国を中心に世界様々な研究グループによって発見されています、GISAID含め、それら研究グループに感謝します。
+
+----------
 ## virological
 http://virological.org/
 
@@ -1108,10 +1262,6 @@ http://virological.org/c/novel-2019-coronavirus/33
 
 http://virological.org/c/novel-2019-coronavirus
 Latest Novel 2019 coronavirus topics - Virological
-
-
-http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
-The Proximal Origin of SARS-CoV-2 - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
 
 
 http://virological.org/t/divergence-of-ncov-2019-to-closest-non-human-relative/388
