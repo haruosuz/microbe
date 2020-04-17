@@ -54,15 +54,9 @@ Scientists from multiple countries have published and analysed genomes of the ca
 
 ### 2020-03-17
 
-http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
-The Proximal Origin of SARS-CoV-2 - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
-This paper has now been published here: https://www.nature.com/articles/s41591-020-0820-9
-
 Published: 17 March 2020
+https://www.nature.com/articles/s41591-020-0820-9
 The proximal origin of SARS-CoV-2
-
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
-Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
 
 https://twitter.com/rikomrnk/status/1229782895901806597
 村中璃子 RIKO MURANAKA on Twitter: "新型コロナは遺伝子解析の結果、ラボで作られたものでは「ない」ことが分かってきました。論文がまもなく発表されます。 https://t.co/lAFp8BCAsj"
@@ -73,9 +67,19 @@ https://twitter.com/AdamJKucharski/status/1229371111500062721
 8:44 PM · Feb 17, 2020
 
 https://twitter.com/arambaut/status/1229366869095800832
+I have just posted a pre-print of a review written by 
+@K_G_Andersen
+, 
+@edwardcholmes
+, Ian Lipkin & Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans.
+
+https://twitter.com/arambaut/status/1229366869095800832
 Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "I have just posted a pre-print of a review written by @K_G_Andersen, @edwardcholmes, Ian Lipkin &amp; Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans. https://t.co/kEVHK2mPX1" / Twitter
 8:27 PM · Feb 17, 2020
 
+http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
+The Proximal Origin of SARS-CoV-2 - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
+This paper has now been published here: https://www.nature.com/articles/s41591-020-0820-9
 
 ----------
 ## papers
