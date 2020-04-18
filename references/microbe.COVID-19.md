@@ -228,6 +228,24 @@ Multivariate Analyses of Codon Usage of SARS-CoV-2 and other betacoronaviruses |
 https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3.full
 Amino acid composition sometime can also introduce confounding effects when one only focuses on studying the variations of synonymous codon usage. The use of global correspondence analysis (CA) and its derivatives within-group correspondence analysis (WCA) and between-group correspondence analysis (BCA) to analyze codon usages can overcome the above problem. In fact, WCA becomes “model of choice” for analyzing synonymous codon usage in recent years, as it is more robust than other traditional methods (e.g. CA with relative codon frequency or CA with RSCU values)7,8. This analytic approach, however, has not been used in studying viral sequences.
 
+### acknowledgement
+
+https://twitter.com/NatureMicrobiol/status/1220010106257100800
+Nature Microbiology on Twitter: "Rapid outbreak response requires trust Early and open data sharing in an outbreak is vital, to be commended and should come with proper attribution. Should extend to 2019-nCoV isolates and other materials when available #2019-nCoV #epidemicpreparedness https://t.co/3zTnpJA70s https://t.co/mOlzQ5gq9y" / Twitter
+12:47 AM · Jan 23, 2020
+https://www.nature.com/articles/s41564-020-0670-8
+Rapid outbreak response requires trust | Nature Microbiology
+
+https://twitter.com/arambaut/status/1216060707143344134
+This is one of the reasons why people are reticent to share data. No acknowledgement of where the data comes from or who generated it. The figure is even branded with a logo. 
+3:14 AM · Jan 12, 2020
+
+https://twitter.com/EcoHealthNYC/status/1216062570035138561
+EcoHealth Alliance on Twitter: "Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR https://t.co/3WbFpQ02Pc" / Twitter
+3:21 AM · Jan 12, 2020
+https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
+Phylogenetic Analysis Shows Novel Wuhan Coronavirus Clusters with SARS - EcoHealth Alliance
+
 ----------
 
 ## references
@@ -961,14 +979,6 @@ Table shows the most well-known coronaviruses: what they have in common & how th
 https://npr.org/sections/goatsandsoda/2020/01/22/798277557/how-does-wuhan-coronavirus-compare-to-mers-sars-and-the-common-cold
 7:22 AM · Jan 23, 2020
 
-https://twitter.com/NatureMicrobiol/status/1220010106257100800
-Nature Microbiology on Twitter: "Rapid outbreak response requires trust Early and open data sharing in an outbreak is vital, to be commended and should come with proper attribution. Should extend to 2019-nCoV isolates and other materials when available #2019-nCoV #epidemicpreparedness https://t.co/3zTnpJA70s https://t.co/mOlzQ5gq9y" / Twitter
-12:47 AM · Jan 23, 2020
-https://www.nature.com/articles/s41564-020-0670-8
-Rapid outbreak response requires trust | Nature Microbiology
-
-
-
 
 
 
@@ -1146,17 +1156,6 @@ A cautionary example - do not make inferences about directionality of transmissi
 Published: 17 March 2020
 https://www.nature.com/articles/s41591-020-0820-9/
 The proximal origin of SARS-CoV-2
-
-
-https://twitter.com/arambaut/status/1216060707143344134
-This is one of the reasons why people are reticent to share data. No acknowledgement of where the data comes from or who generated it. The figure is even branded with a logo. 
-3:14 AM · Jan 12, 2020
-
-https://twitter.com/EcoHealthNYC/status/1216062570035138561
-EcoHealth Alliance on Twitter: "Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR https://t.co/3WbFpQ02Pc" / Twitter
-3:21 AM · Jan 12, 2020
-https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
-Phylogenetic Analysis Shows Novel Wuhan Coronavirus Clusters with SARS - EcoHealth Alliance
 
 ----------
 ### DNA_PAPA
