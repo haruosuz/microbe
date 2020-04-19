@@ -20,6 +20,7 @@
 - [rumour](#rumour) デマ 噂 誤報 陰謀論
 - [papers](#papers)
 - [2020-04-07](#2020-04-07) pnas
+- [video](#video)
 
 ----------
 ## metasub
@@ -31,6 +32,36 @@ Haruo Suzuki on Twitter: "ニューヨークの地下鉄で新型コロナウイ
 https://twitter.com/mason_lab/status/1245394591819477003
 Christopher Mason on Twitter: ""NYC Scientists Swab the Subway in Search of SARS-CoV-2." Is it there? So far, nope! Environmental and ongoing clinical #COVID19 efforts discussed here: https://t.co/D8gYGQaU7I thx @GENbio @NEBiolabs @illumina @TwistBioscience @nanopore @nygenome @metasub @BenKallos @ZymoResearch" / Twitter
 1:56 AM · Apr 2, 2020
+
+
+----------
+## video
+
+https://www.youtube.com/watch?v=zX8EGRBqRlI
+Viral Genomes - Analysis of COVID 19 Genomics Data - YouTube
+
+
+https://naikaondemand.jp/urgencysymposium/
+日本内科学会 総会・講演会オンデマンド
+緊急シンポジウム オンデマンド配信
+配　信
+2020年4月13日（月）〜 2020年4月30日 (木) 9:00
+
+https://togetter.com/li/1495798
+日本感染症学会 COVID-19シンポジウムまとめ - Togetter
+
+----------
+## sewage
+
+2020年04月08日 
+http://karapaia.com/archives/52289638.html
+下水の検査で新型コロナウイルスの潜在的な感染者数を把握できる可能性 : カラパイア
+https://www.nature.com/articles/d41586-020-00973-x
+How sewage could reveal true scale of coronavirus outbreak
+
+
+https://www.sciencedirect.com/science/article/pii/S0048969720322816
+First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community - ScienceDirect
 
 ----------
 ## rumour
@@ -156,14 +187,15 @@ mSystems. 2020 Apr 7;5(2). pii: e00245-20. doi: 10.1128/mSystems.00245-20.
 Dietz L#1, Horve PF#2, Coil DA3, Fretz M1,4, Eisen JA5,6,3, Van Den Wymelenberg K1,4.
 
 
-
-
 ----------
+## 2020-04-05
 ## 2020-03-02
 
-Published: 02 March 2020
+https://www.ncbi.nlm.nih.gov/pubmed/32123347
+Nat Microbiol. 2020 Apr;5(4):536-544. doi: 10.1038/s41564-020-0695-z. Epub 2020 Mar 2.
+The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2.
+Coronaviridae Study Group of the International Committee on Taxonomy of Viruses.
 https://www.nature.com/articles/s41564-020-0695-z
-The species Severe acute respiratory syndrome-related coronavirus : classifying 2019-nCoV and naming it SARS-CoV-2 | Nature Microbiology
 
 https://twitter.com/hshimodaira/status/1235496066834808841
 はかせ Mk-II on Twitter: "コロナウイルスの系統解析の論文がnature microbiologyに出てました．配列がSARSに近くて，SARSコロナウイルス２と呼ぶべきらしい．系統樹の枝毎に信頼度の指標としてShimodaira-Hasegawa (SH)検定が使われていて，提案手法がリアルで役立つのは嬉しい． https://t.co/GQLDDOkWHh https://t.co/qg8EPNsThw" / Twitter
@@ -704,7 +736,7 @@ http://crisp-bio.blog.jp/archives/22091842.html
 
 ## updates
 
-
+## 2020-04
 
 4/15(水) 1:47配信
 https://headlines.yahoo.co.jp/hl?a=20200415-24150020-nksports-soci
@@ -715,24 +747,20 @@ Shoes Can Carry the Coronavirus, According to the CDC – Footwear News
 https://wwwnc.cdc.gov/eid/article/26/7/20-0885_article
 Early Release - Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - Volume 26, Number 7—July 2020 - Emerging Infectious Diseases journal - CDC
 
-
-
-
 2020-04-11
 
 https://twitter.com/search?q=モデリングから考える長期的なCOVID-19戦略
-
-
-https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
-新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
-
-## 2020-04
 
 https://twitter.com/jburnmurdoch/status/1248353876786413569
 John Burn-Murdoch on Twitter: "NEW: Thurs 9 April update of coronavirus trajectories Daily new deaths: • US &amp; UK are still upward slopes on a log scale, i.e each day generally brings more deaths than the last • Japan death toll tracking Italy All live charts, free to read: https://t.co/JxVd2cG7KI https://t.co/FvfdjtjaNA" / Twitter
 5:55 AM · Apr 10, 2020
 
 ![](https://pbs.twimg.com/media/EVMK8jDXYAAIU0g?format=jpg&name=small)
+
+
+https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
+新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
+
 
 https://twitter.com/DNA_PAPA/status/1245671281158045696
 この記事のように新型コロナは表面の上で生きているって書いてるが、活性があるって言うだけで、生きていません。細菌とウイルスを混同しては駄目です。細菌は自分で増殖できますが、ウイルスは、宿主がいないと増殖できません。人間に感染できなければ、いずれ消滅します。
