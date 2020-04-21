@@ -26,6 +26,26 @@
 - [news](#news)
   - [technologyreview](#technologyreview) MIT Tech Review
 
+----------
+## poly(A) tail
+
+Published:April 06, 2020
+https://www.cell.com/immunity/fulltext/S1074-7613(20)30120-5
+The RNA contains a 5′ cap structure and a 3′ poly(A) tail that allows expression of the replicase, which is encoded by approximately two-thirds of the genome. 
+
+12:41 AM · Mar 3, 2020
+https://twitter.com/cosmos4u/status/1234503992501252096
+Daniel Fischer on Twitter: "Service tweet: the RNA of SARS-CoV-2 ends in a stretch that has only adenine bases - called polyadenylation; https://t.co/oLKwPleiws - not because it's sad or hurting but because such a poly(A) tail makes it more stable. #smartassingoutsidemyfieldofscience https://t.co/WIxLkjFOhV" / Twitter
+
+Asked 2 months ago
+https://bioinformatics.stackexchange.com/questions/11227/why-does-the-wuhan-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+fasta - Why does the Wuhan coronavirus genome end in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa (33 a's)? - Bioinformatics Stack Exchange
+
+https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3
+Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+    29821 tttagtagtg ctatccccat gtgattttaa tagcttctta ggagaatgac aaaaaaaaaa
+    29881 aaaaaaaaaa aaaaaaaaaa aaa
+//
 
 ----------
 ## metasub
@@ -611,27 +631,18 @@ Slides freely available here: https://figshare.com/articles/Evolution_of_SARS-Co
 
 ## nextstrain
 
+https://nextstrain.org/
+
 https://twitter.com/nextstrain
 
 https://twitter.com/search?q=nextstrain%20lang%3Aja&f=live
 
-https://nextstrain.org/
-
-https://www.ncbi.nlm.nih.gov/pubmed/29790939
-Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
-Nextstrain: real-time tracking of pathogen evolution.
-Hadfield J1, Megill C1, Bell SM1,2, Huddleston J1,2, Potter B1, Callender C1, Sagulenko P3, Bedford T1, Neher RA3,4,5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247931/
-
-https://www.ncbi.nlm.nih.gov/pubmed/29340210
-Virus Evol. 2018 Jan 8;4(1):vex042. doi: 10.1093/ve/vex042. eCollection 2018 Jan.
-TreeTime: Maximum-likelihood phylodynamic analysis.
-Sagulenko P1, Puller V1,2,3, Neher RA1,2,3.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758920/
-It is already in use as an integral component of the real-time time outbreak tracking tools nextstrain and nextflu (Neher and Bedford, 2015). 
-TreeTime was developed to analyse large heterochronous viral sequence alignments and we have used TreeTime as the core component of the real-time phylogenetics pipelines nextstrain and nextflu (Neher and Bedford, 2015). 
-
 https://nextstrain.org/ncov
+
+https://nextstrain.org/groups/blab/sars-like-cov
+Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
+avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
+Showing 52 of 52 genomes.
 
 https://nextstrain.org/narratives/trees-background
 How to interpret phylogenetic trees
@@ -639,11 +650,16 @@ How to interpret phylogenetic trees
 https://nextstrain.org/narratives/trees-background/ja
 系統発生樹の解読について
 
-https://nextstrain.org/groups/blab/sars-like-cov
-Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2
-avatarBuilt with blab/sars-like-cov. Maintained by Trevor Bedford and Emma Hodcroft.
-Showing 52 of 52 genomes.
+https://twitter.com/nextstrain/status/1238418274041372673
+Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Shanghai MOE/NHC/CAMS, & 
+@GISAID
+, we've updated http://nextstrain.org/ncov with 2 new #COVID19 #SARSCoV2 #hCoV19 sequences from Japan & Shanghai.
+7:54 PM · Mar 13, 2020
 
+![](https://pbs.twimg.com/media/ES--jykWkAANZCF?format=jpg&name=small)
+
+
+### nextstrain video
 
 https://twitter.com/nextstrain/status/1251982779018928129
 Nextstrain on Twitter: "This week's #covideo focuses on the USA. We find that both nearby and distant states have closely related #COVID19 outbreaks, so decisions by individual states will likely impact the larger country. https://t.co/zHTKNMyfTo Thank you @OliviaPhamNow for producing this video." / Twitter
@@ -670,6 +686,7 @@ https://www.youtube.com/watch?v=Rb6gujhWy9k
 Nextstrain Situation Report 2020-03-27
 
 
+### nextstrain situation report 
 
 https://twitter.com/nextstrain/status/1251969467648602113
 Nextstrain on Twitter: "今週の状況報告では #COVID19 によるアメリカでの感染拡大を追跡します。こちらから日本語でもご覧頂けるようになりました。 迅速な翻訳を行って頂いた @tommy_nezy , Takeshi Sato, @fengjun_zhang に感謝します。 https://t.co/FxPqcb7hNN https://t.co/d7wjMdQTH9" / Twitter
@@ -679,8 +696,6 @@ https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17
 
 https://nextstrain.org/narratives/ncov/sit-rep/en/2020-04-17
 Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
-
-
 
 https://twitter.com/nextstrain/status/1249214612123385857
 Nextstrain on Twitter: "今週の状況報告では #COVID19 による感染拡大が毎月どのように広まっていったのかを追跡します。こちらから日本語でもご覧頂けるようになりました。 https://t.co/WsIPsej4k7 迅速な翻訳を行って頂いた @tommy_nezy, Takeshi Sato, @fengjun_zhang に感謝します。 https://t.co/nrZjB6jznf" / Twitter
@@ -721,16 +736,6 @@ Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile 
 Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
 
 
-
-
-https://twitter.com/gigazine/status/1244942572197277696
-GIGAZINE(ギガジン) on Twitter: "新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 https://t.co/dKooleeMXP" / Twitter
-8:00 PM · Mar 31, 2020
-https://gigazine.net/news/20200331-nextstrain-covid19-report/
-新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 - GIGAZINE
-記事作成時点での最新版となるのは2020年3月27日に公開されたレポートの日本語版ですが、
-
-
 https://twitter.com/nextstrain/status/1244289986607738880
 Nextstrain on Twitter: "最新の#COVID19 #SARSCoV2 #HCoV19 状況レポートが日本語で利用可能になりました。 今週は、地域ごとにデータを分類しました。 翻訳してくれTakeshiSato、@tommy_nezy、@fengjun_zhang に感謝します。 https://t.co/E0gXp9vVrO The latest situation report is now available in Japanese. https://t.co/fWppSk4PE9" / Twitter
 12:47 AM · Mar 30, 2020
@@ -739,42 +744,24 @@ https://twitter.com/nextstrain/status/1238875482881318912
 Nextstrain on Twitter: "コロナウィルス及び #COVID19 についての状況報告（日本語）更新されました！https://t.co/R421TpCp1i 翻訳担当の @tommy_nezy さん、 @fengjun_zhang さんとTakeshi Satoさん、お疲れ様です。 The March 13 situation report is now available in Japanese! #HCoV19 #SARSCoV2 https://t.co/qFQJhaM0FG" / Twitter
 2:11 AM · Mar 15, 2020
 
-
-https://twitter.com/nextstrain/status/1238418274041372673
-Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Shanghai MOE/NHC/CAMS, & 
-@GISAID
-, we've updated http://nextstrain.org/ncov with 2 new #COVID19 #SARSCoV2 #hCoV19 sequences from Japan & Shanghai.
-7:54 PM · Mar 13, 2020
-
-![](https://pbs.twimg.com/media/ES--jykWkAANZCF?format=jpg&name=small)
-
-Situation Report 
 https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13
 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-03-13.
 
+### nextstrain paper
 
+https://www.ncbi.nlm.nih.gov/pubmed/29790939
+Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
+Nextstrain: real-time tracking of pathogen evolution.
+Hadfield J1, Megill C1, Bell SM1,2, Huddleston J1,2, Potter B1, Callender C1, Sagulenko P3, Bedford T1, Neher RA3,4,5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247931/
 
-
-
-https://twitter.com/Laurie_Garrett/status/1242517753002700802
-Laurie Garrett on Twitter: "Latest #CoronaVirus19 - 1,258 full genomes Notable changes: •S clade 333 (+71) •G clade 406 (+76) •V clade 97 (+9) •Other clades 422 (+82) Includes 70 from Diamond Princess Cruise ship close to early Wuhan sequences. @GISAID https://t.co/RrAINkJpVI" / Twitter
-3:24 AM · Mar 25, 2020
-
-
-https://ubinaural.com/podcast/2020/3/10
-A.I.に意識を与える研究 BLOG
-取り上げているwebサイトはhttps://nextstrain.org/です。このサイトの使用しているデータは、https://www.gisaid.org/に基づいています。nextstrain.orgの活動はオープン・ソースであり、GitHubに公開されています。
-
-
-2020/02/12
-https://toyokeizai.net/articles/-/329766?page=6
-新型コロナウイルス｢生物兵器論｣は本当なのか
-専門家見解｢人工で製造することは不可能｣
-トレバー・ベッドフォードはオープンソースのウェブサイト（nextstrain.org）を開設し、各種の病原体の遺伝子配列についての分析と可視化を行えるようにした。
-その中には以前から知られているコロナウイルスのファミリー（コウモリ、ハクビシン、SARS）の遺伝子配列の系譜から、世界的なインフルエンザウイルスの共有データベースGISAID（Global Initiative on Sharing All Influenza Data）で共有されている新型コロナウイルス関連肺炎患者53人のウイルス遺伝子の全配列が含まれている。
-
-
-
+https://www.ncbi.nlm.nih.gov/pubmed/29340210
+Virus Evol. 2018 Jan 8;4(1):vex042. doi: 10.1093/ve/vex042. eCollection 2018 Jan.
+TreeTime: Maximum-likelihood phylodynamic analysis.
+Sagulenko P1, Puller V1,2,3, Neher RA1,2,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758920/
+It is already in use as an integral component of the real-time time outbreak tracking tools nextstrain and nextflu (Neher and Bedford, 2015). 
+TreeTime was developed to analyse large heterochronous viral sequence alignments and we have used TreeTime as the core component of the real-time phylogenetics pipelines nextstrain and nextflu (Neher and Bedford, 2015). 
 
 https://bibgraph.hpcr.jp/abst/pubmed/31671157
 Nextstrainで視覚化されたアメリカ大陸での20年にわたるウエストナイルウイルスの拡散と進化 - Bibgraph（ビブグラフ）| PubMedを日本語で論文検索
@@ -785,6 +772,40 @@ https://www.ncbi.nlm.nih.gov/pubmed/31671157
 PLoS Pathog. 2019 Oct 31;15(10):e1008042. doi: 10.1371/journal.ppat.1008042. eCollection 2019 Oct.
 Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain.
 Hadfield J1, Brito AF2, Swetnam DM3, Vogels CBF2, Tokarz RE4, Andersen KG5,6, Smith RC4, Bedford T1, Grubaugh ND2.
+
+
+### nextstrain-related news
+
+12:19 PM · Apr 21, 2020
+https://twitter.com/junglecity/status/1252436827832594433
+シアトル日本語情報サイト🇺🇸「ジャングルシティ」 on Twitter: "世界各地から提供された新型コロナウイルスのゲノム情報を使用してその広がりを追跡しているシアトルの @nextstrain は毎週レポートを出していますが、最新の発表はアメリカ国内のアウトブレイクについて。近くの州だけでなく遠くの州とも密接に関連していることが確認されたとのこと。 https://t.co/18fwUAUPVF" / Twitter
+
+8:00 PM · Mar 31, 2020
+https://twitter.com/gigazine/status/1244942572197277696
+GIGAZINE(ギガジン) on Twitter: "新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 https://t.co/dKooleeMXP" / Twitter
+https://gigazine.net/news/20200331-nextstrain-covid19-report/
+新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 - GIGAZINE
+記事作成時点での最新版となるのは2020年3月27日に公開されたレポートの日本語版ですが、
+
+2020.03.31
+https://natgeo.nikkeibp.co.jp/atcl/news/20/033000204/
+新型コロナウイルスはこうして広がっている、遺伝子技術で判明 | ナショナルジオグラフィック日本版サイト
+多様な経路で世界を拡散、平均15日ごとに変異、生物兵器説や陰謀説も否定
+
+https://twitter.com/Laurie_Garrett/status/1242517753002700802
+Laurie Garrett on Twitter: "Latest #CoronaVirus19 - 1,258 full genomes Notable changes: •S clade 333 (+71) •G clade 406 (+76) •V clade 97 (+9) •Other clades 422 (+82) Includes 70 from Diamond Princess Cruise ship close to early Wuhan sequences. @GISAID https://t.co/RrAINkJpVI" / Twitter
+3:24 AM · Mar 25, 2020
+
+https://ubinaural.com/podcast/2020/3/10
+A.I.に意識を与える研究 BLOG
+取り上げているwebサイトはhttps://nextstrain.org/です。このサイトの使用しているデータは、https://www.gisaid.org/に基づいています。nextstrain.orgの活動はオープン・ソースであり、GitHubに公開されています。
+
+2020/02/12
+https://toyokeizai.net/articles/-/329766?page=6
+新型コロナウイルス｢生物兵器論｣は本当なのか
+専門家見解｢人工で製造することは不可能｣
+トレバー・ベッドフォードはオープンソースのウェブサイト（nextstrain.org）を開設し、各種の病原体の遺伝子配列についての分析と可視化を行えるようにした。
+その中には以前から知られているコロナウイルスのファミリー（コウモリ、ハクビシン、SARS）の遺伝子配列の系譜から、世界的なインフルエンザウイルスの共有データベースGISAID（Global Initiative on Sharing All Influenza Data）で共有されている新型コロナウイルス関連肺炎患者53人のウイルス遺伝子の全配列が含まれている。
 
 2017年03月07日
 https://jipsti.jst.go.jp/johokanri/sti_updates/?id=9489
@@ -1346,24 +1367,32 @@ https://twitter.com/info_nbd/status/1229322823816007681
 ### sounaka
 So Nakagawa
 
+
+2020年04月21日
+https://hc.nikkan-gendai.com/articles/272142
+【新型コロナウイルス】新型コロナウイルスは致死率9％のSARSと何が違うのか？｜日刊ゲンダイヘルスケア
+https://twitter.com/sounaka/status/1252382489177284611
+So Nakagawa on Twitter: "こちら「ネコに新型コロナ感染」に関して電話インタビューを受けた際に、文字数の関係で溢れた内容を別途まとめてくださった記事が公開されました。 https://t.co/n4hGhNv4oQ" / Twitter
+8:43 AM · Apr 21, 2020
+
+
+
 2020年04月15日
 https://hc.nikkan-gendai.com/articles/271877
 【新型コロナウイルス】新進気鋭ゲノム学者語る 人間からネコやトラに感染した意味｜日刊ゲンダイヘルスケア
 https://hc.nikkan-gendai.com/articles/271877?page=4
 「ウイルスの突然変異や組み換えは、ほとんどの場合はウイルスの病原性は変化しない。もしくは、わずかに下げる方向に働く場合が多いです。そのため、ウイルスの新しい変異株が見つかった、新しい組み換えが見つかった、というニュースについては、そこまで神経質になる必要はないと思います。一方で、まれにそうではない場合もありますので、今後も更に研究を続ける必要があると考えます」
-
+9:46 AM · Apr 15, 2020
 https://twitter.com/sounaka/status/1250223836202545152
 先日電話インタビューを受けたものが記事として公開されました。文字数の関係で細かい話ができていないので、ネコで新型コロナウイルスが「空気感染」する可能性と、ネコが新型コロナウイルスの中間宿主ではない可能性について、更に詳細記したいと思います。
-
-4月8日にオンライン公開された米国サイエンス誌に掲載された中国のハルビン獣医学研究所からの論文（https://science.sciencemag.org/content/early/2020/04/07/science.abb7015）では「空気感染」という言葉が確かに使われています。
-
-ただし、この実験では、高濃度の新型コロナウイルスを猫に噴霧して感染させた実験のため、そもそもの濃度が高かった可能性も他の研究者から指摘されています（https://nature.com/articles/d41586-020-00984-8）ので、「空気感染」はあくまでも実験室レベルでの話です。今後他の研究グループからの追試が待たれるところです。
-
-また、それではネコが原因で今回の新型コロナウイルスが広まったかもと考える人がいるかもしれません。プレプリント（査読前の論文）の報告ですが、武漢に生息する猫の抗体検査が大規模に調べた研究成果があります（https://biorxiv.org/content/10.1101/2020.04.01.021196v1）。
-
+4月8日にオンライン公開された米国サイエンス誌に掲載された中国のハルビン獣医学研究所からの論文（https://science.sciencemag.org/content/early/2020/04/07/science.abb7015
+では「空気感染」という言葉が確かに使われています。
+ただし、この実験では、高濃度の新型コロナウイルスを猫に噴霧して感染させた実験のため、そもそもの濃度が高かった可能性も他の研究者から指摘されています（https://nature.com/articles/d41586-020-00984-8
+ので、「空気感染」はあくまでも実験室レベルでの話です。今後他の研究グループからの追試が待たれるところです。
+また、それではネコが原因で今回の新型コロナウイルスが広まったかもと考える人がいるかもしれません。プレプリント（査読前の論文）の報告ですが、武漢に生息する猫の抗体検査が大規模に調べた研究成果があります（https://biorxiv.org/content/10.1101/2020.04.01.021196v1
 新型コロナウイルスの感染以後にサンプリングを行った猫には抗体があった、つまり猫の一部は新型コロナウイルスに感染していたと考えれます。一方、流行前に武漢で採取された猫の血液からは抗体は検出されませんでした。従って猫の集団中にもともとウイルスがあったわけではないと示唆されています。
-
 以上の結果から、猫が媒体となって新型コロナウイルスを人に感染させたのではなくて、人から猫に感染した可能性が高いと考えられます。
+
 
 
 https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
