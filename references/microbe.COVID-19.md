@@ -40,6 +40,8 @@ Mutations map holds the key to bringing coronavirus under control | Financial Ti
 
 ![](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F5c27e010-839e-11ea-bf65-b576fb8d66eb-standard.png?fit=scale-down&quality=highest&source=next&width=700)
 
+![](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2Faec98d80-8323-11ea-8f56-4ffc3928f016-fullwidth.png?fit=scale-down&quality=highest&source=next&width=1260)
+
 ----------
 ## poly(A) tail
 
