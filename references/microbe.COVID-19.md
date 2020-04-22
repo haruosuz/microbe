@@ -26,6 +26,20 @@
 - [news](#news)
   - [technologyreview](#technologyreview) MIT Tech Review
 
+
+
+----------
+## 
+
+4:34 AM · Apr 22, 2020
+https://twitter.com/pathogenomenick/status/1252682213033943040
+Nick Loman on Twitter: "Nice article in FT by @clivecookson focusing on @nextstrain with great quotes from @firefoxx66 has little quote from me: https://t.co/Ighwgajr8u “We could certainly have mutations that change the character of the virus,” he added, “though we have not yet seen this happening.” https://t.co/tBXzoqWMbI" / Twitter
+
+https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92#comments-anchor
+Mutations map holds the key to bringing coronavirus under control | Financial Times
+
+![](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F5c27e010-839e-11ea-bf65-b576fb8d66eb-standard.png?fit=scale-down&quality=highest&source=next&width=700)
+
 ----------
 ## poly(A) tail
 
@@ -264,11 +278,14 @@ PNAS論文回想
 ----------
 ### 2020-04-07
 
+https://twitter.com/search?q=Built%20Environment%20Considerations%20To%20Reduce%20Transmission
+https://twitter.com/copypasteusa/status/1250077856874369024
+人工環境(built environment; BE)の微生物学研究と新型コロナウイルス（SARS-CoV-2）に関する既知の情報を統合し、感染を減らすための実行可能なガイダンスを提供する。
 https://www.ncbi.nlm.nih.gov/pubmed/32265315
 mSystems. 2020 Apr 7;5(2). pii: e00245-20. doi: 10.1128/mSystems.00245-20.
 2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission.
 Dietz L#1, Horve PF#2, Coil DA3, Fretz M1,4, Eisen JA5,6,3, Van Den Wymelenberg K1,4.
-
+https://msystems.asm.org/content/5/2/e00245-20
 
 ----------
 ### 2020-04-05
@@ -882,9 +899,9 @@ John Burn-Murdoch on Twitter: "NEW: Thurs 9 April update of coronavirus trajecto
 ![](https://pbs.twimg.com/media/EVMK8jDXYAAIU0g?format=jpg&name=small)
 
 
-https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
-新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
-
+2020年04月08日
+https://gigazine.net/news/20200408-soap-alcohol-kill-coronavirus/
+新型コロナウイルス対策には「石けん」がアルコール消毒液より効果的である理由とは？
 
 https://twitter.com/DNA_PAPA/status/1245671281158045696
 この記事のように新型コロナは表面の上で生きているって書いてるが、活性があるって言うだけで、生きていません。細菌とウイルスを混同しては駄目です。細菌は自分で増殖できますが、ウイルスは、宿主がいないと増殖できません。人間に感染できなければ、いずれ消滅します。
@@ -893,6 +910,10 @@ https://wired.jp/2020/04/02/how-long-does-the-coronavirus-last-on-surfaces/
 新型コロナウイルスは、物体の表面で数日間は生き続ける？ 研究結果から見えてきたこと｜WIRED.jp
 
 ## 2020-03
+
+https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
+新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
+
 
 https://twitter.com/kakenman/status/1244960865759055878
 清水信哉@Elephantech on Twitter: "めちゃくちゃ勉強になる。あと異常に分かりやすくて情報プレゼンテーション能力の高さも感じる、すごい。 新型コロナウイルスに関連した感染症対策に関する厚生労働省対策推進本部クラスター対策班「COVID-19への対策の概念」 https://t.co/JBpjPjoAOr" / Twitter
