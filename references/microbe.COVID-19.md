@@ -28,6 +28,19 @@
 - 
   - [nazology](#nazology) ナゾロジー
 
+
+
+----------
+
+9:35 PM · Apr 30, 2020
+https://twitter.com/carlzimmer/status/1255838147713347586
+Carl Zimmer on Twitter: "New! How the coronavirus mutates, and how those mutations record its history. Another collaboration with @nytimes science graphics editor @13pt https://t.co/S3naDovzl4 https://t.co/TzTP0Udk1r" / Twitter
+April 30, 2020
+https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
+How Coronavirus Mutates and Spreads
+By Jonathan Corum and Carl Zimmer
+
+
 ----------
 ## 
 
@@ -70,6 +83,23 @@ Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete gen
 1:06 AM · Apr 30, 2020
 https://twitter.com/copypasteusa/status/1255529000551583749
 Haruo Suzuki on Twitter: "人工環境（地下鉄やATMや病院）表面からサンプルを綿棒で採取(swab)し、新型コロナウイルスを調査 #MetaSUB https://t.co/AoTm7LUn8d" / Twitter
+04.29.2020 07:00 AM
+地下鉄で、ヒト、インフルエンザウイルス、バクテリアの遺伝子を発見したが、SARS-CoV-2の兆候はない
+https://www.wired.com/story/microbe-mappers-are-tracking-covid-19s-invisible-traces/
+Microbe Mappers Are Tracking Covid-19's Invisible Traces | WIRED
+Armies of microbiologists are swabbing subways, ATMs, and hospitals in search of the novel coronavirus. Their data could help cities reopen responsibly.
+And as for the subways? Mason’s team has found plenty of genetic material from humans, the flu virus, and some bacteria, but so far, no sign of SARS-CoV-2.
+
+12:03 AM · Apr 30, 2020·
+https://twitter.com/mason_lab/status/1255512993284136960
+Chris Mason on Twitter: "LAMP Lights Up COVID-19 Testing https://t.co/P9mFJ0tujY via @GENbio and about some of our work on LAMP for COVID-19" / Twitter
+
+https://www.genengnews.com/news/lamp-lights-up-covid-19-testing/
+LAMP tracks SARS-CoV-2 around NYC 
+
+The Mason lab at Weill Cornell reported last week the development of a similar LAMP-based colorimetric test that can identify the presence of SARS-CoV-2 from both oral and nasopharyngeal samples.
+
+
 
 11:48 AM · Apr 17, 2020
 https://twitter.com/copypasteusa/status/1250979349630578688
