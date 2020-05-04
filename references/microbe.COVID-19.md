@@ -100,11 +100,21 @@ LAMP tracks SARS-CoV-2 around NYC
 The Mason lab at Weill Cornell reported last week the development of a similar LAMP-based colorimetric test that can identify the presence of SARS-CoV-2 from both oral and nasopharyngeal samples.
 
 
+May 01, 2020.
+https://www.biorxiv.org/content/10.1101/2020.04.20.048066v5
+Shotgun Transcriptome and Isothermal Profiling of SARS-CoV-2 Infection Reveals Unique Host Responses, Viral Diversification, and Drug Interactions | bioRxiv
+
+9:32 PM · Apr 22, 2020
+https://twitter.com/mason_lab/status/1252938294758969344
+Chris Mason on Twitter: "Our new @biorxivpreprint is up! "Host, Viral, and Environmental Transcriptome Profiles of SARS-CoV-2." COVID-19 patients (n=338) examined w/ qRT-PCR, RT-LAMP, &amp; total RNA-seq, host responses (e.g. ACE2) &amp; new diagnostic methods. https://t.co/lsPfzh8cOq Some highlights: /1" / Twitter
+RNA-seq of 84 samples in the NYC subway, with so far negative CoV-2 results (somewhat reassuring), but only as the outbreak started. Sequencing is ongoing here and also across the world with the 
+@metasub
+ Consortium to look at RNA viruses in hospitals and city centers. /5
+
 
 11:48 AM · Apr 17, 2020
 https://twitter.com/copypasteusa/status/1250979349630578688
 Haruo Suzuki on Twitter: "SARS-CoV-2診断のために使用されているプライマーの情報収集 https://t.co/afNFS2BQGI COVID-19: qRT-PCR diagnosis in the world This form is intended only to those who use qRT-PCR for SARS-CoV-2 diagnosis." / Twitter
-
 
 April 17, 2020
 https://news.cornell.edu/stories/2020/04/weill-cornell-use-2m-citadel-covid-19-fight
@@ -135,6 +145,12 @@ Christopher Mason on Twitter: ""NYC Scientists Swab the Subway in Search of SARS
 
 ----------
 ## video
+
+
+
+https://www.jsph.jp/covid/files/gainen_0402.pdf
+
+
 
 Apr 21, 2020
 https://www.youtube.com/watch?v=rbNuikVDrN4
