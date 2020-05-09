@@ -712,13 +712,33 @@ https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
 Revision Date:	2018-07-30
 
+4:37 AM · May 8, 2020
+https://twitter.com/NathanGrubaugh/status/1258480994094637057
+Nathan Grubaugh on Twitter: "Three rebuttals published in response the that terrible "A, B, C" paper in @PNASNews on the same day! Maybe just retract it? https://t.co/SdsVahzbZW" / Twitter
+
+5:28 AM · May 8, 2020
+https://twitter.com/kfuku0502/status/1258493846159319040
+Kenji Fukushima on Twitter: "分子系統学をほんの少しかじった者としてはSARS-CoV-2のゲノム配列を解析してみたい気持ちもあるんだけど、こういうの読むと地雷が多すぎてアーティファクトに嵌まる未来しか見えない。配列アラインメントを作るところですでにドメイン知識豊富な専門家が必要になってくる。 https://t.co/cECG4TCV6s" / Twitter
+全部自力でやろうとしたら、ここに挙げられているアーティファクトのいくつかは私では見破れないと思う。もしアラインメントを精査せずにその後の段階に進んでしまったら系統樹を描いた段階で枝が長い配列に気付いてそれらを除くくらいで、他の多くの点はスルーしてしまう気がする。
+http://virological.org/t/issues-with-sars-cov-2-sequencing-data/473
+Issues with SARS-CoV-2 sequencing data - Novel 2019 coronavirus / nCoV-2019 Genomic Epidemiology - Virological
+Figure 2: IQTree phylogeny showing some very long terminal branches.
+Investigating recombinations and clusters of mutations/artefacts
+To further investigate, and to look into possible recombination events, homoplasies (mutation events seemingly happening multiple times along the phylogeny) and mutational clusters, we ran ClonalFrameML v1.12 [4]. This software found 30 putative recombination events happening at terminal branches, consistent with the long terminal branches in Figure 2.
+
+
+6:19 PM · May 6, 2020
+https://twitter.com/RobLanfear/status/1257963198474403840
+Rob Social Distancing Lanfear on Twitter: "Here's what I've been doing all day. If you're looking to estimate a single tree topology for SARS-CoV-2 sequences, it's very hard to beat Maximum Parsimony. rapidnj is also very good (not significantly different from MP) and *unbelievably* fast. https://t.co/QNKdnxORwC" / Twitter
+Note that if you use IQ-TREE with the -fast option (or any option, actually), you will get a tree that's at least as good as the MP tree. That's because IQ-TREE always uses at least one MP tree as a starting tree and tries to improve it.
+
+
+7:59 PM · Mar 31, 2020
+https://twitter.com/DrKatHolt/status/1244942488634363906
+Kat Holt on Twitter: "@trvrb @RamenNSaha @manoliskellis @USATODAY @nextstrain @ramen @Nexstrain Oops sorry, I mean @RamenNSaha! If you want to learn more about how to interpret these phylogenies, read this https://t.co/pHm1TaOfed or watch this vid from @firefoxx66 https://t.co/egkZX61NRh" / Twitter
+Mar 27, 2020
 https://www.youtube.com/watch?v=Dd1RSMETXfI
 nanoTalk: Seeing the Epidemic Through the Trees – Why is sequencing important for COVID-19? - YouTube
-
-https://twitter.com/DrKatHolt/status/1244942488634363906
-If you want to learn more about how to interpret these phylogenies, read this https://nextstrain.org/help/general/about-nextstrain or watch this vid from 
-@firefoxx66
-7:59 PM · Mar 31, 2020
 
 https://twitter.com/firefoxx66/status/1244932312900534275
 https://twitter.com/firefoxx66/status/1243610978710929414
@@ -785,6 +805,11 @@ Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Sh
 
 ### nextstrain video
 
+7:23 AM · May 5, 2020
+https://twitter.com/nextstrain/status/1257435694122835969
+Nextstrain on Twitter: "This week's #covideo on the outbreaks in Central &amp; Eastern Europe is now online: https://t.co/VnJSVbhbJc Video is voiced and produced by @OliviaPhamNow -- thank you!" / Twitter
+
+
 12:13 PM · Apr 27, 2020
 https://twitter.com/nextstrain/status/1254609541750116354
 Nextstrain on Twitter: "Want to learn more about the #COVID19 outbreaks in Africa? This week's #covideo report covers what we've learned by analyzing viral genomes from the DRC, Senegal, Ghana, Algeria, South Africa, Nigeria, and Gambia. https://t.co/4NkX7ddyC0" / Twitter
@@ -817,6 +842,15 @@ Nextstrain Situation Report 2020-03-27
 
 
 ### nextstrain situation report 
+
+
+
+
+9:05 AM · May 4, 2020
+https://twitter.com/nextstrain/status/1257098998969544705
+Nextstrain on Twitter: "最新の #COVID19 #新型コロナウィルス 状況報告は、中央や東部ヨーロッパの感染拡大に注目します。こちらから日本語でもご覧頂けるようになりました。 迅速な翻訳を行って頂いた @tommy_nezy さん、Takeshi Sato さんと @fengjun_zhang さんに感謝します。 https://t.co/KTsXS6vwqb https://t.co/Ybe9Br2jrJ" / Twitter
+https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?f_region=Europe
+新型コロナウイルス拡散の遺伝的解析と状況報告 2020-05-01.
 
 12:46 AM · Apr 27, 2020
 https://twitter.com/nextstrain/status/1254436767828021248
@@ -1416,6 +1450,25 @@ HattoriM (@HattoriM) / 上海の大学で老師をしてゐる。Working on the 
 ### trvrb
 Trevor Bedford
 
+10:15 AM · May 6, 2020
+https://twitter.com/junglecity/status/1257841452127670272
+もとの新型コロナウイルス（SARS-CoV-2）を上回る感染力の変異種をニューメキシコ州のロスアラモス国立研究所の科学者らが特定。ワシントン州でも3月半ばにはこの変異種が優勢になったそう。
+シアトル日本語情報サイト🇺🇸「ジャングルシティ」 on Twitter: "しかし、この発表には@nextstrain @fredhutch の科学者 @trvrb さんが、結論づけるのは早すぎると、様々な観点から疑問を呈しています。とても勉強になります。 https://t.co/CoQG585odD https://t.co/oBgl37XZ5K" / Twitter
+9:11 AM · May 6, 2020
+https://twitter.com/trvrb/status/1257825379064049664
+Trevor Bedford on Twitter: "Overall, I would refer everyone to @edyong209's piece on handling uncertainty during the pandemic (https://t.co/QRAw8l37JA). I don't agree with takes that there is "no evidence" that G is more transmissible. There is some evidence, but it's far from conclusive. 15/16" / Twitter
+
+
+7:35 AM · May 1, 2020
+https://twitter.com/junglecity/status/1255989193152421888
+シアトル日本語情報サイト🇺🇸「ジャングルシティ」 on Twitter: "今回の新型コロナウイルスの遺伝子配列解析から流行の広がり方をリアルタイムで追跡している@nextstrain 共同創設者でシアトルの@fredhutch の科学者 @trvrb さんが、「すべての議論が第二波の可能性に関する物なのはわかっているが第一波も終わってないことを考えるとこれは奇妙だと思う。→ https://t.co/FTXzEHRFrb" / Twitter
+→私は、全国的に長期間の横ばいが続くという展開に直面している可能性が高いと思う」とツイートしています。
+「以前に述べたように、社会的距離が感染拡大に大きな影響を与えていることは明らか。しかし全米で抑制するには至っていないため、一貫した減少というよりも感染者数の増加が停滞している」
+6:45 AM · May 1, 2020
+https://twitter.com/trvrb/status/1255976675252158465
+Trevor Bedford on Twitter: "I know all the discussion is about a possible "2nd wave", but I've found this odd given that we haven't finished the first one. I would think quite possible that, nationally, we're in for a scenario of a long plateau. 1/10" / Twitter
+
+
 Carl T. Bergstrom
 5. It's hard to predict for certain, but my personal opinion is that given the rates at which we seeing mutations in the virus and the structure of its genome, there is not strong reason to expect more transmissible variants to evolve and become widespread over the next year.
 https://twitter.com/trvrb/status/1242319784798117888
@@ -1587,6 +1640,49 @@ https://www.youtube.com/watch?v=LQR4UPTvvTo
 Apr 14, 2020
 https://www.youtube.com/watch?v=y8XVTEI1WGk
 検査の説明、免疫応答、新規治療法の提案など（試験配信です）
+
+
+
+
+
+
+https://headlines.yahoo.co.jp/hl?a=20200501-00000014-nkgendai-hlth
+新型コロナで知っておきたい6つのこと ウイルス・ゲノム学者に聞いた（日刊ゲンダイDIGITAL） - Yahoo!ニュース
+
+【１】新型コロナウイルスはかなり巧妙ですね。どのようにできたのでしょうか？　一部では人工的につくられたという話もありますが。
+
+【２】新型コロナウイルスの変異が速く、病原性が増しているというのは事実ですか？
+
+一方で、ＲＮＡウイルスでもコロナウイルスは校正修復機構があり、組み換えで変異が戻る現象もあることから、一般的なＲＮＡウイルスに比べると変異しにくいと考えられます。
+
+宮沢　必ずしも変異を繰り返せば病原性が強くなるのではありません。
+
+【３】各地で変異が見つかっていて、さまざまな型が発表されていますが、その意味は？
+
+中川　新型コロナウイルスがその塩基変異からＳ型、Ｌ型と２つに分類できて、Ｌ型が強毒化したウイルスだとの研究論文があり注目されました。この研究も実験的な検証がなく、さまざまな研究者からの反論を受けて、現在では論文の著者らもＬ型が「強毒化している」との表現は誤りだったと認め、論文は修正されました。
+
+https://headlines.yahoo.co.jp/hl?a=20200501-00000014-nkgendai-hlth&p=2
+
+
+【４】ウイルス陽性だった人が陰性になり、再び陽性になるケースが報告されています。これは再感染ですか？　そ
+れとも再活性ですか？　あるいは一人の人がインフルエンザのＡ型、Ｂ型にかかるように型の違いによるものですか？
+
+
+宮沢　再感染ではないと思います。
+
+
+【５】ウイルスが物体に付着した場合、銅などの金属は数時間、段ボール紙は１日、プラスチックやステンレスは３日以上存在するといわれますが、本当ですか？
+
+宮沢　恐らく実験では１００万個くらいのウイルスの固まりを使っていたはずです。ウイルスが存在していることと感染力があることは違うことを知っておくべきです。
+私たちが感染実験で苦労するのは十分量のウイルスを集めることなのです。
+
+【６】だとすると手洗いや消毒に完璧を目指す必要はない？
+
+宮沢　私はそう思います。せっけんでしっかり手洗いしてエタノール消毒するというのは完全に細菌を殺したい人の発想でしょう。私は、手洗いは水で１０秒、１５秒洗うだけでも有効だと思います。多少洗い残しがあってもその時点ではヒトに感染できるだけのウイルスの個数は残っていないと考えるからです。
+
+とにかくウイルスをゼロにすることに神経質になる必要はありません。頻繁に手洗いしましょう。
+
+
 
 ----------
 ## virological
