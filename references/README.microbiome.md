@@ -19,6 +19,7 @@ Last Update: 2020-02
 - [Earth Microbiome Project](#emp)
 - [unclassified](#unclassified)
 - [people](#people)
+[Jack Gilbert](#jack-gilbert)
 [kurokawa](#kurokawa)
 
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
@@ -336,13 +337,25 @@ Thursday, 26 October 2017 10:16
 https://www.asm.org/index.php/podcasts/meet-the-microbiologist/item/6882-mtm-68
 Microbiomes everywhere with Jack Gilbert - MTM 68
 
-
-
 ----------
 ## people
+### Jack Gilbert
+
+https://www.youtube.com/watch?v=z6AiKkewR0U
+It's not just phones! Find out what... - YouTube
+
+https://www.youtube.com/watch?v=HDLEL36Fu1E
+Why getting dirty is the new clean | Jack Gilbert | TEDxNaperville - YouTube
 
 ### kurokawa
 
+https://www.nig.ac.jp/nig/ja/research/interviews/faculty-interviews
+メタゲノム解析で微生物集団のふるまいを記述し、そして予測する
+PDF
+ゲノム進化研究室 黒川研究室
+https://www.nig.ac.jp/nig/pdf/research/ja/interviews/faculty-interviews/FI_kurokawa.pdf
+
+2019.03.18
 https://gendai.ismedia.jp/articles/-/59676?page=2
 環境全体が即座にわかる！「メタゲノム解析」が明かす「ゲノムの謎」（サイエンスリポート） | ブルーバックス | 講談社（2/3）
 
