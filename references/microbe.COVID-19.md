@@ -402,6 +402,25 @@ Virus–virus interactions impact the population dynamics of influenza and the c
 https://doi.org/10.1073/pnas.1911083116
 
 ----------
+### attribution/acknowledgement
+
+https://twitter.com/NatureMicrobiol/status/1220010106257100800
+Nature Microbiology on Twitter: "Rapid outbreak response requires trust Early and open data sharing in an outbreak is vital, to be commended and should come with proper attribution. Should extend to 2019-nCoV isolates and other materials when available #2019-nCoV #epidemicpreparedness https://t.co/3zTnpJA70s https://t.co/mOlzQ5gq9y" / Twitter
+12:47 AM · Jan 23, 2020
+https://www.nature.com/articles/s41564-020-0670-8
+Rapid outbreak response requires trust | Nature Microbiology
+
+https://twitter.com/arambaut/status/1216060707143344134
+This is one of the reasons why people are reticent to share data. No acknowledgement of where the data comes from or who generated it. The figure is even branded with a logo. 
+3:14 AM · Jan 12, 2020
+
+https://twitter.com/EcoHealthNYC/status/1216062570035138561
+EcoHealth Alliance on Twitter: "Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR https://t.co/3WbFpQ02Pc" / Twitter
+3:21 AM · Jan 12, 2020
+https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
+Phylogenetic Analysis Shows Novel Wuhan Coronavirus Clusters with SARS - EcoHealth Alliance
+
+----------
 ### bats
 
 2020/04/14
@@ -433,10 +452,9 @@ In total, we estimated that there are at least 3,204 CoVs (based on the cluster 
 ----------
 ### codon
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/32294518
-Virus Res. 2020 Apr 12:197976. doi: 10.1016/j.virusres.2020.197976. [Epub ahead of print]
-A COMPREHENSIVE ANALYSIS OF GENOME COMPOSITION AND CODON USAGE PATTERNS OF EMERGING CORONAVIRUSES.
+Virus Res. 2020 Jul 2;283:197976. doi: 10.1016/j.virusres.2020.197976. Epub 2020 Apr 12.
+A comprehensive analysis of genome composition and codon usage patterns of emerging coronaviruses.
 Tort FL1, Castells M1, Cristina J2.
 
 Posted April 04, 2020.
@@ -456,6 +474,8 @@ Comparison of relative synonymous codon usage (RSCU) between 2019‐nCoV and its
 
 ![](https://onlinelibrary.wiley.com/cms/asset/4f3b18ab-36e4-42b2-a367-5e6633502fea/jmv25682-fig-0003-m.png)
 
+
+Latest published: 22 Apr 2020, 9:190 (https://doi.org/10.12688/f1000research.22627.2)
 https://twitter.com/wormmaps/status/1242211046443622401
 Colin J. Carlson, Ph.D. on Twitter: "This F1000 preprint argues based on codon use that pigs could plausibly be a better candidate for a SARS-CoV-2 reservoir, and even speculates about the human symptoms vs. porcine epidemic diarrhea virus, another corona. Can any virologists sense check? https://t.co/q4bZXe8htE https://t.co/hUXbYs1GWf" / Twitter
 7:06 AM · Mar 24, 2020
@@ -468,24 +488,6 @@ https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3
 Multivariate Analyses of Codon Usage of SARS-CoV-2 and other betacoronaviruses | bioRxiv
 https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3.full
 Amino acid composition sometime can also introduce confounding effects when one only focuses on studying the variations of synonymous codon usage. The use of global correspondence analysis (CA) and its derivatives within-group correspondence analysis (WCA) and between-group correspondence analysis (BCA) to analyze codon usages can overcome the above problem. In fact, WCA becomes “model of choice” for analyzing synonymous codon usage in recent years, as it is more robust than other traditional methods (e.g. CA with relative codon frequency or CA with RSCU values)7,8. This analytic approach, however, has not been used in studying viral sequences.
-
-### attribution/acknowledgement
-
-https://twitter.com/NatureMicrobiol/status/1220010106257100800
-Nature Microbiology on Twitter: "Rapid outbreak response requires trust Early and open data sharing in an outbreak is vital, to be commended and should come with proper attribution. Should extend to 2019-nCoV isolates and other materials when available #2019-nCoV #epidemicpreparedness https://t.co/3zTnpJA70s https://t.co/mOlzQ5gq9y" / Twitter
-12:47 AM · Jan 23, 2020
-https://www.nature.com/articles/s41564-020-0670-8
-Rapid outbreak response requires trust | Nature Microbiology
-
-https://twitter.com/arambaut/status/1216060707143344134
-This is one of the reasons why people are reticent to share data. No acknowledgement of where the data comes from or who generated it. The figure is even branded with a logo. 
-3:14 AM · Jan 12, 2020
-
-https://twitter.com/EcoHealthNYC/status/1216062570035138561
-EcoHealth Alliance on Twitter: "Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR https://t.co/3WbFpQ02Pc" / Twitter
-3:21 AM · Jan 12, 2020
-https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
-Phylogenetic Analysis Shows Novel Wuhan Coronavirus Clusters with SARS - EcoHealth Alliance
 
 ----------
 
@@ -802,119 +804,24 @@ Thanks to #opendata sharing by Tokyo Metropolitan Institute of Public Health, Sh
 
 ![](https://pbs.twimg.com/media/ES--jykWkAANZCF?format=jpg&name=small)
 
-
 ### nextstrain video
 
-7:23 AM · May 5, 2020
-https://twitter.com/nextstrain/status/1257435694122835969
-Nextstrain on Twitter: "This week's #covideo on the outbreaks in Central &amp; Eastern Europe is now online: https://t.co/VnJSVbhbJc Video is voiced and produced by @OliviaPhamNow -- thank you!" / Twitter
+[nextstrain #covideo - Twitter Search / Twitter](https://twitter.com/search?q=nextstrain%20%23covideo&src=typed_query&f=live)
 
-
-12:13 PM · Apr 27, 2020
-https://twitter.com/nextstrain/status/1254609541750116354
-Nextstrain on Twitter: "Want to learn more about the #COVID19 outbreaks in Africa? This week's #covideo report covers what we've learned by analyzing viral genomes from the DRC, Senegal, Ghana, Algeria, South Africa, Nigeria, and Gambia. https://t.co/4NkX7ddyC0" / Twitter
-https://www.youtube.com/watch?v=t1rQmnhhEes
-Nextstrain Situation report 2020-04-24
-
-https://twitter.com/nextstrain/status/1251982779018928129
-Nextstrain on Twitter: "This week's #covideo focuses on the USA. We find that both nearby and distant states have closely related #COVID19 outbreaks, so decisions by individual states will likely impact the larger country. https://t.co/zHTKNMyfTo Thank you @OliviaPhamNow for producing this video." / Twitter
-6:15 AM · Apr 20, 2020
-https://www.youtube.com/watch?v=pBG_ikMBJSg
-Nextstrain Situation Report 2020-04-17
-
-https://twitter.com/nextstrain/status/1250255829875318784
-Nextstrain on Twitter: "Have you seen this week's #COVID19 video? https://t.co/4c4urFY52Q In it, we trace the global spread of SARS-CoV-2 from its emergence into humans in late November/early December to this week. @OliviaPhamNow, thank you for making these videos." / Twitter
-11:53 AM · Apr 15, 2020
-https://www.youtube.com/watch?v=_re0HORRLZ8
-Nextstrain Situation Report 2020-04-10
-
-https://twitter.com/nextstrain/status/1246952401111625728
-Nextstrain on Twitter: "Want to know more about what we've learned from #SARSCoV2 #hCoV19 sequences? Watch the latest video situation report: https://t.co/LABZVyZxhw Thanks to @OliviaPhamNow &amp; @pleunipennings for making these videos." / Twitter
-9:06 AM · Apr 6, 2020
-https://www.youtube.com/watch?v=u2xNUiKMZ9M
-Nextstrain Situation Report 2020-04-03
-
-https://twitter.com/nextstrain/status/1244743250595827712
-Nextstrain on Twitter: "The video version of this week's #COVID19 #SARSCov2 situation report is now live at https://t.co/I6KEj2j8xY. Give @OliviaPhamNow a big thanks for creating these videos." / Twitter
-6:48 AM · Mar 31, 2020
-https://www.youtube.com/watch?v=Rb6gujhWy9k
-Nextstrain Situation Report 2020-03-27
-
+12:03 PM · May 10, 2020
+https://twitter.com/nextstrain/status/1259318053063426048
+Nextstrain on Twitter: "This week's #covideo report focuses on Asia. Watch it for information on the frequent international spread of #COVID19 across Asia, the origins of the epidemic in India, and the resurgence of cases in Singapore. https://t.co/JHlNQu3C6O" / Twitter
 
 ### nextstrain situation report 
 
-
-
-
-9:05 AM · May 4, 2020
-https://twitter.com/nextstrain/status/1257098998969544705
-Nextstrain on Twitter: "最新の #COVID19 #新型コロナウィルス 状況報告は、中央や東部ヨーロッパの感染拡大に注目します。こちらから日本語でもご覧頂けるようになりました。 迅速な翻訳を行って頂いた @tommy_nezy さん、Takeshi Sato さんと @fengjun_zhang さんに感謝します。 https://t.co/KTsXS6vwqb https://t.co/Ybe9Br2jrJ" / Twitter
-https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?f_region=Europe
-新型コロナウイルス拡散の遺伝的解析と状況報告 2020-05-01.
-
-12:46 AM · Apr 27, 2020
-https://twitter.com/nextstrain/status/1254436767828021248
-Nextstrain on Twitter: "今週の #COVID19 #新型コロナウィルス の状況報告はアフリカに注目します。 こちらから日本語でもご覧頂けるようになりました。 迅速な翻訳を行って頂いた @tommy_nezy さん、Takeshi Sato さんと @fengjun_zhang さんに感謝します。 https://t.co/YW1V5CrPWU https://t.co/EeF7zGKarh" / Twitter
-
-
-https://twitter.com/nextstrain/status/1251969467648602113
-Nextstrain on Twitter: "今週の状況報告では #COVID19 によるアメリカでの感染拡大を追跡します。こちらから日本語でもご覧頂けるようになりました。 迅速な翻訳を行って頂いた @tommy_nezy , Takeshi Sato, @fengjun_zhang に感謝します。 https://t.co/FxPqcb7hNN https://t.co/d7wjMdQTH9" / Twitter
-5:22 AM · Apr 20, 2020
-https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17
-新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-17.
-
-https://nextstrain.org/narratives/ncov/sit-rep/en/2020-04-17
-Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
-
-https://twitter.com/nextstrain/status/1249214612123385857
-Nextstrain on Twitter: "今週の状況報告では #COVID19 による感染拡大が毎月どのように広まっていったのかを追跡します。こちらから日本語でもご覧頂けるようになりました。 https://t.co/WsIPsej4k7 迅速な翻訳を行って頂いた @tommy_nezy, Takeshi Sato, @fengjun_zhang に感謝します。 https://t.co/nrZjB6jznf" / Twitter
-2:55 PM · Apr 12, 2020
-https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10
-新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-10.
-
-https://twitter.com/nextstrain/status/1248707010750640128
-Nextstrain on Twitter: "Our new Situation Report is now available. https://t.co/Oz3iiAk2uh This week, we take a step back to trace how the outbreak has unfolded, month by month. We focus on transmission dynamics between regions of the world. https://t.co/JoSPKVOkFT" / Twitter
-5:18 AM · Apr 11, 2020
-https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10
-Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
-
+[@nextstrain @tommy_nezy @fengjun_zhang - Twitter Search / Twitter](https://twitter.com/search?q=%40nextstrain%20%40tommy_nezy%20%40fengjun_zhang&src=typed_query&f=live)
 
 https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03
 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-03.
 
 https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=1
-
 最近の日本への伝搬は、クルーズ船に関連しています
-
 https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?f_country=Japan&n=8
-
-最近の日本への伝搬は、クルーズ船に関連しています
-日本から追加された最近の16種の遺伝子配列のうち、10種はナイル川のクルーズ船に乗った旅行の履歴があります。 日本で診断および採取された16種の遺伝子配列すべてが、2つのクラスターに分かれます。興味深いことに、これらのクラスターは他の日本やアジアの遺伝子配列とは関係していませんが、主に米国とヨーロッパで見られる遺伝子配列に含まれています。
-
-したがって、これらの日本人旅行者は、エジプトを訪れた他のヨーロッパ人やアメリカ人から感染した可能性が高いと思われます。旅行者が日本へ帰国した後の3月中旬に遺伝子配列が採取されたことから、欧米で主に流行していた種が3月上旬に旅行者を経由して世界中に広まった事が伺えます。
-
-https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=1
-
-Recent introductions to Japan are cruiseship-associated
-
-https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=8
-
-Recent introductions to Japan are cruiseship-associated
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
-
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
-
-
-https://twitter.com/nextstrain/status/1244289986607738880
-Nextstrain on Twitter: "最新の#COVID19 #SARSCoV2 #HCoV19 状況レポートが日本語で利用可能になりました。 今週は、地域ごとにデータを分類しました。 翻訳してくれTakeshiSato、@tommy_nezy、@fengjun_zhang に感謝します。 https://t.co/E0gXp9vVrO The latest situation report is now available in Japanese. https://t.co/fWppSk4PE9" / Twitter
-12:47 AM · Mar 30, 2020
-
-https://twitter.com/nextstrain/status/1238875482881318912
-Nextstrain on Twitter: "コロナウィルス及び #COVID19 についての状況報告（日本語）更新されました！https://t.co/R421TpCp1i 翻訳担当の @tommy_nezy さん、 @fengjun_zhang さんとTakeshi Satoさん、お疲れ様です。 The March 13 situation report is now available in Japanese! #HCoV19 #SARSCoV2 https://t.co/qFQJhaM0FG" / Twitter
-2:11 AM · Mar 15, 2020
-
-https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13
-新型コロナウイルス拡散の遺伝的解析と状況報告 2020-03-13.
 
 ### nextstrain paper
 
@@ -1018,7 +925,6 @@ http://crisp-bio.blog.jp/archives/22091842.html
 
 ## 2020-04
 
-
 7:03 AM · Apr 30, 2020
 https://twitter.com/afpbbcom/status/1255618617334534144
 AFPBB News on Twitter: "新型コロナウイルスの感染患者の排せつ物の中にはっきりとウイルスの存在が認められることがいくつかの研究で明らかになっている。下水の検査は今や感染拡大の追跡にとって重要なカギであり、流行の第2波が危惧される中で貴重な早期警報システムにもなるかもしれない。 https://t.co/y6NoqqKDqK" / Twitter
@@ -1036,6 +942,17 @@ https://www.jsps.go.jp/j-grantsinaid/data/faq.pdf
 https://twitter.com/MayumiNarako/status/1251889444069793793
 Mayumi Naramura on Twitter: "パンデミックの今後。20人以上の専門家（公衆衛生、医学、疫学、歴史）の知見にもとづく長い記事ですが読める方は是非。これまでの動きもよくまとまっており、重要記事リンクつき。以下に要点を。 https://t.co/43nsJZlW4S" / Twitter
 12:04 AM · Apr 20, 2020
+
+
+
+Apr 17, 2020
+https://nyc.streetsblog.org/2020/04/17/that-mit-study-about-the-subway-causing-covid-spread-is-crap/
+That MIT Study About the Subway Causing COVID Spread is Crap – Streetsblog New York City
+http://web.mit.edu/jeffrey/harris/HarrisJE_WP2_COVID19_NYC_13-Apr-2020.pdf
+The Subways Seeded the Massive Coronavirus Epidemic in New York City
+Jeffrey E. Harris
+
+
 
 
 4/15(水) 1:47配信
