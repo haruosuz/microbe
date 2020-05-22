@@ -358,21 +358,10 @@ https://gigazine.net/news/20190511-hidden-air-pollution-in-home/
 23 March 2019
 https://link.springer.com/article/10.1007/s00248-019-01348-0
 Bacillus-Dominant Airborne Bacterial Communities Identified During Asian Dust Events | SpringerLink
-PM10
+- PM10
 
-https://twitter.com/ForbesScience/status/1100783871237464064
-Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
-10:45 AM - 27 Feb 2019
-https://twitter.com/LinhAnhCat/status/1100140109641306112
-Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization increases both number of airborne microbes and proportion of pathogenic bacteria, increasing risks to human health. https://t.co/QoaHxEVV6z"
-4:06 PM - 25 Feb 2019
-https://twitter.com/SfAMtweets/status/1100413682754801675
-SfAM Microbiology on Twitter: "'Another reason why urban and suburban sites have more pathogenic bacteria compared to rural zones are the differences in biological sources of bacteria. In cities, humans incubate and shed bacteria that contribute to the urban air microbiome.' https://t.co/jD9E77L0la"
-10:14 AM - 26 Feb 2019
-都市化は空気中の感染性微生物を増加させる。
-急速に発展している中国の都市（廈門市）で行われた研究は、都市化が空気中の病原菌の割合と空中浮遊微生物の全体量を増加させることを発見した。特に夏季に、都市化に伴って人の健康に対する空中浮遊微生物のリスクが高まる。
-https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes
-Urbanization Increases Infectious Microbes In The Air
+### Li et al. 2019
+
 急速に発展している中国の都市における空中浮遊微生物叢の空間的および季節的変動
 https://www.ncbi.nlm.nih.gov/pubmed/30772579
 Sci Total Environ. 2019 May 15;665:61-68. doi: 10.1016/j.scitotenv.2019.01.367. Epub 2019 Feb 3.
@@ -385,6 +374,25 @@ http://www.shb.cas.cn/kjjz2016/201902/P020190221614185511412.pdf
 - 空中浮遊菌は春と比べて夏の方が多様性が高かった。
 - 病原菌と空中浮遊細菌の群集は、都市化レベルが異なる場所で異なった。
 - 潜在的なヒト病原菌の相対的存在量は都市化レベルとともに増加した。
+
+都市化は空気中の感染性微生物を増加させる。
+急速に発展している中国の都市（廈門市）で行われた研究は、都市化が空気中の病原菌の割合と空中浮遊微生物の全体量を増加させることを発見した。特に夏季に、都市化に伴って人の健康に対する空中浮遊微生物のリスクが高まる。
+https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes
+Urbanization Increases Infectious Microbes In The Air
+
+12:45 AM · Feb 28, 2019
+https://twitter.com/ForbesScience/status/1100783871237464064
+Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
+
+12:14 AM · Feb 27, 2019
+https://twitter.com/SfAMtweets/status/1100413682754801675
+SfAM Microbiology on Twitter: "'Another reason why urban and suburban sites have more pathogenic bacteria compared to rural zones are the differences in biological sources of bacteria. In cities, humans incubate and shed bacteria that contribute to the urban air microbiome.' https://t.co/jD9E77L0la"
+
+6:06 AM · Feb 26, 2019
+https://twitter.com/LinhAnhCat/status/1100140109641306112
+Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization increases both number of airborne microbes and proportion of pathogenic bacteria, increasing risks to human health. https://t.co/QoaHxEVV6z"
+
+### air_2017
 
 https://www.ncbi.nlm.nih.gov/pubmed/29238327
 Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
