@@ -141,6 +141,12 @@ Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo cr
 
 ### roxana_hickey
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
+Microbiome. 2017 Jul 14;5(1):76. doi: 10.1186/s40168-017-0294-2.
+Cleanliness in context: reconciling hygiene with a modern microbial perspective.
+Vandegrift R1,2, Bateman AC3,4, Siemens KN3,4, Nguyen M3,5, Wilson HE3,4, Green JL3,4, Van Den Wymelenberg KG6,7, Hickey RJ3,4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
+
 JANUARY 28, 2016
 http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
 We’re All Sitting in Clouds of Bacteria | Mental Floss
@@ -225,41 +231,11 @@ https://www.nature.com/articles/s41591-019-0469-4
 Farm-like indoor microbiota in non-farm homes protects children from asthma development | Nature Medicine
 
 
-都市化傾度に沿った河川細菌群集の変化
-24 May 2019
-https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14694
-In search of microbial indicator taxa: shifts in stream bacterial communities along an urbanization gradient
-
-https://twitter.com/leungmarcus/status/1125925446187606022
-New work from @andyhois @yeipijotape @gilbertjacka and colleagues published @MicrobiomeJ
-https://www.ncbi.nlm.nih.gov/pubmed/31046835
-Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
-Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
-Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
-
-
-
-
-臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
-https://twitter.com/susanprescott88/status/1101464494151294977
-Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
-7:49 AM - 1 Mar 2019
-https://www.ncbi.nlm.nih.gov/pubmed/30814504
-Nat Commun. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
-Man-made microbial resistances in built environments.
-Mahnert A1, Moissl-Eichinger C2,3, Zojer M4, Bogumil D5, Mizrahi I5, Rattei T4, Martinez JL6, Berg G7,3.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
-
 ## 2018
 
 
 
 ## 2017
-
-https://www.ncbi.nlm.nih.gov/pubmed/29238327
-Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
-Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
-Fujiyoshi S1, Tanaka D2, Maruyama F1,3.
 
 https://www.microbe.net/2017/02/10/genomes-of-eight-bacteria-from-the-built-environment/
 Genomes of eight bacteria from the built environment – microBEnet: the microbiology of the Built Environment network
@@ -297,15 +273,6 @@ DarwinBioprospecting on Twitter: "Bacteria from the built environment: the inner
 10:16 AM - 23 May 2016
 
 ## 2015
-
-https://twitter.com/phylogenomics/status/680137280934158336
-Jonathan Eisen on Twitter: "Nice microbiology of the built environment paper: Sources of indoor air bacteria… https://t.co/DEYhzTihaU https://t.co/IZo4uM65as"
-4:25 PM - 24 Dec 2015
-![](https://pbs.twimg.com/media/CXBVQJ7UEAA7rBG.png)
-https://www.ncbi.nlm.nih.gov/pubmed/26653310
-Microbiome. 2015 Dec 10;3:61. doi: 10.1186/s40168-015-0128-z.
-Relative and contextual contribution of different sources to the composition and abundance of indoor air bacteria in residences.
-Miletto M1, Lindow SE2.
 
 https://wired.jp/2015/10/11/bacteria-clouds/
 人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
@@ -372,17 +339,57 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945812/
 ## air
 空気中の微生物
 
+ノルウェー地下鉄（空気・表面/春夏秋冬）細菌群集
+https://www.ncbi.nlm.nih.gov/pubmed/31856911
+Microbiome. 2019 Dec 19;7(1):160. doi: 10.1186/s40168-019-0772-9.
+The subway microbiome: seasonal dynamics and direct comparison of air and surface bacterial communities.
+Gohli J1, Bøifot KO2,3, Moen LV2, Pastuszek P4, Skogan G2, Udekwu KI5, Dybwad M2,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6924074/
+- Notably, the MetaSUB project [10] has produced a microbiome and antimicrobial resistance atlas from mass transit surface samples spanning 58 cities across the world [11]. 
+- Air samples were collected and air filters extracted as previously described in Bøifot et al. [29]. 
+
 https://twitter.com/gigazine/status/1127000544873046016
 GIGAZINE(ギガジン) on Twitter: "屋内の空気汚染は時に屋外よりも深刻、料理や掃除が汚染の原因に https://t.co/YjDdocWQur"
 8:00 PM - 10 May 2019
-
 https://gigazine.net/news/20190511-hidden-air-pollution-in-home/
 屋内の空気汚染は時に屋外よりも深刻、料理や掃除が汚染の原因に - GIGAZINE
 しかし、この分野には専門家が少なかったことから、屋外の大気汚染に関する専門家を引き入れて屋内空気汚染についての研究をしてもらうケースが多かったとのこと。コロラド大学の化学者であるDelphine Farmer氏や、同じくコロラド大学の環境エンジニアであるMarina Vance氏は、「微生物と環境化学についての家の観察(House Observations of Microbial and Environmental Chemistry)」、通称「Homechem」という呼ばれるプロジェクトで屋内の空気汚染について研究しています。
 
+23 March 2019
 https://link.springer.com/article/10.1007/s00248-019-01348-0
 Bacillus-Dominant Airborne Bacterial Communities Identified During Asian Dust Events | SpringerLink
 PM10
+
+https://twitter.com/ForbesScience/status/1100783871237464064
+Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
+10:45 AM - 27 Feb 2019
+https://twitter.com/LinhAnhCat/status/1100140109641306112
+Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization increases both number of airborne microbes and proportion of pathogenic bacteria, increasing risks to human health. https://t.co/QoaHxEVV6z"
+4:06 PM - 25 Feb 2019
+https://twitter.com/SfAMtweets/status/1100413682754801675
+SfAM Microbiology on Twitter: "'Another reason why urban and suburban sites have more pathogenic bacteria compared to rural zones are the differences in biological sources of bacteria. In cities, humans incubate and shed bacteria that contribute to the urban air microbiome.' https://t.co/jD9E77L0la"
+10:14 AM - 26 Feb 2019
+都市化は空気中の感染性微生物を増加させる。
+急速に発展している中国の都市（廈門市）で行われた研究は、都市化が空気中の病原菌の割合と空中浮遊微生物の全体量を増加させることを発見した。特に夏季に、都市化に伴って人の健康に対する空中浮遊微生物のリスクが高まる。
+https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes
+Urbanization Increases Infectious Microbes In The Air
+急速に発展している中国の都市における空中浮遊微生物叢の空間的および季節的変動
+https://www.ncbi.nlm.nih.gov/pubmed/30772579
+Sci Total Environ. 2019 May 15;665:61-68. doi: 10.1016/j.scitotenv.2019.01.367. Epub 2019 Feb 3.
+Spatial and seasonal variation of the airborne microbiome in a rapidly developing city of China.
+Li H1, Zhou XY1, Yang XR1, Zhu YG2, Hong YW3, Su JQ4.
+https://www.sciencedirect.com/science/article/pii/S0048969719304176
+http://www.shb.cas.cn/kjjz2016/201902/P020190221614185511412.pdf
+ハイライト
+- FirmicutesとProteobacteriaは空中浮遊細菌群集で優占していた。
+- 空中浮遊菌は春と比べて夏の方が多様性が高かった。
+- 病原菌と空中浮遊細菌の群集は、都市化レベルが異なる場所で異なった。
+- 潜在的なヒト病原菌の相対的存在量は都市化レベルとともに増加した。
+
+https://www.ncbi.nlm.nih.gov/pubmed/29238327
+Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
+Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
+Fujiyoshi S1, Tanaka D2, Maruyama F1,3.
 
 2017年8月28日
 https://www.recordchina.co.jp/b188759-s0-c30-d0054.html
@@ -397,29 +404,76 @@ Airborne Bacterial Communities in Three East Asian Cities of China, South Korea,
 Lee JY1, Park EH1, Lee S2,3, Ko G1,2,3,4, Honda Y5, Hashizume M6, Deng F7, Yi SM1, Kim H8.
 Beijing (China) had more diverse airborne bacteria, followed by Seoul (South Korea) and Nagasaki (Japan), and seasonal variations were observed. 
 
-By Marcus Leung  Posted on August 20, 2017
-https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
-The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
-
 スペイン バルセロナの地下鉄における空気中の微生物叢
 https://www.ncbi.nlm.nih.gov/pubmed/27687789
 Indoor Air. 2017 May;27(3):564-575. doi: 10.1111/ina.12343. Epub 2016 Oct 26.
 Bioaerosols in the Barcelona subway system.
 Triadó-Margarit X1, Veillette M2, Duchaine C2, Talbot M2, Amato F3, Minguillón MC3, Martins V3, de Miguel E4, Casamayor EO1, Moreno T3.
 
+https://twitter.com/phylogenomics/status/680137280934158336
+Jonathan Eisen on Twitter: "Nice microbiology of the built environment paper: Sources of indoor air bacteria… https://t.co/DEYhzTihaU https://t.co/IZo4uM65as"
+4:25 PM - 24 Dec 2015
+![](https://pbs.twimg.com/media/CXBVQJ7UEAA7rBG.png)
+https://www.ncbi.nlm.nih.gov/pubmed/26653310
+Microbiome. 2015 Dec 10;3:61. doi: 10.1186/s40168-015-0128-z.
+Relative and contextual contribution of different sources to the composition and abundance of indoor air bacteria in residences.
+Miletto M1, Lindow SE2.
+
+https://pubmed.ncbi.nlm.nih.gov/25953766/
+Review Genome Biol Evol
+. 2015 May 6;7(5):1216-26. doi: 10.1093/gbe/evv064.
+Challenges and Opportunities of Airborne Metagenomics
+Hayedeh Behzad 1, Takashi Gojobori 2, Katsuhiko Mineta 3
+
+http://www.ncbi.nlm.nih.gov/pubmed/23542619
+Appl Environ Microbiol
+. 2013 Jun;79(11):3485-93. doi: 10.1128/AEM.00331-13. Epub 2013 Mar 29.
+Culture-independent Analysis of Aerosol Microbiology in a Metropolitan Subway System
+Charles E Robertson 1, Laura K Baumgartner, J Kirk Harris, Kristen L Peterson, Mark J Stevens, Daniel N Frank, Norman R Pace
+
+### Patrick Lee
+### Marcus Leung
+
+By Marcus Leung  Posted on August 20, 2017
+https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
+The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
+
+June 20, 2015 
+http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1
+Air Microbiome of Hong Kong’s Subways
+Patrick Lee
+
 https://www.ncbi.nlm.nih.gov/pubmed/25172855
 Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
 Indoor-air microbiome in an urban subway network: diversity and dynamics.
 Leung MH1, Wilkins D1, Li EK1, Kong FK1, Lee PK2.
 
-- [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
-- [Behzad H, Gojobori T, Mineta K. Genome Biol Evol. 2015 May 6;7(5):1216-26. "Challenges and opportunities of airborne metagenomics."](http://www.ncbi.nlm.nih.gov/pubmed/25953766)
-- [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
-- [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
-- [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
-- [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
-- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
-- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
+### Tamami Kawasaki
+
+http://www.ncbi.nlm.nih.gov/pubmed/24025860
+J Occup Health
+. 2013;55(6):495-502. doi: 10.1539/joh.13-0055-fs. Epub 2013 Sep 10.
+Distribution of Airborne Bacteria in Railway Stations in Tokyo, Japan
+Tamami Kawasaki 1, Takashi Kyotani, Tomoyoshi Ushiogi, Hunjun Lee
+
+http://www.ncbi.nlm.nih.gov/pubmed/20299760
+J Occup Health
+. 2010;52(3):186-93. doi: 10.1539/joh.o9022. Epub 2010 Mar 19.
+Distribution and Identification of Airborne Fungi in Railway Stations in Tokyo, Japan
+Tamami Kawasaki 1, Takashi Kyotani, Tomoyoshi Ushiogi, Yasuhiko Izumi, Hunjun Lee, Toshio Hayakawa
+http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf
+
+http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf
+Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations
+Kawasaki T et al.
+
+http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf
+駅構内の空気質に与える微生物の影響評価
+RTRI REPORT Vol. 22, No. 5, May. 2008
+
+http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf
+駅構内の空気質に与える微生物の影響評価
+(鉄道総研報告,2008 年 5 月号)
 
 https://www.rtri.or.jp/rd/news/human/human_201107.html#sect05
 公益財団法人鉄道総合技術研究所｜人間科学ニュース 2011年7月号（第174号）
@@ -522,24 +576,16 @@ Published on Aug 25, 2014
 病院
 
 
-here is the paper from Niranjan Nagarajan.
-https://www.biorxiv.org/content/10.1101/644740v1
-Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment
-
-救急車のメタゲノム
-https://www.ncbi.nlm.nih.gov/pubmed/28938903
-Microbiome. 2017 Sep 22;5(1):125. doi: 10.1186/s40168-017-0339-6.
-Metagenomic characterization of ambulances across the USA.
-O'Hara NB1, Reed HJ2, Afshinnekoo E2,3,4, Harvin D5, Caplan N5, Rosen G6, Frye B7, Woloszynek S6, Ounit R8, Levy S9, Butler E2, Mason CE10,11,12.
-
-
 2019/10/14
 https://www.carenet.com/news/general/hdn/48772
 帝王切開で生まれた子どもの腸内細菌は、その子どもが生まれた病院内で見られる細菌を反映したものであったのに対し、経腟分娩で生まれた子どもの腸内細菌の組成は母親の腸内環境に類似していた
 
 2019年10月3日
+https://www.natureasia.com/ja-jp/nature/574/7776/
+微生物学：帝王切開分娩における微生物相の発達不全および日和見病原体の定着
+Stunted microbiota and opportunistic pathogen colonization in caesarean-section birth
+https://www.natureasia.com/ja-jp/nature/574/7776/s41586-019-1560-1/帝王切開分娩における微生物相の発達不全および日和見病原体の定着
 https://www.natureasia.com/ja-jp/nature/574/7776/s41586-019-1560-1
-帝王切開分娩における微生物相の発達不全および日和見病原体の定着 | 
 帝王切開による分娩児では、母親からのバクテロイデス属（Bacteroides）の株の伝播がほとんどなく、病院の環境に関連する日和見病原体［エンテロコッカス属（Enterococcus）、エンテロバクター属（Enterobacter）、クレブシエラ属（Klebsiella）の種など］が高レベルで定着していることを報告する。
 
 MetaMED
@@ -1318,7 +1364,7 @@ Guest Post: Metadata for the Built Environment – MIxS-BE package
 ## unclassified
 
 https://twitter.com/copypasteusa/status/1093071982155845632
-建築環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
+人工環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
 
 https://www.ncbi.nlm.nih.gov/pubmed/30691394
 BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
@@ -1328,13 +1374,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 
 
 背景
-建築環境（built environment）の微生物群集は、人々の生活に影響を与える可能性があり、様々な屋内・屋外・地下・極限環境で研究されてきた。従来、これらの微生物は培養法または培養非依存法（アンプリコンシークエンシング）によって研究されてきた。しかしながら、いずれの方法にも限界があり、複数の研究結果を比較することは困難であり、微生物のライフスタイル（宿主との共生、自由生活性、増殖スピードなど）に関する情報はほとんど得られない。建築環境の微生物をより深く理解するためには、DNA配列が完全に解読されたゲノムから情報を得る方法が有効と考えられる。そこで、建築環境で共通して同定される細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）を調査することにより、これらの細菌のライフスタイルを理解するための第一歩を提供することを目的とした。
+人工環境（built environment）の微生物群集は、人々の生活に影響を与える可能性があり、様々な屋内・屋外・地下・極限環境で研究されてきた。従来、これらの微生物は培養法または培養非依存法（アンプリコンシークエンシング）によって研究されてきた。しかしながら、いずれの方法にも限界があり、複数の研究結果を比較することは困難であり、微生物のライフスタイル（宿主との共生、自由生活性、増殖スピードなど）に関する情報はほとんど得られない。人工環境の微生物をより深く理解するためには、DNA配列が完全に解読されたゲノムから情報を得る方法が有効と考えられる。そこで、人工環境で共通して同定される細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）を調査することにより、これらの細菌のライフスタイルを理解するための第一歩を提供することを目的とした。
 
 結果
-本研究では、建築環境で共通して同定されている細菌の属（「建築環境の細菌ゲノム」）と、他の細菌の属（「他の細菌ゲノム」）を比較した。「建築環境の細菌ゲノム」は、様々な気候や建築環境（屋内・屋外・地下・極限環境）で同定された。これらの建築環境には、地下鉄、病院、住宅、公共レクリエーション施設（ジム・フィットネスセンター）、国際宇宙ステーション（ISS）、クリーンルームなどが含まれる。16SリボソームRNA遺伝子配列に基づく細菌の多様性レベルは属間で大きく異なった。「建築環境の細菌ゲノム」のゲノムサイズ、GC含量、DNA複製鎖間の非対称度は、「他の細菌ゲノム」のそれより、統計的に有意に大きかったが、実質的な差は小さかった。これに対して、コドン使用バイアスの自然選択の強度（S値）は、「他の細菌ゲノム」と比較して「建築環境の細菌ゲノム」で統計的に有意に高く、実質的な差も大きかった。
+本研究では、人工環境で共通して同定されている細菌の属（「人工環境の細菌ゲノム」）と、他の細菌の属（「他の細菌ゲノム」）を比較した。「人工環境の細菌ゲノム」は、様々な気候や人工環境（屋内・屋外・地下・極限環境）で同定された。これらの人工環境には、地下鉄、病院、住宅、公共レクリエーション施設（ジム・フィットネスセンター）、国際宇宙ステーション（ISS）、クリーンルームなどが含まれる。16SリボソームRNA遺伝子配列に基づく細菌の多様性レベルは属間で大きく異なった。「人工環境の細菌ゲノム」のゲノムサイズ、GC含量、DNA複製鎖間の非対称度は、「他の細菌ゲノム」のそれより、統計的に有意に大きかったが、実質的な差は小さかった。これに対して、コドン使用バイアスの自然選択の強度（S値）は、「他の細菌ゲノム」と比較して「人工環境の細菌ゲノム」で統計的に有意に高く、実質的な差も大きかった。
 
 結論
-調査した4つのゲノムの特徴のうち、（翻訳の効率と正確度に関連する）高発現遺伝子のコドン使用バイアス（S値）は、建築環境に生息する細菌のライフスタイルを理解する上でより重要な役割を果たす可能性がある。S値は、細菌の増殖速度、遺伝子発現、建築環境における増殖条件（温度、湿度、栄養素など）によって影響を受ける他の潜在的要因を反映し得る。しかし、建築環境の細菌のライフスタイルとゲノムの特徴との間の関係をより明らかにするためには、さらなる実験的証拠、細菌の種レベルの研究、建築環境の分類が必要とされる。
+調査した4つのゲノムの特徴のうち、（翻訳の効率と正確度に関連する）高発現遺伝子のコドン使用バイアス（S値）は、人工環境に生息する細菌のライフスタイルを理解する上でより重要な役割を果たす可能性がある。S値は、細菌の増殖速度、遺伝子発現、人工環境における増殖条件（温度、湿度、栄養素など）によって影響を受ける他の潜在的要因を反映し得る。しかし、人工環境の細菌のライフスタイルとゲノムの特徴との間の関係をより明らかにするためには、さらなる実験的証拠、細菌の種レベルの研究、人工環境の分類が必要とされる。
 
 
 2016/03/24
