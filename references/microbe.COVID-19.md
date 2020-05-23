@@ -1,7 +1,7 @@
 # COVID-19
 **新型コロナウイルス感染症**
 
-- [references](#references)x
+- [references](#references)
 - [sewage](#sewage) 下水
 - poly(A) tail
 - [books](#books)
@@ -57,6 +57,13 @@ http://statmodeling.hatenablog.com/entry/covid19-estimate-effective-reproduction
 http://mikuhatsune.hatenadiary.com/entry/2020/05/13/205824
 新型肺炎COVID-19の日本の実効再生産数を推定したrstanのコードを解説してみる - 驚異のアニヲタ社会復帰の予備
 
+8:45 AM · May 13, 2020
+https://twitter.com/DLYDDDDK/status/1260355522286374912
+空飛ぶペプチドタグ on Twitter: "検体（ウイルスでなくて）の取扱いレベルは各検査機関の規定に沿ってやってもらえればいいと思うんだけど、コロナウイルス含め+鎖RNAウイルスの完全長RNAそのものには感染性があることを忘れてはいけない。 https://t.co/4Kquyx6F6O" / Twitter
+https://www.sciencedirect.com/science/article/pii/0042682277904986
+Presence of infectious polyadenylated RNA in the coronavirus avian bronchitis virus - ScienceDirect
+
+
 ## 2020-04
 
 
@@ -86,14 +93,6 @@ Mutations map holds the key to bringing coronavirus under control | Financial Ti
 12:04 AM · Apr 20, 2020
 https://twitter.com/MayumiNarako/status/1251889444069793793
 Mayumi Naramura on Twitter: "パンデミックの今後。20人以上の専門家（公衆衛生、医学、疫学、歴史）の知見にもとづく長い記事ですが読める方は是非。これまでの動きもよくまとまっており、重要記事リンクつき。以下に要点を。 https://t.co/43nsJZlW4S" / Twitter
-
-
-
-8:57 PM · Apr 19, 2020
-https://twitter.com/tsuyomiyakawa/status/1251842447409164289
-科研費で、当初の研究計画にはなかった新型コロナウイルスに関する研究を行うことは可能、とのこと。
-https://www.jsps.go.jp/j-grantsinaid/data/faq.pdf
-２．研究計画の変更関係 【Ｑ2-1】 今回の新型コロナウイルスの感染拡大に伴い、当初の研究計画にはなかったコロナウイルス に関する研究を実施したいと考えているが可能でしょうか？ 【Ａ2-1】 科研費では、交付申請書に記載の研究目的の範囲内であれば、日本学術振興会 への申請などを行うことなく、既に実施中の研究計画を一部変更することも想定しています。 従って、当初の計画では新型コロナウイルスを研究の対象として想定していなかったとして も、研究者自身の判断に基づき研究対象として取り扱うことは可能です。
 
 
 Apr 17, 2020
