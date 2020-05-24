@@ -140,15 +140,6 @@ https://wired.jp/2020/04/02/how-long-does-the-coronavirus-last-on-surfaces/
 https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
 新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
 
-
-https://twitter.com/kakenman/status/1244960865759055878
-清水信哉@Elephantech on Twitter: "めちゃくちゃ勉強になる。あと異常に分かりやすくて情報プレゼンテーション能力の高さも感じる、すごい。 新型コロナウイルスに関連した感染症対策に関する厚生労働省対策推進本部クラスター対策班「COVID-19への対策の概念」 https://t.co/JBpjPjoAOr" / Twitter
-https://www.jsph.jp/covid/files/gainen.pdf
-COVID-19への対策の概念
-新型コロナウイルスに関連した感染症対策に関する厚生労働省対策推進本部クラスター対策班
-東北大学大学院医学系研究科・押谷仁
-（2020年3月29日暫定版）
-
 https://twitter.com/yucky1313/status/1242641221689827328
 新型コロナで日本がやってる事
 ライブに行きたくて調べて理解したことを素人文系がめちゃくちゃ噛み砕いて描いてみた（1/2）
@@ -158,21 +149,6 @@ https://twitter.com/yucky1313/status/1242641221689827328
 2020/03/20 21:38
 https://note.com/kyoshimine/n/n6bf078a369f9
 専門家会議の「クラスター対策」の解説　――新型コロナウイルスに対処する最後の希望｜弁護士　吉峯 耕平｜note
-
-
-https://twitter.com/EARL_Med_Tw/status/1240942325750050817
-EARLの医学ツイート on Twitter: "え、開催決定ですって来月の日本感染症学会・・・ https://t.co/vhCrcECpF4 https://t.co/4sKmLPJwYy" / Twitter
-
-ちなみに開催地は東京のお台場です。
-
-『マスク着用をお願いします。マスクに関しては可能な限り持参してください』
-→持参できるわけないです
-
-『席を一つあけてご着席下さい』
-→1メートルも離れてないのですが
-
-『参加できない方のために、会場からのLIVE配信を用意し、開催させていただくことを考えております』
-→じゃあ人集めての開催じゃなくていいじゃないですか。他の学会がやってるようにWeb配信にすればいいだけです。
 
 2020年03月20日
 https://www.ryutsuu.biz/government/m032041.html
@@ -523,14 +499,15 @@ MetaSUB’s teams started swabbing for SARS-CoV-2 almost two months ago in pilot
 ----------
 ## video
 
+最終更新日：2020年5月1日
+http://www.kansensho.or.jp/modules/news/index.php?content_id=146
+第94回日本感染症学会学術講演会　COVID-19 シンポジウム―私たちの経験と英知を結集して―動画配信のご案内｜お知らせ｜日本感染症学会
+http://www.kansensho.or.jp/modules/activity/index.php?content_id=34&fbclid=IwAR0R3zqLquSVOtXNKNIZaiGqiJhXjZ5Hy-pyD9yddWTZe3WWZGhxyKSblEA
+第94回日本感染症学会学術講演会 特別シンポジウム「COVID-19シンポジウム―私たちの経験と英知を結集して―」｜ICD・その他活動｜日本感染症学会
 
-https://www.jsph.jp/covid/files/gainen_0402.pdf
-
-
-
-Apr 21, 2020
-https://www.youtube.com/watch?v=rbNuikVDrN4
-【日本赤十字社】「ウイルスの次にやってくるもの」 - YouTube
+テーマ： COVID-19 シンポジウム―私たちの経験と英知を結集して―
+日時： 2020年4月18日（土曜日）13時25分～16時50分
+日本感染症学会YouTubeチャンネル：
 
 https://naikaondemand.jp/urgencysymposium/
 日本内科学会講演会
@@ -543,9 +520,31 @@ https://naikaondemand.jp/urgencysymposium/
 https://togetter.com/li/1495798
 日本感染症学会 COVID-19シンポジウムまとめ - Togetter
 
+
+
+9:12 PM · Mar 31, 2020
+https://twitter.com/kakenman/status/1244960865759055878
+清水信哉@Elephantech on Twitter: "めちゃくちゃ勉強になる。あと異常に分かりやすくて情報プレゼンテーション能力の高さも感じる、すごい。 新型コロナウイルスに関連した感染症対策に関する厚生労働省対策推進本部クラスター対策班「COVID-19への対策の概念」 https://t.co/JBpjPjoAOr" / Twitter
+https://www.jsph.jp/covid/files/gainen.pdf
+https://www.jsph.jp/covid/files/gainen_0402.pdf
+COVID-19への対策の概念
+新型コロナウイルスに関連した感染症対策に関する厚生労働省対策推進本部クラスター対策班
+東北大学大学院医学系研究科・押谷仁
+（2020年3月29日暫定版）
+
+
+Apr 28, 2020
+https://www.youtube.com/watch?v=O-3Mlj3MQ_Q
+How coronavirus charts can mislead us - YouTube
+
+Apr 21, 2020
+https://www.youtube.com/watch?v=rbNuikVDrN4
+【日本赤十字社】「ウイルスの次にやってくるもの」 - YouTube
+
 Mar 27, 2020
 https://www.youtube.com/watch?v=zX8EGRBqRlI
 Viral Genomes - Analysis of COVID 19 Genomics Data - YouTube
+
 
 
 ----------
@@ -1502,8 +1501,6 @@ https://twitter.com/sounaka/status/1252382489177284611
 So Nakagawa on Twitter: "こちら「ネコに新型コロナ感染」に関して電話インタビューを受けた際に、文字数の関係で溢れた内容を別途まとめてくださった記事が公開されました。 https://t.co/n4hGhNv4oQ" / Twitter
 8:43 AM · Apr 21, 2020
 
-
-
 2020年04月15日
 https://hc.nikkan-gendai.com/articles/271877
 【新型コロナウイルス】新進気鋭ゲノム学者語る 人間からネコやトラに感染した意味｜日刊ゲンダイヘルスケア
@@ -1520,8 +1517,9 @@ https://twitter.com/sounaka/status/1250223836202545152
 新型コロナウイルスの感染以後にサンプリングを行った猫には抗体があった、つまり猫の一部は新型コロナウイルスに感染していたと考えれます。一方、流行前に武漢で採取された猫の血液からは抗体は検出されませんでした。従って猫の集団中にもともとウイルスがあったわけではないと示唆されています。
 以上の結果から、猫が媒体となって新型コロナウイルスを人に感染させたのではなくて、人から猫に感染した可能性が高いと考えられます。
 
-
-
+1:15 PM · Apr 6, 2020
+https://twitter.com/Yodosha_EM/status/1247015026549870593
+羊土社 実験医学 on Twitter: "実験医学2020年5月号（4月20日発行）掲載の特別記事「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」を，Webにて先行公開しました（閲覧には無料の会員登録が必要です）．https://t.co/NymNGc0A2O" / Twitter
 https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
 新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析｜2020年5月号｜実験医学online：羊土社 - 羊土社
 
