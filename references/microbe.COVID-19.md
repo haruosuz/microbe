@@ -1019,25 +1019,37 @@ https://twitter.com/morqon/status/1238166796080988165
 
 ## map
 
-https://www.stopcovid19.jp/
-COVID-19 Japan - 新型コロナウイルス対策ダッシュボード
-
-https://coromap.web.app/
-coromap - 新型コロナウイルスの状況マップ
-
-https://gis.jag-japan.com/covid19jp/
-都道府県別新型コロナウイルス感染者数マップ Coronavirus COVID-19 Japan Case (2019-nCoV)
-https://jagjapan.maps.arcgis.com/apps/opsdashboard/index.html#/55c22ee976bc42338cb454765a6edf6b
-Coronavirus COVID-19 Japan Case (2019-nCoV) - English
-
+https://systems.jhu.edu/research/public-health/ncov/
+Mapping COVID-19
+By Lauren Gardner, January 23, 2020
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 Coronavirus COVID-19 (2019-nCoV)
+COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
+
+https://jagjapan.maps.arcgis.com/apps/opsdashboard/index.html#/55c22ee976bc42338cb454765a6edf6b
+Coronavirus COVID-19 Japan Case (2019-nCoV) - English
+https://gis.jag-japan.com/covid19jp/
+都道府県別新型コロナウイルス感染者数マップ Coronavirus COVID-19 Japan Case (2019-nCoV)
+
 
 https://karaage0703.github.io/covid19_memo/
 covid19_memo | 新型コロナウイルス感染症に関する可視化情報等の個人的なまとめ
 
+
+https://www.stopcovid19.jp/
+COVID-19 Japan - 新型コロナウイルス対策ダッシュボード
+
+https://coromap.info/
+coromap - 新型コロナウイルスの事例マップ
+
+
+
 https://gitpress.io/@statrstart/Coronavirus06
 RでGitHub03 (Coronavirus)[2020-03-10更新] - GitPress.io
+
+米ジョンズ・ホプキンス大学の新型コロナウイルスの感染状況をまとめたWebサイト
+Coronavirus 2019-nCoV Global Cases by Johns Hopkins CSSE
+
 
 https://twitter.com/kankan7780/status/1236857631135789057
 アプリで「新型コロナウイルスの国内感染状況をビジュアル化する試み」をトゥギャりました。
