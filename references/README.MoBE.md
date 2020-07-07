@@ -19,6 +19,7 @@ https://ja.wikipedia.org/wiki/建造環境
 - [phone](#phone) 電話
 - [school](#school) 学校
 - [space](#space) 宇宙
+  - [Mir](#mir) ミール
   - [iss](#iss)
 - [subway](#subway) 地下鉄
 - [japan](#japan)
@@ -338,6 +339,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945812/
 ----------
 ## air
 空気中の微生物
+
+5月 27, 2020
+https://label-online.jp/微生物空気サンプラー市場2020は、最近の傾向、市/
+微生物空気サンプラー市場2020は、最近の傾向、市場の成長、トップメーカー分析、ビジネスチャンスと需要を強調しています | label-online
+微生物空気サンプラーは、ウイルス、細菌、食細胞、花粉、着生植物などをサンプリングできるデバイスです。微生物空気サンプラーは、製薬、バイオテクノロジー、およびヘルスケア施設に関連する品質管理（QC）状況の重要なコンポーネントです。プロセスと製品に汚染がないことを確認します。
+
 
 ノルウェー地下鉄（空気・表面/春夏秋冬）細菌群集
 https://www.ncbi.nlm.nih.gov/pubmed/31856911
@@ -798,6 +805,63 @@ WIRED VOL.24/特集 NEW CITY 新しい都市 雑誌 – 2016/8/9
 ◆ぼくらは火星で微生物をまとい、微生物を食べ、微生物に住む
 20年後という近い未来、一部の人類は火星で生活をしているかもしれない。アストロバイオロジーの最先端、 
 NASAエイムズ・リサーチセンターを訪れ、宇宙の暮らしをリアルにする研究の最右翼に触れる。 
+
+
+
+
+----------
+### Mir
+https://en.wikipedia.org/wiki/Mir
+https://ja.wikipedia.org/wiki/ミール
+
+Russia's Mir space station microbe pubmed
+
+https://pubmed.ncbi.nlm.nih.gov/31488812/
+Nat Commun
+. 2019 Sep 5;10(1):3990. doi: 10.1038/s41467-019-11682-z.
+Space Station Conditions Are Selective but Do Not Alter Microbial Characteristics Relevant to Human Health
+Maximilian Mora 1, Lisa Wink 1, Ines Kögler 1, Alexander Mahnert 1, Petra Rettberg 2, Petra Schwendner 3, René Demets 4, Charles Cockell 3, Tatiana Alekhova 5, Andreas Klingl 6, Robert Krause 1 7, Anna Zolotariof 3, Alina Alexandrova 5, Christine Moissl-Eichinger 8 9
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728350/
+Technophilic microorganisms caused major problems on the former Russian space station MIR, partaking in damage to structural materials as well as malfunctioning of various space systems and equipment7,8. Specifically, Bacillus, Penicillium, and Aspergillus species were associated with the progressive destruction of a window in MIRs descent module9, and mold on wiring connectors was associated with electrical outages10.
+
+https://pubmed.ncbi.nlm.nih.gov/15835023/
+Acta Astronaut
+. May-Jun 2005;56(9-12):839-50. doi: 10.1016/j.actaastro.2005.01.009.
+Microbiological Status of Cosmonauts During Orbital Spaceflights on Salyut and Mir Orbital Stations
+V K Ilyin 1
+
+https://pubmed.ncbi.nlm.nih.gov/16212041/
+Prikl Biokhim Mikrobiol
+. Jul-Aug 2005;41(4):435-43.
+[Monitoring of Microbial Degraders in Manned Space Stations]
+[Article in Russian]
+T A Alekhova, A A Aleksandrova, T Iu Novozhilova, L V Lysak, N A Zagustina, A M Bezborodov
+
+https://pubmed.ncbi.nlm.nih.gov/14994178/
+Comparative Study Microb Ecol
+. 2004 Feb;47(2):127-32. doi: 10.1007/s00248-003-1055-2. Epub 2004 Mar 4.
+Review of the Knowledge of Microbial Contamination of the Russian Manned Spacecraft
+N D Novikova 1
+
+https://pubmed.ncbi.nlm.nih.gov/11865864/
+Gravit Space Biol Bull
+. 2001 Jun;14(2):1-6.
+Microbial Contamination of Spacecraft
+D L Pierson 1
+Collaborators, Affiliations
+
+https://pubmed.ncbi.nlm.nih.gov/11838899/
+Microbiol Immunol
+. 2001;45(12):819-28. doi: 10.1111/j.1348-0421.2001.tb01321.x.
+Bacterial Population in Russian Space Station "Mir"
+Y Kawamura 1, Y Li, H Liu, X Huang, Z Li, T Ezaki
+
+https://pubmed.ncbi.nlm.nih.gov/11471823/
+Microbiol Immunol
+. 2001;45(5):357-63. doi: 10.1111/j.1348-0421.2001.tb02631.x.
+Fungal Flora on Board the Mir-Space Station, Identification by Morphological Features and Ribosomal DNA Sequences
+K Makimura 1, R Hanazawa, K Takatori, Y Tamura, R Fujisaki, Y Nishiyama, S Abe, K Uchida, Y Kawamura, T Ezaki, H Yamaguchi
+
 
 ----------
 ### iss
