@@ -958,7 +958,7 @@ Space microbes aren't so alien after all: Genetic evidence shows bacteria on the
 https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
 https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
 
-#### 2018
+#### iss_2018
 
 二次代謝産物
 https://www.ncbi.nlm.nih.gov/pubmed/30539259
@@ -1003,7 +1003,7 @@ Astronauts Identify Mystery Microbes in Space for the 1st Time
 of the three colonies grown and then sequenced on the space station, one ended up being Staphylococcus capitis and two were Staphylococcus hominis.
 "Staphylococcus hominis and Staphylococcus capitis are commonly associated with the human microbiome," 
 
-#### 2017
+#### iss_2017
 
 https://www.nature.com/articles/s41598-017-18364-0
 Sci Rep. 2017 Dec 21;7(1):18022. doi: 10.1038/s41598-017-18364-0.
@@ -1063,6 +1063,15 @@ https://gigazine.net/news/20170201-nasa-twins-study/
 白血球内に含まれるDNAとRNAについて調べたクリス・メーソン氏によると、2人のゲノム配列には正常変異による何百もの独自の変化があったとのこと。RNAでは、20万以上の異なる配列があったそうです。これは、スコット氏が宇宙に滞在したことで「宇宙遺伝子(space gene)」が活性化したものかもしれないとのこと。
 
 ![](https://i.gzn.jp/img/2017/02/01/nasa-twins-study/snap2260.png)
+
+
+#### iss_2016
+
+https://pubmed.ncbi.nlm.nih.gov/27998314/
+Microbiome
+. 2016 Dec 20;4(1):65. doi: 10.1186/s40168-016-0217-7.
+Resilient Microorganisms in Dust Samples of the International Space Station-survival of the Adaptation Specialists
+Maximilian Mora 1, Alexandra Perras 1 2, Tatiana A Alekhova 3, Lisa Wink 1, Robert Krause 1, Alina Aleksandrova 3, Tatiana Novozhilova 3, Christine Moissl-Eichinger 4 5
 
 https://www.ncbi.nlm.nih.gov/pubmed/27790191
 Front Microbiol. 2016 Oct 13;7:1573. eCollection 2016.
