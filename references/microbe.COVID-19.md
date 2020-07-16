@@ -34,6 +34,26 @@
 
 ## updates
 
+## 2020-07
+
+11:01 AM · Jul 16, 2020
+https://twitter.com/nishiurah/status/1283582409712078848
+Hiroshi Nishiura on Twitter: "考え方の共有目的です。感染制御意見はここまでで、この先は都市計画の専門家とコラボあるいはお任せにて。https://t.co/SE6UM2KlQS" / Twitter
+
+9:16 PM · Jul 1, 2020
+https://twitter.com/sounaka/status/1278301464285179907
+So Nakagawa on Twitter: "先日インタビューを受けたものが時事ドットコムに掲載されました: 生物の進化促進、生態系調節の役割も　ウイルスの「存在意義」の解明進む：時事ドットコム https://t.co/WnJEXaCfmt @jijicomより" / Twitter
+https://www.jiji.com/jc/v4?id=202006sss0001
+生物の進化促進、生態系調節の役割も　ウイルスの「存在意義」の解明進む：時事ドットコム
+
+8:53 PM · Jul 1, 2020
+https://twitter.com/sounaka/status/1278295744550600704
+So Nakagawa on Twitter: "応用物理学会の特別WEBコラムに新型コロナウイルスのゲノム解析について寄稿しました：ゲノム解析／中川草 https://t.co/j3kVzhA7Hr #新型コロナウィルス禍に学ぶ応用物理" / Twitter
+2020年6月8日
+https://www.jsap.or.jp/columns-covid19/covid19_2-4-2
+特別WEBコラム　新型コロナウィルス禍に学ぶ応用物理ゲノム解析中川草東海大学医学部 – 応用物理学会
+
+
 
 ## 2020-05
 
