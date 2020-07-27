@@ -891,6 +891,18 @@ Genomic and phenotypic characterization of Burkholderia isolates from the potabl
 O'Rourke A1, Lee MD2,3, Nierman WC1, Everroad RC2, Dupont CL1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029842/
 
+
+#### 2020-01-09
+
+https://pubmed.ncbi.nlm.nih.gov/31936690/
+Genes (Basel)
+. 2020 Jan 9;11(1):76. doi: 10.3390/genes11010076.
+Off Earth Identification of Bacterial Populations Using 16S rDNA Nanopore Sequencing
+Aaron S Burton 1, Sarah E Stahl 2, Kristen K John 3, Miten Jain 4, Sissel Juul 5, Daniel J Turner 6, Eoghan D Harrington 5, David Stoddart 6, Benedict Paten 4, Mark Akeson 4, Sarah L Castro-Wallace 7
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7016637/
+
+
+
 #### 2019-09-05
 
 https://www.ncbi.nlm.nih.gov/pubmed/31488812
