@@ -1,10 +1,10 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-07
+Last Update: 2020-01
 
 ----------
 
 # microbe
-**[微生物](https://ja.wikipedia.org/wiki/微生物)**
+https://ja.wikipedia.org/wiki/微生物
 
 ## Table of Contents
 - 人工環境の微生物 [MoBE](https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md)
@@ -18,16 +18,12 @@ Last Update: 2019-07
 - [featuring](#featuring)
 - [airport](#airport)
 - [five-second rule](#five-second-rule)
-- [products](#products)
-  - [aobiome](#aobiome)
 - [secretion](#secretion)
 - [AMR](#amr)
 - [links](#links)
 - [twitter](#twitter)
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
-- [people](#people)
-  - [Jack Gilbert](#jack-gilbert)
 - [protists](#protists)
 - [SDG](#sdg)
 - [sports](#sports)
@@ -432,66 +428,6 @@ Appl Environ Microbiol. 2016 Oct 14;82(21):6490-6496. Print 2016 Nov 1.
 Longer Contact Times Increase Cross-Contamination of Enterobacter aerogenes from Surfaces to Food.
 Miranda RC1, Schaffner DW2.
 
-
-----------
-
-## products
-
-2014/3/27
-https://www.nikkei.com/article/DGXNASDG27056_X20C14A3CR8000/
-「空間除菌」根拠なし　消費者庁、17社に措置命令
-
-### varinos
-バリノス株式会社
-
-https://www.varinos.com/english
-https://www.varinos.com
-Varinos Clinical Laboratory
-ゲノム検査を医療へ
-
-2018/01/29（月）
-https://www.krp.co.jp/hvckyoto/detail/540.html
-Varinos㈱、2 億円の資金調達！
-
-2017/10/02
-http://tech.nikkeibp.co.jp/dm/atcl/feature/15/030200065/092800013/?ST=health&P=5
-我々が“グレーゾーン”に挑むワケ（page 5）
-遺伝子検査サービス、“占い”の先にある未来（下）
-
-2017/6/26
-https://repro-support.biz/バリノス株式会社.html
-
-### aobiome
-https://aobiome.com
-AOBiome - Transforming human health through the restoration of Ammonia-Oxidizing Bacteria
-
-https://motherdirt.com
-Mother Dirt | Rethink Healthy Skin
-
-https://phylogenomics.blogspot.jp/2017/05/overselling-microbiome-award-marie.html
-The Tree of Life: Overselling the microbiome award: Marie Claire for its "article" on Mother Dirt
-
-http://www.kawade.co.jp/np/isbn/9784309253527/
-あなたの体は９割が細菌 :アランナ・コリン,矢野　真千子｜河出書房新社
-p. 199: 
-アンモニア酸化細菌(AOB)を補充しようというのがAOバイオーム社の提案である。
-この製品はいまのところ医薬品ではなく化粧品として売られているので、効用を証明する必要はない。彼らは効用を証明するのをつぎなる目標と定め、パイロット試験を実施した。その試験に参加したボランティアたちは、プラセボ群に比べて肌の見た目やなめらかさ、ハリが向上したと報告している。
-
-2018年01月28日
-https://newspicks.com/news/2720565/body/
-風呂いらず?!「皮膚に吹きかけるバクテリア」で臭わなくなる
-
-2017-02-21
-http://hifufighter.com/mother-dirt-arrived/
-待ってたぞ！Mother Dirtから肌に付けるバクテリアが届いた！
-
-http://icf.academyhills.com/2016/program/
-ラリー・ワイス
-AOBiome チーフメディカルオフィサー
-
-https://chikawatanabe.com/2015/10/14/motherdirt/
-バクテリアとともに暮らす | On Off and Beyond
-
 ----------
 ## secretion systems
 
@@ -525,8 +461,33 @@ resistance
 - https://twitter.com/hashtag/AntibioticAwarenessWeek
 - https://twitter.com/hashtag/WorldAntibioticAwarenessWeek
 
+
+http://amr.ncgm.go.jp/medics/2-4.html
+「薬剤耐性（AMR）対策アクションプラン」の背景
+　近年、抗菌薬が効かないAMR(薬剤耐性)をもつ細菌が世界中で増えています。2013年AMRに起因する死亡者数は低く見積もって70万人とされていますが、何も対策を講じない場合、2050年には世界で1000万人の死亡が想定され、がんによる死亡者数を超える、とした報告があります（図1）。
+
+図1　薬剤耐性（AMR）に起因する死亡者数の推定
+
+Antimicrobial Resistance: Tackling a crisis for the health and wealth of nations The Review on Antimicrobial Resistance Chaired by Jim O’Neill December 2014 を改変
+
+https://amr-review.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf
+
+https://amr-review.org/
+https://amr-review.org/Publications.html
+
+
+https://www.asahi.com/articles/ASMDM6HKLMDMULBJ00S.html
+抗生物質の６割、効果ない風邪などに処方　自治医大調査：朝日新聞デジタル
+大岩ゆり 2020年1月3日20時49分
+
 http://amr.ncgm.go.jp/general/1-2-1.html
 どのように耐性化するのか | 薬剤耐性菌について | 一般の方へ | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
+
+http://amr.ncgm.go.jp/materials/
+啓発用ツール・ポスターなど | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
+動 画
+薬剤耐性（AMR）の基礎知識、脅威とその影響、AMR対策予防のポイントを紹介します。（3分48秒）
+60秒バージョン 30秒バージョン
 
 http://www.who.int/who-campaigns/world-antibiotic-awareness-week
 World Antibiotic Awareness Week
@@ -762,31 +723,6 @@ https://qiita.com/haruosuz/items/2e8692869887be8a808d
 2017年12月1日
 http://www.asahi.com/articles/ASKCZ6GS4KCZUBQU011.html
 微生物学への扉を開いたレーウェンフックの顕微鏡：朝日新聞デジタル 
-
-----------
-## people
-### Jack Gilbert
-
-https://www.youtube.com/watch?v=z6AiKkewR0U
-It's not just phones! Find out what... - YouTube
-
-https://www.youtube.com/watch?v=HDLEL36Fu1E
-Why getting dirty is the new clean | Jack Gilbert | TEDxNaperville - YouTube
-
-### kurokawa
-
-2019/03/18
-https://gunosy.com/articles/afm0O
-環境全体が即座にわかる！「メタゲノム解析」が明かす「ゲノムの謎」
-
-このデータに、たとえば人口分布や犯罪率といった流域周辺の社会環境のデータを組み合わせることで、今度は地域環境を評価することができるようになると期待しています。
-
-https://www.nig.ac.jp/nig/ja/research/interviews/faculty-interviews
-メタゲノム解析で微生物集団のふるまいを記述し、そして予測する
-PDF
-ゲノム進化研究室 黒川研究室
-https://www.nig.ac.jp/nig/pdf/research/ja/interviews/faculty-interviews/FI_kurokawa.pdf
-
 
 
 ----------
