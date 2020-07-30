@@ -871,6 +871,23 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
+
+
+
+2020年07月28日
+https://gigazine.net/news/20200728-chernobyl-fungi-shield-astronauts/
+チェルノブイリで発見された「放射線を食べるカビ」で宇宙飛行士を宇宙線から守る試み - GIGAZINE
+
+#### 2020-03-07
+
+2020年03月8日
+https://japanese.engadget.com/jp-2020-03-07-iss.html
+月・火星での収穫にも道すじ。ISS産レタスと地上栽培レタスの栄養価に差異なし - Engadget 日本版
+ISS産レタスには地上で栽培したものよりも多くの微生物が付着していることがわかったと報告しています。しかしこれは予想どおりで、マッサ氏は「飛行士はそれぞれ独自の微生物叢(びせいぶつそう)を持っており、ISSでしかみられないものもある」と説明しています。
+Source: Frontiers in Plant Science
+https://www.frontiersin.org/articles/10.3389/fpls.2020.00199/full
+Frontiers | Microbiological and Nutritional Analysis of Lettuce Crops Grown on the International Space Station | Plant Science
+
 #### 2020-02-19
 
 Burkholderia
@@ -890,7 +907,6 @@ PLoS One. 2020 Feb 19;15(2):e0227152. doi: 10.1371/journal.pone.0227152. eCollec
 Genomic and phenotypic characterization of Burkholderia isolates from the potable water system of the International Space Station.
 O'Rourke A1, Lee MD2,3, Nierman WC1, Everroad RC2, Dupont CL1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029842/
-
 
 #### 2020-01-09
 
