@@ -871,12 +871,11 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
-
-
-
 2020年07月28日
 https://gigazine.net/news/20200728-chernobyl-fungi-shield-astronauts/
 チェルノブイリで発見された「放射線を食べるカビ」で宇宙飛行士を宇宙線から守る試み - GIGAZINE
+https://www.biorxiv.org/content/10.1101/2020.07.16.205534v1
+査読前の論文
 
 #### 2020-03-07
 
