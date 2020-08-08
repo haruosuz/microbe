@@ -30,11 +30,64 @@
 - 
   - [nazology](#nazology) ナゾロジー
 
+
 ----------
 
 ## updates
 
+## 2020-08
+
+2020年8月05日
+https://www.niid.go.jp/niid/ja/basic-science/467-genome/9787-genome-2020-2.html
+新型コロナウイルスSARS-CoV-2のゲノム分子疫学調査２ (2020/7/16現在)
+
+12:35 PM · Aug 2, 2020
+https://twitter.com/Invesdoctor/status/1289766751442358273
+インヴェスドクター on Twitter: "中国の高速鉄道（換気不良）における新型コロナウイルス感染率の論文。感染者の横3列縦5列以内にいた人の感染率は平均0.32% 。感染者の隣に座っていた人の感染率は3.5%。 https://t.co/kksNABFPb4 https://t.co/h0FUY0CtQ4" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/32726405/
+Clin Infect Dis
+. 2020 Jul 29;ciaa1057. doi: 10.1093/cid/ciaa1057. Online ahead of print.
+The risk of COVID-19 transmission in train passengers: an epidemiological and modelling study
+
 ## 2020-07
+
+2020年7月31日（金）
+https://www.newsweekjapan.jp/stories/world/2020/07/pcr-4.php
+【独占】押谷仁教授が語る、PCR検査の有用性とリスクとの向き合い方 | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+2020年07月31日
+https://costep.open-ed.hokudai.ac.jp/like_hokudai/contents/article/1959/
+いいね！Hokudai - #122 新型コロナ対策、研究と政策現場での6ヶ月～西浦博教授ロングインタビュー～
+
+11:01 AM · Jul 16, 2020
+https://twitter.com/nishiurah/status/1283582409712078848
+Hiroshi Nishiura on Twitter: "考え方の共有目的です。感染制御意見はここまでで、この先は都市計画の専門家とコラボあるいはお任せにて。https://t.co/SE6UM2KlQS" / Twitter
+2020/07/16 5:25
+https://toyokeizai.net/articles/-/362956?display=b
+西浦教授が語る｢新型コロナ｣に強い街づくり | コロナ戦争を読み解く | 東洋経済オンライン | 経済ニュースの新基準
+
+
+9:48 PM · Jul 15, 2020
+https://twitter.com/arambaut/status/1283382869361152000
+Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "The paper is out now. A few more details and stuff over the April preprint. https://t.co/eTIX59pMdT" / Twitter
+
+https://www.nature.com/articles/s41564-020-0770-5
+A dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology | Nature Microbiology
+Table 1 Proposed nomenclature of early major lineages of SARS-CoV-2
+
+Lineage	Genomes	Date range	Comments
+
+A	223	5 January–27 April 2020	The root of the pandemic lies in this lineage. Many Chinese sequences with global exports
+
+B	1,713	24 December 2019–3 May 2020	The base of this lineage lies in China, with extensive global travel between multiple locations
+
+系統 ゲノム 日付範囲 コメント
+
+A 223 5 2020年1月～27日 4月 パンデミックの根源はこの系統にある。世界に輸出されている多くの中国の配列
+
+B 1,713 2019年12月24日～2020年5月3日 この系統の拠点は中国にあり、複数の拠点間をグローバルに行き来しています。
+
 
 11:01 AM · Jul 16, 2020
 https://twitter.com/nishiurah/status/1283582409712078848
@@ -54,8 +107,41 @@ https://www.jsap.or.jp/columns-covid19/covid19_2-4-2
 特別WEBコラム　新型コロナウィルス禍に学ぶ応用物理ゲノム解析中川草東海大学医学部 – 応用物理学会
 
 
+## 2020-06
+
+
+https://trattoriainutano.tumblr.com/
+こんな時間ですがパスタを茹でます
+https://trattoriainutano.tumblr.com/post/619697368071372800/vbh-pt1
+2020-06-01
+COVID19 Virtual BioHackathon 2020 をやった
+
+
 
 ## 2020-05
+
+
+
+2020年05月26日
+8割おじさん･西浦教授が語る｢コロナ新事実｣ - (1/2)｜ニフティニュース
+https://news.nifty.com/article/magazine/12208-672907/
+8割おじさん･西浦教授が語る｢コロナ新事実｣ | コロナ戦争を読み解く | 東洋経済オンライン | 経済ニュースの新基準
+https://toyokeizai.net/articles/-/352503
+https://news.yahoo.co.jp/articles/d7eefbac4873acdceaf18d08da4bd7b6434540aa
+
+
+2020年05月22日
+https://hc.nikkan-gendai.com/articles/273497
+日本人が新型コロナウイルスに強い理由は？ゲノム学者が解説
+（中川草・東海大学医学部講師）
+
+
+9:34 AM · May 18, 2020
+https://twitter.com/h_kanki/status/1262179641646710784
+Hirokuni Kanki on Twitter: "京大の宮沢孝幸准教授 @takavet1 との共著で、先日「新型コロナウイルスの比較ウイルス学と比較ゲノム分析」を発表した、東海大の中川 草先生 @sounaka に聞きました。テーマはウイルスとの共存。生命の起源から、感染症に対抗する生物のシステムまで話されています。ぜひ。 https://t.co/m2RqVLr4lk" / Twitter
+2020.05.01
+https://nature-and-science.jp/virus/
+私たちとともにあるウイルスという他者 | アマナとひらく「自然・科学」のトビラ | NATURE ＆ SCIENCE
 
 
 10:32 PM · May 22, 2020
@@ -85,6 +171,14 @@ Presence of infectious polyadenylated RNA in the coronavirus avian bronchitis vi
 
 
 ## 2020-04
+
+Apr 14 Kan Nishida
+全てのモデルは間違っている、しかしいくつかはとんでもなく間違っている by @KanAugust https://link.medium.com/6m22i6CV97 
+コロナウイルスの感染者数を予測するモデルを使うときには気をつけなくてはいけない、という内容のエッセイがイギリスにおける統計学の学会である、王立統計学会（Royal Statistical Society）の中にあるデータ・サイエンス部のトップの人によって出されていました。
+以下に、簡単に翻訳したのでぜひ読んでみて下さい。
+All models are wrong, but some are completely wrong — リンク
+by Chair of the Royal Statistical Society Data Science Section
+
 
 https://www.niid.go.jp/niid/ja/basic-science/467-genome/9586-genome-2020-1.html
 新型コロナウイルスSARS-CoV-2のゲノム分子疫学調査
@@ -116,7 +210,6 @@ Mutations map holds the key to bringing coronavirus under control | Financial Ti
 ![](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F5c27e010-839e-11ea-bf65-b576fb8d66eb-standard.png?fit=scale-down&quality=highest&source=next&width=700)
 
 ![](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2Faec98d80-8323-11ea-8f56-4ffc3928f016-fullwidth.png?fit=scale-down&quality=highest&source=next&width=1260)
-
 
 
 12:04 AM · Apr 20, 2020
@@ -165,6 +258,8 @@ https://wired.jp/2020/04/02/how-long-does-the-coronavirus-last-on-surfaces/
 新型コロナウイルスは、物体の表面で数日間は生き続ける？ 研究結果から見えてきたこと｜WIRED.jp
 
 ## 2020-03
+
+
 
 https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
 新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
@@ -528,6 +623,11 @@ MetaSUB’s teams started swabbing for SARS-CoV-2 almost two months ago in pilot
 ----------
 ## video
 
+10:55 PM · Aug 7, 2020
+https://twitter.com/firefoxx66/status/1291734809493024770
+Dr Emma Hodcroft on Twitter: "Great news - if you missed our #COVIDdynamics Public Forum - you can watch it all now on Youtube! Don't miss out on what fabulous talks and discussion we had with @trvrb @BillHanage @cmyeaton @DrMercyKorir @HelenBranswell &amp; @kakape! https://t.co/qjvJP14Fbt #COVID19 #SARSCoV2" / Twitter
+
+
 最終更新日：2020年5月1日
 http://www.kansensho.or.jp/modules/news/index.php?content_id=146
 第94回日本感染症学会学術講演会　COVID-19 シンポジウム―私たちの経験と英知を結集して―動画配信のご案内｜お知らせ｜日本感染症学会
@@ -538,17 +638,9 @@ http://www.kansensho.or.jp/modules/activity/index.php?content_id=34&fbclid=IwAR0
 日時： 2020年4月18日（土曜日）13時25分～16時50分
 日本感染症学会YouTubeチャンネル：
 
-https://naikaondemand.jp/urgencysymposium/
-日本内科学会講演会
-緊急シンポジウム オンデマンド配信
-開催日
-2020年4月12日（日） ＊LIVE配信は終了いたしました.
-配　信
-2020年4月13日（月）〜 2020年5月31日 (日) 9:00
 
 https://togetter.com/li/1495798
 日本感染症学会 COVID-19シンポジウムまとめ - Togetter
-
 
 
 9:12 PM · Mar 31, 2020
@@ -1563,6 +1655,9 @@ https://twitter.com/Yodosha_EM/status/1247015026549870593
 羊土社 実験医学 on Twitter: "実験医学2020年5月号（4月20日発行）掲載の特別記事「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」を，Webにて先行公開しました（閲覧には無料の会員登録が必要です）．https://t.co/NymNGc0A2O" / Twitter
 https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
 新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析｜2020年5月号｜実験医学online：羊土社 - 羊土社
+
+
+
 
 https://twitter.com/sounaka/status/1247017759088603141
 So Nakagawa on Twitter: "こちら先日ご連絡しました新型コロナウイルスに関する総説について、羊土社様のご厚意により無料先行公開されることになりました（閲覧には無料の会員登録が必要です）。 https://t.co/iKAlA2btM0" / Twitter
