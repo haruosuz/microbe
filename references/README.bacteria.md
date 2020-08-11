@@ -1,5 +1,4 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-11
+Last Update: 2020-08-01
 
 ----------
 
@@ -18,6 +17,7 @@ Last Update: 2019-11
 - [Clostridia](#clostridia) クロストリジウム綱
 - [Clostridium](#clostridium) クロストリジウム属
 - [Clostridium difficile](#clostridium-difficile)
+- [CPR](#cpr)
 - [Geobacter](#geobacter)
   - [Inoue](#inoue) Inoue Kengo
   - [Geobacter_Shewanella](#geobacter_shewanella)
@@ -40,6 +40,7 @@ vaginal microbiota
   - Shewanella oneidensis MR-1
 - [Sinorhizobium](#sinorhizobium)
   - KGO-5
+- [Streptococcus](#streptococcus)
 - [mitochondria](#mitochondria) 
 - [Rickettsiales](#rickettsiales) リケッチア目
 - [Holospora](#holospora) ホロスポラ属
@@ -49,11 +50,22 @@ vaginal microbiota
   - [amachi](#amachi) Amachi Seigo
   - [Gilmore](#gilmore) Michael S. Gilmore
 - [excerpt](#excerpt) 抜粋［引用］
-- [CPR](#cpr)
+
+----------
+## featuring
+
+https://ja.unionpedia.org/i/真正細菌
+
+![https://en.wikipedia.org/wiki/Tree_of_life_(biology)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png/220px-A_Novel_Representation_Of_The_Tree_Of_Life.png)
+
 
 ----------
 ## CPR
 Candidate Phyla Radiation (CPR)
+
+https://ja.wikipedia.org/wiki/CPR群
+CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培養例が皆無で記載種を一切含まないが、全細菌の少なくとも15%、もしくはそれ以上を占めると推定されている[1]。
+系統樹からは大古代の分岐と推定され、ほかの全ての細菌と姉妹群を形成する。
 
 https://www.ncbi.nlm.nih.gov/pubmed/31446647
 Mol Ecol. 2019 Sep;28(18):4259-4271. doi: 10.1111/mec.15208. Epub 2019 Sep 12.
@@ -72,15 +84,406 @@ Enrichment analysis
 Enrichment/depletion of protein families was calculated based on the frequency of the computed protein families in the first and second ‘NCBI’ datasets. The enrichment of each family in CPR vs. non-CPR bacteria was computed using a Fisher’s exact test on a contingency table of presence/absence in CPR and non-CPR bacteria genomes. Families were considered enriched or depleted if their p-values, after correction for false detection rate (Benjamini-Hochberg), were significant (<10−5) in both datasets. The remaining families were assigned as equally distributed.
 
 ----------
-## featuring
+## Geobacter
 
-https://ja.unionpedia.org/i/真正細菌
+- https://ja.wikipedia.org/wiki/ゲオバクター属
+- http://www.bacterio.net/geobacter.html
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Geobacter
 
-https://ja.wikipedia.org/wiki/CPR群
-CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培養例が皆無で記載種を一切含まないが、全細菌の少なくとも15%、もしくはそれ以上を占めると推定されている[1]。
-系統樹からは大古代の分岐と推定され、ほかの全ての細菌と姉妹群を形成する。
+https://www.ncbi.nlm.nih.gov/pubmed/31126529
+Adv Microb Physiol. 2019;74:1-96. doi: 10.1016/bs.ampbs.2019.02.007. Epub 2019 May 15.
+The electrifying physiology of Geobacter bacteria, 30 years on.
+Reguera G1, Kashefi K1.
 
-![https://en.wikipedia.org/wiki/Tree_of_life_(biology)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png/220px-A_Novel_Representation_Of_The_Tree_Of_Life.png)
+Fig. 2 Neighbor joining phylogenetic tree of the families Geobacteraceae and Desulfur- omonadaceae. 
+
+Table 2 Type strains (in alphabetical order) for validly described Geobacter species available in pure culture.
+```Source
+Growth substrates
+Temperature Range [optimal]
+```
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/mmi.14443
+Molecular evidence for the adaptive evolution of Geobacter sulfurreducens to perform dissimilatory iron reduction in natural environments - Liu - - Molecular Microbiology
+- E‐pili are constructed by truncated PilA which is considered to have evolved from full‐length pilin by gene fission under positive evolutionary selection.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/27940542
+Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689-16. Print 2017 Feb 15.
+Arsenic Detoxification by Geobacter Species.
+Dang Y1,2, Walker DJ1, Vautour KE1, Dixon S3, Holmes DE4,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/
+- Analysis of 14 different Geobacter genomes showed that all of these species have genes coding for an arsenic detoxification system (ars operon), and several have genes required for arsenic respiration (arr operon) and methylation (arsM). Genes encoding four arsenic repressor-like proteins were detected in the genome of G. sulfurreducens; however, only one (ArsR1) regulated transcription of the ars operon. Elimination of arsR1 from the G. sulfurreducens chromosome resulted in enhanced transcription of genes coding for the arsenic efflux pump (Acr3) and arsenate reductase (ArsC).
+- Some bacteria are able to methylate arsenic with S-adenosyl-l-methionine-dependent methyltransferase (ArsM), forming volatile methylarsines, which removes arsenic from the immediate environment by converting it into a gaseous compound (6). Other prokaryotes utilize arr and/or ars arsenic transformation systems. While both systems involve reduction of arsenate,
+- Arsenic detoxification machinery in Geobacter.
+All of the Geobacter genomes available to date have the arsenic detoxification machinery (ars genes), whereas only a few Geobacter species have genes required for arsenite methylation (arsM) and arsenate respiration (arr genes) (Table 1).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/table/T1/
+TABLE 1
+Arsenic detoxification and respiratory genes found in the genomes of the Geobacter species and strains used in this study
+- Regulation of the ars operon.
+The G. sulfurreducens genome has four different genes coding for putative ArsR-Smt family regulatory proteins scattered throughout the genome: GSU2952 (arsR1), GSU2149 (arsR2), GSU0399 (arsR3), and GSU2625 (arsR4). All four of these genes' proteins have the helix-turn-helix (HTH) motif that is characteristic of DNA binding transcriptional regulators (see Fig. S4A in the supplemental material), and all of them are found near transport proteins. 
+- REFERENCES
+6. Bentley R, Chasteen TG. 2002. Microbial methylation of metalloids: arsenic, antimony, and bismuth. Microbiol Mol Biol Rev 66:250–271. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/22114840
+Adv Microb Physiol. 2011;59:1-100. doi: 10.1016/B978-0-12-387661-4.00004-5.
+Geobacter: the microbe electric's physiology, ecology, and practical applications.
+Lovley DR1, Ueki T, Zhang T, Malvankar NS, Shrestha PM, Flanagan KA, Aklujkar M, Butler JE, Giloteaux L, Rotaru AE, Holmes DE, Franks AE, Orellana R, Risso C, Nevin KP.
+
+05 September 2011
+https://www.nature.com/articles/news.2011.519
+Electrified bacterial filaments zap uranium | Nature
+- Hair-like filaments (yellow) allow Geobacter (orange) to precipitate uranium while keeping the toxic metal away from the cell.
+- Some bacteria, including a species called Geobacter sulfurreducens, are known to get their energy from reducing — or adding electrons to — metals in the environment. When uranium dissolved in groundwater is reduced in this way, the metal becomes much less soluble, reducing the spread of contamination.
+- , such as the Fukushima nuclear plant in Japan, which was devastated by a tsunami earlier this year.
+- Uranium is not the main radioisotope released at Fukushima, but Reguera sees potential for widening the reach of Geobacter pili. 
+
+ファージ
+https://www.ncbi.nlm.nih.gov/pubmed/25083935
+ISME J. 2015 Feb;9(2):333-46. doi: 10.1038/ismej.2014.128. Epub 2014 Aug 1.
+Evidence of Geobacter-associated phage in a uranium-contaminated aquifer.
+Holmes DE1, Giloteaux L2, Chaurasia AK2, Williams KH3, Luef B4, Wilkins MJ5, Wrighton KC6, Thompson CA2, Comolli LR3, Lovley DR2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303627/
+- The programs PHAST (Zhou et al., 2011) and/or Prophinder were also used to find phage-related sequences. Others were determined by the presence of known phage domains (http://pfam.sanger.ac.uk/, http://blast.jcvi.org/web-hmm/) or the word ‘phage' in protein coding features.
+- Further evidence that some of the subsurface Geobacter phage are lysogenic comes from the fact that multiple phage attachment sites (att) were detected in the Geobacter chromosomes, and the programs PHAST (Zhou et al., 2011 PHAST) and/or Prophinder (http://aclame.ulb.ac.be/Tools/Prophinder/) identified prophage in all five of the genomes.
+
+http://aclame.ulb.ac.be/perl/Aclame/Prophages/view_prophage.cgi?
+ACLAME: Prophinder
+```
+Geobacter metallireducens GS-15	NC_007517	chromosome
+Geobacter sulfurreducens PCA	NC_002939	chromosome
+Geobacter uraniireducens Rf4	NC_009483	chromosome
+Gloeobacter violaceus PCC 7421	NC_005125	chromosome
+```
+
+好熱菌
+https://www.ncbi.nlm.nih.gov/pubmed/12732575
+Appl Environ Microbiol. 2003 May;69(5):2985-93.
+Thermophily in the Geobacteraceae: Geothermobacter ehrlichii gen. nov., sp. nov., a novel thermophilic member of the Geobacteraceae from the "Bag City" hydrothermal vent.
+Kashefi K1, Holmes DE, Baross JA, Lovley DR.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC154550/
+Unlike previously described members of the Geobacteraceae, which are mesophiles, strain SS015 was a thermophile and grew at temperatures of between 35 and 65°C, with an optimum temperature of 55°C. 
+```
+Geothermobacter ehrlichii	213224	PRJNA500323	500323	Proteobacteria	delta/epsilon subdivisions	3.23595	61.9	-	VNIB01	33	3045	2933	2019/08/29	2019/09/02	Contig	DOE Joint Genome Institute	SAMN12255868	GCA_008124615.1	-	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/124/615/GCA_008124615.1_ASM812461v1	-	SS015
+```
+
+### Geobacter_phylogeny
+系統解析
+
+https://www.ncbi.nlm.nih.gov/pubmed/25139417
+Int J Syst Evol Microbiol. 2014 Nov;64(Pt 11):3786-91. doi: 10.1099/ijs.0.066662-0. Epub 2014 Aug 19.
+Geobacter soli sp. nov., a dissimilatory Fe(III)-reducing bacterium isolated from forest soil.
+Zhou S1, Yang G2, Lu Q3, Wu M3.
+http://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.066662-0#tab3
+Fig. 1.
+Phylogenetic consensus tree based on 16S rRNA gene sequences, 
+Desulfuromusa kysingii DSM 7343T (GenBank accession no. X79414) was used as an outgroup.
+```
+Pelobacter propionicus DSM 2379T (CP000482)
+Geobacter chapellei 172T (U41561)
+Geobacter psychrophilus P35T (AY653549)
+Geobacter thiogenes JCM 14045T (AF223382)
+Geobacter lovleyi SZT (CP001089)
+Geobacter luticola OSK6T (AB682759)
+Geobacter bemidjiensis BemT (CP001124)
+Geobacter bremensis Dfr1T (U96917)
+Geobacter uraniireducens Rf4T (CP000698)
+Geobacter daltonii FRC-32T (CP001390)
+Geobacter toluenoxydans TMJ1T (EU711072)
+```
+![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/64/11/066662-f1.gif)
+
+https://www.ncbi.nlm.nih.gov/pubmed/19284579
+BMC Genomics. 2009 Mar 11;10:103. doi: 10.1186/1471-2164-10-103.
+Evolution from a respiratory ancestor to fill syntrophic and fermentative niches: comparative fenomics of six Geobacteraceae species.
+Butler JE1, Young ND, Lovley DR.
+https://link.springer.com/article/10.1186/1471-2164-10-103
+Figure 1
+Genome-based Geobacteraceae phylogeny. Bayesian inference of the phylogenetic tree of the six Geobacteraceae species discussed in the text, using another Deltaproteobacterial species, Anaeromyxobacter dehalogenans, as the outgroup. The tree was based on a concatenation of the proteins in the 481 families that had exactly one ortholog conserved in each of the seven genomes (see Additional file 6). Values at branch points are posterior probabilities.
+![](https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F1471-2164-10-103/MediaObjects/12864_2008_Article_1987_Fig1_HTML.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/15388715
+Int J Syst Evol Microbiol. 2004 Sep;54(Pt 5):1591-9.
+Comparison of 16S rRNA, nifD, recA, gyrB, rpoB and fusA genes within the family Geobacteraceae fam. nov.
+Holmes DE1, Nevin KP, Lovley DR.
+https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02958-0#tab2
+Fig. 1.
+Phylogenetic trees predicted by maximum-likelihood analysis comparing sequences of the 16S rRNA gene (a), fusA (b), gyrB (c), nifD (d), recA (e) and rpoB (f) from species of the Geobacteraceae. Chlorobium tepidum and Nostoc sp. PCC 7120 were used as outgroups and 1000 replicates were used for maximum-likelihood (first bootstrap value) and maximum-parsimony (second value) bootstrap analyses. Taxa are represented by type strains unless the strain name is indicated.
+![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/54/5/IJE45259-1.gif)
+
+https://www.ncbi.nlm.nih.gov/pubmed/18461135
+PLoS One. 2008 May 7;3(5):e2103. doi: 10.1371/journal.pone.0002103.
+The mosaic genome of Anaeromyxobacter dehalogenans strain 2CP-C suggests an aerobic common ancestor to the delta-proteobacteria.
+Thomas SH1, Wagner RD, Arakaki AK, Skolnick J, Kirby JR, Shimkets LJ, Sanford RA, Löffler FE.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/
+Figure 1
+16S rRNA gene-based phylogenetic tree of the delta-Proteobacteria indicates that A. dehalogenans strain 2CP-C is deeply nested in the order Myxococcales.
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/bin/pone.0002103.g001.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/10966399
+Appl Environ Microbiol. 2000 Sep;66(9):3842-9.
+Phylogeny of microorganisms populating a thick, subaerial, predominantly lithotrophic biofilm at an extreme acid mine drainage site.
+Bond PL1, Smriga SP, Banfield JF.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/
+FIG. 6
+Evolutionary distance dendogram of slime clones within the delta subdivision of the Proteobacteria based on 1,121 nucleotides of 16S rDNA sequences. Desulfovibrio desulfuricans (not shown) was used as the outgroup. Indications of branch point support and evolutionary distance are as described for Fig. ​Fig.4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/figure/F6/
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/bin/am0901966006.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/8900001
+Appl Environ Microbiol. 1996 Nov;62(11):4108-13.
+A freshwater anaerobe coupling acetate oxidation to tetrachloroethylene dehalogenation.
+Krumholz LR1, Sharp R, Fishbain SS.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC168232/
+https://www.researchgate.net/figure/Phylogenetic-tree-of-TT4B-and-other-representatives-of-the-delta-subclass-of-the_fig4_14307027
+Phylogenetic tree of TT4B and other representatives of the delta subclass of the Proteobacteria based on 16S rRNA sequence comparisons. 
+![](https://www.researchgate.net/profile/Susan_Fishbain/publication/14307027/figure/fig4/AS:667587264393217@1536176615479/Phylogenetic-tree-of-TT4B-and-other-representatives-of-the-delta-subclass-of-the.png)
+
+https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
+- Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp).
+![](https://ars.els-cdn.com/content/image/1-s2.0-B9780123876614000045-f01-04-9780123876614.jpg)
+- Fig. 2. Neighbor joining phylogenetic tree of the families Geobacteraceae and Desulfuromonadaceae.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0065291119300086-gr2.jpg)
+
+
+- https://ja.wikipedia.org/wiki/粘液細菌
+目	:	ミクソコックス目 Myxococcales
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Desulfuromusa
+- http://www.bacterio.net/desulfuromusa.html
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Desulfuromonas
+- https://microbewiki.kenyon.edu/index.php/Desulfuromonas
+Bacteria; Proteobacteria; delta/epsilon subdivisions; Deltaproteobacteria; Desulfuromonadales; Desulfuromonadaceae
+- https://en.wikipedia.org/wiki/Desulfuromusa_ferrireducens
+Order:	Desulfuromonadales
+Family:	Desulfuromonadaceae
+Genus:	Desulfuromusa
+Species:	D. ferrireducens
+
+
+
+### Geobacter_codon_usage
+コドン使用
+
+https://www.ncbi.nlm.nih.gov/pubmed/22032172
+Genome Biol. 2011 Oct 27;12(10):R109. doi: 10.1186/gb-2011-12-10-r109.
+Variation in global codon usage bias among prokaryotic organisms is associated with their lifestyles.
+Botzman M1, Margalit H.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3333779/
+Other prokaryotes with almost as high CAIave values are quite diverse: Geobacter metallireducens (CAIave value of 0.79) is an anaerobic bacterium that uses iron oxides as the electron acceptor in the oxidation of organic compounds to carbon dioxide [23], 
+
+
+### Geobacter_comparative_genomics
+比較ゲノム
+
+https://www.hindawi.com/journals/isrn/2013/850179/
+A Whole Genome Pairwise Comparative and Functional Analysis of Geobacter sulfurreducens PCA
+Figure 1: Phylogenetic tree constructed using 16S rRNA of Geobacter species.
+https://www.hindawi.com/journals/isrn/2013/850179/fig1/
+
+https://www.ncbi.nlm.nih.gov/pubmed/22967216
+BMC Genomics. 2012 Sep 12;13:471. doi: 10.1186/1471-2164-13-471.
+Comparative genomic analysis of Geobacter sulfurreducens KN400, a strain with enhanced capacity for extracellular electron transfer and electricity production.
+Butler JE1, Young ND, Aklujkar M, Lovley DR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22616984
+BMC Genomics. 2012 May 22;13:200. doi: 10.1186/1471-2164-13-200.
+Genomic determinants of organohalide-respiration in Geobacter lovleyi, an unusual member of the Geobacteraceae.
+Wagner DD1, Hug LA, Hatt JK, Spitzmiller MR, Padilla-Crespo E, Ritalahti KM, Edwards EA, Konstantinidis KT, Löffler FE.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403914/
+- Computational analyses
+Codon adaptation indices (CAI) for strain SZ ORFs encoded on the plasmid and chromosomal genomic islands were computed against a codon usage table based upon all strain SZ chromosomal ORFs using the E-CAI server [29]. 
+- Plasmid maintenance
+The pSZ77 RepA appears to share phylogenetic affiliation with the RepA of various plasmids from β- or γ-Proteobacteria (Figure 5), including an IncQ-like mobilizable plasmid [70] and an IncP-1-like environmental plasmid [71]. 
+Figure 5
+Unrooted proML tree of 35 plasmid replication initiator protein (RepA) sequences aligning with pSZ77 RepA in PSI-BLAST. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403914/figure/F5/
+
+https://www.ncbi.nlm.nih.gov/pubmed/20078895
+BMC Genomics. 2010 Jan 17;11:40. doi: 10.1186/1471-2164-11-40.
+Evolution of electron transfer out of the cell: comparative genomics of six Geobacter genomes.
+Butler JE1, Young ND, Lovley DR.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/
+Figure 1
+Genome-based Geobacter phylogeny.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/figure/F1/
+
+https://www.ncbi.nlm.nih.gov/pubmed/18844997
+BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
+Comparative genomics of Geobacter chemotaxis genes reveals diverse signaling function.
+Tran HT1, Krushkal J, Antommattei FM, Lovley DR, Weis RM.
+
+2019-4-30
+https://engineer.fabcross.jp/archeive/190426_electricity-conducting-bacteria.html
+電気を通すバクテリアの構造を解明――タンパク質を使った生体用配線開発の可能性も
+
+https://mainichi.jp/articles/20160604/ddl/k22/040/140000c
+微生物発電：１００倍超に　二又・静岡大教授が効率化物質を発見　／静岡 - 毎日新聞
+
+2015年06月09日
+http://eetimes.jp/ee/articles/1506/09/news041.html
+東大駒場リサーチキャンパス公開2015：赤い微生物「ジオバクター」の燃料電池、廃水処理システムを変える？ - EE Times Japan
+
+Jan. 23, 2015
+https://www.jst.go.jp/pr/announce/20120605/index.html
+微生物が互いに電子をやり取りする未知の「電気共生」を発見
+
+5/24/12
+https://io9.gizmodo.com/5908318/10-surprising-things-that-bacteria-like-to-eat
+Frank Miller Is Illustrating a YA Novel That Will Tell the Lady of the Lake's Origin
+10. Nuclear Waste
+Geobacter sulfurreducens
+9. Arsenic
+
+酢酸を電子供与体に、硝酸を電子受容体として、土壌細菌の代表株であるゲオバクター（Geobacter sulfurreducens ）とチオバチルス（Thiobacillus denitrificans ）を共培養
+
+Mar 28, 2012
+https://www.youtube.com/watch?v=LxaAWbN2koo
+Michigan State University 2011 President's Report: Zapping nuclear waste. - YouTube
+
+2011年9月7日
+http://sustainablejapan.net/?p=452
+発電しながら放射能汚染土壌を浄化する微生物「ジオバクター」の謎、ミシガン州立大が解明 | SJN News　再生可能エネルギー最新情報
+
+https://wired.jp/2011/09/16/ウランの地下水汚染を防ぐ細菌、そのメカニズム/
+ジオバクター科の細菌は、ウラン鉱山等の地下水汚染防止に使われてきた。その仕組みは今までわかっていなかったが、このほどその一部を明らかにする研究が発表された。
+
+9:12 AM - 3 Jul 2019
+https://twitter.com/Kyukimasa/status/1146406334897651712
+- ”電線バクテリア”
+https://nytimes.com/2019/07/01/science/bacteria-microbes-electricity.html
+鉄還元菌と硝酸還元菌が導電性の生きたケーブルで繋がって電子を受け渡して共生しているという話。
+1980年代になって発見されてから多くの種が発見されて研究進んでる(生物燃料電池とかの応用も)
+- ケーブルバクテリア、海底や川底から数cmも長い導電性ワイヤーが伸びてて肉眼でも見えるとか。世界中から集めてて分類している
+https://sciencedirect.com/science/article/pii/S0723202016300388
+属名として”Electrothrix”とか提案されてたのか
+- ここ最近、電気微生物の研究進んでるとは聞いたけど、検索してたら鉄還元細菌ジオバクター
+https://labroots.com/trending/microbiology/5830/microbe-geobacter
+ぬいぐるみになってるのをいきなり発見してしまう
+https://giantmicrobes.com/us/products/geobacter.html
+妙に再現度高い
+
+----------
+
+### Inoue
+Inoue Kengo
+
+https://www.ncbi.nlm.nih.gov/pubmed/29748402
+Genome Announc. 2018 May 10;6(19). pii: e00352-18. doi: 10.1128/genomeA.00352-18.
+Complete Genome Sequence of Geobacter sulfurreducens Strain YM18, Isolated from River Sediment in Japan.
+Inoue K1, Ogura Y2, Kawano Y3, Hayashi T2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946036/
+Compared to the two previously sequenced G. sulfurreducens strains, YM18 contains 220 unique CDSs. G. sulfurreducens strains generally have over 100 c-type cytochromes. A slightly smaller number of genes were predicted to encode c-type cytochromes in YM18 (101 CDSs) than in PCA and KN400 (106 and 107, respectively). The complete genome sequence of YM18 and more detailed genome comparison with strains PCA and KN400 will identify commonly preserved genetic features for effective electron transfer to electrodes.
+
+2016
+IFO 公益財団法人発酵研究所
+http://www.ifo.or.jp/rc_pdf/30.pdf
+微生物による有機物の化学エネルギーから
+電気エネルギーへの変換能力解明に向けた
+基礎的研究
+井　上　謙　吾
+宮崎大学農学部
+方法：
+著者らが分離した新規分離発電株 YM18 株につい
+て，全ゲノムを決定し，既報の発電株 G. sulfurreducens
+PCA 株，KN400 株との比較ゲノム解析を行った．
+結果・考察：
+YM18 株の全ゲノム配列を決定したところ，約
+3.7 Mbp で，3,354 の ORF を持っており，PCA 株に対
+して，122,022 個の SNPs を有していた．発電能力が
+PCA 株よりも高い YM18 株と KN400 株のみに共通す
+る遺伝子が35個見いだされ，これらの遺伝子が高い発
+電能力に何らかの役割を果たしている可能性が考えら
+れた．
+
+2013.03.29 
+https://www.sbj.or.jp/sbj/sbj_vol90_no03.html
+バイオミディア
+pdf電子を放出する微生物 …井上　謙吾…（132）
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9003/9003_biomedia_1.pdf
+これまでに詳細な研究が行われてきた鉄還元菌
+Shewanella oneidensis，Geobacter sulfurreducensでは
+効率的な細胞外への電子移動には主にc型ヘム（ヘムc）
+を補因子とするシトクロムcが利用される2)．
+
+2011-12
+https://ci.nii.ac.jp/naid/40019971881
+微生物の細胞外電子伝達
+Microbial Extracellular Electron Transfer
+井上 謙吾
+https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
+鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
+先駆的な研究がなされてきた。
+図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
+
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_article/-char/ja/
+海外だより
+Lovley研究室でのGeobacter 属細菌と微生物燃料電池の研究
+井上 謙吾
+2008 年 46 巻 7 号 p. 509-513
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_pdf/-char/ja
+
+----------
+### Geobacter_Shewanella
+- https://mra.asm.org/search/Geobacter
+- https://mra.asm.org/search/Shewanella
+
+https://www.nytimes.com/2019/07/01/science/bacteria-microbes-electricity.html
+Wired Bacteria Form Nature’s Power Grid: ‘We Have an Electric Planet’ - The New York Times
+Geobacter
+Shewanella
+
+2018.06.25
+https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
+バイオミディア
+pdf環境中の電子移動と微生物…鹿島 裕之…（ 739 ）
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9512/9512_biomedia_1.pdf
+モデル生物の
+Shewanella属，Geobacter属細菌では，複数のシトクロ
+ムcタンパク質が呼吸鎖のある内膜と細胞外膜表面とを
+結ぶ電子回路として働く1,2)．
+
+https://www.ncbi.nlm.nih.gov/pubmed/28871245
+Front Microbiol. 2017 Aug 21;8:1584. doi: 10.3389/fmicb.2017.01584. eCollection 2017.
+Comparative Genomic Analysis of Neutrophilic Iron(II) Oxidizer Genomes for Candidate Genes in Extracellular Electron Transfer.
+He S1,2,3, Barco RA4,5, Emerson D4, Roden EE1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5566968/
+- Extracellular electron transfer (EET) is recognized as a key biochemical process in circumneutral pH Fe(II)-oxidizing bacteria (FeOB).
+- The “porin-cytochrome c complex” (PCC) gene clusters homologous to MtoAB/PioAB are present in eight FeOB, accounting for 19% of complete and close-to-complete genomes examined, whereas PCC genes homologous to OmbB-OmaB-OmcB in Geobacter sulfurreducens are absent. 
+- EET systems have been extensively studied in model Fe(III)-reducing bacteria (FeRB), such as Geobacter sulfurreducens and Shewanella oneidensis, for which electrons from the oxidation of organic substrates are passed to extracellular Fe(III) minerals. 
+- Like the Fe(III)-reducing Geobacter and Shewanella spp., most neutrophilic FeOB are Gram-negative bacteria with the inner and outer membranes separated by a periplasmic space, thus EET systems also need to span the periplasm to bridge the outer membrane to the inner membrane. 
+- Conductive nanowires
+Alternative to the direct contact between extracellular Fe and a dedicated outer membrane Fe(II) oxidase, EET might be achieved through conductive nanowires analogous to those known for Geobacter and Shewanella, that allow for long-range EET over micrometer distances (Reguera et al., 2005; Gorby et al., 2006).
+
+2016-2017
+http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
+磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
+主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
+
+2014
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
+細胞外電子伝達 : 固体を呼吸基質とする微生物たち
+加藤 創一郎
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
+鉄 還元 能 を持つ Geobacter属や Shewanella
+
+2011
+http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
+微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
+
+2009-12
+環境バイオテクノロジー学会
+https://ci.nii.ac.jp/naid/40018914443
+微生物燃料電池での電流生産を可能にするShewanella oneidensisの細胞外電子伝達機構
+https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
+異化的金属還元細菌（dissimilatory
+metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
+
+
+
+
+
+
+
 
 ----------
 ## heavy metals
@@ -493,6 +896,15 @@ Yutin, N. & Galperin, M.Y. A genomic update on clostridial phylogeny: Gram-negat
 - https://institute.yakult.co.jp/bacteria/4205/
 クロストリジウム ディフィシル | 菌の図鑑 | ヤクルト中央研究所
 
+9:03 AM · Aug 7, 2020
+https://twitter.com/waki1711/status/1291525456328450048
+松永 和紀 on Twitter: "「危ない」という論文情報は拡散しやすいけれど、「そんなことは言えない」論文の情報は、メディアにはほとんど取り上げられなかった……。そんな流れの中で奮闘する企業の話です。新型コロナでも、似たようなことがたびたび起きていますね。https://t.co/UuB6oUQbP3 @WEDGE_Infinityより" / Twitter
+
+2020年8月7日
+https://wedge.ismedia.jp/articles/-/20415
+ネイチャーが招いた風評。トレハロース問題の顛末は 　WEDGE Infinity(ウェッジ)
+松永和紀 （科学ジャーナリスト）
+
 
 2018/02/13
 https://gunosy.com/articles/ao7SQ
@@ -698,18 +1110,25 @@ https://www.ncbi.nlm.nih.gov/pubmed/29632552
 Evol Appl. 2017 Nov 16;11(3):312-324. doi: 10.1111/eva.12555. eCollection 2018 Mar.
 Focusing the diversity of Gardnerella vaginalis through the lens of ecotypes.
 Cornejo OE1, Hickey RJ2,3,4, Suzuki H5, Forney LJ2,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5881158/
+- These data suggest the genomes of Gardnerella have undergone a substantial reduction in size after diverging from their Bifidobacterium relatives. 
+- G. vaginalis genomes are substantially smaller and have a significantly lower GC content when compared to Bifidobacterium, a pattern that has previously been observed in many bacterial symbionts (McCutcheon & Moran, 2012). 
 
 Lactobacillus属：膣から分離
-http://www.ncbi.nlm.nih.gov/pubmed/24488312
+https://pubmed.ncbi.nlm.nih.gov/24488312/
 J Bacteriol. 2014 Apr;196(7):1458-70.
 Comparative Functional Genomics of Lactobacillus spp. Reveals Possible Mechanisms for Specialization of Vaginal Lactobacilli to Their Environment.
 Mendes-Soares H, Suzuki H, Hickey RJ, Forney LJ.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3993339/
+
 
 Lactobacillus属：体重増加に関連
 https://www.ncbi.nlm.nih.gov/pubmed/24567124
 Nutr Diabetes. 2014 Feb 24;4:e109. doi: 10.1038/nutd.2014.6.
 Comparative genomics analysis of Lactobacillus species associated with weight gain or weight protection.
 Drissi F1, Merhej V1, Angelakis E1, El Kaoutari A1, Carrière F2, Henrissat B3, Raoult D1.
+
+
 
 ----------
 ## Mycobacterim
@@ -734,386 +1153,6 @@ Mycobacterium avium avium BSL2 Class 2
 Mycobacterium avium paratuberculosis 旧名＝Mycobacterium paratuberculosis BSL2 Class 2
 Mycobacterium avium silvaticum BSL2
 ```
-
-----------
-## Geobacter
-
-- https://ja.wikipedia.org/wiki/ゲオバクター属
-- http://www.bacterio.net/geobacter.html
-- https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Geobacter
-
-https://www.ncbi.nlm.nih.gov/pubmed/31126529
-Adv Microb Physiol. 2019;74:1-96. doi: 10.1016/bs.ampbs.2019.02.007. Epub 2019 May 15.
-The electrifying physiology of Geobacter bacteria, 30 years on.
-Reguera G1, Kashefi K1.
-
-Fig. 2 Neighbor joining phylogenetic tree of the families Geobacteraceae and Desulfur- omonadaceae. 
-
-Table 2 Type strains (in alphabetical order) for validly described Geobacter species available in pure culture.
-```Source
-Growth substrates
-Temperature Range [optimal]
-```
-
-
-https://onlinelibrary.wiley.com/doi/abs/10.1111/mmi.14443
-Molecular evidence for the adaptive evolution of Geobacter sulfurreducens to perform dissimilatory iron reduction in natural environments - Liu - - Molecular Microbiology
-- E‐pili are constructed by truncated PilA which is considered to have evolved from full‐length pilin by gene fission under positive evolutionary selection.
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/27940542
-Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689-16. Print 2017 Feb 15.
-Arsenic Detoxification by Geobacter Species.
-Dang Y1,2, Walker DJ1, Vautour KE1, Dixon S3, Holmes DE4,3.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/
-- Analysis of 14 different Geobacter genomes showed that all of these species have genes coding for an arsenic detoxification system (ars operon), and several have genes required for arsenic respiration (arr operon) and methylation (arsM). Genes encoding four arsenic repressor-like proteins were detected in the genome of G. sulfurreducens; however, only one (ArsR1) regulated transcription of the ars operon. Elimination of arsR1 from the G. sulfurreducens chromosome resulted in enhanced transcription of genes coding for the arsenic efflux pump (Acr3) and arsenate reductase (ArsC).
-- Some bacteria are able to methylate arsenic with S-adenosyl-l-methionine-dependent methyltransferase (ArsM), forming volatile methylarsines, which removes arsenic from the immediate environment by converting it into a gaseous compound (6). Other prokaryotes utilize arr and/or ars arsenic transformation systems. While both systems involve reduction of arsenate,
-- Arsenic detoxification machinery in Geobacter.
-All of the Geobacter genomes available to date have the arsenic detoxification machinery (ars genes), whereas only a few Geobacter species have genes required for arsenite methylation (arsM) and arsenate respiration (arr genes) (Table 1).
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/table/T1/
-TABLE 1
-Arsenic detoxification and respiratory genes found in the genomes of the Geobacter species and strains used in this study
-- Regulation of the ars operon.
-The G. sulfurreducens genome has four different genes coding for putative ArsR-Smt family regulatory proteins scattered throughout the genome: GSU2952 (arsR1), GSU2149 (arsR2), GSU0399 (arsR3), and GSU2625 (arsR4). All four of these genes' proteins have the helix-turn-helix (HTH) motif that is characteristic of DNA binding transcriptional regulators (see Fig. S4A in the supplemental material), and all of them are found near transport proteins. 
-- REFERENCES
-6. Bentley R, Chasteen TG. 2002. Microbial methylation of metalloids: arsenic, antimony, and bismuth. Microbiol Mol Biol Rev 66:250–271. 
-
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/22114840
-Adv Microb Physiol. 2011;59:1-100. doi: 10.1016/B978-0-12-387661-4.00004-5.
-Geobacter: the microbe electric's physiology, ecology, and practical applications.
-Lovley DR1, Ueki T, Zhang T, Malvankar NS, Shrestha PM, Flanagan KA, Aklujkar M, Butler JE, Giloteaux L, Rotaru AE, Holmes DE, Franks AE, Orellana R, Risso C, Nevin KP.
-
-
-
-ファージ
-https://www.ncbi.nlm.nih.gov/pubmed/25083935
-ISME J. 2015 Feb;9(2):333-46. doi: 10.1038/ismej.2014.128. Epub 2014 Aug 1.
-Evidence of Geobacter-associated phage in a uranium-contaminated aquifer.
-Holmes DE1, Giloteaux L2, Chaurasia AK2, Williams KH3, Luef B4, Wilkins MJ5, Wrighton KC6, Thompson CA2, Comolli LR3, Lovley DR2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303627/
-- The programs PHAST (Zhou et al., 2011) and/or Prophinder were also used to find phage-related sequences. Others were determined by the presence of known phage domains (http://pfam.sanger.ac.uk/, http://blast.jcvi.org/web-hmm/) or the word ‘phage' in protein coding features.
-- Further evidence that some of the subsurface Geobacter phage are lysogenic comes from the fact that multiple phage attachment sites (att) were detected in the Geobacter chromosomes, and the programs PHAST (Zhou et al., 2011 PHAST) and/or Prophinder (http://aclame.ulb.ac.be/Tools/Prophinder/) identified prophage in all five of the genomes.
-
-http://aclame.ulb.ac.be/perl/Aclame/Prophages/view_prophage.cgi?
-ACLAME: Prophinder
-```
-Geobacter metallireducens GS-15	NC_007517	chromosome
-Geobacter sulfurreducens PCA	NC_002939	chromosome
-Geobacter uraniireducens Rf4	NC_009483	chromosome
-Gloeobacter violaceus PCC 7421	NC_005125	chromosome
-```
-
-好熱菌
-https://www.ncbi.nlm.nih.gov/pubmed/12732575
-Appl Environ Microbiol. 2003 May;69(5):2985-93.
-Thermophily in the Geobacteraceae: Geothermobacter ehrlichii gen. nov., sp. nov., a novel thermophilic member of the Geobacteraceae from the "Bag City" hydrothermal vent.
-Kashefi K1, Holmes DE, Baross JA, Lovley DR.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC154550/
-Unlike previously described members of the Geobacteraceae, which are mesophiles, strain SS015 was a thermophile and grew at temperatures of between 35 and 65°C, with an optimum temperature of 55°C. 
-```
-Geothermobacter ehrlichii	213224	PRJNA500323	500323	Proteobacteria	delta/epsilon subdivisions	3.23595	61.9	-	VNIB01	33	3045	2933	2019/08/29	2019/09/02	Contig	DOE Joint Genome Institute	SAMN12255868	GCA_008124615.1	-	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/124/615/GCA_008124615.1_ASM812461v1	-	SS015
-```
-
-### Geobacter_phylogeny
-系統解析
-
-https://www.ncbi.nlm.nih.gov/pubmed/25139417
-Int J Syst Evol Microbiol. 2014 Nov;64(Pt 11):3786-91. doi: 10.1099/ijs.0.066662-0. Epub 2014 Aug 19.
-Geobacter soli sp. nov., a dissimilatory Fe(III)-reducing bacterium isolated from forest soil.
-Zhou S1, Yang G2, Lu Q3, Wu M3.
-http://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.066662-0#tab3
-Fig. 1.
-Phylogenetic consensus tree based on 16S rRNA gene sequences, 
-Desulfuromusa kysingii DSM 7343T (GenBank accession no. X79414) was used as an outgroup.
-```
-Pelobacter propionicus DSM 2379T (CP000482)
-Geobacter chapellei 172T (U41561)
-Geobacter psychrophilus P35T (AY653549)
-Geobacter thiogenes JCM 14045T (AF223382)
-Geobacter lovleyi SZT (CP001089)
-Geobacter luticola OSK6T (AB682759)
-Geobacter bemidjiensis BemT (CP001124)
-Geobacter bremensis Dfr1T (U96917)
-Geobacter uraniireducens Rf4T (CP000698)
-Geobacter daltonii FRC-32T (CP001390)
-Geobacter toluenoxydans TMJ1T (EU711072)
-```
-![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/64/11/066662-f1.gif)
-
-https://www.ncbi.nlm.nih.gov/pubmed/19284579
-BMC Genomics. 2009 Mar 11;10:103. doi: 10.1186/1471-2164-10-103.
-Evolution from a respiratory ancestor to fill syntrophic and fermentative niches: comparative fenomics of six Geobacteraceae species.
-Butler JE1, Young ND, Lovley DR.
-https://link.springer.com/article/10.1186/1471-2164-10-103
-Figure 1
-Genome-based Geobacteraceae phylogeny. Bayesian inference of the phylogenetic tree of the six Geobacteraceae species discussed in the text, using another Deltaproteobacterial species, Anaeromyxobacter dehalogenans, as the outgroup. The tree was based on a concatenation of the proteins in the 481 families that had exactly one ortholog conserved in each of the seven genomes (see Additional file 6). Values at branch points are posterior probabilities.
-![](https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F1471-2164-10-103/MediaObjects/12864_2008_Article_1987_Fig1_HTML.jpg)
-
-https://www.ncbi.nlm.nih.gov/pubmed/15388715
-Int J Syst Evol Microbiol. 2004 Sep;54(Pt 5):1591-9.
-Comparison of 16S rRNA, nifD, recA, gyrB, rpoB and fusA genes within the family Geobacteraceae fam. nov.
-Holmes DE1, Nevin KP, Lovley DR.
-https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02958-0#tab2
-Fig. 1.
-Phylogenetic trees predicted by maximum-likelihood analysis comparing sequences of the 16S rRNA gene (a), fusA (b), gyrB (c), nifD (d), recA (e) and rpoB (f) from species of the Geobacteraceae. Chlorobium tepidum and Nostoc sp. PCC 7120 were used as outgroups and 1000 replicates were used for maximum-likelihood (first bootstrap value) and maximum-parsimony (second value) bootstrap analyses. Taxa are represented by type strains unless the strain name is indicated.
-![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/54/5/IJE45259-1.gif)
-
-https://www.ncbi.nlm.nih.gov/pubmed/18461135
-PLoS One. 2008 May 7;3(5):e2103. doi: 10.1371/journal.pone.0002103.
-The mosaic genome of Anaeromyxobacter dehalogenans strain 2CP-C suggests an aerobic common ancestor to the delta-proteobacteria.
-Thomas SH1, Wagner RD, Arakaki AK, Skolnick J, Kirby JR, Shimkets LJ, Sanford RA, Löffler FE.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/
-Figure 1
-16S rRNA gene-based phylogenetic tree of the delta-Proteobacteria indicates that A. dehalogenans strain 2CP-C is deeply nested in the order Myxococcales.
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/bin/pone.0002103.g001.jpg)
-
-https://www.ncbi.nlm.nih.gov/pubmed/10966399
-Appl Environ Microbiol. 2000 Sep;66(9):3842-9.
-Phylogeny of microorganisms populating a thick, subaerial, predominantly lithotrophic biofilm at an extreme acid mine drainage site.
-Bond PL1, Smriga SP, Banfield JF.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/
-FIG. 6
-Evolutionary distance dendogram of slime clones within the delta subdivision of the Proteobacteria based on 1,121 nucleotides of 16S rDNA sequences. Desulfovibrio desulfuricans (not shown) was used as the outgroup. Indications of branch point support and evolutionary distance are as described for Fig. ​Fig.4.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/figure/F6/
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/bin/am0901966006.jpg)
-
-https://www.ncbi.nlm.nih.gov/pubmed/8900001
-Appl Environ Microbiol. 1996 Nov;62(11):4108-13.
-A freshwater anaerobe coupling acetate oxidation to tetrachloroethylene dehalogenation.
-Krumholz LR1, Sharp R, Fishbain SS.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC168232/
-https://www.researchgate.net/figure/Phylogenetic-tree-of-TT4B-and-other-representatives-of-the-delta-subclass-of-the_fig4_14307027
-Phylogenetic tree of TT4B and other representatives of the delta subclass of the Proteobacteria based on 16S rRNA sequence comparisons. 
-![](https://www.researchgate.net/profile/Susan_Fishbain/publication/14307027/figure/fig4/AS:667587264393217@1536176615479/Phylogenetic-tree-of-TT4B-and-other-representatives-of-the-delta-subclass-of-the.png)
-
-https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
-- Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp).
-![](https://ars.els-cdn.com/content/image/1-s2.0-B9780123876614000045-f01-04-9780123876614.jpg)
-- Fig. 2. Neighbor joining phylogenetic tree of the families Geobacteraceae and Desulfuromonadaceae.
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0065291119300086-gr2.jpg)
-
-
-- https://ja.wikipedia.org/wiki/粘液細菌
-目	:	ミクソコックス目 Myxococcales
-- https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Desulfuromusa
-- http://www.bacterio.net/desulfuromusa.html
-- https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Desulfuromonas
-- https://microbewiki.kenyon.edu/index.php/Desulfuromonas
-Bacteria; Proteobacteria; delta/epsilon subdivisions; Deltaproteobacteria; Desulfuromonadales; Desulfuromonadaceae
-- https://en.wikipedia.org/wiki/Desulfuromusa_ferrireducens
-Order:	Desulfuromonadales
-Family:	Desulfuromonadaceae
-Genus:	Desulfuromusa
-Species:	D. ferrireducens
-
-
-
-### Geobacter_codon_usage
-コドン使用
-
-https://www.ncbi.nlm.nih.gov/pubmed/22032172
-Genome Biol. 2011 Oct 27;12(10):R109. doi: 10.1186/gb-2011-12-10-r109.
-Variation in global codon usage bias among prokaryotic organisms is associated with their lifestyles.
-Botzman M1, Margalit H.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3333779/
-Other prokaryotes with almost as high CAIave values are quite diverse: Geobacter metallireducens (CAIave value of 0.79) is an anaerobic bacterium that uses iron oxides as the electron acceptor in the oxidation of organic compounds to carbon dioxide [23], 
-
-
-### Geobacter_comparative_genomics
-比較ゲノム
-
-https://www.hindawi.com/journals/isrn/2013/850179/
-A Whole Genome Pairwise Comparative and Functional Analysis of Geobacter sulfurreducens PCA
-Figure 1: Phylogenetic tree constructed using 16S rRNA of Geobacter species.
-https://www.hindawi.com/journals/isrn/2013/850179/fig1/
-
-https://www.ncbi.nlm.nih.gov/pubmed/22967216
-BMC Genomics. 2012 Sep 12;13:471. doi: 10.1186/1471-2164-13-471.
-Comparative genomic analysis of Geobacter sulfurreducens KN400, a strain with enhanced capacity for extracellular electron transfer and electricity production.
-Butler JE1, Young ND, Aklujkar M, Lovley DR.
-
-https://www.ncbi.nlm.nih.gov/pubmed/22616984
-BMC Genomics. 2012 May 22;13:200. doi: 10.1186/1471-2164-13-200.
-Genomic determinants of organohalide-respiration in Geobacter lovleyi, an unusual member of the Geobacteraceae.
-Wagner DD1, Hug LA, Hatt JK, Spitzmiller MR, Padilla-Crespo E, Ritalahti KM, Edwards EA, Konstantinidis KT, Löffler FE.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403914/
-- Computational analyses
-Codon adaptation indices (CAI) for strain SZ ORFs encoded on the plasmid and chromosomal genomic islands were computed against a codon usage table based upon all strain SZ chromosomal ORFs using the E-CAI server [29]. 
-- Plasmid maintenance
-The pSZ77 RepA appears to share phylogenetic affiliation with the RepA of various plasmids from β- or γ-Proteobacteria (Figure 5), including an IncQ-like mobilizable plasmid [70] and an IncP-1-like environmental plasmid [71]. 
-Figure 5
-Unrooted proML tree of 35 plasmid replication initiator protein (RepA) sequences aligning with pSZ77 RepA in PSI-BLAST. 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403914/figure/F5/
-
-https://www.ncbi.nlm.nih.gov/pubmed/20078895
-BMC Genomics. 2010 Jan 17;11:40. doi: 10.1186/1471-2164-11-40.
-Evolution of electron transfer out of the cell: comparative genomics of six Geobacter genomes.
-Butler JE1, Young ND, Lovley DR.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/
-Figure 1
-Genome-based Geobacter phylogeny.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/figure/F1/
-
-https://www.ncbi.nlm.nih.gov/pubmed/18844997
-BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
-Comparative genomics of Geobacter chemotaxis genes reveals diverse signaling function.
-Tran HT1, Krushkal J, Antommattei FM, Lovley DR, Weis RM.
-
-2019-4-30
-https://engineer.fabcross.jp/archeive/190426_electricity-conducting-bacteria.html
-電気を通すバクテリアの構造を解明――タンパク質を使った生体用配線開発の可能性も
-
-https://mainichi.jp/articles/20160604/ddl/k22/040/140000c
-微生物発電：１００倍超に　二又・静岡大教授が効率化物質を発見　／静岡 - 毎日新聞
-
-2015年06月09日
-http://eetimes.jp/ee/articles/1506/09/news041.html
-東大駒場リサーチキャンパス公開2015：赤い微生物「ジオバクター」の燃料電池、廃水処理システムを変える？ - EE Times Japan
-
-Jan. 23, 2015
-https://www.jst.go.jp/pr/announce/20120605/index.html
-微生物が互いに電子をやり取りする未知の「電気共生」を発見
-
-5/24/12
-https://io9.gizmodo.com/5908318/10-surprising-things-that-bacteria-like-to-eat
-Frank Miller Is Illustrating a YA Novel That Will Tell the Lady of the Lake's Origin
-10. Nuclear Waste
-Geobacter sulfurreducens
-9. Arsenic
-
-酢酸を電子供与体に、硝酸を電子受容体として、土壌細菌の代表株であるゲオバクター（Geobacter sulfurreducens ）とチオバチルス（Thiobacillus denitrificans ）を共培養
-
-Mar 28, 2012
-https://www.youtube.com/watch?v=LxaAWbN2koo
-Michigan State University 2011 President's Report: Zapping nuclear waste. - YouTube
-
-2011年9月7日
-http://sustainablejapan.net/?p=452
-発電しながら放射能汚染土壌を浄化する微生物「ジオバクター」の謎、ミシガン州立大が解明 | SJN News　再生可能エネルギー最新情報
-
-https://wired.jp/2011/09/16/ウランの地下水汚染を防ぐ細菌、そのメカニズム/
-ジオバクター科の細菌は、ウラン鉱山等の地下水汚染防止に使われてきた。その仕組みは今までわかっていなかったが、このほどその一部を明らかにする研究が発表された。
-
-https://twitter.com/Kyukimasa/status/1146406334897651712
-ゆきまさかずよし on Twitter: "”電線バクテリア” https://t.co/XLndiO79k3 鉄還元菌と硝酸還元菌が導電性の生きたケーブルで繋がって電子を受け渡して共生しているという話。 1980年代になって発見されてから多くの種が発見されて研究進んでる(生物燃料電池とかの応用も)"
-9:12 AM - 3 Jul 2019
-ここ最近、電気微生物の研究進んでるとは聞いたけど、検索してたら鉄還元細菌ジオバクター
-
-----------
-
-### Inoue
-Inoue Kengo
-
-https://www.ncbi.nlm.nih.gov/pubmed/29748402
-Genome Announc. 2018 May 10;6(19). pii: e00352-18. doi: 10.1128/genomeA.00352-18.
-Complete Genome Sequence of Geobacter sulfurreducens Strain YM18, Isolated from River Sediment in Japan.
-Inoue K1, Ogura Y2, Kawano Y3, Hayashi T2.
-
-2016
-IFO 公益財団法人発酵研究所
-http://www.ifo.or.jp/rc_pdf/30.pdf
-微生物による有機物の化学エネルギーから
-電気エネルギーへの変換能力解明に向けた
-基礎的研究
-井　上　謙　吾
-宮崎大学農学部
-方法：
-著者らが分離した新規分離発電株 YM18 株につい
-て，全ゲノムを決定し，既報の発電株 G. sulfurreducens
-PCA 株，KN400 株との比較ゲノム解析を行った．
-結果・考察：
-YM18 株の全ゲノム配列を決定したところ，約
-3.7 Mbp で，3,354 の ORF を持っており，PCA 株に対
-して，122,022 個の SNPs を有していた．発電能力が
-PCA 株よりも高い YM18 株と KN400 株のみに共通す
-る遺伝子が35個見いだされ，これらの遺伝子が高い発
-電能力に何らかの役割を果たしている可能性が考えら
-れた．
-
-2013.03.29 
-https://www.sbj.or.jp/sbj/sbj_vol90_no03.html
-バイオミディア
-pdf電子を放出する微生物 …井上　謙吾…（132）
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/9003/9003_biomedia_1.pdf
-これまでに詳細な研究が行われてきた鉄還元菌
-Shewanella oneidensis，Geobacter sulfurreducensでは
-効率的な細胞外への電子移動には主にc型ヘム（ヘムc）
-を補因子とするシトクロムcが利用される2)．
-
-2011-12
-https://ci.nii.ac.jp/naid/40019971881
-微生物の細胞外電子伝達
-Microbial Extracellular Electron Transfer
-井上 謙吾
-https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
-鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
-先駆的な研究がなされてきた。
-図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
-
-https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_article/-char/ja/
-海外だより
-Lovley研究室でのGeobacter 属細菌と微生物燃料電池の研究
-井上 謙吾
-2008 年 46 巻 7 号 p. 509-513
-https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_pdf/-char/ja
-
-----------
-### Geobacter_Shewanella
-- https://mra.asm.org/search/Geobacter
-- https://mra.asm.org/search/Shewanella
-
-https://www.nytimes.com/2019/07/01/science/bacteria-microbes-electricity.html
-Wired Bacteria Form Nature’s Power Grid: ‘We Have an Electric Planet’ - The New York Times
-Geobacter
-Shewanella
-
-2018.06.25
-https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
-バイオミディア
-pdf環境中の電子移動と微生物…鹿島 裕之…（ 739 ）
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/9512/9512_biomedia_1.pdf
-モデル生物の
-Shewanella属，Geobacter属細菌では，複数のシトクロ
-ムcタンパク質が呼吸鎖のある内膜と細胞外膜表面とを
-結ぶ電子回路として働く1,2)．
-
-https://www.ncbi.nlm.nih.gov/pubmed/28871245
-Front Microbiol. 2017 Aug 21;8:1584. doi: 10.3389/fmicb.2017.01584. eCollection 2017.
-Comparative Genomic Analysis of Neutrophilic Iron(II) Oxidizer Genomes for Candidate Genes in Extracellular Electron Transfer.
-He S1,2,3, Barco RA4,5, Emerson D4, Roden EE1,2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5566968/
-- Extracellular electron transfer (EET) is recognized as a key biochemical process in circumneutral pH Fe(II)-oxidizing bacteria (FeOB).
-- The “porin-cytochrome c complex” (PCC) gene clusters homologous to MtoAB/PioAB are present in eight FeOB, accounting for 19% of complete and close-to-complete genomes examined, whereas PCC genes homologous to OmbB-OmaB-OmcB in Geobacter sulfurreducens are absent. 
-- EET systems have been extensively studied in model Fe(III)-reducing bacteria (FeRB), such as Geobacter sulfurreducens and Shewanella oneidensis, for which electrons from the oxidation of organic substrates are passed to extracellular Fe(III) minerals. 
-- Like the Fe(III)-reducing Geobacter and Shewanella spp., most neutrophilic FeOB are Gram-negative bacteria with the inner and outer membranes separated by a periplasmic space, thus EET systems also need to span the periplasm to bridge the outer membrane to the inner membrane. 
-- Conductive nanowires
-Alternative to the direct contact between extracellular Fe and a dedicated outer membrane Fe(II) oxidase, EET might be achieved through conductive nanowires analogous to those known for Geobacter and Shewanella, that allow for long-range EET over micrometer distances (Reguera et al., 2005; Gorby et al., 2006).
-
-2016-2017
-http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
-磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
-主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
-
-2014
-https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
-細胞外電子伝達 : 固体を呼吸基質とする微生物たち
-加藤 創一郎
-https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
-鉄 還元 能 を持つ Geobacter属や Shewanella
-
-2011
-http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
-微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
-
-2009-12
-環境バイオテクノロジー学会
-https://ci.nii.ac.jp/naid/40018914443
-微生物燃料電池での電流生産を可能にするShewanella oneidensisの細胞外電子伝達機構
-https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
-異化的金属還元細菌（dissimilatory
-metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
 
 ----------
 
@@ -1707,11 +1746,11 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/shewanella
 Shewanella - an overview | ScienceDirect Topics
 Shewanella can be recovered from a variety of water sources, natural gas and petroleum reserves, dairy products, meat, and fish.
 
-Published: 10 January 2020
-https://academic.oup.com/femsre/advance-article-abstract/doi/10.1093/femsre/fuz031/5700284
-The Shewanella genus: ubiquitous organisms sustaining and preserving aquatic ecosystems
-Olivier N Lemaire, Vincent Méjean, Chantal Iobbi-Nivol
-FEMS Microbiology Reviews, fuz031, https://doi.org/10.1093/femsre/fuz031
+総説
+https://www.ncbi.nlm.nih.gov/pubmed/31922549
+FEMS Microbiol Rev. 2020 Jan 10. pii: fuz031. doi: 10.1093/femsre/fuz031. [Epub ahead of print]
+The Shewanella genus: ubiquitous organisms sustaining and preserving aquatic ecosystems.
+Lemaire ON1, Méjean V1, Iobbi-Nivol C1.
 
 https://www.ncbi.nlm.nih.gov/pubmed/31482142
 Commun Biol. 2019 Aug 29;2:323. doi: 10.1038/s42003-019-0567-3. eCollection 2019.
@@ -2315,6 +2354,43 @@ Sinorhizobium sp. DAO10 16S ribosomal RNA gene, partial sequence
 https://core.ac.uk/download/pdf/96948362.pdf
 博士論文土壌環境における亜ヒ酸の挙動に及ぼす細菌群集の影響
 2-6-1 供試菌株供試菌株として Alphaproteobacteria 綱に属する亜ヒ酸酸化細菌 Shinorhizobium sp. KGO-5 (Dong et al., 2014)を用いた。KGO-5 株は本研究室にお いて高度ヒ素汚染土壌から単離された通性独立栄養性の亜ヒ酸酸化細菌である。2-6-2 KGO-5 株の培養及び菌体懸濁液の調製
+
+
+
+
+----------
+## Streptococcus
+
+https://www.clemson.edu/science/departments/biosci/directory/profiles/vpricha
+
+http://stanhope.vet.cornell.edu/publications.html
+
+https://pubmed.ncbi.nlm.nih.gov/24625962/
+Genome Biol Evol
+. 2014 Apr;6(4):741-53. doi: 10.1093/gbe/evu048.
+Phylogenomics and the dynamic genome evolution of the genus Streptococcus
+Vincent P Richards 1, Sara R Palmer, Paulina D Pavinski Bitar, Xiang Qin, George M Weinstock, Sarah K Highlander, Christopher D Town, Robert A Burne, Michael J Stanhope
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4007547/
+
+https://pubmed.ncbi.nlm.nih.gov/22666370/
+PLoS One
+. 2012;7(5):e37607. doi: 10.1371/journal.pone.0037607. Epub 2012 May 30.
+Gene repertoire evolution of Streptococcus pyogenes inferred from phylogenomic analysis with Streptococcus canis and Streptococcus dysgalactiae
+Tristan Lefébure 1, Vince P Richards, Ping Lang, Paulina Pavinski-Bitar, Michael J Stanhope
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/
+
+https://www.ncbi.nlm.nih.gov/pubmed/22155358
+Infect Genet Evol. 2012 Mar;12(2):274-7. doi: 10.1016/j.meegid.2011.11.004. Epub 2011 Dec 3.
+Functional bias of positively selected genes in Streptococcus genomes.
+Suzuki H, Stanhope MJ.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21282711
+Genome Biol Evol. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
+Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution.
+Suzuki H1, Lefébure T, Hubisz MJ, Pavinski Bitar P, Lang P, Siepel A, Stanhope MJ.
+
+
+
 
 ----------
 ## Alphaproteobacteria
