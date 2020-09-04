@@ -127,11 +127,6 @@ http://www.ted-ja.com/2017/02/wei-sheng-wu-karacheng-ruren-ti.html
 日本語TED新着: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
 3:45
 
-TED2014 | February 2014
-https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=ja
-ロブ・ナイト: 微生物がどのようにして私達を作っているのか | TED Talk
-17:16
-
 http://tedtalks-english-japanese.blogspot.jp/2017/05/smelfie-ani-liu.html
 英語で読む「TED Talks」: Smelfie におい自撮り［Ani Liu］
 
@@ -140,28 +135,73 @@ https://www.ted.com/talks/ani_liu_smelfies_and_other_experiments_in_synthetic_bi
 アニー・リュー: においの「自撮り」やその他の合成生物学的な実験 | TED Talk
 • 7:20
 
+
+TED2014 | February 2014
+https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=ja
+ロブ・ナイト: 微生物がどのようにして私達を作っているのか | TED Talk
+17:16
+
+
+TEDMED 2012 | April 2012
+https://www.ted.com/talks/jonathan_eisen_meet_your_microbes?language=ja
+ジョナサン・アイゼン: 微生物にこんにちは | TED Talk
+
+
+### jessica_green
+
+TED2013 | February 2013
+http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
+ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン | TED Talk
+8:31
+
+TEDGlobal 2011 | July 2011
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
+Jessica Green: ジェシカ・グリーン「微生物を正しく取り除くために」 | TED Talk
+5:10
+
+
+TED-Ed
+[You are your microbes - Jessica Green and Karen Guillemin](https://ed.ted.com/lessons/you-are-your-microbes-jessica-green-and-karen-guillemin)
+[微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン](https://www.ted-ja.com/2017/02/wei-sheng-wu-karacheng-ruren-ti.html?m=1)
+
+
 ### craig_venter
-- https://www.ted.com/talks/craig_venter_unveils_synthetic_life?language=ja
-Craig Venter: クレイグ・ベンター：「人工生命」について発表する | TED Talk
+
 TED in the Field | May 2010
+https://www.ted.com/talks/craig_venter_unveils_synthetic_life?language=ja
+Craig Venter: クレイグ・ベンター：「人工生命」について発表する | TED Talk
 • 18:17
-- https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life?language=ja
-Craig Venter: クレイグ・ベンター：目前に迫る合成生命の創造 | TED Talk
+
 TED2008 | February 2008
+https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life?language=ja
+Craig Venter: クレイグ・ベンター：目前に迫る合成生命の創造 | TED Talk
 • 15:54
-- https://www.ted.com/talks/craig_venter_on_dna_and_the_sea?language=ja
-クレイグ・ヴェンター: DNAと海 | TED Talk
+
 TEDGlobal 2005 | February 2005
+https://www.ted.com/talks/craig_venter_on_dna_and_the_sea?language=ja
+クレイグ・ヴェンター: DNAと海 | TED Talk
 • 16:51
 
 
 ----------
 
-- TED-Ed [You are your microbes - Jessica Green and Karen Guillemin](https://ed.ted.com/lessons/you-are-your-microbes-jessica-green-and-karen-guillemin) | [微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン](https://www.ted-ja.com/2017/02/wei-sheng-wu-karacheng-ruren-ti.html?m=1)
+
+----------
+
 - May 16, 2019 [The CHILD Cohort Study and a baby’s microbiome](https://www.youtube.com/watch?v=eL9dAGiCNLU)
 - Oct 10, 2016 [What is the human microbiome?](https://www.youtube.com/watch?v=YB-8JEo_0bI)
-- July 2011 TED Talk 5:18 [Jessica Green: Are we filtering the wrong microbes?](https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes) | [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
+
+
+
 - TED-Ed [What causes antibiotic resistance? - Kevin Wu](https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu) | [抗生物質に対する耐性が生まれるのはなぜか？ - ケビン・ウー](https://amara.org/en/videos/VllmqrFumzGt/ja/812239/)
 - [抗生物質が効かない悪魔のスーパーバグがどれくらい怖い存在なのか理解できるムービー「The Antibiotic Apocalypse Explained」](https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/)
+
+
+- [リチャード・レズニック「ゲノム革命の時代へようこそ」](https://www.ted.com/talks/richard_resnick_welcome_to_the_genomic_revolution?language=ja) TEDxBoston 2011 · 11:02 · Filmed Jul 2011
+
+- [バリー・シュラー: ゲノム学基礎講座](https://www.ted.com/talks/barry_schuler_genomics_101?language=ja) Taste3 2008 · 21:26 · Filmed Jun 2008
+
+
+
 
 
