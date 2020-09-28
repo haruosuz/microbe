@@ -35,6 +35,22 @@
 
 ## updates
 
+## 2020-09
+
+6:01 AM · Sep 21, 2020
+https://twitter.com/bluebacks_pub/status/1307787002251628545
+講談社ブルーバックス on Twitter: "【医学はこうして統計学をハッキングした】 新型コロナウイルスにどう対応するかは客観的なデータが教えてくれるはず……本当にそうでしょうか？　客観的なデータはどこにあるのでしょうか？ : https://t.co/XNdzVPrJAL #ブルーバックス" / Twitter
+https://gendai.ismedia.jp/articles/-/75641?media=bb
+コロナウイルスが明らかにした「エビデンスに基づく医療」の虚構（大脇 幸志郎） | ブルーバックス | 講談社（1/5）
+https://gendai.ismedia.jp/articles/-/75641?page=2
+
+
+新型コロナウイルス感染症（COVID-19）
+2020年09月17日
+https://www.huffingtonpost.jp/entry/story_jp_5f619877c5b68d1b09c96e9b
+「コロナは武漢の研究所で作られた」中国人学者が論文発表→専門家は「荒唐無稽」と指摘【新型コロナ】 | ハフポスト
+
+
 ## 2020-08
 
 2020年8月05日
