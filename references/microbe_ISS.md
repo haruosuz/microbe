@@ -26,6 +26,16 @@ ISS – microBEnet: the microbiology of the Built Environment network
 
 ## 2020
 
+### 2020-10-14
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.579156/full
+ORIGINAL RESEARCH ARTICLE
+Front. Microbiol., 14 October 2020 | https://doi.org/10.3389/fmicb.2020.579156
+No Effect of Microgravity and Simulated Mars Gravity on Final Bacterial Cell Concentrations on the International Space Station: Applications to Space Bioproduction
+
+
+### 2020-07-28
+
 2020年07月28日
 https://gigazine.net/news/20200728-chernobyl-fungi-shield-astronauts/
 チェルノブイリで発見された「放射線を食べるカビ」で宇宙飛行士を宇宙線から守る試み - GIGAZINE
@@ -183,6 +193,11 @@ Furnishing spaceship environment: evaluation of bacterial biofilms on different 
 Elena Perrin 1, Giovanni Bacci 2, Laurent Garrelly 3, Francesco Canganella 4, Giovanna Bianconi 5, Biowyse Consortium; Renato Fani 6, Alessio Mengoni 7
 https://www.sciencedirect.com/science/article/pii/S0923250818300573?via%3Dihub
 
+https://pubmed.ncbi.nlm.nih.gov/29807538/
+Review Mil Med Res
+. 2018 May 14;5(1):18. doi: 10.1186/s40779-018-0162-9.
+Effects of spaceflight and simulated microgravity on microbial growth and secondary metabolism
+Bing Huang 1, Dian-Geng Li 1, Ying Huang 2, Chang-Ting Liu 3
 
 ## 2017
 
