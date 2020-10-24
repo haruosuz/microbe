@@ -22,6 +22,9 @@ Last Update: 2020-02
 [Jack Gilbert](#jack-gilbert)
 [kurokawa](#kurokawa)
 
+https://github.com/haruosuz/metasub/blob/master/references/urban_biomes.md
+
+
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
 
 ----------
@@ -29,6 +32,17 @@ https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
 https://github.com/haruosuz/metasub
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 都市の微生物
+
+----------
+## unclassified
+
+----------
+
+
+2010年12月23日
+http://www.nikkei-science.com/?p=14373
+Science誌の選ぶこの10年の10大成果：マイクロバイオーム | 日経サイエンス
+
 
 ----------
 ## featuring
@@ -40,7 +54,28 @@ Willem van Schaik on Twitter: "Everything that is wrong about microbiome researc
 ----------
 ## updates
 
+### 2020
+
+MAY 25, 2020
+https://medicalxpress.com/news/2020-05-microbiome-rewilding-biodiverse-urban-green.html
+Microbiome rewilding: Biodiverse urban green spaces strengthen human immune systems
+by University of Adelaide
+
+12 April 2020 https://doi.org/10.1111/rec.13175
+https://onlinelibrary.wiley.com/doi/10.1111/rec.13175
+Revegetation of urban green space rewilds soil microbiotas with implications for human health and urban design - Mills - 2020 - Restoration Ecology - Wiley Online Library
+Revegetation of urban green space rewilds soil microbiotas with implications for human health and urban design
+Jacob G. Mills  Andrew Bissett  Nicholas J. C. Gellie  Andrew J. Lowe  Caitlin A. Selway  Torsten Thomas  Philip Weinstein  Laura S. Weyrich  Martin F. Breed
+
 ### 2019
+
+https://pubmed.ncbi.nlm.nih.gov/30972043/
+Front Microbiol
+. 2019 Mar 26;10:550. doi: 10.3389/fmicb.2019.00550. eCollection 2019.
+Relating Urban Biodiversity to Human Health With the 'Holobiont' Concept
+Jacob G Mills 1, Justin D Brookes 1, Nicholas J C Gellie 1, Craig Liddicoat 1, Andrew J Lowe 1, Harrison R Sydnor 1, Torsten Thomas 2, Philip Weinstein 1, Laura S Weyrich 3, Martin F Breed 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444116/
+
 
 ### 2018
 
@@ -376,17 +411,6 @@ https://www.igaku-shoin.co.jp/paperDetail.do?id=PA03303_01
 
 https://lne.st/2015/06/15/ken-kurokawa/
 細菌叢研究が 可能にする未来 黒川 顕 | リバネス
-
-----------
-## unclassified
-
-----------
-
-
-2010年12月23日
-http://www.nikkei-science.com/?p=14373
-Science誌の選ぶこの10年の10大成果：マイクロバイオーム | 日経サイエンス
-
 
 ----------
 
