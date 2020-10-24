@@ -107,10 +107,26 @@ https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
 
 ### jessica_green
 
+### phylagen
+
+https://twitter.com/phylagen
+Phylagen (@phylagen) / Twitter
+
+Aug 19, 2020
+https://www.wbaltv.com/article/phylagen-test-allows-swabs-of-coronavirus-on-surfaces/33632747
+New test allows swabbing for coronavirus on surfaces
+
+5:49 AM · Jul 31, 2020
+https://twitter.com/nbcnewsnow/status/1288939776511336448
+NBC News NOW on Twitter: "New technology developed by @phylagen can detect traces of coronavirus on surfaces and have results within 48 hours, @VickyNguyenTV explains Watch NOW: https://t.co/U4UZMH5vN5 https://t.co/TAWiEFJAP3" / Twitter
+
+
 https://wired.jp/special/2016/biology/
 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
 これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
 未来のバイオは建築や都市デザインまでも変えてゆく。
+ホコリから生まれた空間デザイン
+鼎談に登場したジェシカ・グリーンによる研究プロジェクト。オフィス内に溜まるホコリを集め、その中に含まれている微生物をラボで分析し、健康的な微生物環境を提供するための新しい建築デザイン手法を探っている。TED2013で研究成果を発表して話題となり、実際に病院や食品加工施設などのデザインプロセスを変えることを目指して、2015年9月にコンサルティング企業「Phylagen Inc.」を立ち上げている。
 
 Nov 9, 2015
 https://www.youtube.com/watch?v=GUfR_81fmLE
