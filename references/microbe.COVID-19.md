@@ -29,11 +29,137 @@
   - [technologyreview](#technologyreview) MIT Tech Review
 - 
   - [nazology](#nazology) ナゾロジー
+- [unclassified](#unclassified)
+
+----------
+## unclassified
+
+2020-05-21 
+https://www.covid19-jma-medical-expert-meeting.jp/topic/1729
+COVID-19制御における「換気」 | 日本医師会 COVID-19有識者会議
+新型コロナウイルス感染症制御における「換気」に関して
+
+R2.4.3
+https://www.mhlw.go.jp/content/10900000/000618969.pdf
+～ 商業施設等の管理権原者の皆さまへ ～
+「換気の悪い密閉空間」を
+改善するための換気の方法
+
+令和 2 年３月 30 日
+https://www.mhlw.go.jp/content/10900000/000616069.pdf
+商業施設等における「換気の悪い密閉空間」を改善するための換気について 
+イ 窓の開放による方法
+① 換気回数を毎時２回以上（30 分に一回以上、数分間程度、窓を全開する。）と
+すること。
+② 空気の流れを作るため、複数の窓がある場合、二方向の壁の窓を開放すること。
+窓が一つしかない場合は、ドアを開けること。
+
+----------
+
+## references
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it
+- Disease : coronavirus disease (COVID-19)
+- Virus : severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+
+https://twitter.com/search?q=COVID-19%20SARS-CoV-2%20lang%3Aja&src=typed_query
+
+新型コロナウイルスの名前はCOVID-19ではなく、"SARS-CoV-2"です。
+"COVID-19"は、新型コロナウイルスが引き起こす疾患です(coronavirus disease 2019の略)。
+
+- COVID-19は新型コロナウイルス感染症、つまり病気の名前
+- 新型コロナウイルスの名前はSARS-CoV-2
+
+
+
+
+https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)
+2019年に発生した新型コロナウイルス感染症（しんがたコロナウイルスかんせんしょう、国際正式名称：COVID-19[2]）は、SARSコロナウイルス2（SARS-CoV-2）[注 1]がヒトに感染することによって発症する気道感染症（ウイルス性の広義の風邪の一種[3]）である[4]。
+
+https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の世界的流行_(2019年-)
+
+https://ja.wikipedia.org/wiki/SARSコロナウイルス2
+SARSコロナウイルス2[注 1]（サーズコロナウイルスツー、英: severe acute respiratory syndrome coronavirus 2、略称: SARS-CoV-2、
+
+https://www.wikidata.org/wiki/Q82069695
+
+https://en.wikipedia.org/wiki/Coronavirus_disease_2019
+https://en.wikipedia.org/wiki/COVID-19_pandemic
+
+https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)[2][3] is the strain of coronavirus that causes coronavirus disease 2019 (COVID-19), the respiratory illness responsible for the COVID-19 pandemic.
+
+https://www.healthmap.org/covid-19/
+
+https://healthmap.org/wuhan/
+
+https://www.cdc.gov/coronavirus/
+Novel Coronavirus 2019
+
+https://www.cdc.gov/coronavirus/2019-ncov/publications.html
+2019-nCoV Publications | CDC
+
+https://asm.org/Press-Releases/2020/nCoV2019-Resources
+Novel Coronavirus (2019-nCoV) Resources | ASM.org
+
+
+http://minato.sip21c.org/2019-nCoV-im3r.html
+2019-nCoVについてのメモとリンク
+
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00093.html
+新型コロナウイルス感染症対策専門家会議の見解等（新型コロナウイルス感染症）｜厚生労働省
+新型コロナウイルス感染症対策の状況分析・提言（3月19日）
+https://www.mhlw.go.jp/content/10900000/000610566.pdf
+
+
+http://sesj.kenkyuukai.jp/special/?id=33015
+日本進化学会　/　m3.com学会研究会
+新型コロナウイルス（COVID-19）に関する情報
 
 
 ----------
 
 ## updates
+
+2020年12月23日
+https://yomidr.yomiuri.co.jp/article/20201223-OYTET50000/
+新型コロナのウイルス変異　英国はなぜ強力な対策を取ったのか : yomiDr./ヨミドクター（読売新聞）
+Dr.イワケンの「感染症のリアル」
+
+Ｂ．１．１．７と呼ばれるこの変異株、１７個の重要かもしれない遺伝子変異が見つかりました。特に、Ｎ５０１Ｙというアミノ酸の変化をもたらす変異と、Ｈ６９／Ｖ７０というアミノ酸の除去がウイルス表面のスパイク・たんぱく質で起きており、これが細胞への感染しやすさをもたらした可能性があるのです。ちなみにアミノ酸というのは遺伝子が作るたんぱく質の材料のことです。
+
+https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
+
+
+12/21(月) 19:45
+https://news.yahoo.co.jp/byline/kutsunasatoshi/20201221-00213726/
+イギリスの新型コロナ変異ウイルスは何が問題なのか(忽那賢志) - 個人 - Yahoo!ニュース
+
+新型コロナウイルスは常に変異をしており、これまでのところ、新型コロナウイルスは月に1～2回程度のペースで変異を繰り返してきました。
+https://nextstrain.org/groups/neherlab/ncov/S.N501?c=gt-S_501,69&p=grid&r=country
+
+つまり、現在の新型コロナウイルスの多くは、1月に中国で見つかった新型コロナウイルスとは約20箇所の変異が蓄積されてきている計算になります。
+
+しかし、このVUI 202012/01変異ウイルスは29もの変異が確認されており、これは通常想定されていた変異よりも早い速度で変異が起こったことが示唆されています。
+https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
+
+
+
+
+
+4:57 PM · Nov 12, 2020
+https://twitter.com/copypasteusa/status/1326796270447579141
+Haruo Suzuki on Twitter: "季節性インフルエンザの感染症の50%は無症状？ As many as 50% of infections with normal seasonal flu may be asymptomatic, which may in part be due to pre-existing partial immunity [1]. https://t.co/RYl88VPsld" / Twitter
+https://www.centerforhealthsecurity.org/cbn/2005/cbnreport_103105.html
+Disease Control Measures for Flu | Clinicians' Biosecurity News
+
+3:02 AM · Nov 12, 2020
+https://twitter.com/ASMicrobiology/status/1326586166808899587
+ASM on Twitter: "What do we know about the viral load of #SARSCoV2 in asymptomatic children and adults? And how does the immune system respond to asymptomatic SARS-CoV-2 infection? In this #MicrobialMinutes, we dive into the research and seek answers to these questions: https://t.co/mVqPXS13H6" / Twitter
+Nov. 10, 2020
+https://asm.org/Videos/Asymptomatic-SARS-CoV-2-Microbial-Minutes
+Asymptomatic SARS-CoV-2: Microbial Minutes | ASM.org
+
 
 ## 2020-09
 
@@ -272,6 +398,8 @@ https://twitter.com/DNA_PAPA/status/1245671281158045696
 8:15 PM · Apr 2, 2020
 https://wired.jp/2020/04/02/how-long-does-the-coronavirus-last-on-surfaces/
 新型コロナウイルスは、物体の表面で数日間は生き続ける？ 研究結果から見えてきたこと｜WIRED.jp
+
+
 
 ## 2020-03
 
@@ -988,59 +1116,6 @@ https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3
 Multivariate Analyses of Codon Usage of SARS-CoV-2 and other betacoronaviruses | bioRxiv
 https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3.full
 Amino acid composition sometime can also introduce confounding effects when one only focuses on studying the variations of synonymous codon usage. The use of global correspondence analysis (CA) and its derivatives within-group correspondence analysis (WCA) and between-group correspondence analysis (BCA) to analyze codon usages can overcome the above problem. In fact, WCA becomes “model of choice” for analyzing synonymous codon usage in recent years, as it is more robust than other traditional methods (e.g. CA with relative codon frequency or CA with RSCU values)7,8. This analytic approach, however, has not been used in studying viral sequences.
-
-----------
-
-## references
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it
-- Disease : coronavirus disease (COVID-19)
-- Virus : severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
-
-https://twitter.com/search?q=COVID-19%20SARS-CoV-2%20lang%3Aja&src=typed_query
-
-新型コロナウイルスの名前はCOVID-19ではなく、"SARS-CoV-2"です。
-"COVID-19"は、新型コロナウイルスが引き起こす疾患です(coronavirus disease 2019の略)。
-
-- COVID-19は新型コロナウイルス感染症、つまり病気の名前
-- 新型コロナウイルスの名前はSARS-CoV-2
-
-https://ja.wikipedia.org/wiki/2019新型コロナウイルスによる急性呼吸器疾患
-Coronavirus disease 2019, COVID-19
-
-https://en.wikipedia.org/wiki/Coronavirus_disease_2019
-
-https://ja.wikipedia.org/wiki/2019新型コロナウイルス
-SARS-CoV-2（英: Severe acute respiratory syndrome coronavirus 2
-
-https://en.wikipedia.org/wiki/2019–20_coronavirus_pandemic
-
-https://www.healthmap.org/covid-19/
-
-https://healthmap.org/wuhan/
-
-https://www.cdc.gov/coronavirus/
-Novel Coronavirus 2019
-
-https://www.cdc.gov/coronavirus/2019-ncov/publications.html
-2019-nCoV Publications | CDC
-
-https://asm.org/Press-Releases/2020/nCoV2019-Resources
-Novel Coronavirus (2019-nCoV) Resources | ASM.org
-
-
-http://minato.sip21c.org/2019-nCoV-im3r.html
-2019-nCoVについてのメモとリンク
-
-https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00093.html
-新型コロナウイルス感染症対策専門家会議の見解等（新型コロナウイルス感染症）｜厚生労働省
-新型コロナウイルス感染症対策の状況分析・提言（3月19日）
-https://www.mhlw.go.jp/content/10900000/000610566.pdf
-
-
-http://sesj.kenkyuukai.jp/special/?id=33015
-日本進化学会　/　m3.com学会研究会
-新型コロナウイルス（COVID-19）に関する情報
 
 ----------
 
