@@ -8,7 +8,7 @@ https://ja.wikipedia.org/wiki/建造環境
 構築環境；（自然に対して）人工的な環境
 
 ## Table of Contents
-- [featuring](#featuring)
+- [unclassified](#unclassified)
 - [updates](#updates)
 - [air](#air) 空気
 - [airport](#airport) 空港
@@ -21,7 +21,6 @@ https://ja.wikipedia.org/wiki/建造環境
 - [subway](#subway) 地下鉄
 - [japan](#japan)
 - [review](#review)
-- [unclassified](#unclassified)
 - [people](#people)
   - [jessica_green](#jessica_green)
   - [Yanagi](#yanagi)
@@ -50,15 +49,8 @@ Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4276630/
 fitness centers or “gyms”. 
 
-----------
-## featuring
 
-2019年8月2日
-https://www.natureasia.com/ja-jp/srep/pr-highlights/13045
-【微生物学】英国ロンドンで頻繁に手が触れる場所における多剤耐性菌の存在度 | 
-抗生物質耐性ブドウ球菌
-https://www.nature.com/articles/s41598-019-45886-6
-Whole genome sequencing revealed new molecular characteristics in multidrug resistant staphylococci recovered from high frequency touched surfaces in London | Scientific Reports
+
 
 ----------
 ## people
@@ -241,6 +233,49 @@ http://camda2017.bioinf.jku.at/lib/exe/fetch.php/camda2017-Moser.pdf
 ----------
 ## updates
 
+## 2020
+
+https://twitter.com/GlobalResearc16/status/1344548269276471296
+グローバルリサーチ【都市計画・地方創生】Global Research on Twitter: "建物が、無菌になるよう設計されたものでさえ、ウィルスの媒介となる理由は？ 中国の調査では、コロナ感染者7300人のうち屋外での感染は2人だけだった。 米国のBLMデモでは大人数が近い距離で大声を上げて参加していたが、13,000人のコロナ検査者のうち陽性者は1.8%だった。 https://t.co/xxOZ3hAn1a" / Twitter
+
+2020.12.31
+
+https://courrier.jp/news/archives/226424
+パンデミックで問い合わせ殺到「建物のマイクロバイオーム」とは何か？ | クーリエ・ジャポン
+
+新型コロナウイルスが圧倒的に屋内で感染しやすい理由
+パンデミックで問い合わせ殺到「建物のマイクロバイオーム」とは何か？
+
+「建築環境の微生物学」
+
+なぜ建物が病気を媒介するのか？
+
+屋内の「マイクロバイオーム」？
+
+未来の建築とマイクロバイオーム
+
+https://courrier.jp/news/archives/226436/
+コロナ禍の「無差別消毒」が有害ですらあるかもしれない理由 | クーリエ・ジャポン
+
+目に見えない「マイクロバイオーム」の世界から見えてくる
+コロナ禍の「無差別消毒」が有害ですらあるかもしれない理由
+
+屋内「マイクロバイオーム」の豊かな世界
+
+コロナウイルスの発散の仕方
+
+https://courrier.jp/news/archives/226473
+コロナ禍でも死活問題「最善の換気」方法とは何か？ | クーリエ・ジャポン
+
+「建物にとってのヨーグルト」は窓を開けること
+コロナ禍でも死活問題「最善の換気」方法とは何か？
+
+可能であれば、多様な微生物がいる外気を室内にたっぷり取り込む換気装置の設置をリャンは勧める。
+
+https://courrier.jp/news/archives/226552
+人は自然と和解し地上の建築物に「天国」を実現できるのか？ | クーリエ・ジャポン
+
+
 ## 2019
 
 https://pubmed.ncbi.nlm.nih.gov/31758010/
@@ -250,6 +285,14 @@ Early life home microbiome and hyperactivity/inattention in school-age children
 Lidia Casas 1, Anne M Karvonen 2, Pirkka V Kirjavainen 2 3, Martin Täubel 2, Heidi Hyytiäinen 2, Balamuralikrishna Jayaprakash 2, Irina Lehmann 4 5, Marie Standl 6, Juha Pekkanen 2 7, Joachim Heinrich 6 8
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6874766/
 The worldwide prevalence of attention deficit and hyperactivity disorder (ADHD) is estimated to be close to 5%1. 
+
+
+2019年8月2日
+https://www.natureasia.com/ja-jp/srep/pr-highlights/13045
+【微生物学】英国ロンドンで頻繁に手が触れる場所における多剤耐性菌の存在度 | 
+抗生物質耐性ブドウ球菌
+https://www.nature.com/articles/s41598-019-45886-6
+Whole genome sequencing revealed new molecular characteristics in multidrug resistant staphylococci recovered from high frequency touched surfaces in London | Scientific Reports
 
 
 2019年6月18日
