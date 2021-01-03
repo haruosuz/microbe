@@ -121,6 +121,20 @@ http://sesj.kenkyuukai.jp/special/?id=33015
 
 ## updates
 
+## 2021
+
+https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/10090-covid19-30.html
+感染性の増加が懸念されるSARS-CoV-2新規変異株について （第4報）
+国立感染症研究所
+2021年1月2日15:00時点
+
+
+## 2020
+
+6:27 AM · Dec 25, 2020
+https://twitter.com/imamura_kansen/status/1342220354446643201
+今村顕史 on Twitter: "英国で急増した変異株。難易度はさておき、しっかりと解説している３人の記事をまとめてご紹介。ボリュームもあるので、週末のステイホームでお読みください。 まずは忽那先生 https://t.co/nWhwC3bujZ 次に岩田先生 https://t.co/nz60Vd5fkG そして峰先生です https://t.co/9YcLFF5Fxw" / Twitter
+
 2020年12月23日
 https://yomidr.yomiuri.co.jp/article/20201223-OYTET50000/
 新型コロナのウイルス変異　英国はなぜ強力な対策を取ったのか : yomiDr./ヨミドクター（読売新聞）
