@@ -570,15 +570,6 @@ https://courrier.jp/news/archives/166632/
 「マグカップは20年洗ってません」
 16年間シャワーを浴びてない男が開発！　清潔と美肌を保つ「細菌ミスト」
 
-https://twitter.com/AMRCRC_JAPAN/status/1146988900142997506
-AMR臨床リファレンスセンター on Twitter: "ニューズウィークの記事を読んで心配になった方はぜひこちらへ。薬剤耐性や抗菌薬についてわかりやすく解説しています。　https://t.co/ZxKnmkthfE　　https://t.co/99rv4z3x6b"
-11:47 PM - 4 Jul 2019
-
-https://newspicks.com/news/4029152
-
-2019年7月5日（金）10時20分
-https://www.newsweekjapan.jp/stories/world/2019/07/post-12467.php
-抗生物質が効く時代はあとわずか......医療を追い詰める耐性菌に反撃せよ | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
 
 ### 2019-06
 
@@ -619,10 +610,6 @@ Jesse Shapiro on Twitter: "What makes a pathogen? How can we optimize treatment 
 
 
 
-2019/04/12
-https://toyokeizai.net/articles/-/276409
-人殺し｢耐性カンジダ菌｣世界同時発生の恐怖
-手を打たなければ世界で1000万人が犠牲に?
 
 https://www.ncbi.nlm.nih.gov/pubmed/30394664
 Environ Microbiol Rep. 2019 Feb;11(1):9-12. doi: 10.1111/1758-2229.12701. Epub 2018 Nov 5.
@@ -648,12 +635,6 @@ https://twitter.com/shinbiosis/status/1113607149953921026
 シンバイオシス研究所 -微生物との共存共栄- on Twitter: "～過去記事～ 後編｜腸に住んでいる菌たち（嫌気性菌）は空気に触れると死ぬのか https://t.co/AdDwj0JqwX"
 9:00 PM - 3 Apr 2019
 
-https://twitter.com/bluebacks_pub/status/1111843876170432512
-【いったい何が起きているのか？】
-「薬剤耐性菌」は2050年に全世界で1000万人の死亡者を出すとの予測も出ている。だが「ウイルスが耐性菌を倒した」ケースもある……
-https://gendai.ismedia.jp/articles/-/63743?media=bb … #ブルーバックス
-12:13 AM - 30 Mar 2019
-
 
 https://twitter.com/phylogenomics/status/1110563943695572992
 Jonathan Eisen on Twitter: "And today in the "Are you F#$*(#ing kidding me #ClosedAccess Irony Award" -- paper on "The urgent need for microbiology literacy in society" https://t.co/qDc8hwpMcO is behind a massive paywall… https://t.co/FpOJ2sSgkc"
@@ -676,10 +657,6 @@ https://otonanswer.jp/post/34076/
 
 https://mainichi.jp/articles/20190227/dde/001/040/040000c
 チェック：はしか、渡航者が「輸入」　排除国認定の日本、今年２００人超　政府「旅行前のワクチン接種を」 - 毎日新聞
-
- 2017年7月30日 /  2019年2月24日
-https://www.dr-kid.net/mycoplasma-resistence
-日本の小児のマイコプラズマ感染は９割が耐性菌！？【マイコプラズマ肺炎】｜Dr.KIDの小児科クリニック
 
 
 
@@ -789,9 +766,6 @@ https://twitter.com/Newsweek_JAPAN/status/1061424777469014016
 ニューズウィーク日本版 on Twitter: "シャワーヘッドのぬめりには肺疾患を引き起こす細菌が含まれる：米研究結果 ──肺疾患の流行地域と、シャワーヘッドの細菌の量が多い地域が合致した https://t.co/DTbtEf2LUn #衛生　#健康　#肺疾患… "
 8:06 PM - 10 Nov 2018
 
-https://twitter.com/afpbbcom/status/1060037888027643904
-AFPBB News on Twitter: "欧州連合（EU）域内では2015年に薬剤耐性菌が原因で3万3000人以上が命を落とした。今週発表された最新の研究論文で明らかになった。抗生物質が効かないスーパーバグが「現代医療を脅かしている」と、論文は警鐘を鳴らしている。https://t.co/T5WK9dKjvA"
-12:15 AM - 7 Nov 2018
 
 ## 2018-09
 
@@ -850,9 +824,6 @@ April 13, 2018
 https://www.minot.bio/home/2018/4/12/tracking-outbreaks-with-whole-genome-sequencing
 Tracking outbreaks with whole-genome sequencing — Minot Lab
 
-2018-04-11
-http://gendai.ismedia.jp/articles/-/55055
-世界に広がる薬剤耐性菌　抗生物質が効かなくなる日（山本 朋範） | ブルーバックス | 講談社
 
 https://www.nature.com/articles/nm.4517
 Review
