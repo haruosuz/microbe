@@ -54,6 +54,36 @@ https://www.mhlw.go.jp/content/10900000/000616069.pdf
 ② 空気の流れを作るため、複数の窓がある場合、二方向の壁の窓を開放すること。
 窓が一つしかない場合は、ドアを開けること。
 
+
+----------
+
+## books
+
+2020/02/12 17:30
+https://shinsho.kobunsha.com/n/nd4c6579ddc38
+岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
+新書: 313ページ
+出版社: 光文社 (2014/11/13)
+
+https://www.maruzen-publishing.co.jp/info/n19784.html
+『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
+第9章「SARSとMERS」PDF版はこちら
+
+https://www.maruzen-publishing.co.jp/info/n19786.html
+【コラム】新型コロナウイルスはどう落ち着くのか？ - 丸善出版 理工・医学・人文社会科学の専門書出版社
+2020年2月13日公開
+2020年2月20日更新
+
+https://www.maruzen-publishing.co.jp/info/n19847.html
+【コラム】恐怖心を減らすための対策の重要性 - 丸善出版 理工・医学・人文社会科学の専門書出版社
+（2020/5/21公開）
+
+2020/02/12 17:30
+https://shinsho.kobunsha.com/n/nd4c6579ddc38
+岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
+新書: 313ページ
+出版社: 光文社 (2014/11/13)
+
 ----------
 
 ## references
@@ -69,8 +99,6 @@ https://twitter.com/search?q=COVID-19%20SARS-CoV-2%20lang%3Aja&src=typed_query
 
 - COVID-19は新型コロナウイルス感染症、つまり病気の名前
 - 新型コロナウイルスの名前はSARS-CoV-2
-
-
 
 
 https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)
@@ -192,6 +220,12 @@ https://www.huffingtonpost.jp/entry/story_jp_5f619877c5b68d1b09c96e9b
 
 
 ## 2020-08
+
+系統樹に根をつけるのが困難。
+7:09 PM · Aug 7, 2020
+https://twitter.com/AlexisCompBio/status/1291677772570603522
+Alexis Stamatakis on Twitter: "In our latest preprint https://t.co/kg6LYXJmaF we find that phylogenetic analyses of SARS-CoV-2 data are extremely challenging due to weak signal and that rooting the tree is difficult. We provide some recommendations on analyzing SARS-CoV-2 data." / Twitter
+
 
 2020年8月05日
 https://www.niid.go.jp/niid/ja/basic-science/467-genome/9787-genome-2020-2.html
@@ -537,19 +571,6 @@ Shinya Kamiyama
 
 https://mainichi.jp/articles/20200214/k00/00m/040/374000c
 新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
-
-https://www.maruzen-publishing.co.jp/info/n19784.html
-『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
-第9章「SARSとMERS」PDF版はこちら
-最新データに基づく加藤茂孝先生によるコラム
-【コラム】新型コロナウイルスはどう落ち着くのか？（2020/2/13up）
-https://www.maruzen-publishing.co.jp/info/n19786.html
-
-2020/02/12 17:30
-https://shinsho.kobunsha.com/n/nd4c6579ddc38
-岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
-新書: 313ページ
-出版社: 光文社 (2014/11/13)
 
 https://twitter.com/arambaut/status/1226273911035265024
 Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "An estimate of the divergence time between #nCoV2019 and the currently closest known non-human animal virus (RaTG13 in a bat). https://t.co/0tVENWhavZ Spoiler: probably before 1997." / Twitter
@@ -1131,27 +1152,18 @@ Multivariate Analyses of Codon Usage of SARS-CoV-2 and other betacoronaviruses |
 https://www.biorxiv.org/content/10.1101/2020.02.15.950568v3.full
 Amino acid composition sometime can also introduce confounding effects when one only focuses on studying the variations of synonymous codon usage. The use of global correspondence analysis (CA) and its derivatives within-group correspondence analysis (WCA) and between-group correspondence analysis (BCA) to analyze codon usages can overcome the above problem. In fact, WCA becomes “model of choice” for analyzing synonymous codon usage in recent years, as it is more robust than other traditional methods (e.g. CA with relative codon frequency or CA with RSCU values)7,8. This analytic approach, however, has not been used in studying viral sequences.
 
-----------
-
-## books
-
-2020/02/12 17:30
-https://shinsho.kobunsha.com/n/nd4c6579ddc38
-岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
-新書: 313ページ
-出版社: 光文社 (2014/11/13)
-
-https://www.maruzen-publishing.co.jp/info/n19784.html
-『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
-第9章「SARSとMERS」PDF版はこちら
-最新データに基づく加藤茂孝先生によるコラム
-【コラム】新型コロナウイルスはどう落ち着くのか？（2020/2/13up）
-https://www.maruzen-publishing.co.jp/info/n19786.html
-【コラム】新型コロナウイルスはどう落ち着くのか？ - 丸善出版 理工・医学・人文社会科学の専門書出版社
 
 ----------
 
 ## data
+
+
+2020.03.11
+https://www.technologyreview.jp/s/191263/the-best-and-the-worst-of-the-coronavirus-dashboards/
+MIT Tech Review: 新型コロナ、世界の最新データが見られるサイト10選
+
+
+
 
 5:31 PM · May 19, 2020
 https://twitter.com/ensembl/status/1262662204329000960
