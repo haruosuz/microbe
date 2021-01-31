@@ -21,10 +21,29 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
+
+https://www.biomedcentral.com/collections/builtenvironment
+International Space Station
+
 ----------
 ## updates
 
+## 2021
+https://pubmed.ncbi.nlm.nih.gov/33505359/
+Front Microbiol
+. 2021 Jan 11;11:515319. doi: 10.3389/fmicb.2020.515319. eCollection 2020.
+Genomic and Functional Characterization of Enterococcus faecalis Isolates Recovered From the International Space Station and Their Potential for Pathogenicity
+Noelle C Bryan 1, Francois Lebreton 2 3, Michael Gilmore 2, Gary Ruvkun 4, Maria T Zuber 1, Christopher E Carr 1 4 5
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.515319/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/
+
 ## 2020
+
+2020.11.13
+https://www.technologyreview.jp/s/224859/microbes-could-be-used-to-extract-metals-and-minerals-from-space-rocks/
+MIT Tech Review: 微生物を使って岩石からレアアースを抽出、ISSの実験で成功
+Microbes could be used to extract metals and minerals from space rocks
+国際宇宙ステーションでの実験により、ある種のバクテリアは、微小重力環境でも岩石からレアアースを抽出できることが分かった。将来、宇宙での採鉱において有用資源を抽出するための効率の良い方法となる可能性がある。
 
 ### 2020-10-14
 
@@ -95,19 +114,6 @@ Quantitative evaluation of bioaerosols in different particle size fractions in d
 Sarah R Haines 1 2 3, Ashleigh Bope 1 2 3, John M Horack 4, Marit E Meyer 5, Karen C Dannemiller 6 7
 https://link.springer.com/article/10.1007%2Fs00253-019-10053-4
 
-
-
-### 2019-09-05
-
-https://www.ncbi.nlm.nih.gov/pubmed/31488812
-Nat Commun. 2019 Sep 5;10(1):3990. doi: 10.1038/s41467-019-11682-z.
-Space Station conditions are selective but do not alter microbial characteristics relevant to human health.
-Mora M1, Wink L1, Kögler I1, Mahnert A1, Rettberg P2, Schwendner P3, Demets R4, Cockell C3, Alekhova T5, Klingl A6, Krause R1,7, Zolotariof A3, Alexandrova A5, Moissl-Eichinger C8,9.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728350/
-- ISS microbiome is dominated by human-associated microorganisms
-The microbial community composition was assessed by amplicon sequence analysis of wipe samples obtained from sessions A–C and the Kourou clean room. Archaeal and bacterial RSVs (>3.500) were retrieved from ISS samples with the universal approach (Fig. 1). 
-
-ribosomal sequence variants (RSVs)
 
 ### 2019-04-08
 
@@ -216,6 +222,8 @@ Microbiome
 . 2016 Dec 20;4(1):65. doi: 10.1186/s40168-016-0217-7.
 Resilient Microorganisms in Dust Samples of the International Space Station-survival of the Adaptation Specialists
 Maximilian Mora 1, Alexandra Perras 1 2, Tatiana A Alekhova 3, Lisa Wink 1, Robert Krause 1, Alina Aleksandrova 3, Tatiana Novozhilova 3, Christine Moissl-Eichinger 4 5
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0217-7
+Besides bacteria, the detection of archaeal signatures in higher abundance was striking.
 
 https://www.ncbi.nlm.nih.gov/pubmed/27790191
 Front Microbiol. 2016 Oct 13;7:1573. eCollection 2016.
@@ -350,13 +358,20 @@ https://ja.wikipedia.org/wiki/ミール
 
 Russia's Mir space station microbe pubmed
 
+### 2019-09-05
+
 https://pubmed.ncbi.nlm.nih.gov/31488812/
 Nat Commun
 . 2019 Sep 5;10(1):3990. doi: 10.1038/s41467-019-11682-z.
 Space Station Conditions Are Selective but Do Not Alter Microbial Characteristics Relevant to Human Health
 Maximilian Mora 1, Lisa Wink 1, Ines Kögler 1, Alexander Mahnert 1, Petra Rettberg 2, Petra Schwendner 3, René Demets 4, Charles Cockell 3, Tatiana Alekhova 5, Andreas Klingl 6, Robert Krause 1 7, Anna Zolotariof 3, Alina Alexandrova 5, Christine Moissl-Eichinger 8 9
+https://www.nature.com/articles/s41467-019-11682-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728350/
-Technophilic microorganisms caused major problems on the former Russian space station MIR, partaking in damage to structural materials as well as malfunctioning of various space systems and equipment7,8. Specifically, Bacillus, Penicillium, and Aspergillus species were associated with the progressive destruction of a window in MIRs descent module9, and mold on wiring connectors was associated with electrical outages10.
+- ISS microbiome is dominated by human-associated microorganisms
+The microbial community composition was assessed by amplicon sequence analysis of wipe samples obtained from sessions A–C and the Kourou clean room. Archaeal and bacterial RSVs (>3.500) were retrieved from ISS samples with the universal approach (Fig. 1). 
+
+ribosomal sequence variants (RSVs)
+
 
 https://pubmed.ncbi.nlm.nih.gov/15835023/
 Acta Astronaut
