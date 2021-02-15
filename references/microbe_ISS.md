@@ -52,6 +52,12 @@ ORIGINAL RESEARCH ARTICLE
 Front. Microbiol., 14 October 2020 | https://doi.org/10.3389/fmicb.2020.579156
 No Effect of Microgravity and Simulated Mars Gravity on Final Bacterial Cell Concentrations on the International Space Station: Applications to Space Bioproduction
 
+### 2020-08
+
+2020年8月26日
+https://www.qst.go.jp/site/press/43265.html
+微生物は紫外線下で長期間生存可能：国際宇宙ステーション曝露実験 - 量子科学技術研究開発機構
+国際宇宙ステーション曝露部で放射線耐性微生物Deinococcus radiodurans （デイノコッカス・ラジオデュランス）を宇宙空間に３年間曝露する実験を「たんぽぽ計画」として実施した。
 
 ### 2020-07-28
 
@@ -61,6 +67,12 @@ https://gigazine.net/news/20200728-chernobyl-fungi-shield-astronauts/
 1986年に史上最悪レベルの原子力事故を起こしたチェルノブイリ原子力発電所で発見されたカビを使って、宇宙を飛び交う放射線から宇宙飛行士を守る試みを、ノースカロライナ大学シャーロット校とスタンフォード大学の研究チームが行っています。研究チームは、国際宇宙ステーション(ISS)における実験で「一定の成果が得られた」と報告しました。
 https://www.biorxiv.org/content/10.1101/2020.07.16.205534v1
 査読前の論文
+
+### 2020-03
+
+2020年3月14日
+https://ablab.space/space-medicine/microbes/
+宇宙での微生物と感染症の話 | ABLab（エイビーラボ）
 
 ### 2020-03-07
 
@@ -114,8 +126,13 @@ Quantitative evaluation of bioaerosols in different particle size fractions in d
 Sarah R Haines 1 2 3, Ashleigh Bope 1 2 3, John M Horack 4, Marit E Meyer 5, Karen C Dannemiller 6 7
 https://link.springer.com/article/10.1007%2Fs00253-019-10053-4
 
-
 ### 2019-04-08
+
+2019年4月10日（水）18時30分
+https://www.newsweekjapan.jp/stories/world/2019/04/post-11955.php
+国際宇宙ステーションは細菌にあふれていた
+NASAジェット推進研究所カスツーリ・ヴェンカテーシュワラン博士らの研究チームは、国際宇宙ステーション内の細菌および真菌の種類や数についてまとめ、2019年4月8日、オープンアクセスジャーナル「マイクロバイオーム」で研究論文を発表した。これによると、ブドウ球菌やパントエア菌、桿菌などの細菌のほか、ロドトルラ・ムチラギノーザをはじめとする真菌が国際宇宙ステーションに多数存在しているという。
+Kasthuri Venkateswaran-microbiome
 
 https://twitter.com/pathogenomenick/status/1115930415649447936
 Nick Loman on Twitter: "FTFY: The ISS has exactly the kind of microbial flora you'd expect from a building inhabited by humans.… "
@@ -130,6 +147,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30955503
 Microbiome. 2019 Apr 8;7(1):50. doi: 10.1186/s40168-019-0666-x.
 Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces.
 Checinska Sielaff A1,2, Urbaniak C1, Mohan GBM1, Stepanov VG3, Tran Q3, Wood JM1, Minich J4, McDonald D5, Mayer T1, Knight R5,6,7, Karouia F8,9,10, Fox GE3, Venkateswaran K11.
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452512/
 - Cultivable microbial population
 - S. aureus isolates were tested with the Vitek 2 system (BioMerieux, France) and found to be methicillin-sensitive; however, these isolates were resistant to penicillin, erythromycin, gentamycin, and tobramycin [28].
@@ -163,6 +181,17 @@ Bacterial species used as references for AB-R-screening, biofilm formation, plas
 - Plasmid DNA Isolation
 - Mating Assays
 - Plasmid Profiles of ISS-Isolates
+
+### 2019-01-28
+
+https://www.ncbi.nlm.nih.gov/pubmed/30691394
+BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment.
+Merino N, Zhang S, Tomita M, Suzuki H.
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
+- The International Space Station (ISS) is included as a built environment located in space (or low Earth orbit), and the microorganisms observed in this location would be affected by microgravity and increased radiation. 
+- For example, Acinetobacter was found in five countries, spanning eight different climates, and in the ISS.
 
 ### 2019-01-08
 https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
@@ -206,6 +235,10 @@ Effects of spaceflight and simulated microgravity on microbial growth and second
 Bing Huang 1, Dian-Geng Li 1, Ying Huang 2, Chang-Ting Liu 3
 
 ## 2017
+
+https://wired.jp/2017/12/18/bacteria-from-space/
+国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？ | WIRED.jp
+国際宇宙ステーションの表面でロシア宇宙飛行士らが採集した標本から、モジュールの打ち上げ前には存在しなかった微生物が検出された。どうやら宇宙からやってきたようだが──それは本当にエイリアンなのか？
 
 https://pubmed.ncbi.nlm.nih.gov/29492330/
 PeerJ
@@ -411,8 +444,6 @@ Microbiol Immunol
 Fungal Flora on Board the Mir-Space Station, Identification by Morphological Features and Ribosomal DNA Sequences
 K Makimura 1, R Hanazawa, K Takatori, Y Tamura, R Fujisaki, Y Nishiyama, S Abe, K Uchida, Y Kawamura, T Ezaki, H Yamaguchi
 
-
-
 ----------
 ## food
 
@@ -427,7 +458,6 @@ Microbes in Orbit: Is Space Bacteria the Future of Astronaut Food?
 25 November 2015
 https://www.newscientist.com/article/mg22830494-300-mission-space-food-sugar-growing-bacteria-go-into-orbit/
 Mission space food: Sugar-growing bacteria go into orbit | New Scientist
-
 
 ----------
 ### Mars
@@ -452,10 +482,11 @@ WIRED VOL.24/特集 NEW CITY 新しい都市 雑誌 – 2016/8/9
 20年後という近い未来、一部の人類は火星で生活をしているかもしれない。アストロバイオロジーの最先端、 
 NASAエイムズ・リサーチセンターを訪れ、宇宙の暮らしをリアルにする研究の最右翼に触れる。 
 
+----------
+
 
 
 ----------
-
 
 
 
