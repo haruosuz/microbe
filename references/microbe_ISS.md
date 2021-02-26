@@ -12,6 +12,7 @@
 - [Mir](#mir) ミール
 - [food](#food)
 - [Mars](#mars) 火星
+- [jaxa](#jaxa)
 
 ----------
 
@@ -24,6 +25,42 @@ ISS – microBEnet: the microbiology of the Built Environment network
 
 https://www.biomedcentral.com/collections/builtenvironment
 International Space Station
+
+----------
+## jaxa
+
+2020年3月18日
+https://iss.jaxa.jp/kibouser/subject/life/70768.html
+国際宇宙ステーション内における微生物動態に関する研究 | 「きぼう」利用のご案内 | 宇宙ステーション・きぼう広報・情報センター | JAXA
+槇村 浩一/那須 正夫
+
+https://iss.jaxa.jp/kiboexp/theme/second/microbe/
+ライフサイエンス実験 Microbe: トップページ
+カビやバクテリアは宇宙でどうなるの？
+きぼう船内の微生物叢（そう）※を解明せよ。
+「国際宇宙ステーション内における微生物動態に関する研究」
+Microbe-I：槇村 浩一 [PDF: 298KB]
+Microbe-I：那須 正夫 [PDF: 281KB]
+合計3回の実験のうち第1回の実験（Microbe-1）が、2009年8月から9月まで実施されました。第2回の実験（Microbe-2）は、2011年2月から3月にかけて実施されました。第3回の実験（Microbe-3）は、2012年8月から10月にかけて実施されました。
+
+http://iss.jaxa.jp/kiboexp/field/scientific/
+科学利用:「きぼう」での実験 - 宇宙ステーション・きぼう広報・情報センター - JAXA
+
+宇宙居住の安全・安心を保証する「きぼう」船内における微生物モニタリング
+【平成24年度「きぼう」利用テーマ募集　一般区分】	那須正夫
+【大阪大学大学院】	解析中
+
+特殊な環境に生きる微生物のヒミツを探る
+国際宇宙ステーション内における微生物動態に関する研究
+【第2期利用前半】	槇村浩一
+【帝京大学】
+那須正夫
+【大阪大学】	完了
+http://iss.jaxa.jp/kiboexp/theme/second/microbe/
+カビやバクテリアは宇宙でどうなるの？
+きぼう船内の微生物叢（そう）※を解明せよ。
+「国際宇宙ステーション内における微生物動態に関する研究」
+
 
 ----------
 ## updates
@@ -278,24 +315,6 @@ Microbiomes of the dust particles collected from the International Space Station
 Checinska A1, Probst AJ2, Vaishampayan P1, White JR3, Kumar D4, Stepanov VG4, Fox GE4, Nilsson HR5, Pierson DL6, Perry J7, Venkateswaran K8.
 Actinobacteria were predominant in the ISS samples whereas Proteobacteria, least abundant in the ISS, dominated in the cleanroom samples.
 
-http://iss.jaxa.jp/kiboexp/field/scientific/
-科学利用:「きぼう」での実験 - 宇宙ステーション・きぼう広報・情報センター - JAXA
-
-宇宙居住の安全・安心を保証する「きぼう」船内における微生物モニタリング
-【平成24年度「きぼう」利用テーマ募集　一般区分】	那須正夫
-【大阪大学大学院】	解析中
-
-特殊な環境に生きる微生物のヒミツを探る
-国際宇宙ステーション内における微生物動態に関する研究
-【第2期利用前半】	槇村浩一
-【帝京大学】
-那須正夫
-【大阪大学】	完了
-http://iss.jaxa.jp/kiboexp/theme/second/microbe/
-カビやバクテリアは宇宙でどうなるの？
-きぼう船内の微生物叢（そう）※を解明せよ。
-「国際宇宙ステーション内における微生物動態に関する研究」
-
 ----------
 ## Venkateswaran
 
@@ -309,6 +328,16 @@ Genome Announc
 Draft Genome Sequences of Biosafety Level 2 Opportunistic Pathogens Isolated from the Environmental Surfaces of the International Space Station
 Aleksandra Checinska Sielaff 1, Nitin K Singh 1, Jonathan E Allen 2, James Thissen 2, Crystal Jaing 2, Kasthuri Venkateswaran 3
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5201052/
+
+### 2014
+
+https://pubmed.ncbi.nlm.nih.gov/24762934/
+Genome Announc
+. 2014 Apr 24;2(2):e00301-14. doi: 10.1128/genomeA.00301-14.
+Draft Genome Sequence of Deinococcus phoenicis, a Novel Strain Isolated during the Phoenix Lander Spacecraft Assembly
+Victor G Stepanov 1, Parag Vaishampayan, Kasthuri Venkateswaran, George E Fox
+https://mra.asm.org/content/2/2/e00301-14
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999491/
 
 ----------
 
