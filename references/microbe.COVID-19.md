@@ -58,6 +58,11 @@ https://www.mhlw.go.jp/content/10900000/000616069.pdf
 
 ## books
 
+http://www.nts-book.co.jp/item/detail/summary/bio/20051225_42.html
+『生物の科学 遺伝』（概要）
+2021年1月発行号　Vol.75 No.1　
+特集　新型コロナ・パンデミック(COVID-19) その衝撃と科学世界への影響 
+
 2020/02/12 17:30
 https://shinsho.kobunsha.com/n/nd4c6579ddc38
 岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
@@ -149,6 +154,41 @@ http://sesj.kenkyuukai.jp/special/?id=33015
 ## updates
 
 ## 2021
+
+2021年02月11日
+https://webronza.asahi.com/science/articles/2021020600006.html
+続・新型コロナワクチンに欠かせなかった「構造生物学」という基礎研究
+デトロイトの労働者階級の家で生まれ育った研究者の偉業
+鳥居啓子
+
+2021年02月10日
+https://webronza.asahi.com/science/articles/2021020600005.html
+新型コロナワクチンに欠かせなかった「構造生物学」という基礎研究
+形を変える突起たんぱく質を押さえ込む手法が必要だった
+鳥居啓子
+
+7:33 AM · Feb 11, 2021
+https://twitter.com/KeikoUTorii/status/1359631626750296066
+続・新型コロナワクチンに欠かせなかった「構造生物学」という基礎研究 -今なら全文無料です! (以下に解説
+My Asahi News Column Part 2- How 
+@McLellan_Lab
+ solved the SARS-CoV2 spike protein structure in lightening speed. Incl, interview with Prof. McLellan.
+
+7:30 AM · Feb 10, 2021
+https://twitter.com/KeikoUTorii/status/1359268564537126917
+[論座] 新型コロナワクチンに欠かせなかった「構造生物学」という基礎研究(前編)- 今なら全文無料です! (以下に解説
+My Asahi News Column featuring 
+@McLellan_Lab
+: How structural biology of Spike proteins has contributed to the effective COVID-19 vaccines
+
+
+2:30 PM · Feb 3, 2021
+https://twitter.com/ScienceMagazine/status/1356837347812343809
+Science Magazine on Twitter: "More than 260,000 sequences of #SARSCoV2 are now available in public databases. A new #SciMagPerspective both notes that this number "is unprecedented," and also highlights the numerous contributions that analyzing these sequences have offered. https://t.co/s8qQm9izN4 https://t.co/6leIEb7eQ9" / Twitter
+![](https://pbs.twimg.com/media/EtR0YIcWgAI5yHj?format=jpg&name=small)
+https://science.sciencemag.org/content/371/6528/466
+Insights from SARS-CoV-2 sequences | Science
+
 
 https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/10090-covid19-30.html
 感染性の増加が懸念されるSARS-CoV-2新規変異株について （第4報）
@@ -651,12 +691,6 @@ Table shows the most well-known coronaviruses: what they have in common & how th
 https://npr.org/sections/goatsandsoda/2020/01/22/798277557/how-does-wuhan-coronavirus-compare-to-mers-sars-and-the-common-cold
 7:22 AM · Jan 23, 2020
 
-
-
-
-https://twitter.com/TheMenacheryLab/status/1215826855086952448
-The Menachery Lab on Twitter: "Some quick analysis of the new Wuhan CoV sequence: 1) Looks like a group 2B CoV, same family as SARS with about 73% conservation at genome 2)Rough tree puts it between HKU3/273-CoV and SHC014-CoV, a bat virus capable of using human ACE2." / Twitter
-11:44 AM · Jan 11, 2020
 
 
 2020/01/30 15:16
