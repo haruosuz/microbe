@@ -66,6 +66,14 @@ http://iss.jaxa.jp/kiboexp/theme/second/microbe/
 ## updates
 
 ## 2021
+
+https://pubmed.ncbi.nlm.nih.gov/33659879/
+iScience
+. 2021 Jan 29;24(2):102114. doi: 10.1016/j.isci.2021.102114. eCollection 2021 Feb 19.
+Reference-guided metagenomics reveals genome-level evidence of potential microbial transmission from the ISS environment to an astronaut's microbiome
+Michael D Lee 1 2, Aubrie O'Rourke 3, Hernan Lorenzi 4, Brad M Bebout 1, Chris L Dupont 5, R Craig Everroad 1
+https://www.sciencedirect.com/science/article/pii/S2589004221000821
+
 https://pubmed.ncbi.nlm.nih.gov/33505359/
 Front Microbiol
 . 2021 Jan 11;11:515319. doi: 10.3389/fmicb.2020.515319. eCollection 2020.
@@ -175,7 +183,7 @@ https://twitter.com/pathogenomenick/status/1115930415649447936
 Nick Loman on Twitter: "FTFY: The ISS has exactly the kind of microbial flora you'd expect from a building inhabited by humans.… "
 6:51 AM - 10 Apr 2019
 
-https://japanese.engadget.com/2019/04/09/iss/
+https://japanese.engadget.com/jp-2019-04-09-iss.html
 「ISSの中はバクテリアや菌がたくさん」と学術誌に報告。将来の宇宙旅行、宇宙生活に役立つ研究課題 - Engadget 日本版
 学会誌Microbiomeで発表しました。### 
 研究を共同執筆したNASAジェット推進研究所(JPL)の上級研究員Kasthuri Venkateswaran博士
@@ -238,6 +246,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30637341
 mSystems. 2019 Jan 8;4(1). pii: e00281-18. doi: 10.1128/mSystems.00281-18. eCollection 2019 Jan-Feb.
 Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil.
 Blaustein RA1, McFarland AG1, Ben Maamar S1, Lopez A2, Castro-Wallace S3, Hartmann EM1.
+https://msystems.asm.org/content/4/1/e00281-18
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/
 - ABSTRACT
 Although antibiotic resistance genes were present in ISS/BE isolates, they were also common in counterparts elsewhere. Overall, despite differences in
