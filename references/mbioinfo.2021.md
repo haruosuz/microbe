@@ -10,7 +10,7 @@ Last Update: 2021-04-16
 - [plasmid](#plasmid) プラスミド
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [ISS](#iss) International Space Station 国際宇宙ステーション
-- [SSBP](#ssbp) single-stranded_binding_protein 一本鎖DNA結合タンパク質
+- [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [metasub](#metasub) 都市マイクロバイオーム
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
 - [](#)
@@ -68,6 +68,7 @@ https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
 
 ----------
 ## SSBP
+Single-strand DNA-binding protein
 
 - https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
 - https://en.wikipedia.org/wiki/Single-stranded_binding_protein
@@ -82,8 +83,8 @@ Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corr
 ----------
 ### metasub
 
-MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文より。微生物の分類学的組成からサンプルの由来する都市を機械学習で予測。
-```
+MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文より。微生物の分類学的組成からサンプルの由来する都市を機械学習（ランダムフォレスト）で予測。
+
 https://www.biorxiv.org/content/10.1101/724526v5.full
 Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance | bioRxiv
 
@@ -94,7 +95,7 @@ We identified covariates which influenced the taxonomic composition of our sampl
 2.3 Microbial Signatures Reveal Urban Characteristics
 
 We sought to determine whether a samples taxonomy reflected the environment in which it was collected. To this end we trained a Random Forest Classifier (RFC) to predict a sample’s city of origin from its taxonomic profile. 
-```
+
 
 ----------
 ### microbiome_modeling_simulation
