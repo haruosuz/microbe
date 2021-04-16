@@ -66,6 +66,9 @@ International Space Station
 
 https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
 
+https://presen.sfc.keio.ac.jp/2021/03/post-56.html
+国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
+
 ----------
 ## SSBP
 Single-strand DNA-binding protein
