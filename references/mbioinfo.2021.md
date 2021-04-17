@@ -51,8 +51,6 @@ Genetic context of mcr-1 on pMCR_1511.
 ![](https://aac.asm.org/content/aac/61/2/e02229-16/F2.medium.gif)
 
 The backbone of pMCR_1511 was highly similar (99% identity) to that of plasmid pHNFP671 (GenBank accession number KP324830), which was an IncP plasmid in E. coli isolate FP671 from Guangzhou, China but did not carry mcr-1. 
-                                                    
-pMCR_1511 and pHNFP671 belonged to a new IncP-1 clade (see Fig. S1 in the supplemental material).
 
 The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under accession number KX377410.
 
