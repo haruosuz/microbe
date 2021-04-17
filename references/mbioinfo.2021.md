@@ -37,9 +37,28 @@ Last Update: 2021-04-16
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/
+https://pubmed.ncbi.nlm.nih.gov/27895009/
+Antimicrob Agents Chemother
+. 2017 Jan 24;61(2):e02229-16. doi: 10.1128/AAC.02229-16. Print 2017 Feb.
 IncP Plasmid Carrying Colistin Resistance Gene mcr-1 in Klebsiella pneumoniae from Hospital Sewage
+Feifei Zhao 1 2, Yu Feng 1 2, Xiaoju Lü 1 2, Alan McNally 3, Zhiyong Zong 4 2 5
+https://aac.asm.org/content/61/2/e02229-16.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/
+
+FIG 2
+Genetic context of mcr-1 on pMCR_1511.
+
+![](https://aac.asm.org/content/aac/61/2/e02229-16/F2.medium.gif)
+
 The backbone of pMCR_1511 was highly similar (99% identity) to that of plasmid pHNFP671 (GenBank accession number KP324830), which was an IncP plasmid in E. coli isolate FP671 from Guangzhou, China but did not carry mcr-1. 
+                                                    
+pMCR_1511 and pHNFP671 belonged to a new IncP-1 clade (see Fig. S1 in the supplemental material).
+
+The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under accession number KX377410.
+
+- https://www.ncbi.nlm.nih.gov/nuccore/KP324830
+- https://www.ncbi.nlm.nih.gov/nuccore/KX377410
+
 
 https://www.sciencedirect.com/science/article/pii/S2001037018301685
 Reconsidering plasmid maintenance factors for computational plasmid design - ScienceDirect
