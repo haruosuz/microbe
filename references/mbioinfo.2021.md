@@ -10,6 +10,7 @@ Last Update: 2021-04-16
 - [plasmid](#plasmid) プラスミド
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
+- [phylogenetic_tree](#phylogenetic_tree) 系統樹
 - [ISS](#iss) International Space Station 国際宇宙ステーション
 - [urban_microbiome](#urban_microbiome) 都市マイクロバイオーム
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
@@ -117,12 +118,35 @@ Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which s
 A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
 
 RESULTS
-Phylogenetic analysis of ssb-P1.The presence of a functional copy of ssb in the genome of bacteriophage P1 could be rationalized if the phage gene were recently acquired from the host bacterium E. coli. To address questions about the evolutionary relationship between the phage and host genes, extended alignments of both ssb genes and SSB proteins were constructed. A maximum parsimony phylogenetic analysis of all available SSB amino acid sequences showed that the SSB of phage P1 was related to that of enteric bacteria and distinct from the SSBs of transmissible plasmids (Fig. 1). However, bootstrapping of the nucleotide sequences of the DNA-binding part of the gene for this subset of taxa revealed that this position in the tree was weakly supported. Thus, according to the analysis, P1 was not closely related to any particular bacterium but to enteric bacteria and bacteria in general. A closer look at the homoplasies revealed that they were clustered, indicating recombination between almost all taxa, as in many other cases of microbial genes (8, 30).
+Phylogenetic analysis of ssb-P1.
 
 ![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
 FIG. 1.
 Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
 
+----------
+## phylogenetic_tree
+系統樹
+
+https://pubmed.ncbi.nlm.nih.gov/22977114/
+Mol Biol Evol
+. 2013 Feb;30(2):315-31. doi: 10.1093/molbev/mss221. Epub 2012 Sep 13.
+Evolution of conjugation and type IV secretion systems
+Julien Guglielmini 1, Fernando de la Cruz, Eduardo P C Rocha
+https://academic.oup.com/mbe/article/30/2/315/1013981
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
+
+https://pubmed.ncbi.nlm.nih.gov/19396961/
+Review FEMS Microbiol Rev
+. 2009 May;33(3):657-87. doi: 10.1111/j.1574-6976.2009.00168.x.
+The diversity of conjugative relaxases and its application in plasmid classification
+María Pilar Garcillán-Barcia 1, María Victoria Francia, Fernando de la Cruz
+https://academic.oup.com/femsre/article/33/3/657/591359
+
+![](?Expires=1621849661&Signature=Xpig8Z4aR0WywZ6zJKblbs7VegdPdqRTm-1qRATDIU~o1G899qbe9ZnKqbLrSOy2rVar6wmjt0KyMQTe6IBpQ8UokdJAhgKMHZ7C8YKZXWQbUQVVx2EMx5-rj7wCT2dDMiyU3W-W8Y80659c3sv7lrZme~xDOVyUr-n5OzJMoYyJ0bfTf1pqkASsgi0~gmNjzk3SkXZwyWgO2tZoCtBdnxBJ6rHaX~ORwX7h~1NHH-wwZcBEDUYej4h9zCx6948y6g5LgxlZ7loXYR2MYd9r1zGwSB9S2ekfOFTF8-JItupgxWZNDwj6nPzWRa-~1uhAKKr7NqQuy8ieo-o-CBD7oQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+Figure 1
+A scheme of the relationships between the main relaxase protein families. A first relaxase cluster (shown on a dark-grey background) contains relaxase groups that contain just one active Tyr in the catalytic centre (see text). A second relaxase cluster (light-grey) contains relaxases with two Tyr in the catalytic centre. For the remaining groups (white background) not enough is known about the biochemistry of the respective relaxases. According to the analysis of their amino acid sequences and of experimental work (see text) they seem to be nonhomologous, and thus may use different DNA-processing mechanisms. Some relaxase protein families also overlap other protein families, such as plasmid RC-replication proteins (Rep), IS91-like transposases (IS91) or HD hydrolases. Areas of circles are proportional to relaxase number. The MOBP area includes (MOBP+MOBHEN+MOBQ1).
 
 ----------
 ## ISS
