@@ -6,7 +6,7 @@ Last Update: 2021-04-16
 
 **Table of Contents**
 - [2021-04-16](#2021-04-16)
-- [resistance](#resistance) 耐性
+- [AMR](#amr) 薬剤耐性
 - [plasmid](#plasmid) プラスミド
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
@@ -20,7 +20,9 @@ Last Update: 2021-04-16
 ## 2021-04-16
 
 ----------
-## resistance
+## AMR
+Antimicrobial Resistance
+薬剤耐性
 
 - https://en.wikipedia.org/wiki/Colistin
 - https://ja.wikipedia.org/wiki/コリスチン
@@ -29,6 +31,8 @@ Last Update: 2021-04-16
 抗生物質を含む抗菌剤は、細菌が増殖するのに必要な代謝経路に作用することで細菌にのみ選択的に毒性を示す化学物質である。例えば、β-ラクタム系抗生物質は細菌特有の細胞壁の合成を阻害するが、人体の細胞に対してはほとんど毒性を示さない。アルコール、ポビドンヨードなどのように、単に化学的な作用で細菌を死滅させる殺菌剤、消毒薬とは区別される。
 耐性と乱用
 家畜への投与等
+- http://amr.ncgm.go.jp/
+かしこく治して、明日につなぐ～抗菌薬を上手に使って薬剤耐性（AMR）対策～
 
 ----------
 ## plasmid
