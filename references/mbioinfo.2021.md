@@ -9,8 +9,8 @@ Last Update: 2021-04-16
 - [resistance](#resistance) 耐性
 - [plasmid](#plasmid) プラスミド
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
-- [ISS](#iss) International Space Station 国際宇宙ステーション
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
+- [ISS](#iss) International Space Station 国際宇宙ステーション
 - [metasub](#metasub) 都市マイクロバイオーム
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
 - [](#)
@@ -77,6 +77,54 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.nucleotide_composition.md
 
 ----------
+## SSBP
+Single-strand DNA-binding protein
+
+- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
+細菌SSBタンパク質
+- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
+Eukaryotic mitochondrial SSB
+The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
+- https://en.wikipedia.org/wiki/SSBP1
+
+2016
+https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
+Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
+
+Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
+
+
+https://pubmed.ncbi.nlm.nih.gov/20012581/
+Review Subcell Biochem
+. 2010;50:143-63. doi: 10.1007/978-90-481-3471-7_8.
+Eukaryotic single-stranded DNA binding proteins: central factors in genome stability
+Sandra Broderick 1, Kristina Rehmet, Claire Concannon, Heinz-Peter Nasheuer
+https://link.springer.com/chapter/10.1007%2F978-90-481-3471-7_8
+Mitochondrial SSBs (mtSSBs) have been found in all eukaryotes studied. mtSSBs are related to prokaryotic SSBs and essential to main the genome stability in eukaryotic mitochondria.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/12208948/
+J Virol
+. 2002 Oct;76(19):9695-701. doi: 10.1128/jvi.76.19.9695-9701.2002.
+Phylogenetic and functional analysis of the bacteriophage P1 single-stranded DNA-binding protein
+Jannick Dyrløv Bendtsen 1, Anders S Nilsson, Hansjörg Lehnherr
+https://jvi.asm.org/content/76/19/9695.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC136491/
+ABSTRACT
+Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which shows 66% amino acid sequence identity to the SSB protein of the host bacterium Escherichia coli. 
+系統解析
+A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
+
+RESULTS
+Phylogenetic analysis of ssb-P1.The presence of a functional copy of ssb in the genome of bacteriophage P1 could be rationalized if the phage gene were recently acquired from the host bacterium E. coli. To address questions about the evolutionary relationship between the phage and host genes, extended alignments of both ssb genes and SSB proteins were constructed. A maximum parsimony phylogenetic analysis of all available SSB amino acid sequences showed that the SSB of phage P1 was related to that of enteric bacteria and distinct from the SSBs of transmissible plasmids (Fig. 1). However, bootstrapping of the nucleotide sequences of the DNA-binding part of the gene for this subset of taxa revealed that this position in the tree was weakly supported. Thus, according to the analysis, P1 was not closely related to any particular bacterium but to enteric bacteria and bacteria in general. A closer look at the homoplasies revealed that they were clustered, indicating recombination between almost all taxa, as in many other cases of microbial genes (8, 30).
+
+![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
+FIG. 1.
+Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
+
+
+----------
 ## ISS
 International Space Station
 国際宇宙ステーション
@@ -85,20 +133,6 @@ https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
 
 https://presen.sfc.keio.ac.jp/2021/03/post-56.html
 国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
-
-----------
-## SSBP
-Single-strand DNA-binding protein
-
-- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
-- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
-- https://en.wikipedia.org/wiki/SSBP1
-
-2016
-https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
-Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
-
-Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
 
 ----------
 ### metasub
