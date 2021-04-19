@@ -11,7 +11,7 @@ Last Update: 2021-04-16
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [ISS](#iss) International Space Station 国際宇宙ステーション
-- [metasub](#metasub) 都市マイクロバイオーム
+- [urban_microbiome](#urban_microbiome) 都市マイクロバイオーム
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
 - [](#)
 
@@ -135,9 +135,9 @@ https://presen.sfc.keio.ac.jp/2021/03/post-56.html
 国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
 
 ----------
-### metasub
+### urban_microbiome
 
-- https://github.com/haruosuz/metasub/blob/master/README.md
+https://github.com/haruosuz/metasub/blob/master/README.md
 
 MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文より。微生物の分類学的組成からサンプルの由来する都市を機械学習（ランダムフォレスト）で予測。
 
