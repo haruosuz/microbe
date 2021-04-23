@@ -105,12 +105,12 @@ Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
 
-<img alt="" src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2819548_nihms-171031-f0001.jpg" width=50%>
+![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2819548_nihms-171031-f0001.jpg)
 
 Figure 1
 Genetic map of pAKD4. 
 
-<img alt="" src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2819548_nihms-171031-f0002.jpg" width=50%>
+![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2819548_nihms-171031-f0002.jpg)
 
 Figure 2
 Alignment of the IncP-1δ plasmids showing their evolutionary relationship. 
