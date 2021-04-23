@@ -42,6 +42,19 @@ Antimicrobial Resistance
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
 
+### WASPS
+https://archaea.i2bc.paris-saclay.fr/wasps/
+
+https://pubmed.ncbi.nlm.nih.gov/31589313/
+Bioinformatics
+. 2020 Mar 1;36(5):1629-1631. doi: 10.1093/bioinformatics/btz745.
+WASPS: web-assisted symbolic plasmid synteny server
+Catherine Badel 1, Violette Da Cunha 1, Ryan Catchpole 1, Patrick Forterre 1 2, Jacques Oberto 1
+https://academic.oup.com/bioinformatics/article/36/5/1629/5582648
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7703779/
+
+### pMCR_1511
+
 https://pubmed.ncbi.nlm.nih.gov/27895009/
 Antimicrob Agents Chemother
 . 2017 Jan 24;61(2):e02229-16. doi: 10.1128/AAC.02229-16. Print 2017 Feb.
@@ -62,6 +75,23 @@ The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under access
 - https://www.ncbi.nlm.nih.gov/nuccore/KP324830
 - https://www.ncbi.nlm.nih.gov/nuccore/KX377410
 
+### pAKD4
+
+https://pubmed.ncbi.nlm.nih.gov/20018208/
+Comparative Study Plasmid
+. 2010 Mar;63(2):98-107. doi: 10.1016/j.plasmid.2009.11.005. Epub 2009 Dec 16.
+Comparative genomics of pAKD4, the prototype IncP-1delta plasmid with a complete backbone
+Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste J Brown, Eva M Top
+https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
+
+The 3′-end of the ssb gene, which is usually found upstream of trfA in most IncP-1 plasmids, is also missing in these plasmids. This gene codes for a single strand DNA-binding protein, which helps in DNA replication, recombination and repair. TrfA1 and Ssb proteins play a crucial role in plasmid replication in some bacterial hosts such as P. aeruginosa and may not be needed in some others such as P. putida and E. coli [32]. Therefore we postulate that IncP-1δ plasmids co-evolved with hosts that do not require TrfA1 and Ssb proteins and thereby contracted their host range. Further research is needed to test this hypothesis.
+
+The complete sequence of pAKD4 has been deposited in the GenBank database under the accession number GQ983559.
+
+- https://www.ncbi.nlm.nih.gov/nuccore/GQ983559
+
+### Yano_2018_csbj
 
 https://www.sciencedirect.com/science/article/pii/S2001037018301685
 Reconsidering plasmid maintenance factors for computational plasmid design - ScienceDirect
