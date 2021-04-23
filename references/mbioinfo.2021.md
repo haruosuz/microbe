@@ -250,15 +250,9 @@ https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#mental
 https://github.com/haruosuz/metasub/blob/master/README.md
 
 MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文。
-微生物の分類学的組成からサンプルの由来する都市を機械学習（ランダムフォレスト）で予測。
 
 https://www.biorxiv.org/content/10.1101/724526v5.full
 Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance | bioRxiv
-
-2.1 A Core Urban Microbiome Centers Global Diversity
-
-Figure 1:
-F) MASH (fc-mer based) similarity between MetaSUB samples and soil microbiome samples, by continent. 
 
 2.2 Global Diversity Varies According to Covariates
 
@@ -268,17 +262,15 @@ We identified covariates which influenced the taxonomic composition of our sampl
 
 We sought to determine whether a samples taxonomy reflected the environment in which it was collected. To this end we trained a Random Forest Classifier (RFC) to predict a sample’s city of origin from its taxonomic profile. 
 
-3 Discussion
+微生物の分類学的組成からサンプルの由来する都市を機械学習（ランダムフォレスト）で予測。
 
-Many of these species are associated with commensal microbiomes from human skin and airways, but we observed that urban microbiomes are nevertheless distinct from both human and soil microbiomes. Notably
+3 Discussion
 
 Unique taxonomic composition and association with covariates specific to the urban environment suggest that urban microbiomes should be treated as ecologically distinct from both surrounding soil microbiomes and human commensal microbiomes.
 
-Given that our samples did not closely resemble human commensal microbiomes or soil samples, it is possible this represents novel urban DNA sequences.
-
 論文の責任著者 Christopher Mason や 筆頭著者 David Danko のツイートで要約が述べられています。
-https://twitter.com/mason_lab/status/1158704680383524866
-https://twitter.com/dcdanko/status/1158706320352120835
+- https://twitter.com/mason_lab/status/1158704680383524866
+- https://twitter.com/dcdanko/status/1158706320352120835
 - 2015-2017年に58都市で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
 - 都市の微生物叢は、地理的に類似している。サンプルを採取地で区別できるが、サンプル間で共通の（core）微生物が存在。
 - 都市の微生物叢は、人間の皮膚や土壌の微生物叢とは明らかに似ていない。1万以上の新しいウイルスゲノムを同定。
