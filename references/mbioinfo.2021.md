@@ -23,6 +23,10 @@ Last Update: 2021-04-16
 ----------
 ## unclassified
 
+人工環境の微生物
+Microbiology of the Built Environment (MoBE)
+https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+
 遺伝子の系統的分布
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.phylogenetic_distribution.md
 
