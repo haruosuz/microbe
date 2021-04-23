@@ -219,8 +219,6 @@ Trends Microbiol. 2014 Mar;22(3):138-46. doi: 10.1016/j.tim.2013.12.011. Epub 20
 Global spread of dengue virus types: mapping the 70 year history.
 Messina JP1, Brady OJ2, Scott TW3, Zou C2, Pigott DM2, Duda KA2, Bhatt S2, Katzelnick L4, Howes RE2, Battle KE2, Simmons CP5, Hay SI6.
 
-
-
 ----------
 ## plasmids
 
@@ -275,6 +273,7 @@ https://courrier.jp/news/archives/226473
 https://courrier.jp/news/archives/226552
 人は自然と和解し地上の建築物に「天国」を実現できるのか？ | クーリエ・ジャポン
 
+----------
 
 ## 2019
 
@@ -300,6 +299,40 @@ https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
 農場の家の室内塵の微生物が都会の子どもの喘息減少に結び付く
 https://www.nature.com/articles/s41591-019-0469-4
 Farm-like indoor microbiota in non-farm homes protects children from asthma development | Nature Medicine
+
+
+### Stephens_2019
+
+Stephens B, Azimi P, Thoemmes MS, Heidarinejad M, Allen JG, Gilbert JA. 2019. Microbial exchange via fomites and implications for human health. Curr Pollution Rep 5:214. doi:10.1007/s40726-019-00126-3.
+
+19 October 2019
+https://link.springer.com/article/10.1007/s40726-019-00126-3
+Correction to: Microbial Exchange via Fomites and Implications for Human Health
+
+31 August 2019
+https://link.springer.com/article/10.1007/s40726-019-00123-6
+Microbial Exchange via Fomites and Implications for Human Health
+
+Conclusions
+This review summarizes our understanding of fomite contamination, microbial survival, microbial exchange, and associated human health risks in the built environment. 
+
+### Mahnert_2019
+
+臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
+
+https://pubmed.ncbi.nlm.nih.gov/30814504/
+Nat Commun
+. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
+Man-made microbial resistances in built environments
+Alexander Mahnert 1, Christine Moissl-Eichinger 2 3, Markus Zojer 4, David Bogumil 5, Itzhak Mizrahi 5, Thomas Rattei 4, José Luis Martinez 6, Gabriele Berg 7 3
+https://www.nature.com/articles/s41467-019-08864-0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
+
+9:49 PM · Mar 1, 2019
+https://twitter.com/susanprescott88/status/1101464494151294977
+Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
+
+
 
 
 ## 2018
@@ -409,6 +442,17 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945812/
 ----------
 ## air
 空気中の微生物
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/33578068/
+Environ Int
+. 2021 Feb 9;150:106423. doi: 10.1016/j.envint.2021.106423. Online ahead of print.
+Seasonal changes dominate long-term variability of the urban air microbiome across space and time
+Andrés Núñez 1, Ana M García 2, Diego A Moreno 3, Raúl Guantes 4
+
+
+
 
 5月 27, 2020
 https://label-online.jp/微生物空気サンプラー市場2020は、最近の傾向、市/
@@ -933,6 +977,24 @@ Kim KY1, Kim YS, Kim D, Kim HT.
 ## school
 ## university
 
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01005-0
+Correction to: Bacterial community assemblages in classroom floor dust of 50 public schools in a large city: characterization using 16S rRNA sequences and associations with environmental factors
+
+https://pubmed.ncbi.nlm.nih.gov/33472703/
+Microbiome
+. 2021 Jan 20;9(1):15. doi: 10.1186/s40168-020-00954-2.
+Bacterial community assemblages in classroom floor dust of 50 public schools in a large city: characterization using 16S rRNA sequences and associations with environmental factors
+Ju-Hyeong Park 1, Angela R Lemons 2, Jerry Roseman 3, Brett J Green 2, Jean M Cox-Ganser 4
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00954-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7819239/
+
+
+Video abstract video file.(42M, mp4)
+
+
+
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/29238327
 Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
 Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
@@ -1167,6 +1229,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30691394
 BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
 Comparative genomics of Bacteria commonly identified in the built environment.
 Merino N, Zhang S, Tomita M, Suzuki H.
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 
 
