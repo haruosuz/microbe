@@ -55,14 +55,12 @@ Antimicrobial Resistance
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
 
-
 http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
 https://forms.gle/eEjbS4KcEiEcx6YU8
 ISPB Plasmids around the Globe Registration
 Registration is REQUIRED (Zoom links will be distributed by email prior to the sessions)
 Registration deadline: April 26, 2021
 Event Timing: May 6 to June 8, 2021
-
 
 ### WASPS
 https://archaea.i2bc.paris-saclay.fr/wasps/
@@ -106,6 +104,16 @@ Comparative genomics of pAKD4, the prototype IncP-1delta plasmid with a complete
 Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste J Brown, Eva M Top
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
+
+<img alt="" src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2819548_nihms-171031-f0001.jpg" width=50%>
+
+Figure 1
+Genetic map of pAKD4. 
+
+<img alt="" src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2819548_nihms-171031-f0002.jpg" width=50%>
+
+Figure 2
+Alignment of the IncP-1δ plasmids showing their evolutionary relationship. 
 
 The 3′-end of the ssb gene, which is usually found upstream of trfA in most IncP-1 plasmids, is also missing in these plasmids. This gene codes for a single strand DNA-binding protein, which helps in DNA replication, recombination and repair. TrfA1 and Ssb proteins play a crucial role in plasmid replication in some bacterial hosts such as P. aeruginosa and may not be needed in some others such as P. putida and E. coli [32]. Therefore we postulate that IncP-1δ plasmids co-evolved with hosts that do not require TrfA1 and Ssb proteins and thereby contracted their host range. Further research is needed to test this hypothesis.
 
