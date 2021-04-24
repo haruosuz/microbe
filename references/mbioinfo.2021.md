@@ -237,7 +237,7 @@ https://presen.sfc.keio.ac.jp/2021/03/post-56.html
 国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
 
 ----------
-### urban_microbiome
+## urban_microbiome
 都市の微生物群集
 
 人工環境の微生物
@@ -247,9 +247,10 @@ https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 人工環境の微生物群集とメンタルヘルス
 https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#mental-health
 
+MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 https://github.com/haruosuz/metasub/blob/master/README.md
 
-MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文。
+MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文より
 
 https://www.biorxiv.org/content/10.1101/724526v5.full
 Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance | bioRxiv
@@ -277,8 +278,20 @@ Unique taxonomic composition and association with covariates specific to the urb
 - 薬剤耐性（AMR）の世界的なマップが大幅に拡張された。AMRを配列データのみから予測するのが難しいことに注意。
 - 最後に、このデータにアクセスするための多くのツールと方法を紹介。
 
+
 ----------
-### microbiome_modeling_simulation
+## soil_microbiome
+土壌微生物群集
+
+https://twitter.com/kztakemoto/status/1370594507457105921
+土壌細菌多様性と温暖化についての論文が出版されました。
+https://www.mdpi.com/1424-2818/13/3/120
+Diversity of Dominant Soil Bacteria Increases with Warming Velocity at the Global Scale
+
+
+
+----------
+## microbiome_modeling_simulation
 マイクロバイオーム モデリング シミュレーション
 
 https://pubmed.ncbi.nlm.nih.gov/33543271/
