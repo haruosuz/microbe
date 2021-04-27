@@ -21,6 +21,21 @@ Last Update: 2021-04-16
 ----------
 ## 2021-04-23
 
+## 2021-04-16
+
+----------
+## unclassified
+
+遺伝子の系統的分布
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.phylogenetic_distribution.md
+
+本：微生物
+https://github.com/haruosuz/books/blob/master/references/books.microbe.md
+
+本：バイオインフォマティクス
+https://github.com/haruosuz/books/blob/master/references/books.bioinfo.md
+
+
 https://wrc.sfc.keio.ac.jp/?p=129
 論文の種類と位置づけ |
 原著論文
@@ -34,17 +49,6 @@ https://www.editage.jp/insights/5-differences-between-a-research-paper-and-a-rev
 
 https://www.editage.com/insights/what-types-of-articles-do-journals-publish
 Choose the right format for publishing your research | Editage Insights
-
-## 2021-04-16
-
-----------
-## unclassified
-
-遺伝子の系統的分布
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.phylogenetic_distribution.md
-
-
-
 
 ----------
 ## nucleotide_composition
@@ -278,17 +282,46 @@ Unique taxonomic composition and association with covariates specific to the urb
 - 薬剤耐性（AMR）の世界的なマップが大幅に拡張された。AMRを配列データのみから予測するのが難しいことに注意。
 - 最後に、このデータにアクセスするための多くのツールと方法を紹介。
 
-
 ----------
 ## soil_microbiome
 土壌微生物群集
+
+http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1607-5.html
+人に話したくなる土壌微生物の世界 食と健康から洞窟、温泉、宇宙まで
+染谷孝［著］
 
 https://twitter.com/kztakemoto/status/1370594507457105921
 土壌細菌多様性と温暖化についての論文が出版されました。
 https://www.mdpi.com/1424-2818/13/3/120
 Diversity of Dominant Soil Bacteria Increases with Warming Velocity at the Global Scale
 
+https://pubmed.ncbi.nlm.nih.gov/25861819/
+Genome Biol Evol
+. 2015 Apr 9;7(5):1380-9. doi: 10.1093/gbe/evv063.
+Prokaryotic nucleotide composition is shaped by both phylogeny and the environment
+Erin R Reichenberger 1, Gail Rosen 2, Uri Hershberg 3, Ruth Hershberg 4
+https://academic.oup.com/gbe/article/7/5/1380/603567
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4453058/
+We find environmentally driven differences in nucleotide content not only between highly diverged environments (e.g., soil, vs. aquatic vs. human gut) but also within a single type of environment. 
 
+https://pubmed.ncbi.nlm.nih.gov/23024607/
+Curr Genomics
+. 2012 Apr;13(2):153-62. doi: 10.2174/138920212799860698.
+Microbial lifestyle and genome signatures
+Chitra Dutta 1, Sandip Paul
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308326/
+The obligatory intracellular pathogens/symbionts and microorganisms surviving in nutrient-limiting environments are, in most cases, characterized by relatively small genomes of low G+C-content, apparently in attempt to reduce replication expenses [13, 14], while free-living organisms, especially of the ones surviving in the soil [6], usually possess much larger genomes of higher G+C-content.
+
+メタゲノムのGC含量の中央値は、農場の土壌サンプルで61%、海洋表層水サンプルで34%。
+コドン3文字目のGC含量の中央値は、農地の土壌で74%、海洋表層水で24%。
+https://pubmed.ncbi.nlm.nih.gov/16200051/
+Comparative Study EMBO Rep
+. 2005 Dec;6(12):1208-13. doi: 10.1038/sj.embor.7400538.
+Environments shape the nucleotide composition of genomes
+Konrad U Foerstner 1, Christian von Mering, Sean D Hooper, Peer Bork
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369203/
+- (Fig 1A). Surprisingly, the samples from farm soil and ocean surface water—both of which contain DNA from more than 1,000 diverse, non-abundant species (Venter et al, 2004; Tringe et al, 2005)—are very different, with the surface water sample having a GC-content median of around 34% and the soil sample around 61%.
+- We found that the third codon position is even more extreme with respect to GC distribution than the average of all three positions (Fig 2, the median in farm soil is 74%, versus 24% in the ocean surface water).
 
 ----------
 ## microbiome_modeling_simulation
