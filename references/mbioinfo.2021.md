@@ -26,6 +26,8 @@ Last Update: 2021-04-16
 ----------
 ## unclassified
 
+https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+
 遺伝子の系統的分布
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.phylogenetic_distribution.md
 
@@ -34,7 +36,6 @@ https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 
 本：バイオインフォマティクス
 https://github.com/haruosuz/books/blob/master/references/books.bioinfo.md
-
 
 https://wrc.sfc.keio.ac.jp/?p=129
 論文の種類と位置づけ |
@@ -286,14 +287,49 @@ Unique taxonomic composition and association with covariates specific to the urb
 ## soil_microbiome
 土壌微生物群集
 
-http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1607-5.html
-人に話したくなる土壌微生物の世界 食と健康から洞窟、温泉、宇宙まで
-染谷孝［著］
-
+1:36 PM · Mar 13, 2021
 https://twitter.com/kztakemoto/status/1370594507457105921
 土壌細菌多様性と温暖化についての論文が出版されました。
 https://www.mdpi.com/1424-2818/13/3/120
 Diversity of Dominant Soil Bacteria Increases with Warming Velocity at the Global Scale
+
+2020/12/03
+https://www.youtube.com/watch?v=TNXLhaaMzBM
+How Microbiomes Can Help Us Deal with Climate Change | Steven Allison | TEDxUCIrvine
+The chemical balance of our planet depends on highly diverse and adaptable microbiomes that live in soils, oceans, and the air. Microbial ecologist Steven Allison explains the potential for these
+fascinating microbial communities to help combat climate change while sustaining agriculture and building healthy soils. 
+
+https://www.annualreviews.org/doi/full/10.1146/annurev-environ-012320-082720
+Soil Microbiomes Under Climate Change and Implications for Carbon Cycling | Annual Review of Environment and Resources
+Vol. 45:29-59 (Volume publication date October 2020)
+Dan Naylor,1 Natalie Sadler,1 Arunima Bhattacharjee,2 Emily B. Graham,1,3 Christopher R. Anderton,2 Ryan McClure,1 Mary Lipton,2 Kirsten S. Hofmockel,1,4 and Janet K. Jansson1
+
+NASA Video
+2020/05/17
+https://www.youtube.com/watch?v=Ff6SQecABTg
+Soil Microbiomes and Climate Change presented by Janet Jansson, PhD - Chief Scientist for Biology in the Biological Sciences Division, Pacific Northwest National Laboratory
+
+https://pubmed.ncbi.nlm.nih.gov/31586158/
+Review Nat Rev Microbiol
+. 2020 Jan;18(1):35-46. doi: 10.1038/s41579-019-0265-7. Epub 2019 Oct 4.
+Soil microbiomes and climate change
+https://www.nature.com/articles/s41579-019-0265-7
+Janet K Jansson 1, Kirsten S Hofmockel 2
+https://www.osti.gov/pages/biblio/1615017
+https://www.osti.gov/pages/servlets/purl/1615017
+
+2020/9/19
+http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1607-5.html
+人に話したくなる土壌微生物の世界 食と健康から洞窟、温泉、宇宙まで
+染谷孝［著］
+
+https://pubmed.ncbi.nlm.nih.gov/28824177/
+Review Nat Rev Microbiol
+. 2017 Oct;15(10):579-590. doi: 10.1038/nrmicro.2017.87. Epub 2017 Aug 21.
+Embracing the unknown: disentangling the complexities of the soil microbiome
+Noah Fierer 1 2
+Affiliations expand
+https://www.nature.com/articles/nrmicro.2017.87
 
 https://pubmed.ncbi.nlm.nih.gov/25861819/
 Genome Biol Evol
