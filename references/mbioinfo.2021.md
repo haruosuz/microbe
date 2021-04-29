@@ -151,6 +151,12 @@ The complete sequence of pAKD4 has been deposited in the GenBank database under 
 https://www.sciencedirect.com/science/article/pii/S2001037018301685
 Reconsidering plasmid maintenance factors for computational plasmid design - ScienceDirect
 
+Table 1
+Lists of plasmids in different incompatibility groups.
+
+IncY	P1 (Escherichia virus)	AF234172 (phage P1 mod749::IS5 c1–100)	RepA
+
+
 Fig. 2. Replication module. (A) Replication module of IncP-1 plasmids. Ssb encodes a single-strand DNA binding protein.
 
 2.3.2. G + C Content
@@ -176,6 +182,34 @@ https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
 Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
 
 Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/22536367/
+PLoS One
+. 2012;7(4):e35285. doi: 10.1371/journal.pone.0035285. Epub 2012 Apr 19.
+Characterization of the single stranded DNA binding protein SsbB encoded in the Gonoccocal Genetic Island
+Samta Jain 1, Maria Zweig, Eveline Peeters, Katja Siewering, Kathleen T Hackett, Joseph P Dillard, Chris van der Does
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035285
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334931/
+Single stranded DNA binding proteins (SSBs) are highly conserved, essential proteins found in all kingdoms of life. These proteins bind to single-stranded DNA (ssDNA) with high affinity and low sequence specificity. They play a crucial role in processes involved in DNA metabolism like DNA repair, replication and recombination by modulating the functions of many DNA processing enzymes either by controlling the accessibility to ssDNA or via protein–protein interactions [1]. Several bacteria contain, next to the main SSB, a second SSB. 
+The second SSB can either be found on the chromosome or is located on a plasmid. The presence of a second chromosomal paralog is often related to natural competence [2], [3], [4]. Furthermore, nearly all conjugative plasmids also encode an SSB homologue. The exact function of these SSBs is still unclear; they seem not to be necessary for conjugal transfer of the plasmids, but might be involved in plasmid stability [5]. Remarkably, the SSB homologue VirE2 encoded on the Agrobacterium tumefaciens Ti plasmid is essential for infection of the host plant cells [6], [7]. VirE2 is transported via the Type IV secretion system (T4SS) on the Ti plasmid independent of the ssDNA [8]. In the recipient cell, it probably functions as a molecular motor facilitating the import of the Ti ssDNA [9], [10].
+
+Figure 1
+Unrooted phylogenetic tree of the ssDNA-binding proteins.
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/22073223/
+PLoS One
+. 2011;6(11):e26942. doi: 10.1371/journal.pone.0026942. Epub 2011 Nov 4.
+Phylogenetic and complementation analysis of a single-stranded DNA binding protein family from lactococcal phages indicates a non-bacterial origin
+Agnieszka K Szczepankowska 1, Eric Prestel, Mahendra Mariadassou, Jacek K Bardowski, Elena Bidnenko
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026942
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208561/
+For some phages, specific SSBs are involved in DNA replication and, in some cases are essential for phage development [20], [25]–[26]. Phylogenetic analysis of a number of bacterial and phage SSB proteins indicates that there have been frequent horizontal transfers from bacterial hosts to the genomes of their phages [27]. The bacterial origin of the phage ssb genes is easily recognized despite the high evolution rate of phages [24], [27]. Moreover, some phage SSBs are interchangeable with their bacterial analogs in vivo and in vitro [23], [28].
 
 
 https://pubmed.ncbi.nlm.nih.gov/20012581/
