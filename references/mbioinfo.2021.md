@@ -10,6 +10,7 @@ Last Update: 2021-04-16
 - [unclassified](#unclassified)
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [AMR](#amr) 薬剤耐性
+- [CRISPR](#crispr)
 - [plasmid](#plasmid) プラスミド
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [phylogenetic_tree](#phylogenetic_tree) 系統樹
@@ -71,6 +72,40 @@ Antimicrobial Resistance
 家畜への投与等
 - http://amr.ncgm.go.jp/
 かしこく治して、明日につなぐ～抗菌薬を上手に使って薬剤耐性（AMR）対策～
+
+----------
+## CRISPR
+
+- https://en.wikipedia.org/wiki/CRISPR
+- https://ja.wikipedia.org/wiki/CRISPR
+- https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
+特集：CRISPR-Cas9 とは DNA二本鎖を切断してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術 | 
+CRISPR-Cas9（clustered regularly interspaced short palindromic repeats / CRISPR associated proteins）とは、DNA二本鎖を切断（Double Strand Breaks=DSBs）してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術です。
+CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
+
+https://www.amed.go.jp/news/release_20200610-02.html
+狙った細菌を選択的に殺菌できる遺伝子標的型抗菌薬を創出―薬剤耐性菌問題の解決へ― | 国立研究開発法人日本医療研究開発機構
+https://www.nature.com/articles/s41467-020-16731-6
+Development of CRISPR-Cas13a-based antimicrobials capable of sequence-specific killing of target bacteria | Nature Communications
+
+https://crisp-bio.blog.jp/archives/18437923.html
+CRISPRメモ_2019/06/21 (3件) : crisp_bio
+
+1. CRISPR/Cas9システムにより、コリスチン耐性大腸菌臨床分離株からmcr-1遺伝子を帯びたプラスミドを除去
+[出典] "Eliminating mcr-1-harbouring plasmids in clinical isolates using the CRISPR/Cas9 system" Wang P [..] Wang X. J Antimicrob Chemother 2019-06-15. 
+
+https://crisp-bio.blog.jp/archives/12546975.html
+CRISPRメモ_2018/09/30 (10件) : crisp_bio
+
+2. CRISPR/Cas9システムを帯びた接合性プラスミドでコリスチン耐性遺伝子を除去し多剤耐性菌に打ち克つ
+[出典] "Exploiting a conjugative CRISPR/Cas9 system to eliminate plasmid harboring mcr-1 gene from Escherichia coli" Dong H, Xiang H, Mu D, Wang D, Wang T. Int J Antimicrob Agents. 2018 Sep 26.
+
+3. CRISPR生物学を巡る１０の謎
+[出典] Comment "Open questions: CRISPR biology" Koonin EV. BMC Biology. 2018 Sep 24.
+投げかけられた謎は、CRISPR/Casシステム自体およびクラスとタイプの偏在とその由来、CRISPR-Cas活性と遺伝子水平伝播 (HGT)のバランス、CRISPR-Casと細胞死/休眠の関係、免疫応答以外の機能、病原性との関係、トランスポゾンやプラスミドにコードされているCRISPR-Casシステムの機能、CRISPR-Casの起源など10項目
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9
+What are the functions of CRISPR-Cas systems encoded by transposons and plasmids?
+Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a large family of Tn7-like transposons [9] and by various plasmids [2]. All transposon-encoded and some of the plasmid-encoded CRISPR-Cas are “minimal” variants that lack the enzymes involved in target cleavage and hence are predicted to be involved in non-defense roles. The nature of these functions remains to be elucidated, and might involve RNA-guided transposition [9].
 
 ----------
 ## plasmid
