@@ -20,6 +20,18 @@ Last Update: 2021-04-16
 - [](#)
 
 ----------
+
+http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
+
+http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/thursday-6-may-hosted-by-jean-yves-bouet-and-chris-thomas/
+
+Session 1 Thursday 6 May hosted by Jean-Yves Bouet and Chris Thomas
+
+Start times
+
+Japan: 23:00
+
+----------
 ## 2021-04-23
 
 ## 2021-04-16
@@ -114,13 +126,6 @@ Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a l
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
-https://forms.gle/eEjbS4KcEiEcx6YU8
-ISPB Plasmids around the Globe Registration
-Registration is REQUIRED (Zoom links will be distributed by email prior to the sessions)
-Registration deadline: April 26, 2021
-Event Timing: May 6 to June 8, 2021
 
 ### WASPS
 https://archaea.i2bc.paris-saclay.fr/wasps/
