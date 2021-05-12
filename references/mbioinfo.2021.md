@@ -22,7 +22,6 @@ Last Update: 2021-05-06
 - [](#)
 
 ----------
-
 ## 2021-05-06
 
 http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
@@ -53,19 +52,16 @@ https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 本：バイオインフォマティクス
 https://github.com/haruosuz/books/blob/master/references/books.bioinfo.md
 
-https://wrc.sfc.keio.ac.jp/?p=129
-論文の種類と位置づけ |
-原著論文
-総説・調査論文 (review, survey)
-
-https://www.editage.jp/insights/what-is-the-difference-between-a-research-paper-and-a-review-paper
-研究論文とレビュー論文の違いは？
-
-https://www.editage.jp/insights/5-differences-between-a-research-paper-and-a-review-paper
-原著論文とレビュー論文の5つの違い
-
 https://www.editage.com/insights/what-types-of-articles-do-journals-publish
 Choose the right format for publishing your research | Editage Insights
+
+- https://www.nig.ac.jp/jimu/soken/courses/EfS/EfS_2016/OSC_I_schedule.html
+Asking questions
+download tips for Q&A English Japanese
+- https://www.nig.ac.jp/jimu/soken/courses/EfS/contents/Q&A_e.pdf
+Let’s Enjoy the Q&A Session!
+- https://www.nig.ac.jp/jimu/soken/courses/EfS/contents/Q&A_j.pdf
+Ｑ＆Ａを楽しもう！
 
 ----------
 ## nucleotide_composition
@@ -81,12 +77,6 @@ Antimicrobial Resistance
 - https://en.wikipedia.org/wiki/Colistin
 - https://ja.wikipedia.org/wiki/コリスチン
 - https://ja.wikipedia.org/wiki/抗生物質
-薬理
-抗生物質を含む抗菌剤は、細菌が増殖するのに必要な代謝経路に作用することで細菌にのみ選択的に毒性を示す化学物質である。例えば、β-ラクタム系抗生物質は細菌特有の細胞壁の合成を阻害するが、人体の細胞に対してはほとんど毒性を示さない。アルコール、ポビドンヨードなどのように、単に化学的な作用で細菌を死滅させる殺菌剤、消毒薬とは区別される。
-耐性と乱用
-家畜への投与等
-- http://amr.ncgm.go.jp/
-かしこく治して、明日につなぐ～抗菌薬を上手に使って薬剤耐性（AMR）対策～
 
 ----------
 ## CRISPR
@@ -94,8 +84,6 @@ Antimicrobial Resistance
 - https://en.wikipedia.org/wiki/CRISPR
 - https://ja.wikipedia.org/wiki/CRISPR
 - https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
-特集：CRISPR-Cas9 とは DNA二本鎖を切断してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術 | 
-CRISPR-Cas9（clustered regularly interspaced short palindromic repeats / CRISPR associated proteins）とは、DNA二本鎖を切断（Double Strand Breaks=DSBs）してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術です。
 CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
 
 https://www.amed.go.jp/news/release_20200610-02.html
