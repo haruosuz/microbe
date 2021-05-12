@@ -1,4 +1,4 @@
-Last Update: 2021-05-06
+Last Update: 2021-05
 
 ----------
 
@@ -15,7 +15,7 @@ Last Update: 2021-05-06
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [phylogenetic_tree](#phylogenetic_tree) 系統樹
 - [ISS](#iss) International Space Station 国際宇宙ステーション
-- [urban_microbiome](#urban_microbiome) 都市マイクロバイオーム
+- [urban_microbiome](#urban_microbiome) MetaSUB 都市マイクロバイオーム
 - [soil_microbiome](#soil_microbiome) 土壌微生物群集
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
 - [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
@@ -24,15 +24,8 @@ Last Update: 2021-05-06
 ----------
 ## 2021-05-06
 
-http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
-
-http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/thursday-6-may-hosted-by-jean-yves-bouet-and-chris-thomas/
-
-Session 1 Thursday 6 May hosted by Jean-Yves Bouet and Chris Thomas
-
-Start times
-
-Japan: 23:00
+- http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
+Plasmids Around the Globe 2021 | International Society for Plasmid Biology
 
 ## 2021-04-23
 
@@ -349,14 +342,14 @@ We sought to determine whether a samples taxonomy reflected the environment in w
 
 Unique taxonomic composition and association with covariates specific to the urban environment suggest that urban microbiomes should be treated as ecologically distinct from both surrounding soil microbiomes and human commensal microbiomes.
 
-論文の責任著者 Christopher Mason や 筆頭著者 David Danko のツイートで要約が述べられています。
 - https://twitter.com/mason_lab/status/1158704680383524866
 - https://twitter.com/dcdanko/status/1158706320352120835
-- 2015-2017年に58都市で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
-- 都市の微生物叢は、地理的に類似している。サンプルを採取地で区別できるが、サンプル間で共通の（core）微生物が存在。
-- 都市の微生物叢は、人間の皮膚や土壌の微生物叢とは明らかに似ていない。1万以上の新しいウイルスゲノムを同定。
-- 薬剤耐性（AMR）の世界的なマップが大幅に拡張された。AMRを配列データのみから予測するのが難しいことに注意。
-- 最後に、このデータにアクセスするための多くのツールと方法を紹介。
+論文の責任著者 Christopher Mason や 筆頭著者 David Danko のツイートで要約が述べられています。
+2015-2017年に58都市で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
+都市の微生物叢は、地理的に類似している。サンプルを採取地で区別できるが、サンプル間で共通の（core）微生物が存在。
+都市の微生物叢は、人間の皮膚や土壌の微生物叢とは明らかに似ていない。1万以上の新しいウイルスゲノムを同定。
+薬剤耐性（AMR）の世界的なマップが大幅に拡張された。AMRを配列データのみから予測するのが難しいことに注意。
+最後に、このデータにアクセスするための多くのツールと方法を紹介。
 
 ----------
 ## soil_microbiome
