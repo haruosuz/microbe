@@ -18,6 +18,7 @@ Last Update: 2021-05-06
 - [urban_microbiome](#urban_microbiome) 都市マイクロバイオーム
 - [soil_microbiome](#soil_microbiome) 土壌微生物群集
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
+- [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
 - [](#)
 
 ----------
@@ -207,6 +208,16 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
  The G + C contents of plasmids tend to be lower than (and are correlated with) those of the host chromosomes.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
+
+### Pal_2015
+
+https://pubmed.ncbi.nlm.nih.gov/26576951/
+BMC Genomics
+. 2015 Nov 17;16:964. doi: 10.1186/s12864-015-2153-5.
+Co-occurrence of resistance genes to antibiotics, biocides and metals reveals novel insights into their co-selection potential
+Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 3
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
 
 ----------
 ## SSBP
@@ -476,6 +487,52 @@ GutLogo: Agent-based modeling framework to investigate spatial and temporal dyna
 Charlie Lin 1, Joshua Culver 1, Bronson Weston 1, Evan Underhill 1, Jonathan Gorky 1, Prasad Dhurjati 1
 
 ----------
+## ofsf
+
+- https://www.ofsf.or.jp/
+公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- https://www.ofsf.or.jp/en/
+Ohsumi Frontier Science Foundation
+- https://www.niid.go.jp/niid/ja/
+国立感染症研究所
+- https://www.niid.go.jp/niid/en/
+National Institute of Infectious Diseases
+
+https://researchmap.jp/read0133866?lang=en
+Masato SUZUKI
+
+https://twitter.com/KojiYahara
+Group Leader @ National Institute of Infectious Diseases.  AMR surveillance, biomedical informatics, microbial genomics, evolution, epidemiology.
+
+### Yahara_2021
+
+4:37 AM · Apr 5, 2021
+https://twitter.com/KojiYahara/status/1378793886336778240
+Koji Yahara on Twitter: "Our new paper on emergence and evolution of antimicrobial resistance genes and mutations in N. gonorrhoeae is out in Genome Medicine https://t.co/X2BhtHRYx3 (1/8)" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/33785063/
+Genome Med
+. 2021 Mar 30;13(1):51. doi: 10.1186/s13073-021-00860-8.
+Emergence and evolution of antimicrobial resistance genes and mutations in Neisseria gonorrhoeae
+Koji Yahara 1, Kevin C Ma 2, Tatum D Mortimer 2, Ken Shimuta 3 4, Shu-Ichi Nakayama 4, Aki Hirabayashi 3, Masato Suzuki 3, Michio Jinnai 5, Hitomi Ohya 5, Toshiro Kuroki 5 6, Yuko Watanabe 5, Mitsuru Yasuda 7, Takashi Deguchi 8, Vegard Eldholm 9, Odile B Harrison 10, Martin C J Maiden 10, Yonatan H Grad 2, Makoto Ohnishi 11
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00860-8
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008663/
+
+### Yahara_2018
+
+https://pubmed.ncbi.nlm.nih.gov/30063202/
+Microb Genom
+. 2018 Aug;4(8):e000205. doi: 10.1099/mgen.0.000205. Epub 2018 Jul 31.
+Genomic surveillance of Neisseria gonorrhoeae to investigate the distribution and evolution of antimicrobial-resistance determinants and lineages
+Koji Yahara 1, Shu-Ichi Nakayama 2, Ken Shimuta 2, Ken-Ichi Lee 2, Masatomo Morita 2, Takuya Kawahata 3, Toshiro Kuroki 4 5, Yuko Watanabe 4, Hitomi Ohya 4, Mitsuru Yasuda 6, Takashi Deguchi 6, Xavier Didelot 7, Makoto Ohnishi 2 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000205#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159555/
+Plasmid-encoded resistance
+
+
+----------
+
+
 
 
 
