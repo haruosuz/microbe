@@ -62,6 +62,7 @@ https://github.com/haruosuz/mgsa/blob/master/references/mgsa.nucleotide_composit
 Antimicrobial Resistance
 薬剤耐性
 
+- https://wwwnc.cdc.gov/eid/spotlight/antimicrobial-resistance
 - https://en.wikipedia.org/wiki/Colistin
 - https://ja.wikipedia.org/wiki/コリスチン
 - https://ja.wikipedia.org/wiki/抗生物質
@@ -69,15 +70,9 @@ Antimicrobial Resistance
 - https://ja.wikipedia.org/wiki/カルバペネム耐性腸内細菌
  (Carbapenem-resistant enterobacteriaceae, CRE)
 
-
 ----------
 ## infectious_disease
 感染症
-
-- https://www.niid.go.jp/niid/ja/
-国立感染症研究所
-- https://www.niid.go.jp/niid/en/
-National Institute of Infectious Diseases
 
 https://pubmed.ncbi.nlm.nih.gov/29773743/
 Review Science
@@ -86,6 +81,8 @@ Genomic insights into the emergence and spread of antimicrobial-resistant bacter
 Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
 https://science.sciencemag.org/content/360/6390/733.long
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
+
+
 
 https://pubmed.ncbi.nlm.nih.gov/32514171/
 Nat Med
@@ -96,10 +93,16 @@ https://www.nature.com/articles/s41591-020-0894-4
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303012/
 Although disinfection is key to infection control, the colonization patterns and resistomes of hospital-environment microbes remain underexplored. We report the first extensive genomic characterization of microbiomes, pathogens and antibiotic resistance cassettes in a tertiary-care hospital, from repeated sampling (up to 1.5 years apart) of 179 sites associated with 45 beds. 
 
-https://researchmap.jp/read0133866?lang=en
-Masato SUZUKI
+----------
+## niid
 
-https://twitter.com/KojiYahara
+- https://www.niid.go.jp/niid/en/
+National Institute of Infectious Diseases
+- https://www.niid.go.jp/niid/ja/
+国立感染症研究所
+- https://researchmap.jp/read0133866?lang=en
+Masato SUZUKI
+- https://twitter.com/KojiYahara
 Group Leader @ National Institute of Infectious Diseases.  AMR surveillance, biomedical informatics, microbial genomics, evolution, epidemiology.
 
 ### Yahara_2021
