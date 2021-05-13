@@ -5,12 +5,11 @@ Last Update: 2021-05
 # mbioinfo.2021
 
 **Table of Contents**
-- [2021-04-23](#2021-04-23)
-- [2021-04-16](#2021-04-16)
 - [unclassified](#unclassified)
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [AMR](#amr) 薬剤耐性
-- [CRISPR](#crispr)
+- [infectious_disease](#infectious_disease) 感染症
+- [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
 - [plasmid](#plasmid) プラスミド
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [phylogenetic_tree](#phylogenetic_tree) 系統樹
@@ -18,7 +17,7 @@ Last Update: 2021-05
 - [urban_microbiome](#urban_microbiome) MetaSUB 都市マイクロバイオーム
 - [soil_microbiome](#soil_microbiome) 土壌微生物群集
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
-- [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- [CRISPR](#crispr)
 - [](#)
 
 ----------
@@ -26,10 +25,6 @@ Last Update: 2021-05
 
 - http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
 Plasmids Around the Globe 2021 | International Society for Plasmid Biology
-
-## 2021-04-23
-
-## 2021-04-16
 
 ----------
 ## unclassified
@@ -70,38 +65,76 @@ Antimicrobial Resistance
 - https://en.wikipedia.org/wiki/Colistin
 - https://ja.wikipedia.org/wiki/コリスチン
 - https://ja.wikipedia.org/wiki/抗生物質
+- https://ja.wikipedia.org/wiki/カルバペネム系抗生物質
+- https://ja.wikipedia.org/wiki/カルバペネム耐性腸内細菌
+ (Carbapenem-resistant enterobacteriaceae, CRE)
+
 
 ----------
-## CRISPR
+## infectious_disease
+感染症
 
-- https://en.wikipedia.org/wiki/CRISPR
-- https://ja.wikipedia.org/wiki/CRISPR
-- https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
-CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
+- https://www.niid.go.jp/niid/ja/
+国立感染症研究所
+- https://www.niid.go.jp/niid/en/
+National Institute of Infectious Diseases
 
-https://www.amed.go.jp/news/release_20200610-02.html
-狙った細菌を選択的に殺菌できる遺伝子標的型抗菌薬を創出―薬剤耐性菌問題の解決へ― | 国立研究開発法人日本医療研究開発機構
-https://www.nature.com/articles/s41467-020-16731-6
-Development of CRISPR-Cas13a-based antimicrobials capable of sequence-specific killing of target bacteria | Nature Communications
+https://pubmed.ncbi.nlm.nih.gov/29773743/
+Review Science
+. 2018 May 18;360(6390):733-738. doi: 10.1126/science.aar3777.
+Genomic insights into the emergence and spread of antimicrobial-resistant bacterial pathogens
+Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
+https://science.sciencemag.org/content/360/6390/733.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
 
-https://crisp-bio.blog.jp/archives/18437923.html
-CRISPRメモ_2019/06/21 (3件) : crisp_bio
+https://pubmed.ncbi.nlm.nih.gov/32514171/
+Nat Med
+. 2020 Jun;26(6):941-951. doi: 10.1038/s41591-020-0894-4. Epub 2020 Jun 8.
+Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment
+Kern Rei Chng # 1, Chenhao Li # 1, Denis Bertrand # 1, Amanda Hui Qi Ng 1, Junmei Samantha Kwah 1, Hwee Meng Low 1, Chengxuan Tong 1, Maanasa Natrajan 1, Michael Hongjie Zhang 1, Licheng Xu 2, Karrie Kwan Ki Ko 3 4 5, Eliza Xin Pei Ho 1, Tamar V Av-Shalom 1, Jeanette Woon Pei Teo 6, Chiea Chuen Khor 1, MetaSUB Consortium; Swaine L Chen 1, Christopher E Mason 7, Oon Tek Ng 8 9 10, Kalisvar Marimuthu 8 9 11, Brenda Ang 8 9, Niranjan Nagarajan 12 13
+https://www.nature.com/articles/s41591-020-0894-4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303012/
+Although disinfection is key to infection control, the colonization patterns and resistomes of hospital-environment microbes remain underexplored. We report the first extensive genomic characterization of microbiomes, pathogens and antibiotic resistance cassettes in a tertiary-care hospital, from repeated sampling (up to 1.5 years apart) of 179 sites associated with 45 beds. 
 
-1. CRISPR/Cas9システムにより、コリスチン耐性大腸菌臨床分離株からmcr-1遺伝子を帯びたプラスミドを除去
-[出典] "Eliminating mcr-1-harbouring plasmids in clinical isolates using the CRISPR/Cas9 system" Wang P [..] Wang X. J Antimicrob Chemother 2019-06-15. 
+https://researchmap.jp/read0133866?lang=en
+Masato SUZUKI
 
-https://crisp-bio.blog.jp/archives/12546975.html
-CRISPRメモ_2018/09/30 (10件) : crisp_bio
+https://twitter.com/KojiYahara
+Group Leader @ National Institute of Infectious Diseases.  AMR surveillance, biomedical informatics, microbial genomics, evolution, epidemiology.
 
-2. CRISPR/Cas9システムを帯びた接合性プラスミドでコリスチン耐性遺伝子を除去し多剤耐性菌に打ち克つ
-[出典] "Exploiting a conjugative CRISPR/Cas9 system to eliminate plasmid harboring mcr-1 gene from Escherichia coli" Dong H, Xiang H, Mu D, Wang D, Wang T. Int J Antimicrob Agents. 2018 Sep 26.
+### Yahara_2021
 
-3. CRISPR生物学を巡る１０の謎
-[出典] Comment "Open questions: CRISPR biology" Koonin EV. BMC Biology. 2018 Sep 24.
-投げかけられた謎は、CRISPR/Casシステム自体およびクラスとタイプの偏在とその由来、CRISPR-Cas活性と遺伝子水平伝播 (HGT)のバランス、CRISPR-Casと細胞死/休眠の関係、免疫応答以外の機能、病原性との関係、トランスポゾンやプラスミドにコードされているCRISPR-Casシステムの機能、CRISPR-Casの起源など10項目
-https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9
-What are the functions of CRISPR-Cas systems encoded by transposons and plasmids?
-Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a large family of Tn7-like transposons [9] and by various plasmids [2]. All transposon-encoded and some of the plasmid-encoded CRISPR-Cas are “minimal” variants that lack the enzymes involved in target cleavage and hence are predicted to be involved in non-defense roles. The nature of these functions remains to be elucidated, and might involve RNA-guided transposition [9].
+4:37 AM · Apr 5, 2021
+https://twitter.com/KojiYahara/status/1378793886336778240
+Koji Yahara on Twitter: "Our new paper on emergence and evolution of antimicrobial resistance genes and mutations in N. gonorrhoeae is out in Genome Medicine https://t.co/X2BhtHRYx3 (1/8)" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/33785063/
+Genome Med
+. 2021 Mar 30;13(1):51. doi: 10.1186/s13073-021-00860-8.
+Emergence and evolution of antimicrobial resistance genes and mutations in Neisseria gonorrhoeae
+Koji Yahara 1, Kevin C Ma 2, Tatum D Mortimer 2, Ken Shimuta 3 4, Shu-Ichi Nakayama 4, Aki Hirabayashi 3, Masato Suzuki 3, Michio Jinnai 5, Hitomi Ohya 5, Toshiro Kuroki 5 6, Yuko Watanabe 5, Mitsuru Yasuda 7, Takashi Deguchi 8, Vegard Eldholm 9, Odile B Harrison 10, Martin C J Maiden 10, Yonatan H Grad 2, Makoto Ohnishi 11
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00860-8
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008663/
+
+### Yahara_2018
+
+https://pubmed.ncbi.nlm.nih.gov/30063202/
+Microb Genom
+. 2018 Aug;4(8):e000205. doi: 10.1099/mgen.0.000205. Epub 2018 Jul 31.
+Genomic surveillance of Neisseria gonorrhoeae to investigate the distribution and evolution of antimicrobial-resistance determinants and lineages
+Koji Yahara 1, Shu-Ichi Nakayama 2, Ken Shimuta 2, Ken-Ichi Lee 2, Masatomo Morita 2, Takuya Kawahata 3, Toshiro Kuroki 4 5, Yuko Watanabe 4, Hitomi Ohya 4, Mitsuru Yasuda 6, Takashi Deguchi 6, Xavier Didelot 7, Makoto Ohnishi 2 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000205#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159555/
+Plasmid-encoded resistance
+
+
+----------
+## ofsf
+
+- https://www.ofsf.or.jp/
+公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- https://www.ofsf.or.jp/en/
+Ohsumi Frontier Science Foundation
 
 ----------
 ## plasmid
@@ -328,6 +361,11 @@ MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論�
 https://www.biorxiv.org/content/10.1101/724526v5.full
 Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance | bioRxiv
 
+we created a global metagenomic and antimicrobial resistance (AMR) atlas of urban mass transit systems from 58 cities, spanning 3,741 samples and 4,424 taxonomically-defined microorganisms collected for three years.
+
+These data also show that AMR density across cities varies by several orders of magnitude with many AMRs present on plasmids with cosmopolitan distributions.
+
+
 2.2 Global Diversity Varies According to Covariates
 
 We identified covariates which influenced the taxonomic composition of our samples: city, population density, average temperature in June, region, elevation above sea-level, surface type, surface material, elevation above or below ground and proximity to the coast. The most important factor, which could explain 19% of the variation in isolation, was the city from which a sample was taken followed by region which explained 11%. The other four factors ranged from explaining 2% to 7% of the possible variation in taxonomy in isolation (Supp. Table S2).
@@ -468,47 +506,36 @@ GutLogo: Agent-based modeling framework to investigate spatial and temporal dyna
 Charlie Lin 1, Joshua Culver 1, Bronson Weston 1, Evan Underhill 1, Jonathan Gorky 1, Prasad Dhurjati 1
 
 ----------
-## ofsf
+## CRISPR
 
-- https://www.ofsf.or.jp/
-公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
-- https://www.ofsf.or.jp/en/
-Ohsumi Frontier Science Foundation
-- https://www.niid.go.jp/niid/ja/
-国立感染症研究所
-- https://www.niid.go.jp/niid/en/
-National Institute of Infectious Diseases
+- https://en.wikipedia.org/wiki/CRISPR
+- https://ja.wikipedia.org/wiki/CRISPR
+- https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
+CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
 
-https://researchmap.jp/read0133866?lang=en
-Masato SUZUKI
+https://www.amed.go.jp/news/release_20200610-02.html
+狙った細菌を選択的に殺菌できる遺伝子標的型抗菌薬を創出―薬剤耐性菌問題の解決へ― | 国立研究開発法人日本医療研究開発機構
+https://www.nature.com/articles/s41467-020-16731-6
+Development of CRISPR-Cas13a-based antimicrobials capable of sequence-specific killing of target bacteria | Nature Communications
 
-https://twitter.com/KojiYahara
-Group Leader @ National Institute of Infectious Diseases.  AMR surveillance, biomedical informatics, microbial genomics, evolution, epidemiology.
+https://crisp-bio.blog.jp/archives/18437923.html
+CRISPRメモ_2019/06/21 (3件) : crisp_bio
 
-### Yahara_2021
+1. CRISPR/Cas9システムにより、コリスチン耐性大腸菌臨床分離株からmcr-1遺伝子を帯びたプラスミドを除去
+[出典] "Eliminating mcr-1-harbouring plasmids in clinical isolates using the CRISPR/Cas9 system" Wang P [..] Wang X. J Antimicrob Chemother 2019-06-15. 
 
-4:37 AM · Apr 5, 2021
-https://twitter.com/KojiYahara/status/1378793886336778240
-Koji Yahara on Twitter: "Our new paper on emergence and evolution of antimicrobial resistance genes and mutations in N. gonorrhoeae is out in Genome Medicine https://t.co/X2BhtHRYx3 (1/8)" / Twitter
+https://crisp-bio.blog.jp/archives/12546975.html
+CRISPRメモ_2018/09/30 (10件) : crisp_bio
 
-https://pubmed.ncbi.nlm.nih.gov/33785063/
-Genome Med
-. 2021 Mar 30;13(1):51. doi: 10.1186/s13073-021-00860-8.
-Emergence and evolution of antimicrobial resistance genes and mutations in Neisseria gonorrhoeae
-Koji Yahara 1, Kevin C Ma 2, Tatum D Mortimer 2, Ken Shimuta 3 4, Shu-Ichi Nakayama 4, Aki Hirabayashi 3, Masato Suzuki 3, Michio Jinnai 5, Hitomi Ohya 5, Toshiro Kuroki 5 6, Yuko Watanabe 5, Mitsuru Yasuda 7, Takashi Deguchi 8, Vegard Eldholm 9, Odile B Harrison 10, Martin C J Maiden 10, Yonatan H Grad 2, Makoto Ohnishi 11
-https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00860-8
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008663/
+2. CRISPR/Cas9システムを帯びた接合性プラスミドでコリスチン耐性遺伝子を除去し多剤耐性菌に打ち克つ
+[出典] "Exploiting a conjugative CRISPR/Cas9 system to eliminate plasmid harboring mcr-1 gene from Escherichia coli" Dong H, Xiang H, Mu D, Wang D, Wang T. Int J Antimicrob Agents. 2018 Sep 26.
 
-### Yahara_2018
-
-https://pubmed.ncbi.nlm.nih.gov/30063202/
-Microb Genom
-. 2018 Aug;4(8):e000205. doi: 10.1099/mgen.0.000205. Epub 2018 Jul 31.
-Genomic surveillance of Neisseria gonorrhoeae to investigate the distribution and evolution of antimicrobial-resistance determinants and lineages
-Koji Yahara 1, Shu-Ichi Nakayama 2, Ken Shimuta 2, Ken-Ichi Lee 2, Masatomo Morita 2, Takuya Kawahata 3, Toshiro Kuroki 4 5, Yuko Watanabe 4, Hitomi Ohya 4, Mitsuru Yasuda 6, Takashi Deguchi 6, Xavier Didelot 7, Makoto Ohnishi 2 1
-https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000205#tab2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159555/
-Plasmid-encoded resistance
+3. CRISPR生物学を巡る１０の謎
+[出典] Comment "Open questions: CRISPR biology" Koonin EV. BMC Biology. 2018 Sep 24.
+投げかけられた謎は、CRISPR/Casシステム自体およびクラスとタイプの偏在とその由来、CRISPR-Cas活性と遺伝子水平伝播 (HGT)のバランス、CRISPR-Casと細胞死/休眠の関係、免疫応答以外の機能、病原性との関係、トランスポゾンやプラスミドにコードされているCRISPR-Casシステムの機能、CRISPR-Casの起源など10項目
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9
+What are the functions of CRISPR-Cas systems encoded by transposons and plasmids?
+Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a large family of Tn7-like transposons [9] and by various plasmids [2]. All transposon-encoded and some of the plasmid-encoded CRISPR-Cas are “minimal” variants that lack the enzymes involved in target cleavage and hence are predicted to be involved in non-defense roles. The nature of these functions remains to be elucidated, and might involve RNA-guided transposition [9].
 
 
 ----------
