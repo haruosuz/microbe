@@ -12,7 +12,7 @@ Last Update: 2021-05
 - [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
 - [plasmid](#plasmid) プラスミド
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
-- [phylogenetic_tree](#phylogenetic_tree) 系統樹
+- [phylogenetic](#phylogenetic) 系統
 - [ISS](#iss) International Space Station 国際宇宙ステーション
 - [urban_microbiome](#urban_microbiome) MetaSUB 都市マイクロバイオーム
 - [soil_microbiome](#soil_microbiome) 土壌微生物群集
@@ -70,9 +70,21 @@ Antimicrobial Resistance
 - https://ja.wikipedia.org/wiki/カルバペネム耐性腸内細菌
  (Carbapenem-resistant enterobacteriaceae, CRE)
 
+
+https://pubmed.ncbi.nlm.nih.gov/33655229/
+Lancet Microbe
+. 2021 Apr;2(4):e135-e136. doi: 10.1016/S2666-5247(21)00039-2. Epub 2021 Feb 24.
+COVID-19 drug practices risk antimicrobial resistance evolution
+Ebrahim Afshinnekoo 1 2, Chandrima Bhattacharya 1 2, Ana Burguete-García 3, Eduardo Castro-Nallar 4, Youping Deng 5, Christelle Desnues 6, Emmanuel Dias-Neto 7, Eran Elhaik 8, Gregorio Iraola 9, Soojin Jang 10, Paweł P Łabaj 11, Christopher E Mason 1 2 12, Niranjan Nagarajan 13, Michael Poulsen 14, Bharath Prithiviraj 15, Rania Siam 16 17, Tieliu Shi 18, Haruo Suzuki 19, Johannes Werner 20, Maria Mercedes Zambrano 21, Malay Bhattacharyya 22, MetaSUB Consortium
+https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00039-2/fulltext
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
+
 ----------
 ## infectious_disease
 感染症
+
+https://soniashah.com/pandemic-the-book/
+Pandemic – Sonia Shah
 
 https://pubmed.ncbi.nlm.nih.gov/29773743/
 Review Science
@@ -82,7 +94,20 @@ Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E H
 https://science.sciencemag.org/content/360/6390/733.long
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
 
+https://pubmed.ncbi.nlm.nih.gov/33879019/
+Emerg Microbes Infect
+. 2021 Dec;10(1):865-873. doi: 10.1080/22221751.2021.1920342.
+Emergence of oxacillinase-181 carbapenemase-producing diarrheagenic Escherichia coli in Ghana
+Isaac Prah 1 2, Alafate Ayibieke 1, Samiratu Mahazu 1 3, Chihiro Tani Sassa 4, Takaya Hayashi 2, Shoji Yamaoka 2, Toshihiko Suzuki 5, Shiroh Iwanaga 3, Anthony Ablordey 6, Ryoichi Saito 1
+https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1920342
 
+https://pubmed.ncbi.nlm.nih.gov/33102171/
+Afr J Lab Med
+. 2020 Sep 23;9(1):1302. doi: 10.4102/ajlm.v9i1.1302. eCollection 2020.
+COVID-19 pandemic and antimicrobial resistance: Another call to strengthen laboratory diagnostic capacity in Africa
+Beverly Egyir 1, Noah Obeng-Nkrumah 2, George B Kyei 3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567179/
+Our review of more than 20 articles on AMR from Ghana for this write-up revealed that resistance of bacteria species (recovered from human, food and animals) to commonly used antimicrobial agents such as ampicillin, tetracycline, chloramphenicol and trimethoprim sulfamethoxazole was common. 
 
 https://pubmed.ncbi.nlm.nih.gov/32514171/
 Nat Med
@@ -130,7 +155,6 @@ https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000205#
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159555/
 Plasmid-encoded resistance
 
-
 ----------
 ## ofsf
 
@@ -146,6 +170,42 @@ Ohsumi Frontier Science Foundation
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+
+
+### 2021
+
+https://pubmed.ncbi.nlm.nih.gov/33721023/
+Nucleic Acids Res
+. 2021 Apr 19;49(7):3981-3996. doi: 10.1093/nar/gkab149.
+A ProQ/FinO family protein involved in plasmid copy number control favours fitness of bacteria carrying mcr-1-bearing IncI2 plasmids
+Jun Yang 1 2, Hai-Hong Wang 2 3, Yaoyao Lu 1 2, Ling-Xian Yi 1 2, Yinyue Deng 4, Luchao Lv 1 2, Vincent Burrus 5, Jian-Hua Liu 1 2
+https://academic.oup.com/nar/article/49/7/3981/6171297
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8053102/
+A putative ProQ/FinO family protein encoded by the IncI2 plasmid, designated as PcnR (plasmid copy number repressor), balances the mcr-1 expression and bacteria fitness by repressing the plasmid copy number.
+
+Previous studies showed that plasmid-encoded specific regulators, such as H-NS or PsiB, alleviate the plasmid cost by controlling the expression of certain genes carried by the plasmid or host bacteria (12,30). 
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/33660784/
+Nucleic Acids Res
+. 2021 Apr 6;49(6):3394-3408. doi: 10.1093/nar/gkab113.
+Defining a novel domain that provides an essential contribution to site-specific interaction of Rep protein with DNA
+Katarzyna Wegrzyn 1, Elzbieta Zabrocka 1, Katarzyna Bury 1, Bartlomiej Tomiczek 1, Milosz Wieczor 2, Jacek Czub 2, Urszula Uciechowska 1, María Moreno-Del Alamo 3, Urszula Walkow 1, Igor Grochowina 1, Rafal Dutkiewicz 1, Janusz M Bujnicki 4 5, Rafael Giraldo 3, Igor Konieczny 1
+https://academic.oup.com/nar/article/49/6/3394/6154473
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034659/
+The phylogenetic analysis revealed that the composition of this unique domain is typical within the described TrfA-like protein family. 
+
+INTRODUCTION
+The binding of proteins to nucleic acids is often accomplished via specific motifs. Many of these motifs (e.g. helix-turn-helix (HTH), zinc finger, leucine zipper) are present within protein domains that are directly engaged in interaction with nucleic acids (1). In proteins that initiate DNA replication, usually the HTH motif and its variant, the winged HTH (WH) motif, are present within the domain responsible for DNA binding.
+
+Phylogenetic analysis and determination of sequence divergence
+
+RESULTS
+
+Interestingly, in some Rep proteins, we identified a short hydrophobic region located before the WH1 domain. This region shares a degree of similarity with a sequence within the N-terminal TrfA region (Figure ​(Figure1).1). We thus asked how the TrfA-like proteins are related to other replication initiators. To answer this question, we performed phylogenetic analysis of the representative DNA replication initiators using the maximum likelihood method (ML) (Supplementary Figure S1). Our ML analysis of the WH domains revealed a close monophyletic relationship among all TrfA-like proteins containing extended N-termini. Moreover, the phylogenetic analysis indicated that the TrfA-like proteins are most closely related to RepC, an IncQ-type replication protein C (51,52), and belong to a common protein family together with other plasmid replication initiation factors (Supplementary Figures S1, S2). 
+
+### 2020
 
 ### WASPS
 https://archaea.i2bc.paris-saclay.fr/wasps/
@@ -236,6 +296,9 @@ Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
 
+
+
+
 ----------
 ## SSBP
 Single-strand DNA-binding protein
@@ -312,8 +375,44 @@ FIG. 1.
 Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
 
 ----------
-## phylogenetic_tree
-系統樹
+## phylogenetic
+系統
+
+https://pubmed.ncbi.nlm.nih.gov/33510015/
+Science
+. 2021 Jan 29;371(6528):466-467. doi: 10.1126/science.abf3995.
+Insights from SARS-CoV-2 sequences
+Michael A Martin 1 2, David VanInsberghe 1, Katia Koelle 3 4
+https://science.sciencemag.org/content/371/6528/466.long
+
+Uses for viral sequence data
+Viral phylogenies, rooted at the most recent common ancestor (TMRCA), are inferred on the basis of genetic differences. These phylogenies can be used to estimate viral emergence, characterize the geographic spread of the virus, reconstruct epidemiological dynamics of viral spread within a region, and identify instances of adaptation.
+
+![](https://science.sciencemag.org/content/sci/371/6528/466/F1.medium.gif)
+
+https://pubmed.ncbi.nlm.nih.gov/32424311/
+Review Nat Rev Genet
+. 2020 Jul;21(7):428-444. doi: 10.1038/s41576-020-0233-0. Epub 2020 May 18.
+Phylogenetic tree building in the genomic age
+Paschalia Kapli 1, Ziheng Yang 1, Maximilian J Telford 2
+https://www.nature.com/articles/s41576-020-0233-0
+
+https://pubmed.ncbi.nlm.nih.gov/32427978/
+Nat Microbiol
+. 2020 Jul;5(7):876-877. doi: 10.1038/s41564-020-0738-5.
+Phylogenetic interpretation during outbreaks requires caution
+Ch Julián Villabona-Arenas 1 2, William P Hanage 3, Damien C Tully 4 5
+https://www.nature.com/articles/s41564-020-0738-5
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+
+https://pubmed.ncbi.nlm.nih.gov/29795540/
+Review Nat Microbiol
+. 2018 Jun;3(6):652-661. doi: 10.1038/s41564-018-0156-0. Epub 2018 May 24.
+Methods for phylogenetic analysis of microbiome data
+Alex D Washburne # 1, James T Morton # 2 3, Jon Sanders 3, Daniel McDonald 3, Qiyun Zhu 3, Angela M Oliverio 4 5, Rob Knight 2 3
+https://www.nature.com/articles/s41564-018-0156-0
+In this Review Article, we organize the field of phylogenetically structured data analysis by discussing the major classes of methods. We first emphasize a fundamental issue in the field: the imperfection of estimated phylogenies. We then define four classes: (1) comparative methods; (2) ancestral state reconstruction and descendant trait imputation; (3) phylogenetic variables; and (4) phylogeny-aware distances (Table 1); and provide Supplementary Online Tutorials with examples (https://knightlab-analyses.github.io/phylogenetic-tutorials/). 
+
 
 https://pubmed.ncbi.nlm.nih.gov/22977114/
 Mol Biol Evol
@@ -515,6 +614,25 @@ Charlie Lin 1, Joshua Culver 1, Bronson Weston 1, Evan Underhill 1, Jonathan Gor
 - https://ja.wikipedia.org/wiki/CRISPR
 - https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
 CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
+
+
+https://pubmed.ncbi.nlm.nih.gov/33159058/
+Nat Commun
+. 2020 Nov 6;11(1):5652. doi: 10.1038/s41467-020-19415-3.
+Discovery of multiple anti-CRISPRs highlights anti-defense gene clustering in mobile genetic elements
+Rafael Pinilla-Redondo 1 2 3, Saadlee Shehreen 4, Nicole D Marino 2, Robert D Fagerlund 5 6, Chris M Brown 4 6, Søren J Sørensen 1, Peter C Fineran 7 8 9, Joseph Bondy-Denomy 10 11 12
+https://www.nature.com/articles/s41467-020-19415-3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648647/
+
+helix-turn-helix (HTH)
+
+Methods
+Bioinformatic searches and phylogenetic analyses of Aca and Acr proteins
+
+Software and statistical analysis
+Numerical data were analyzed and plotted with GraphPad Prism 6.0 Software. HHPred searches were carried out for the prediction of protein domains (e.g., HTH). 
+
+
 
 https://www.amed.go.jp/news/release_20200610-02.html
 狙った細菌を選択的に殺菌できる遺伝子標的型抗菌薬を創出―薬剤耐性菌問題の解決へ― | 国立研究開発法人日本医療研究開発機構
