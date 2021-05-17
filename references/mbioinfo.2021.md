@@ -86,14 +86,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
 https://soniashah.com/pandemic-the-book/
 Pandemic – Sonia Shah
 
-https://pubmed.ncbi.nlm.nih.gov/29773743/
-Review Science
-. 2018 May 18;360(6390):733-738. doi: 10.1126/science.aar3777.
-Genomic insights into the emergence and spread of antimicrobial-resistant bacterial pathogens
-Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
-https://science.sciencemag.org/content/360/6390/733.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
-
 https://pubmed.ncbi.nlm.nih.gov/33879019/
 Emerg Microbes Infect
 . 2021 Dec;10(1):865-873. doi: 10.1080/22221751.2021.1920342.
@@ -117,6 +109,14 @@ Kern Rei Chng # 1, Chenhao Li # 1, Denis Bertrand # 1, Amanda Hui Qi Ng 1, Junme
 https://www.nature.com/articles/s41591-020-0894-4
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303012/
 Although disinfection is key to infection control, the colonization patterns and resistomes of hospital-environment microbes remain underexplored. We report the first extensive genomic characterization of microbiomes, pathogens and antibiotic resistance cassettes in a tertiary-care hospital, from repeated sampling (up to 1.5 years apart) of 179 sites associated with 45 beds. 
+
+https://pubmed.ncbi.nlm.nih.gov/29773743/
+Review Science
+. 2018 May 18;360(6390):733-738. doi: 10.1126/science.aar3777.
+Genomic insights into the emergence and spread of antimicrobial-resistant bacterial pathogens
+Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
+https://science.sciencemag.org/content/360/6390/733.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
 
 ----------
 ## niid
