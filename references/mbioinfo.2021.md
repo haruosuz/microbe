@@ -62,6 +62,7 @@ https://github.com/haruosuz/mgsa/blob/master/references/mgsa.nucleotide_composit
 Antimicrobial Resistance
 薬剤耐性
 
+- https://twitter.com/AntibioticResis
 - https://wwwnc.cdc.gov/eid/spotlight/antimicrobial-resistance
 - https://en.wikipedia.org/wiki/Colistin
 - https://ja.wikipedia.org/wiki/コリスチン
@@ -70,6 +71,11 @@ Antimicrobial Resistance
 - https://ja.wikipedia.org/wiki/カルバペネム耐性腸内細菌
  (Carbapenem-resistant enterobacteriaceae, CRE)
 
+9:37 AM · May 18, 2021
+https://twitter.com/hornistyf/status/1394452147090059267
+Y. Furuta on Twitter: "学生の論文が出ました。 ザンビアで分離された薬剤耐性腸内細菌科細菌のゲノム解析を行い、複数の株で薬剤耐性遺伝子を含む領域(最長41 kb)がプラスミドから染色体に移っていることを確認しました。 
+https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-00941-8
+Novel chromosomal insertions of ISEcp1-blaCTX-M-15 and diverse antimicrobial resistance genes in Zambian clinical isolates of Enterobacter cloacae and Escherichia coli
 
 https://pubmed.ncbi.nlm.nih.gov/33655229/
 Lancet Microbe
@@ -78,6 +84,13 @@ COVID-19 drug practices risk antimicrobial resistance evolution
 Ebrahim Afshinnekoo 1 2, Chandrima Bhattacharya 1 2, Ana Burguete-García 3, Eduardo Castro-Nallar 4, Youping Deng 5, Christelle Desnues 6, Emmanuel Dias-Neto 7, Eran Elhaik 8, Gregorio Iraola 9, Soojin Jang 10, Paweł P Łabaj 11, Christopher E Mason 1 2 12, Niranjan Nagarajan 13, Michael Poulsen 14, Bharath Prithiviraj 15, Rania Siam 16 17, Tieliu Shi 18, Haruo Suzuki 19, Johannes Werner 20, Maria Mercedes Zambrano 21, Malay Bhattacharyya 22, MetaSUB Consortium
 https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00039-2/fulltext
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
+
+
+- https://twitter.com/DrKatHolt
+Kat Holt (@DrKatHolt) / Twitter
+Puzzle solver, bacterial genome wrangler, antibiotic resistance fighter. Prof at Monash Uni & London School of Hygiene and Tropical Medicine. BSc, MEpi, PhD.
+
+
 
 ----------
 ## infectious_disease
@@ -310,6 +323,35 @@ Eukaryotic mitochondrial SSB
 The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
 - https://en.wikipedia.org/wiki/SSBP1
 
+
+12:01 AM · Mar 27, 2021
+https://twitter.com/mredrejo/status/1375462808389881866
+New preprint from the 
+@RnR_Lab
+ !!  In this work, we identify and characterize the single-stranded DNA binding protein (SSB) of one of our favorite viruses, the tectivirus Bam35. A great work of 
+@Analema93
+ and a great collaboration with 
+@DariusBio
+ (1/4)
+The Bam35 SSB is encoded by viral gene 2 and it turned out to be a highly specific SSB, unable to bind other nucleic acid substrates. Moreover, ssDNA binding is highly cooperative and results in (unspecific) stimulation of DNA replication. (2/4)
+Although diverse at the amino acid level, typical SSBs share a conserved structural domain, named OB-fold, present in all DNA binding proteins from all domains as well as DNA viruses. However, protein-primed viruses seemed an exception, as we didn't know any OB-fold SSB. (3/4)
+Based on sensitive database searches we found that B35SSB belongs to a novel and independent group of SSBs, along with other protein-primed viral genomes like (surprise!) Φ29 and close podoviruses. (4/4)
+BONUS TRACK: Structural predictions indicate that B35SSB contains a conserved domain resembling a divergent OB-fold, which would constitute the first occurrence of an OB-fold-like domain in a protein-primed genome.
+
+https://www.biorxiv.org/content/10.1101/2021.03.25.437074v1.full
+Unlimited cooperativity of Betatectivirus SSB, a novel DNA binding protein related to an atypical group of SSBs from protein-primed replicating bacterial viruses | bioRxiv
+
+Based on databases searches as well as phylogenetic and structural analyses, we showed that B35SSB belongs to a novel and independent group of SSBs. 
+
+As expected from such a diverse dataset of short sequences, phylogeny reconstruction not always yielded confident clades (Figure 6). 
+
+Figure 6.
+B35SSB and Φ29 related viruses belong to the same clade of SSBs from protein-primed genomes.
+Maximum-likelihood tree (left) generated using the trimmed multiple sequence alignment of B35SSB-related proteins (right) and visualized with the ggtree package for R software [50]. 
+Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
+
+
+
 2016
 https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
 Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
@@ -373,6 +415,17 @@ Phylogenetic analysis of ssb-P1.
 ![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
 FIG. 1.
 Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/2013585/
+Comparative Study J Bacteriol
+. 1991 Apr;173(8):2720-3. doi: 10.1128/jb.173.8.2720-2723.1991.
+The single-stranded-DNA-binding protein encoded by the Escherichia coli F factor can complement a deletion of the chromosomal ssb gene
+R D Porter 1, S Black
+https://jb.asm.org/content/173/8/2720.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
+
 
 ----------
 ## phylogenetic
@@ -494,6 +547,13 @@ Unique taxonomic composition and association with covariates specific to the urb
 ----------
 ## soil_microbiome
 土壌微生物群集
+
+https://pubmed.ncbi.nlm.nih.gov/33997612/
+Access Microbiol
+. 2020 Nov 23;3(1):acmi000181. doi: 10.1099/acmi.0.000181. eCollection 2021.
+Antibiotic resistance levels in soils from urban and rural land uses in Great Britain
+Kieran Osbiston 1, Anne Oxbrough 1, Lorena Teresa Fernández-Martínez 1
+
 
 1:36 PM · Mar 13, 2021
 https://twitter.com/kztakemoto/status/1370594507457105921
