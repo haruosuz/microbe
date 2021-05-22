@@ -99,21 +99,6 @@ Puzzle solver, bacterial genome wrangler, antibiotic resistance fighter. Prof at
 https://soniashah.com/pandemic-the-book/
 Pandemic – Sonia Shah
 
-https://pubmed.ncbi.nlm.nih.gov/33879019/
-Emerg Microbes Infect
-. 2021 Dec;10(1):865-873. doi: 10.1080/22221751.2021.1920342.
-Emergence of oxacillinase-181 carbapenemase-producing diarrheagenic Escherichia coli in Ghana
-Isaac Prah 1 2, Alafate Ayibieke 1, Samiratu Mahazu 1 3, Chihiro Tani Sassa 4, Takaya Hayashi 2, Shoji Yamaoka 2, Toshihiko Suzuki 5, Shiroh Iwanaga 3, Anthony Ablordey 6, Ryoichi Saito 1
-https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1920342
-
-https://pubmed.ncbi.nlm.nih.gov/33102171/
-Afr J Lab Med
-. 2020 Sep 23;9(1):1302. doi: 10.4102/ajlm.v9i1.1302. eCollection 2020.
-COVID-19 pandemic and antimicrobial resistance: Another call to strengthen laboratory diagnostic capacity in Africa
-Beverly Egyir 1, Noah Obeng-Nkrumah 2, George B Kyei 3
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567179/
-Our review of more than 20 articles on AMR from Ghana for this write-up revealed that resistance of bacteria species (recovered from human, food and animals) to commonly used antimicrobial agents such as ampicillin, tetracycline, chloramphenicol and trimethoprim sulfamethoxazole was common. 
-
 https://pubmed.ncbi.nlm.nih.gov/32514171/
 Nat Med
 . 2020 Jun;26(6):941-951. doi: 10.1038/s41591-020-0894-4. Epub 2020 Jun 8.
