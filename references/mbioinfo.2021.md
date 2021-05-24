@@ -14,7 +14,8 @@ Last Update: 2021-05
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [phylogenetic](#phylogenetic) 系統
 - [ISS](#iss) International Space Station 国際宇宙ステーション
-- [urban_microbiome](#urban_microbiome) MetaSUB 都市マイクロバイオーム
+- [microbiome](#microbiome) 微生物群集
+- [urban_microbiome](#urban_microbiome) 都市の微生物群集 MetaSUB
 - [soil_microbiome](#soil_microbiome) 土壌微生物群集
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
 - [CRISPR](#crispr)
@@ -84,6 +85,15 @@ COVID-19 drug practices risk antimicrobial resistance evolution
 Ebrahim Afshinnekoo 1 2, Chandrima Bhattacharya 1 2, Ana Burguete-García 3, Eduardo Castro-Nallar 4, Youping Deng 5, Christelle Desnues 6, Emmanuel Dias-Neto 7, Eran Elhaik 8, Gregorio Iraola 9, Soojin Jang 10, Paweł P Łabaj 11, Christopher E Mason 1 2 12, Niranjan Nagarajan 13, Michael Poulsen 14, Bharath Prithiviraj 15, Rania Siam 16 17, Tieliu Shi 18, Haruo Suzuki 19, Johannes Werner 20, Maria Mercedes Zambrano 21, Malay Bhattacharyya 22, MetaSUB Consortium
 https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00039-2/fulltext
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
+
+
+https://pubmed.ncbi.nlm.nih.gov/28233789/
+Sci Rep
+. 2017 Feb 24;7:43232. doi: 10.1038/srep43232.
+In silico serine β-lactamases analysis reveals a huge potential resistome in environmental and pathogenic species
+Christian Brandt 1 2, Sascha D Braun 2 3, Claudi
+https://www.nature.com/articles/srep43232
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5324141/
 
 
 - https://twitter.com/DrKatHolt
@@ -481,6 +491,34 @@ https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
 
 https://presen.sfc.keio.ac.jp/2021/03/post-56.html
 国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
+
+----------
+## microbiome
+微生物群集
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.rRNA.md
+
+1:15 AM · May 23, 2021
+https://twitter.com/phylogenomics/status/1396137556345974788
+Jonathan Eisen on Twitter: "This is really a phenomenally useful paper that I think everyone interested in #microbiome studies should read: "Identifying biases and their potential solutions in human microbiome studies" by @JTNearing et al. https://t.co/dhWrS1sj1E https://t.co/Icn6HWhkrN" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/34006335/
+Review Microbiome
+. 2021 May 18;9(1):113. doi: 10.1186/s40168-021-01059-0.
+Identifying biases and their potential solutions in human microbiome studies
+Jacob T Nearing 1, André M Comeau 2, Morgan G I Langille 3 4
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01059-0
+batch effect
+バッチ効果
+
+
+2020.03.19
+https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
+トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
+導入した植物の葉面や土壌などメタゲノム解析
+
 
 ----------
 ## urban_microbiome
