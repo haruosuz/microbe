@@ -11,12 +11,12 @@ Last Update: 2021-05
 - [phylogenetic](#phylogenetic) 系統
 - [AMR](#amr) 薬剤耐性
 - [plasmid](#plasmid) プラスミド
+- [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
+- [CRISPR](#crispr)
 - [microbiome](#microbiome) 微生物群集
 - [urban_microbiome](#urban_microbiome) 都市の微生物群集 MetaSUB
 - [soil_microbiome](#soil_microbiome) 土壌微生物群集
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
-- [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
-- [CRISPR](#crispr)
 - [](#)
 
 ----------
@@ -350,6 +350,176 @@ Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
 
+
+
+
+
+----------
+## SSBP
+Single-strand DNA-binding protein
+
+- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
+細菌SSBタンパク質
+- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
+Eukaryotic mitochondrial SSB
+The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
+- https://en.wikipedia.org/wiki/SSBP1
+
+
+12:01 AM · Mar 27, 2021
+https://twitter.com/mredrejo/status/1375462808389881866
+New preprint from the 
+@RnR_Lab
+ !!  In this work, we identify and characterize the single-stranded DNA binding protein (SSB) of one of our favorite viruses, the tectivirus Bam35. A great work of 
+@Analema93
+ and a great collaboration with 
+@DariusBio
+ (1/4)
+The Bam35 SSB is encoded by viral gene 2 and it turned out to be a highly specific SSB, unable to bind other nucleic acid substrates. Moreover, ssDNA binding is highly cooperative and results in (unspecific) stimulation of DNA replication. (2/4)
+Although diverse at the amino acid level, typical SSBs share a conserved structural domain, named OB-fold, present in all DNA binding proteins from all domains as well as DNA viruses. However, protein-primed viruses seemed an exception, as we didn't know any OB-fold SSB. (3/4)
+Based on sensitive database searches we found that B35SSB belongs to a novel and independent group of SSBs, along with other protein-primed viral genomes like (surprise!) Φ29 and close podoviruses. (4/4)
+BONUS TRACK: Structural predictions indicate that B35SSB contains a conserved domain resembling a divergent OB-fold, which would constitute the first occurrence of an OB-fold-like domain in a protein-primed genome.
+
+https://www.biorxiv.org/content/10.1101/2021.03.25.437074v1.full
+Unlimited cooperativity of Betatectivirus SSB, a novel DNA binding protein related to an atypical group of SSBs from protein-primed replicating bacterial viruses | bioRxiv
+
+Based on databases searches as well as phylogenetic and structural analyses, we showed that B35SSB belongs to a novel and independent group of SSBs. 
+
+As expected from such a diverse dataset of short sequences, phylogeny reconstruction not always yielded confident clades (Figure 6). 
+
+Figure 6.
+B35SSB and Φ29 related viruses belong to the same clade of SSBs from protein-primed genomes.
+Maximum-likelihood tree (left) generated using the trimmed multiple sequence alignment of B35SSB-related proteins (right) and visualized with the ggtree package for R software [50]. 
+Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
+
+
+
+2016
+https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
+Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
+
+Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/22536367/
+PLoS One
+. 2012;7(4):e35285. doi: 10.1371/journal.pone.0035285. Epub 2012 Apr 19.
+Characterization of the single stranded DNA binding protein SsbB encoded in the Gonoccocal Genetic Island
+Samta Jain 1, Maria Zweig, Eveline Peeters, Katja Siewering, Kathleen T Hackett, Joseph P Dillard, Chris van der Does
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035285
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334931/
+Single stranded DNA binding proteins (SSBs) are highly conserved, essential proteins found in all kingdoms of life. These proteins bind to single-stranded DNA (ssDNA) with high affinity and low sequence specificity. They play a crucial role in processes involved in DNA metabolism like DNA repair, replication and recombination by modulating the functions of many DNA processing enzymes either by controlling the accessibility to ssDNA or via protein–protein interactions [1]. Several bacteria contain, next to the main SSB, a second SSB. 
+The second SSB can either be found on the chromosome or is located on a plasmid. The presence of a second chromosomal paralog is often related to natural competence [2], [3], [4]. Furthermore, nearly all conjugative plasmids also encode an SSB homologue. The exact function of these SSBs is still unclear; they seem not to be necessary for conjugal transfer of the plasmids, but might be involved in plasmid stability [5]. Remarkably, the SSB homologue VirE2 encoded on the Agrobacterium tumefaciens Ti plasmid is essential for infection of the host plant cells [6], [7]. VirE2 is transported via the Type IV secretion system (T4SS) on the Ti plasmid independent of the ssDNA [8]. In the recipient cell, it probably functions as a molecular motor facilitating the import of the Ti ssDNA [9], [10].
+
+Figure 1
+Unrooted phylogenetic tree of the ssDNA-binding proteins.
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/22073223/
+PLoS One
+. 2011;6(11):e26942. doi: 10.1371/journal.pone.0026942. Epub 2011 Nov 4.
+Phylogenetic and complementation analysis of a single-stranded DNA binding protein family from lactococcal phages indicates a non-bacterial origin
+Agnieszka K Szczepankowska 1, Eric Prestel, Mahendra Mariadassou, Jacek K Bardowski, Elena Bidnenko
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026942
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208561/
+For some phages, specific SSBs are involved in DNA replication and, in some cases are essential for phage development [20], [25]–[26]. Phylogenetic analysis of a number of bacterial and phage SSB proteins indicates that there have been frequent horizontal transfers from bacterial hosts to the genomes of their phages [27]. The bacterial origin of the phage ssb genes is easily recognized despite the high evolution rate of phages [24], [27]. Moreover, some phage SSBs are interchangeable with their bacterial analogs in vivo and in vitro [23], [28].
+
+
+https://pubmed.ncbi.nlm.nih.gov/20012581/
+Review Subcell Biochem
+. 2010;50:143-63. doi: 10.1007/978-90-481-3471-7_8.
+Eukaryotic single-stranded DNA binding proteins: central factors in genome stability
+Sandra Broderick 1, Kristina Rehmet, Claire Concannon, Heinz-Peter Nasheuer
+https://link.springer.com/chapter/10.1007%2F978-90-481-3471-7_8
+Mitochondrial SSBs (mtSSBs) have been found in all eukaryotes studied. mtSSBs are related to prokaryotic SSBs and essential to main the genome stability in eukaryotic mitochondria.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/12208948/
+J Virol
+. 2002 Oct;76(19):9695-701. doi: 10.1128/jvi.76.19.9695-9701.2002.
+Phylogenetic and functional analysis of the bacteriophage P1 single-stranded DNA-binding protein
+Jannick Dyrløv Bendtsen 1, Anders S Nilsson, Hansjörg Lehnherr
+https://jvi.asm.org/content/76/19/9695.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC136491/
+ABSTRACT
+Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which shows 66% amino acid sequence identity to the SSB protein of the host bacterium Escherichia coli. 
+系統解析
+A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
+
+RESULTS
+Phylogenetic analysis of ssb-P1.
+
+![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
+FIG. 1.
+Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/2013585/
+Comparative Study J Bacteriol
+. 1991 Apr;173(8):2720-3. doi: 10.1128/jb.173.8.2720-2723.1991.
+The single-stranded-DNA-binding protein encoded by the Escherichia coli F factor can complement a deletion of the chromosomal ssb gene
+R D Porter 1, S Black
+https://jb.asm.org/content/173/8/2720.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
+
+----------
+## CRISPR
+clustered regularly interspaced short palindromic repeat; クリスパー
+
+- https://en.wikipedia.org/wiki/CRISPR
+- https://ja.wikipedia.org/wiki/CRISPR
+- https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
+CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
+
+
+https://pubmed.ncbi.nlm.nih.gov/33159058/
+Nat Commun
+. 2020 Nov 6;11(1):5652. doi: 10.1038/s41467-020-19415-3.
+Discovery of multiple anti-CRISPRs highlights anti-defense gene clustering in mobile genetic elements
+Rafael Pinilla-Redondo 1 2 3, Saadlee Shehreen 4, Nicole D Marino 2, Robert D Fagerlund 5 6, Chris M Brown 4 6, Søren J Sørensen 1, Peter C Fineran 7 8 9, Joseph Bondy-Denomy 10 11 12
+https://www.nature.com/articles/s41467-020-19415-3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648647/
+
+helix-turn-helix (HTH)
+
+Methods
+Bioinformatic searches and phylogenetic analyses of Aca and Acr proteins
+
+Software and statistical analysis
+Numerical data were analyzed and plotted with GraphPad Prism 6.0 Software. HHPred searches were carried out for the prediction of protein domains (e.g., HTH). 
+
+
+
+https://www.amed.go.jp/news/release_20200610-02.html
+狙った細菌を選択的に殺菌できる遺伝子標的型抗菌薬を創出―薬剤耐性菌問題の解決へ― | 国立研究開発法人日本医療研究開発機構
+https://www.nature.com/articles/s41467-020-16731-6
+Development of CRISPR-Cas13a-based antimicrobials capable of sequence-specific killing of target bacteria | Nature Communications
+
+https://crisp-bio.blog.jp/archives/18437923.html
+CRISPRメモ_2019/06/21 (3件) : crisp_bio
+
+1. CRISPR/Cas9システムにより、コリスチン耐性大腸菌臨床分離株からmcr-1遺伝子を帯びたプラスミドを除去
+[出典] "Eliminating mcr-1-harbouring plasmids in clinical isolates using the CRISPR/Cas9 system" Wang P [..] Wang X. J Antimicrob Chemother 2019-06-15. 
+
+https://crisp-bio.blog.jp/archives/12546975.html
+CRISPRメモ_2018/09/30 (10件) : crisp_bio
+
+2. CRISPR/Cas9システムを帯びた接合性プラスミドでコリスチン耐性遺伝子を除去し多剤耐性菌に打ち克つ
+[出典] "Exploiting a conjugative CRISPR/Cas9 system to eliminate plasmid harboring mcr-1 gene from Escherichia coli" Dong H, Xiang H, Mu D, Wang D, Wang T. Int J Antimicrob Agents. 2018 Sep 26.
+
+3. CRISPR生物学を巡る１０の謎
+[出典] Comment "Open questions: CRISPR biology" Koonin EV. BMC Biology. 2018 Sep 24.
+投げかけられた謎は、CRISPR/Casシステム自体およびクラスとタイプの偏在とその由来、CRISPR-Cas活性と遺伝子水平伝播 (HGT)のバランス、CRISPR-Casと細胞死/休眠の関係、免疫応答以外の機能、病原性との関係、トランスポゾンやプラスミドにコードされているCRISPR-Casシステムの機能、CRISPR-Casの起源など10項目
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9
+What are the functions of CRISPR-Cas systems encoded by transposons and plasmids?
+Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a large family of Tn7-like transposons [9] and by various plasmids [2]. All transposon-encoded and some of the plasmid-encoded CRISPR-Cas are “minimal” variants that lack the enzymes involved in target cleavage and hence are predicted to be involved in non-defense roles. The nature of these functions remains to be elucidated, and might involve RNA-guided transposition [9].
+
 ----------
 ## microbiome
 微生物群集
@@ -503,6 +673,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369203/
 - (Fig 1A). Surprisingly, the samples from farm soil and ocean surface water—both of which contain DNA from more than 1,000 diverse, non-abundant species (Venter et al, 2004; Tringe et al, 2005)—are very different, with the surface water sample having a GC-content median of around 34% and the soil sample around 61%.
 - We found that the third codon position is even more extreme with respect to GC distribution than the average of all three positions (Fig 2, the median in farm soil is 74%, versus 24% in the ocean surface water).
 
+
 ----------
 ## microbiome_modeling_simulation
 マイクロバイオーム モデリング シミュレーション
@@ -543,173 +714,12 @@ PLoS One
 GutLogo: Agent-based modeling framework to investigate spatial and temporal dynamics in the gut microbiome
 Charlie Lin 1, Joshua Culver 1, Bronson Weston 1, Evan Underhill 1, Jonathan Gorky 1, Prasad Dhurjati 1
 
-----------
-## SSBP
-Single-strand DNA-binding protein
-
-- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
-細菌SSBタンパク質
-- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
-Eukaryotic mitochondrial SSB
-The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
-- https://en.wikipedia.org/wiki/SSBP1
-
-
-12:01 AM · Mar 27, 2021
-https://twitter.com/mredrejo/status/1375462808389881866
-New preprint from the 
-@RnR_Lab
- !!  In this work, we identify and characterize the single-stranded DNA binding protein (SSB) of one of our favorite viruses, the tectivirus Bam35. A great work of 
-@Analema93
- and a great collaboration with 
-@DariusBio
- (1/4)
-The Bam35 SSB is encoded by viral gene 2 and it turned out to be a highly specific SSB, unable to bind other nucleic acid substrates. Moreover, ssDNA binding is highly cooperative and results in (unspecific) stimulation of DNA replication. (2/4)
-Although diverse at the amino acid level, typical SSBs share a conserved structural domain, named OB-fold, present in all DNA binding proteins from all domains as well as DNA viruses. However, protein-primed viruses seemed an exception, as we didn't know any OB-fold SSB. (3/4)
-Based on sensitive database searches we found that B35SSB belongs to a novel and independent group of SSBs, along with other protein-primed viral genomes like (surprise!) Φ29 and close podoviruses. (4/4)
-BONUS TRACK: Structural predictions indicate that B35SSB contains a conserved domain resembling a divergent OB-fold, which would constitute the first occurrence of an OB-fold-like domain in a protein-primed genome.
-
-https://www.biorxiv.org/content/10.1101/2021.03.25.437074v1.full
-Unlimited cooperativity of Betatectivirus SSB, a novel DNA binding protein related to an atypical group of SSBs from protein-primed replicating bacterial viruses | bioRxiv
-
-Based on databases searches as well as phylogenetic and structural analyses, we showed that B35SSB belongs to a novel and independent group of SSBs. 
-
-As expected from such a diverse dataset of short sequences, phylogeny reconstruction not always yielded confident clades (Figure 6). 
-
-Figure 6.
-B35SSB and Φ29 related viruses belong to the same clade of SSBs from protein-primed genomes.
-Maximum-likelihood tree (left) generated using the trimmed multiple sequence alignment of B35SSB-related proteins (right) and visualized with the ggtree package for R software [50]. 
-Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
-
-
-
-2016
-https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
-Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
-
-Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
-
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/22536367/
-PLoS One
-. 2012;7(4):e35285. doi: 10.1371/journal.pone.0035285. Epub 2012 Apr 19.
-Characterization of the single stranded DNA binding protein SsbB encoded in the Gonoccocal Genetic Island
-Samta Jain 1, Maria Zweig, Eveline Peeters, Katja Siewering, Kathleen T Hackett, Joseph P Dillard, Chris van der Does
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035285
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334931/
-Single stranded DNA binding proteins (SSBs) are highly conserved, essential proteins found in all kingdoms of life. These proteins bind to single-stranded DNA (ssDNA) with high affinity and low sequence specificity. They play a crucial role in processes involved in DNA metabolism like DNA repair, replication and recombination by modulating the functions of many DNA processing enzymes either by controlling the accessibility to ssDNA or via protein–protein interactions [1]. Several bacteria contain, next to the main SSB, a second SSB. 
-The second SSB can either be found on the chromosome or is located on a plasmid. The presence of a second chromosomal paralog is often related to natural competence [2], [3], [4]. Furthermore, nearly all conjugative plasmids also encode an SSB homologue. The exact function of these SSBs is still unclear; they seem not to be necessary for conjugal transfer of the plasmids, but might be involved in plasmid stability [5]. Remarkably, the SSB homologue VirE2 encoded on the Agrobacterium tumefaciens Ti plasmid is essential for infection of the host plant cells [6], [7]. VirE2 is transported via the Type IV secretion system (T4SS) on the Ti plasmid independent of the ssDNA [8]. In the recipient cell, it probably functions as a molecular motor facilitating the import of the Ti ssDNA [9], [10].
-
-Figure 1
-Unrooted phylogenetic tree of the ssDNA-binding proteins.
-
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/22073223/
-PLoS One
-. 2011;6(11):e26942. doi: 10.1371/journal.pone.0026942. Epub 2011 Nov 4.
-Phylogenetic and complementation analysis of a single-stranded DNA binding protein family from lactococcal phages indicates a non-bacterial origin
-Agnieszka K Szczepankowska 1, Eric Prestel, Mahendra Mariadassou, Jacek K Bardowski, Elena Bidnenko
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026942
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208561/
-For some phages, specific SSBs are involved in DNA replication and, in some cases are essential for phage development [20], [25]–[26]. Phylogenetic analysis of a number of bacterial and phage SSB proteins indicates that there have been frequent horizontal transfers from bacterial hosts to the genomes of their phages [27]. The bacterial origin of the phage ssb genes is easily recognized despite the high evolution rate of phages [24], [27]. Moreover, some phage SSBs are interchangeable with their bacterial analogs in vivo and in vitro [23], [28].
-
-
-https://pubmed.ncbi.nlm.nih.gov/20012581/
-Review Subcell Biochem
-. 2010;50:143-63. doi: 10.1007/978-90-481-3471-7_8.
-Eukaryotic single-stranded DNA binding proteins: central factors in genome stability
-Sandra Broderick 1, Kristina Rehmet, Claire Concannon, Heinz-Peter Nasheuer
-https://link.springer.com/chapter/10.1007%2F978-90-481-3471-7_8
-Mitochondrial SSBs (mtSSBs) have been found in all eukaryotes studied. mtSSBs are related to prokaryotic SSBs and essential to main the genome stability in eukaryotic mitochondria.
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/12208948/
-J Virol
-. 2002 Oct;76(19):9695-701. doi: 10.1128/jvi.76.19.9695-9701.2002.
-Phylogenetic and functional analysis of the bacteriophage P1 single-stranded DNA-binding protein
-Jannick Dyrløv Bendtsen 1, Anders S Nilsson, Hansjörg Lehnherr
-https://jvi.asm.org/content/76/19/9695.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC136491/
-ABSTRACT
-Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which shows 66% amino acid sequence identity to the SSB protein of the host bacterium Escherichia coli. 
-系統解析
-A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
-
-RESULTS
-Phylogenetic analysis of ssb-P1.
-
-![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
-FIG. 1.
-Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/2013585/
-Comparative Study J Bacteriol
-. 1991 Apr;173(8):2720-3. doi: 10.1128/jb.173.8.2720-2723.1991.
-The single-stranded-DNA-binding protein encoded by the Escherichia coli F factor can complement a deletion of the chromosomal ssb gene
-R D Porter 1, S Black
-https://jb.asm.org/content/173/8/2720.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
-
-----------
-## CRISPR
-
-- https://en.wikipedia.org/wiki/CRISPR
-- https://ja.wikipedia.org/wiki/CRISPR
-- https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
-CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
-
-
-https://pubmed.ncbi.nlm.nih.gov/33159058/
-Nat Commun
-. 2020 Nov 6;11(1):5652. doi: 10.1038/s41467-020-19415-3.
-Discovery of multiple anti-CRISPRs highlights anti-defense gene clustering in mobile genetic elements
-Rafael Pinilla-Redondo 1 2 3, Saadlee Shehreen 4, Nicole D Marino 2, Robert D Fagerlund 5 6, Chris M Brown 4 6, Søren J Sørensen 1, Peter C Fineran 7 8 9, Joseph Bondy-Denomy 10 11 12
-https://www.nature.com/articles/s41467-020-19415-3
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648647/
-
-helix-turn-helix (HTH)
-
-Methods
-Bioinformatic searches and phylogenetic analyses of Aca and Acr proteins
-
-Software and statistical analysis
-Numerical data were analyzed and plotted with GraphPad Prism 6.0 Software. HHPred searches were carried out for the prediction of protein domains (e.g., HTH). 
-
-
-
-https://www.amed.go.jp/news/release_20200610-02.html
-狙った細菌を選択的に殺菌できる遺伝子標的型抗菌薬を創出―薬剤耐性菌問題の解決へ― | 国立研究開発法人日本医療研究開発機構
-https://www.nature.com/articles/s41467-020-16731-6
-Development of CRISPR-Cas13a-based antimicrobials capable of sequence-specific killing of target bacteria | Nature Communications
-
-https://crisp-bio.blog.jp/archives/18437923.html
-CRISPRメモ_2019/06/21 (3件) : crisp_bio
-
-1. CRISPR/Cas9システムにより、コリスチン耐性大腸菌臨床分離株からmcr-1遺伝子を帯びたプラスミドを除去
-[出典] "Eliminating mcr-1-harbouring plasmids in clinical isolates using the CRISPR/Cas9 system" Wang P [..] Wang X. J Antimicrob Chemother 2019-06-15. 
-
-https://crisp-bio.blog.jp/archives/12546975.html
-CRISPRメモ_2018/09/30 (10件) : crisp_bio
-
-2. CRISPR/Cas9システムを帯びた接合性プラスミドでコリスチン耐性遺伝子を除去し多剤耐性菌に打ち克つ
-[出典] "Exploiting a conjugative CRISPR/Cas9 system to eliminate plasmid harboring mcr-1 gene from Escherichia coli" Dong H, Xiang H, Mu D, Wang D, Wang T. Int J Antimicrob Agents. 2018 Sep 26.
-
-3. CRISPR生物学を巡る１０の謎
-[出典] Comment "Open questions: CRISPR biology" Koonin EV. BMC Biology. 2018 Sep 24.
-投げかけられた謎は、CRISPR/Casシステム自体およびクラスとタイプの偏在とその由来、CRISPR-Cas活性と遺伝子水平伝播 (HGT)のバランス、CRISPR-Casと細胞死/休眠の関係、免疫応答以外の機能、病原性との関係、トランスポゾンやプラスミドにコードされているCRISPR-Casシステムの機能、CRISPR-Casの起源など10項目
-https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9
-What are the functions of CRISPR-Cas systems encoded by transposons and plasmids?
-Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a large family of Tn7-like transposons [9] and by various plasmids [2]. All transposon-encoded and some of the plasmid-encoded CRISPR-Cas are “minimal” variants that lack the enzymes involved in target cleavage and hence are predicted to be involved in non-defense roles. The nature of these functions remains to be elucidated, and might involve RNA-guided transposition [9].
 
 
 ----------
+
+
+
 
 
 
