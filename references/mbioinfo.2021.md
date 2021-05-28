@@ -8,8 +8,6 @@ Last Update: 2021-05
 - [unclassified](#unclassified)
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [AMR](#amr) 薬剤耐性
-- [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
-- [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
 - [plasmid](#plasmid) プラスミド
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [phylogenetic](#phylogenetic) 系統
@@ -106,21 +104,11 @@ Christian Brandt 1 2, Sascha D Braun 2 3, Claudi
 https://www.nature.com/articles/srep43232
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5324141/
 
-----------
-## ofsf
-
-- https://www.ofsf.or.jp/
-公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
-- https://www.ofsf.or.jp/en/
-Ohsumi Frontier Science Foundation
-
-----------
-## niid
-National Institute of Infectious Diseases
-国立感染症研究所
 
 - https://www.niid.go.jp/niid/en/
+National Institute of Infectious Diseases
 - https://www.niid.go.jp/niid/ja/
+国立感染症研究所
 - https://researchmap.jp/read0133866?lang=en
 Masato SUZUKI
 - https://twitter.com/KojiYahara
@@ -158,7 +146,10 @@ Plasmid-encoded resistance
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
+- https://www.ofsf.or.jp/
+公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- https://www.ofsf.or.jp/en/
+Ohsumi Frontier Science Foundation
 
 ### 2021
 
