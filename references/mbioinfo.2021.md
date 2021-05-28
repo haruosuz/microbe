@@ -8,8 +8,8 @@ Last Update: 2021-05
 - [unclassified](#unclassified)
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [AMR](#amr) 薬剤耐性
-- [infectious_disease](#infectious_disease) 感染症
 - [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
 - [plasmid](#plasmid) プラスミド
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [phylogenetic](#phylogenetic) 系統
@@ -86,6 +86,17 @@ Ebrahim Afshinnekoo 1 2, Chandrima Bhattacharya 1 2, Ana Burguete-García 3, Edu
 https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00039-2/fulltext
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
 
+https://pubmed.ncbi.nlm.nih.gov/29773743/
+Review Science
+. 2018 May 18;360(6390):733-738. doi: 10.1126/science.aar3777.
+Genomic insights into the emergence and spread of antimicrobial-resistant bacterial pathogens
+Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
+https://science.sciencemag.org/content/360/6390/733.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
+
+- https://twitter.com/DrKatHolt
+Kat Holt (@DrKatHolt) / Twitter
+Puzzle solver, bacterial genome wrangler, antibiotic resistance fighter. Prof at Monash Uni & London School of Hygiene and Tropical Medicine. BSc, MEpi, PhD.
 
 https://pubmed.ncbi.nlm.nih.gov/28233789/
 Sci Rep
@@ -95,37 +106,21 @@ Christian Brandt 1 2, Sascha D Braun 2 3, Claudi
 https://www.nature.com/articles/srep43232
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5324141/
 
-
-- https://twitter.com/DrKatHolt
-Kat Holt (@DrKatHolt) / Twitter
-Puzzle solver, bacterial genome wrangler, antibiotic resistance fighter. Prof at Monash Uni & London School of Hygiene and Tropical Medicine. BSc, MEpi, PhD.
-
-
-
 ----------
-## infectious_disease
-感染症
+## ofsf
 
-https://soniashah.com/pandemic-the-book/
-Pandemic – Sonia Shah
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/29773743/
-Review Science
-. 2018 May 18;360(6390):733-738. doi: 10.1126/science.aar3777.
-Genomic insights into the emergence and spread of antimicrobial-resistant bacterial pathogens
-Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
-https://science.sciencemag.org/content/360/6390/733.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
+- https://www.ofsf.or.jp/
+公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- https://www.ofsf.or.jp/en/
+Ohsumi Frontier Science Foundation
 
 ----------
 ## niid
+National Institute of Infectious Diseases
+国立感染症研究所
 
 - https://www.niid.go.jp/niid/en/
-National Institute of Infectious Diseases
 - https://www.niid.go.jp/niid/ja/
-国立感染症研究所
 - https://researchmap.jp/read0133866?lang=en
 Masato SUZUKI
 - https://twitter.com/KojiYahara
@@ -155,14 +150,6 @@ Koji Yahara 1, Shu-Ichi Nakayama 2, Ken Shimuta 2, Ken-Ichi Lee 2, Masatomo Mori
 https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000205#tab2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159555/
 Plasmid-encoded resistance
-
-----------
-## ofsf
-
-- https://www.ofsf.or.jp/
-公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
-- https://www.ofsf.or.jp/en/
-Ohsumi Frontier Science Foundation
 
 ----------
 ## plasmid
