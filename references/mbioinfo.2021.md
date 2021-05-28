@@ -109,14 +109,7 @@ Puzzle solver, bacterial genome wrangler, antibiotic resistance fighter. Prof at
 https://soniashah.com/pandemic-the-book/
 Pandemic – Sonia Shah
 
-https://pubmed.ncbi.nlm.nih.gov/32514171/
-Nat Med
-. 2020 Jun;26(6):941-951. doi: 10.1038/s41591-020-0894-4. Epub 2020 Jun 8.
-Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment
-Kern Rei Chng # 1, Chenhao Li # 1, Denis Bertrand # 1, Amanda Hui Qi Ng 1, Junmei Samantha Kwah 1, Hwee Meng Low 1, Chengxuan Tong 1, Maanasa Natrajan 1, Michael Hongjie Zhang 1, Licheng Xu 2, Karrie Kwan Ki Ko 3 4 5, Eliza Xin Pei Ho 1, Tamar V Av-Shalom 1, Jeanette Woon Pei Teo 6, Chiea Chuen Khor 1, MetaSUB Consortium; Swaine L Chen 1, Christopher E Mason 7, Oon Tek Ng 8 9 10, Kalisvar Marimuthu 8 9 11, Brenda Ang 8 9, Niranjan Nagarajan 12 13
-https://www.nature.com/articles/s41591-020-0894-4
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303012/
-Although disinfection is key to infection control, the colonization patterns and resistomes of hospital-environment microbes remain underexplored. We report the first extensive genomic characterization of microbiomes, pathogens and antibiotic resistance cassettes in a tertiary-care hospital, from repeated sampling (up to 1.5 years apart) of 179 sites associated with 45 beds. 
+
 
 https://pubmed.ncbi.nlm.nih.gov/29773743/
 Review Science
@@ -528,44 +521,39 @@ https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 Microbiology of the Built Environment (MoBE)
 https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 
-人工環境の微生物群集とメンタルヘルス
-https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#mental-health
-
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 https://github.com/haruosuz/metasub/blob/master/README.md
 
-MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文より
+2015～2017年の3年間で世界6大陸32カ国60都市から収集された4,728サンプルのメタゲノム解析
+https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
+A global metagenomic map of urban microbiomes and antimicrobial resistance: Cell
 
-https://www.biorxiv.org/content/10.1101/724526v5.full
-Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance | bioRxiv
+10:58 AM · May 27, 2021
+https://twitter.com/mason_lab/status/1397733925057970177
+Chris Mason on Twitter: "I'm elated to release four @metasub papers today, with new species, data interfaces, &amp; online resources. The first is in @CellCellPress, "A global metagenomic map of urban microbiomes and antimicrobial resistance" led by @dcdanko @Daniela_Bezdan https://t.co/47SB0Hda05" a 🧵 /1" / Twitter
 
-we created a global metagenomic and antimicrobial resistance (AMR) atlas of urban mass transit systems from 58 cities, spanning 3,741 samples and 4,424 taxonomically-defined microorganisms collected for three years.
+https://news.cornell.edu/stories/2021/05/weill-cornell-study-new-species-are-all-around-us
+Weill Cornell study: New species are all around us | Cornell Chronicle
+By Julie Grisham | May 27, 2021
 
-These data also show that AMR density across cities varies by several orders of magnitude with many AMRs present on plasmids with cosmopolitan distributions.
+https://news.weill.cornell.edu/news/2021/05/global-microbiome-study-discovers-thousands-of-new-species-maps-urban-antimicrobial
+Global Microbiome Study Discovers Thousands of New Species, Maps Urban Antimicrobial Resistance and Reveals New Drug Candidates | Newsroom | Weill Cornell Medicine
+MAY 26, 2021
 
+https://www.sciencemag.org/news/2021/05/cities-have-their-own-distinct-microbial-fingerprints
+Cities have their own distinct microbial fingerprints | Science | AAAS
+By Cathleen O’Grady
+May. 26, 2021 , 8:00 PM
 
-2.2 Global Diversity Varies According to Covariates
+https://pubmed.ncbi.nlm.nih.gov/32514171/
+Nat Med
+. 2020 Jun;26(6):941-951. doi: 10.1038/s41591-020-0894-4. Epub 2020 Jun 8.
+Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment
+Kern Rei Chng # 1, Chenhao Li # 1, Denis Bertrand # 1, Amanda Hui Qi Ng 1, Junmei Samantha Kwah 1, Hwee Meng Low 1, Chengxuan Tong 1, Maanasa Natrajan 1, Michael Hongjie Zhang 1, Licheng Xu 2, Karrie Kwan Ki Ko 3 4 5, Eliza Xin Pei Ho 1, Tamar V Av-Shalom 1, Jeanette Woon Pei Teo 6, Chiea Chuen Khor 1, MetaSUB Consortium; Swaine L Chen 1, Christopher E Mason 7, Oon Tek Ng 8 9 10, Kalisvar Marimuthu 8 9 11, Brenda Ang 8 9, Niranjan Nagarajan 12 13
+https://www.nature.com/articles/s41591-020-0894-4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303012/
+Although disinfection is key to infection control, the colonization patterns and resistomes of hospital-environment microbes remain underexplored. We report the first extensive genomic characterization of microbiomes, pathogens and antibiotic resistance cassettes in a tertiary-care hospital, from repeated sampling (up to 1.5 years apart) of 179 sites associated with 45 beds. 
 
-We identified covariates which influenced the taxonomic composition of our samples: city, population density, average temperature in June, region, elevation above sea-level, surface type, surface material, elevation above or below ground and proximity to the coast. The most important factor, which could explain 19% of the variation in isolation, was the city from which a sample was taken followed by region which explained 11%. The other four factors ranged from explaining 2% to 7% of the possible variation in taxonomy in isolation (Supp. Table S2).
-
-2.3 Microbial Signatures Reveal Urban Characteristics
-
-We sought to determine whether a samples taxonomy reflected the environment in which it was collected. To this end we trained a Random Forest Classifier (RFC) to predict a sample’s city of origin from its taxonomic profile. 
-
-微生物の分類学的組成からサンプルの由来する都市を機械学習（ランダムフォレスト）で予測。
-
-3 Discussion
-
-Unique taxonomic composition and association with covariates specific to the urban environment suggest that urban microbiomes should be treated as ecologically distinct from both surrounding soil microbiomes and human commensal microbiomes.
-
-- https://twitter.com/mason_lab/status/1158704680383524866
-- https://twitter.com/dcdanko/status/1158706320352120835
-論文の責任著者 Christopher Mason や 筆頭著者 David Danko のツイートで要約が述べられています。
-2015-2017年に58都市で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
-都市の微生物叢は、地理的に類似している。サンプルを採取地で区別できるが、サンプル間で共通の（core）微生物が存在。
-都市の微生物叢は、人間の皮膚や土壌の微生物叢とは明らかに似ていない。1万以上の新しいウイルスゲノムを同定。
-薬剤耐性（AMR）の世界的なマップが大幅に拡張された。AMRを配列データのみから予測するのが難しいことに注意。
-最後に、このデータにアクセスするための多くのツールと方法を紹介。
 
 ----------
 ## soil_microbiome
