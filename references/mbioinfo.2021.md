@@ -6,11 +6,11 @@ Last Update: 2021-05
 
 **Table of Contents**
 - [unclassified](#unclassified)
-- [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [ISS](#iss) International Space Station 国際宇宙ステーション
 - [phylogenetic](#phylogenetic) 系統
 - [AMR](#amr) 薬剤耐性
 - [plasmid](#plasmid) プラスミド
+- [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [CRISPR](#crispr)
 - [microbiome](#microbiome) 微生物群集
@@ -49,12 +49,6 @@ download tips for Q&A English Japanese
 Let’s Enjoy the Q&A Session!
 - https://www.nig.ac.jp/jimu/soken/courses/EfS/contents/Q&A_j.pdf
 Ｑ＆Ａを楽しもう！
-
-----------
-## nucleotide_composition
-塩基組成、GC含量
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.nucleotide_composition.md
 
 ----------
 ## ISS
@@ -214,6 +208,16 @@ https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000205#
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159555/
 Plasmid-encoded resistance
 
+### Pal_2015
+
+https://pubmed.ncbi.nlm.nih.gov/26576951/
+BMC Genomics
+. 2015 Nov 17;16:964. doi: 10.1186/s12864-015-2153-5.
+Co-occurrence of resistance genes to antibiotics, biocides and metals reveals novel insights into their co-selection potential
+Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 3
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
+
 ----------
 ## plasmid
 プラスミド
@@ -340,19 +344,11 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
 
-### Pal_2015
+----------
+## nucleotide_composition
+塩基組成、GC含量
 
-https://pubmed.ncbi.nlm.nih.gov/26576951/
-BMC Genomics
-. 2015 Nov 17;16:964. doi: 10.1186/s12864-015-2153-5.
-Co-occurrence of resistance genes to antibiotics, biocides and metals reveals novel insights into their co-selection potential
-Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 3
-https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
-
-
-
-
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.nucleotide_composition.md
 
 ----------
 ## SSBP
