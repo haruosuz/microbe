@@ -7,15 +7,15 @@ Last Update: 2021-05
 **Table of Contents**
 - [unclassified](#unclassified)
 - [nucleotide_composition](#nucleotide_composition) 塩基組成、GC含量
+- [ISS](#iss) International Space Station 国際宇宙ステーション
+- [phylogenetic](#phylogenetic) 系統
 - [AMR](#amr) 薬剤耐性
 - [plasmid](#plasmid) プラスミド
-- [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
-- [phylogenetic](#phylogenetic) 系統
-- [ISS](#iss) International Space Station 国際宇宙ステーション
 - [microbiome](#microbiome) 微生物群集
 - [urban_microbiome](#urban_microbiome) 都市の微生物群集 MetaSUB
 - [soil_microbiome](#soil_microbiome) 土壌微生物群集
 - [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
+- [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [CRISPR](#crispr)
 - [](#)
 
@@ -55,6 +55,81 @@ Let’s Enjoy the Q&A Session!
 塩基組成、GC含量
 
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.nucleotide_composition.md
+
+----------
+## ISS
+International Space Station
+国際宇宙ステーション
+
+https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
+
+https://presen.sfc.keio.ac.jp/2021/03/post-56.html
+国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
+
+----------
+## phylogenetic
+系統
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree
+
+系統樹に根(root)をつける
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+
+https://pubmed.ncbi.nlm.nih.gov/33510015/
+Science
+. 2021 Jan 29;371(6528):466-467. doi: 10.1126/science.abf3995.
+Insights from SARS-CoV-2 sequences
+Michael A Martin 1 2, David VanInsberghe 1, Katia Koelle 3 4
+https://science.sciencemag.org/content/371/6528/466.long
+
+Uses for viral sequence data
+Viral phylogenies, rooted at the most recent common ancestor (TMRCA), are inferred on the basis of genetic differences. These phylogenies can be used to estimate viral emergence, characterize the geographic spread of the virus, reconstruct epidemiological dynamics of viral spread within a region, and identify instances of adaptation.
+
+![](https://science.sciencemag.org/content/sci/371/6528/466/F1.medium.gif)
+
+https://pubmed.ncbi.nlm.nih.gov/32424311/
+Review Nat Rev Genet
+. 2020 Jul;21(7):428-444. doi: 10.1038/s41576-020-0233-0. Epub 2020 May 18.
+Phylogenetic tree building in the genomic age
+Paschalia Kapli 1, Ziheng Yang 1, Maximilian J Telford 2
+https://www.nature.com/articles/s41576-020-0233-0
+
+https://pubmed.ncbi.nlm.nih.gov/32427978/
+Nat Microbiol
+. 2020 Jul;5(7):876-877. doi: 10.1038/s41564-020-0738-5.
+Phylogenetic interpretation during outbreaks requires caution
+Ch Julián Villabona-Arenas 1 2, William P Hanage 3, Damien C Tully 4 5
+https://www.nature.com/articles/s41564-020-0738-5
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+
+https://pubmed.ncbi.nlm.nih.gov/29795540/
+Review Nat Microbiol
+. 2018 Jun;3(6):652-661. doi: 10.1038/s41564-018-0156-0. Epub 2018 May 24.
+Methods for phylogenetic analysis of microbiome data
+Alex D Washburne # 1, James T Morton # 2 3, Jon Sanders 3, Daniel McDonald 3, Qiyun Zhu 3, Angela M Oliverio 4 5, Rob Knight 2 3
+https://www.nature.com/articles/s41564-018-0156-0
+In this Review Article, we organize the field of phylogenetically structured data analysis by discussing the major classes of methods. We first emphasize a fundamental issue in the field: the imperfection of estimated phylogenies. We then define four classes: (1) comparative methods; (2) ancestral state reconstruction and descendant trait imputation; (3) phylogenetic variables; and (4) phylogeny-aware distances (Table 1); and provide Supplementary Online Tutorials with examples (https://knightlab-analyses.github.io/phylogenetic-tutorials/). 
+
+
+https://pubmed.ncbi.nlm.nih.gov/22977114/
+Mol Biol Evol
+. 2013 Feb;30(2):315-31. doi: 10.1093/molbev/mss221. Epub 2012 Sep 13.
+Evolution of conjugation and type IV secretion systems
+Julien Guglielmini 1, Fernando de la Cruz, Eduardo P C Rocha
+https://academic.oup.com/mbe/article/30/2/315/1013981
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
+
+https://pubmed.ncbi.nlm.nih.gov/19396961/
+Review FEMS Microbiol Rev
+. 2009 May;33(3):657-87. doi: 10.1111/j.1574-6976.2009.00168.x.
+The diversity of conjugative relaxases and its application in plasmid classification
+María Pilar Garcillán-Barcia 1, María Victoria Francia, Fernando de la Cruz
+https://academic.oup.com/femsre/article/33/3/657/591359
+
+![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f1.jpeg?Expires=1621577705&Signature=M42rtHEw~Y50TOA3jiOQP0ONq5yB06iknZN3PB8oVsH4N56zF46bQaKHglhwQ-tGz9bZgI3M3YLpdrBfnLVx1~sdHfCkF7mu0VKeKMr7VVvBJ~OtgYrw3On8zSoF7JLtXiGVWWL7nENn2EM8cFV3ejWsBLwTAEFgl8dUI5-0G1CRzHr87G0qUs9Al4jLNPbSSPGTSbh1~2kj0kqWwTIqF4xGQ~OkmTObJLCpZnFH3XtoIiXjg9jkx1nHlJCWcTDgZ1bwFI61Sc7RNpNfZPMGbSSoZQcTIj9yLPYpUeOZ0OfNtCj9JeyOUBMGT-jI9~DgHUKlDZs1pTpgsJwERQd1-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+Figure 1
+A scheme of the relationships between the main relaxase protein families. A first relaxase cluster (shown on a dark-grey background) contains relaxase groups that contain just one active Tyr in the catalytic centre (see text). A second relaxase cluster (light-grey) contains relaxases with two Tyr in the catalytic centre. For the remaining groups (white background) not enough is known about the biochemistry of the respective relaxases. According to the analysis of their amino acid sequences and of experimental work (see text) they seem to be nonhomologous, and thus may use different DNA-processing mechanisms. Some relaxase protein families also overlap other protein families, such as plasmid RC-replication proteins (Rep), IS91-like transposases (IS91) or HD hydrolases. Areas of circles are proportional to relaxase number. The MOBP area includes (MOBP+MOBHEN+MOBQ1).
 
 ----------
 ## AMR
@@ -275,199 +350,6 @@ Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
 
-
-
-
-----------
-## SSBP
-Single-strand DNA-binding protein
-
-- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
-細菌SSBタンパク質
-- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
-Eukaryotic mitochondrial SSB
-The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
-- https://en.wikipedia.org/wiki/SSBP1
-
-
-12:01 AM · Mar 27, 2021
-https://twitter.com/mredrejo/status/1375462808389881866
-New preprint from the 
-@RnR_Lab
- !!  In this work, we identify and characterize the single-stranded DNA binding protein (SSB) of one of our favorite viruses, the tectivirus Bam35. A great work of 
-@Analema93
- and a great collaboration with 
-@DariusBio
- (1/4)
-The Bam35 SSB is encoded by viral gene 2 and it turned out to be a highly specific SSB, unable to bind other nucleic acid substrates. Moreover, ssDNA binding is highly cooperative and results in (unspecific) stimulation of DNA replication. (2/4)
-Although diverse at the amino acid level, typical SSBs share a conserved structural domain, named OB-fold, present in all DNA binding proteins from all domains as well as DNA viruses. However, protein-primed viruses seemed an exception, as we didn't know any OB-fold SSB. (3/4)
-Based on sensitive database searches we found that B35SSB belongs to a novel and independent group of SSBs, along with other protein-primed viral genomes like (surprise!) Φ29 and close podoviruses. (4/4)
-BONUS TRACK: Structural predictions indicate that B35SSB contains a conserved domain resembling a divergent OB-fold, which would constitute the first occurrence of an OB-fold-like domain in a protein-primed genome.
-
-https://www.biorxiv.org/content/10.1101/2021.03.25.437074v1.full
-Unlimited cooperativity of Betatectivirus SSB, a novel DNA binding protein related to an atypical group of SSBs from protein-primed replicating bacterial viruses | bioRxiv
-
-Based on databases searches as well as phylogenetic and structural analyses, we showed that B35SSB belongs to a novel and independent group of SSBs. 
-
-As expected from such a diverse dataset of short sequences, phylogeny reconstruction not always yielded confident clades (Figure 6). 
-
-Figure 6.
-B35SSB and Φ29 related viruses belong to the same clade of SSBs from protein-primed genomes.
-Maximum-likelihood tree (left) generated using the trimmed multiple sequence alignment of B35SSB-related proteins (right) and visualized with the ggtree package for R software [50]. 
-Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
-
-
-
-2016
-https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
-Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
-
-Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
-
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/22536367/
-PLoS One
-. 2012;7(4):e35285. doi: 10.1371/journal.pone.0035285. Epub 2012 Apr 19.
-Characterization of the single stranded DNA binding protein SsbB encoded in the Gonoccocal Genetic Island
-Samta Jain 1, Maria Zweig, Eveline Peeters, Katja Siewering, Kathleen T Hackett, Joseph P Dillard, Chris van der Does
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035285
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334931/
-Single stranded DNA binding proteins (SSBs) are highly conserved, essential proteins found in all kingdoms of life. These proteins bind to single-stranded DNA (ssDNA) with high affinity and low sequence specificity. They play a crucial role in processes involved in DNA metabolism like DNA repair, replication and recombination by modulating the functions of many DNA processing enzymes either by controlling the accessibility to ssDNA or via protein–protein interactions [1]. Several bacteria contain, next to the main SSB, a second SSB. 
-The second SSB can either be found on the chromosome or is located on a plasmid. The presence of a second chromosomal paralog is often related to natural competence [2], [3], [4]. Furthermore, nearly all conjugative plasmids also encode an SSB homologue. The exact function of these SSBs is still unclear; they seem not to be necessary for conjugal transfer of the plasmids, but might be involved in plasmid stability [5]. Remarkably, the SSB homologue VirE2 encoded on the Agrobacterium tumefaciens Ti plasmid is essential for infection of the host plant cells [6], [7]. VirE2 is transported via the Type IV secretion system (T4SS) on the Ti plasmid independent of the ssDNA [8]. In the recipient cell, it probably functions as a molecular motor facilitating the import of the Ti ssDNA [9], [10].
-
-Figure 1
-Unrooted phylogenetic tree of the ssDNA-binding proteins.
-
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/22073223/
-PLoS One
-. 2011;6(11):e26942. doi: 10.1371/journal.pone.0026942. Epub 2011 Nov 4.
-Phylogenetic and complementation analysis of a single-stranded DNA binding protein family from lactococcal phages indicates a non-bacterial origin
-Agnieszka K Szczepankowska 1, Eric Prestel, Mahendra Mariadassou, Jacek K Bardowski, Elena Bidnenko
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026942
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208561/
-For some phages, specific SSBs are involved in DNA replication and, in some cases are essential for phage development [20], [25]–[26]. Phylogenetic analysis of a number of bacterial and phage SSB proteins indicates that there have been frequent horizontal transfers from bacterial hosts to the genomes of their phages [27]. The bacterial origin of the phage ssb genes is easily recognized despite the high evolution rate of phages [24], [27]. Moreover, some phage SSBs are interchangeable with their bacterial analogs in vivo and in vitro [23], [28].
-
-
-https://pubmed.ncbi.nlm.nih.gov/20012581/
-Review Subcell Biochem
-. 2010;50:143-63. doi: 10.1007/978-90-481-3471-7_8.
-Eukaryotic single-stranded DNA binding proteins: central factors in genome stability
-Sandra Broderick 1, Kristina Rehmet, Claire Concannon, Heinz-Peter Nasheuer
-https://link.springer.com/chapter/10.1007%2F978-90-481-3471-7_8
-Mitochondrial SSBs (mtSSBs) have been found in all eukaryotes studied. mtSSBs are related to prokaryotic SSBs and essential to main the genome stability in eukaryotic mitochondria.
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/12208948/
-J Virol
-. 2002 Oct;76(19):9695-701. doi: 10.1128/jvi.76.19.9695-9701.2002.
-Phylogenetic and functional analysis of the bacteriophage P1 single-stranded DNA-binding protein
-Jannick Dyrløv Bendtsen 1, Anders S Nilsson, Hansjörg Lehnherr
-https://jvi.asm.org/content/76/19/9695.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC136491/
-ABSTRACT
-Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which shows 66% amino acid sequence identity to the SSB protein of the host bacterium Escherichia coli. 
-系統解析
-A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
-
-RESULTS
-Phylogenetic analysis of ssb-P1.
-
-![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
-FIG. 1.
-Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/2013585/
-Comparative Study J Bacteriol
-. 1991 Apr;173(8):2720-3. doi: 10.1128/jb.173.8.2720-2723.1991.
-The single-stranded-DNA-binding protein encoded by the Escherichia coli F factor can complement a deletion of the chromosomal ssb gene
-R D Porter 1, S Black
-https://jb.asm.org/content/173/8/2720.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
-
-
-----------
-## phylogenetic
-系統
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree
-
-系統樹に根(root)をつける
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
-
-https://pubmed.ncbi.nlm.nih.gov/33510015/
-Science
-. 2021 Jan 29;371(6528):466-467. doi: 10.1126/science.abf3995.
-Insights from SARS-CoV-2 sequences
-Michael A Martin 1 2, David VanInsberghe 1, Katia Koelle 3 4
-https://science.sciencemag.org/content/371/6528/466.long
-
-Uses for viral sequence data
-Viral phylogenies, rooted at the most recent common ancestor (TMRCA), are inferred on the basis of genetic differences. These phylogenies can be used to estimate viral emergence, characterize the geographic spread of the virus, reconstruct epidemiological dynamics of viral spread within a region, and identify instances of adaptation.
-
-![](https://science.sciencemag.org/content/sci/371/6528/466/F1.medium.gif)
-
-https://pubmed.ncbi.nlm.nih.gov/32424311/
-Review Nat Rev Genet
-. 2020 Jul;21(7):428-444. doi: 10.1038/s41576-020-0233-0. Epub 2020 May 18.
-Phylogenetic tree building in the genomic age
-Paschalia Kapli 1, Ziheng Yang 1, Maximilian J Telford 2
-https://www.nature.com/articles/s41576-020-0233-0
-
-https://pubmed.ncbi.nlm.nih.gov/32427978/
-Nat Microbiol
-. 2020 Jul;5(7):876-877. doi: 10.1038/s41564-020-0738-5.
-Phylogenetic interpretation during outbreaks requires caution
-Ch Julián Villabona-Arenas 1 2, William P Hanage 3, Damien C Tully 4 5
-https://www.nature.com/articles/s41564-020-0738-5
-severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
-
-https://pubmed.ncbi.nlm.nih.gov/29795540/
-Review Nat Microbiol
-. 2018 Jun;3(6):652-661. doi: 10.1038/s41564-018-0156-0. Epub 2018 May 24.
-Methods for phylogenetic analysis of microbiome data
-Alex D Washburne # 1, James T Morton # 2 3, Jon Sanders 3, Daniel McDonald 3, Qiyun Zhu 3, Angela M Oliverio 4 5, Rob Knight 2 3
-https://www.nature.com/articles/s41564-018-0156-0
-In this Review Article, we organize the field of phylogenetically structured data analysis by discussing the major classes of methods. We first emphasize a fundamental issue in the field: the imperfection of estimated phylogenies. We then define four classes: (1) comparative methods; (2) ancestral state reconstruction and descendant trait imputation; (3) phylogenetic variables; and (4) phylogeny-aware distances (Table 1); and provide Supplementary Online Tutorials with examples (https://knightlab-analyses.github.io/phylogenetic-tutorials/). 
-
-
-https://pubmed.ncbi.nlm.nih.gov/22977114/
-Mol Biol Evol
-. 2013 Feb;30(2):315-31. doi: 10.1093/molbev/mss221. Epub 2012 Sep 13.
-Evolution of conjugation and type IV secretion systems
-Julien Guglielmini 1, Fernando de la Cruz, Eduardo P C Rocha
-https://academic.oup.com/mbe/article/30/2/315/1013981
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
-
-https://pubmed.ncbi.nlm.nih.gov/19396961/
-Review FEMS Microbiol Rev
-. 2009 May;33(3):657-87. doi: 10.1111/j.1574-6976.2009.00168.x.
-The diversity of conjugative relaxases and its application in plasmid classification
-María Pilar Garcillán-Barcia 1, María Victoria Francia, Fernando de la Cruz
-https://academic.oup.com/femsre/article/33/3/657/591359
-
-![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f1.jpeg?Expires=1621577705&Signature=M42rtHEw~Y50TOA3jiOQP0ONq5yB06iknZN3PB8oVsH4N56zF46bQaKHglhwQ-tGz9bZgI3M3YLpdrBfnLVx1~sdHfCkF7mu0VKeKMr7VVvBJ~OtgYrw3On8zSoF7JLtXiGVWWL7nENn2EM8cFV3ejWsBLwTAEFgl8dUI5-0G1CRzHr87G0qUs9Al4jLNPbSSPGTSbh1~2kj0kqWwTIqF4xGQ~OkmTObJLCpZnFH3XtoIiXjg9jkx1nHlJCWcTDgZ1bwFI61Sc7RNpNfZPMGbSSoZQcTIj9yLPYpUeOZ0OfNtCj9JeyOUBMGT-jI9~DgHUKlDZs1pTpgsJwERQd1-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
-
-Figure 1
-A scheme of the relationships between the main relaxase protein families. A first relaxase cluster (shown on a dark-grey background) contains relaxase groups that contain just one active Tyr in the catalytic centre (see text). A second relaxase cluster (light-grey) contains relaxases with two Tyr in the catalytic centre. For the remaining groups (white background) not enough is known about the biochemistry of the respective relaxases. According to the analysis of their amino acid sequences and of experimental work (see text) they seem to be nonhomologous, and thus may use different DNA-processing mechanisms. Some relaxase protein families also overlap other protein families, such as plasmid RC-replication proteins (Rep), IS91-like transposases (IS91) or HD hydrolases. Areas of circles are proportional to relaxase number. The MOBP area includes (MOBP+MOBHEN+MOBQ1).
-
-----------
-## ISS
-International Space Station
-国際宇宙ステーション
-
-https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
-
-https://presen.sfc.keio.ac.jp/2021/03/post-56.html
-国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
-
 ----------
 ## microbiome
 微生物群集
@@ -660,6 +542,120 @@ PLoS One
 . 2018 Nov 9;13(11):e0207072. doi: 10.1371/journal.pone.0207072. eCollection 2018.
 GutLogo: Agent-based modeling framework to investigate spatial and temporal dynamics in the gut microbiome
 Charlie Lin 1, Joshua Culver 1, Bronson Weston 1, Evan Underhill 1, Jonathan Gorky 1, Prasad Dhurjati 1
+
+----------
+## SSBP
+Single-strand DNA-binding protein
+
+- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
+細菌SSBタンパク質
+- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
+Eukaryotic mitochondrial SSB
+The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
+- https://en.wikipedia.org/wiki/SSBP1
+
+
+12:01 AM · Mar 27, 2021
+https://twitter.com/mredrejo/status/1375462808389881866
+New preprint from the 
+@RnR_Lab
+ !!  In this work, we identify and characterize the single-stranded DNA binding protein (SSB) of one of our favorite viruses, the tectivirus Bam35. A great work of 
+@Analema93
+ and a great collaboration with 
+@DariusBio
+ (1/4)
+The Bam35 SSB is encoded by viral gene 2 and it turned out to be a highly specific SSB, unable to bind other nucleic acid substrates. Moreover, ssDNA binding is highly cooperative and results in (unspecific) stimulation of DNA replication. (2/4)
+Although diverse at the amino acid level, typical SSBs share a conserved structural domain, named OB-fold, present in all DNA binding proteins from all domains as well as DNA viruses. However, protein-primed viruses seemed an exception, as we didn't know any OB-fold SSB. (3/4)
+Based on sensitive database searches we found that B35SSB belongs to a novel and independent group of SSBs, along with other protein-primed viral genomes like (surprise!) Φ29 and close podoviruses. (4/4)
+BONUS TRACK: Structural predictions indicate that B35SSB contains a conserved domain resembling a divergent OB-fold, which would constitute the first occurrence of an OB-fold-like domain in a protein-primed genome.
+
+https://www.biorxiv.org/content/10.1101/2021.03.25.437074v1.full
+Unlimited cooperativity of Betatectivirus SSB, a novel DNA binding protein related to an atypical group of SSBs from protein-primed replicating bacterial viruses | bioRxiv
+
+Based on databases searches as well as phylogenetic and structural analyses, we showed that B35SSB belongs to a novel and independent group of SSBs. 
+
+As expected from such a diverse dataset of short sequences, phylogeny reconstruction not always yielded confident clades (Figure 6). 
+
+Figure 6.
+B35SSB and Φ29 related viruses belong to the same clade of SSBs from protein-primed genomes.
+Maximum-likelihood tree (left) generated using the trimmed multiple sequence alignment of B35SSB-related proteins (right) and visualized with the ggtree package for R software [50]. 
+Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
+
+
+
+2016
+https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
+Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
+
+Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/22536367/
+PLoS One
+. 2012;7(4):e35285. doi: 10.1371/journal.pone.0035285. Epub 2012 Apr 19.
+Characterization of the single stranded DNA binding protein SsbB encoded in the Gonoccocal Genetic Island
+Samta Jain 1, Maria Zweig, Eveline Peeters, Katja Siewering, Kathleen T Hackett, Joseph P Dillard, Chris van der Does
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035285
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334931/
+Single stranded DNA binding proteins (SSBs) are highly conserved, essential proteins found in all kingdoms of life. These proteins bind to single-stranded DNA (ssDNA) with high affinity and low sequence specificity. They play a crucial role in processes involved in DNA metabolism like DNA repair, replication and recombination by modulating the functions of many DNA processing enzymes either by controlling the accessibility to ssDNA or via protein–protein interactions [1]. Several bacteria contain, next to the main SSB, a second SSB. 
+The second SSB can either be found on the chromosome or is located on a plasmid. The presence of a second chromosomal paralog is often related to natural competence [2], [3], [4]. Furthermore, nearly all conjugative plasmids also encode an SSB homologue. The exact function of these SSBs is still unclear; they seem not to be necessary for conjugal transfer of the plasmids, but might be involved in plasmid stability [5]. Remarkably, the SSB homologue VirE2 encoded on the Agrobacterium tumefaciens Ti plasmid is essential for infection of the host plant cells [6], [7]. VirE2 is transported via the Type IV secretion system (T4SS) on the Ti plasmid independent of the ssDNA [8]. In the recipient cell, it probably functions as a molecular motor facilitating the import of the Ti ssDNA [9], [10].
+
+Figure 1
+Unrooted phylogenetic tree of the ssDNA-binding proteins.
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/22073223/
+PLoS One
+. 2011;6(11):e26942. doi: 10.1371/journal.pone.0026942. Epub 2011 Nov 4.
+Phylogenetic and complementation analysis of a single-stranded DNA binding protein family from lactococcal phages indicates a non-bacterial origin
+Agnieszka K Szczepankowska 1, Eric Prestel, Mahendra Mariadassou, Jacek K Bardowski, Elena Bidnenko
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026942
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208561/
+For some phages, specific SSBs are involved in DNA replication and, in some cases are essential for phage development [20], [25]–[26]. Phylogenetic analysis of a number of bacterial and phage SSB proteins indicates that there have been frequent horizontal transfers from bacterial hosts to the genomes of their phages [27]. The bacterial origin of the phage ssb genes is easily recognized despite the high evolution rate of phages [24], [27]. Moreover, some phage SSBs are interchangeable with their bacterial analogs in vivo and in vitro [23], [28].
+
+
+https://pubmed.ncbi.nlm.nih.gov/20012581/
+Review Subcell Biochem
+. 2010;50:143-63. doi: 10.1007/978-90-481-3471-7_8.
+Eukaryotic single-stranded DNA binding proteins: central factors in genome stability
+Sandra Broderick 1, Kristina Rehmet, Claire Concannon, Heinz-Peter Nasheuer
+https://link.springer.com/chapter/10.1007%2F978-90-481-3471-7_8
+Mitochondrial SSBs (mtSSBs) have been found in all eukaryotes studied. mtSSBs are related to prokaryotic SSBs and essential to main the genome stability in eukaryotic mitochondria.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/12208948/
+J Virol
+. 2002 Oct;76(19):9695-701. doi: 10.1128/jvi.76.19.9695-9701.2002.
+Phylogenetic and functional analysis of the bacteriophage P1 single-stranded DNA-binding protein
+Jannick Dyrløv Bendtsen 1, Anders S Nilsson, Hansjörg Lehnherr
+https://jvi.asm.org/content/76/19/9695.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC136491/
+ABSTRACT
+Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which shows 66% amino acid sequence identity to the SSB protein of the host bacterium Escherichia coli. 
+系統解析
+A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
+
+RESULTS
+Phylogenetic analysis of ssb-P1.
+
+![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
+FIG. 1.
+Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/2013585/
+Comparative Study J Bacteriol
+. 1991 Apr;173(8):2720-3. doi: 10.1128/jb.173.8.2720-2723.1991.
+The single-stranded-DNA-binding protein encoded by the Escherichia coli F factor can complement a deletion of the chromosomal ssb gene
+R D Porter 1, S Black
+https://jb.asm.org/content/173/8/2720.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
 
 ----------
 ## CRISPR
