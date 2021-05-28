@@ -406,6 +406,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
 ## phylogenetic
 系統
 
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree
+
+系統樹に根(root)をつける
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+
 https://pubmed.ncbi.nlm.nih.gov/33510015/
 Science
 . 2021 Jan 29;371(6528):466-467. doi: 10.1126/science.abf3995.
