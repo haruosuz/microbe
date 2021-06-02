@@ -232,6 +232,23 @@ Ohsumi Frontier Science Foundation
 
 ### 2021
 
+### Kirstahler_2021
+
+https://pubmed.ncbi.nlm.nih.gov/34061588/
+mSystems
+. 2021 May 26;e0028321. doi: 10.1128/mSystems.00283-21. Online ahead of print.
+A Peek into the Plasmidome of Global Sewage
+Philipp Kirstahler 1, Frederik Teudt 1, Saria Otani 1, Frank M Aarestrup 1, Sünje Johanna Pamp 1
+
+https://journals.asm.org/doi/10.1128/mSystems.00283-21
+To distinguish between potential plasmid and nonplasmid contigs, we used a scheme described previously (21). The scheme contains Pfam identifiers highly specific for plasmids and viruses. Proteins with a plasmid replication initiator protein Rep_3 (PF01051) domain (n = 24,824) were investigated further, together with the full set of reference Rep_3 domain proteins (n = 1,637) downloaded from Pfam (version 33.1). The two data sets were combined and Rep_3 domain proteins with a length of <40 amino acid residues were discarded, resulting in a data set of 16,930 Rep_3 (PF01051) domain proteins. The protein sequences were aligned using MAFFT (version 7.221) as part of the Galaxy platform (46, 47). A phylogenetic tree was then built using FastTree (version 2.1.10) (48) and visualized using FigTree (version 1.4.4) (https://github.com/rambaut/figtree/releases).
+
+5:47 PM · May 27, 2021
+https://twitter.com/SJPamp/status/1397836852036620288
+Sünje J. Pamp 🦠🧬🔬🌍 on Twitter: "NEW paper! Our recent study on plasmids &amp; antimicrobial resistance using @nanopore sequencing of sewage samples from around the globe🌎 is published now in @mSystems! 👉https://t.co/z2tv2PcrPf 🦠🧬" / Twitter
+
+### Yang_2021
+
 https://pubmed.ncbi.nlm.nih.gov/33721023/
 Nucleic Acids Res
 . 2021 Apr 19;49(7):3981-3996. doi: 10.1093/nar/gkab149.
@@ -243,7 +260,7 @@ A putative ProQ/FinO family protein encoded by the IncI2 plasmid, designated as 
 
 Previous studies showed that plasmid-encoded specific regulators, such as H-NS or PsiB, alleviate the plasmid cost by controlling the expression of certain genes carried by the plasmid or host bacteria (12,30). 
 
-
+### Wegrzyn_2021
 
 https://pubmed.ncbi.nlm.nih.gov/33660784/
 Nucleic Acids Res
@@ -537,12 +554,10 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01059-0
 batch effect
 バッチ効果
 
-
 2020.03.19
 https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
 導入した植物の葉面や土壌などメタゲノム解析
-
 
 ----------
 ## urban_microbiome
@@ -558,6 +573,9 @@ https://github.com/haruosuz/metasub/blob/master/README.md
 2015～2017年の3年間で世界6大陸32カ国60都市から収集された4,728サンプルのメタゲノム解析
 https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
 A global metagenomic map of urban microbiomes and antimicrobial resistance: Cell
+
+https://gigazine.net/news/20210601-cities-unique-microbial-fingerprints/
+都市には固有の微生物パターンが存在する、指紋のように微生物から都市を特定することも可能 - GIGAZINE
 
 10:58 AM · May 27, 2021
 https://twitter.com/mason_lab/status/1397733925057970177
