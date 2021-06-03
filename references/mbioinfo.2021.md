@@ -577,6 +577,9 @@ A global metagenomic map of urban microbiomes and antimicrobial resistance: Cell
 https://gigazine.net/news/20210601-cities-unique-microbial-fingerprints/
 都市には固有の微生物パターンが存在する、指紋のように微生物から都市を特定することも可能 - GIGAZINE
 
+https://www.keio.ac.jp/ja/press-releases/2021/5/28/28-80215/
+都市の微生物・薬剤耐性遺伝子の世界地図－世界60 都市で収集した約5,000 サンプルのメタゲノム解析－：[慶應義塾]
+
 10:58 AM · May 27, 2021
 https://twitter.com/mason_lab/status/1397733925057970177
 Chris Mason on Twitter: "I'm elated to release four @metasub papers today, with new species, data interfaces, &amp; online resources. The first is in @CellCellPress, "A global metagenomic map of urban microbiomes and antimicrobial resistance" led by @dcdanko @Daniela_Bezdan https://t.co/47SB0Hda05" a 🧵 /1" / Twitter
