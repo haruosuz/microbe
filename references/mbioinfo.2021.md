@@ -132,12 +132,19 @@ Antimicrobial Resistance
 
 - https://twitter.com/AntibioticResis
 - https://wwwnc.cdc.gov/eid/spotlight/antimicrobial-resistance
-- https://en.wikipedia.org/wiki/Colistin
-- https://ja.wikipedia.org/wiki/コリスチン
+- 
 - https://ja.wikipedia.org/wiki/抗生物質
+- https://ja.wikipedia.org/wiki/コリスチン
+- https://en.wikipedia.org/wiki/Colistin
 - https://ja.wikipedia.org/wiki/カルバペネム系抗生物質
+- https://ja.wikipedia.org/wiki/薬剤耐性
 - https://ja.wikipedia.org/wiki/カルバペネム耐性腸内細菌
- (Carbapenem-resistant enterobacteriaceae, CRE)
+- https://en.wikipedia.org/wiki/Carbapenem-resistant_enterobacteriaceae (CRE)
+- https://ja.wikipedia.org/wiki/Β-ラクタマーゼ
+- https://en.wikipedia.org/wiki/Beta-lactamase
+- https://www.kegg.jp/kegg/annotation/br01553.html
+KEGG Antimicrobial Resistance: beta-Lactamase Genes
+
 
 9:37 AM · May 18, 2021
 https://twitter.com/hornistyf/status/1394452147090059267
@@ -573,6 +580,10 @@ https://github.com/haruosuz/metasub/blob/master/README.md
 2015～2017年の3年間で世界6大陸32カ国60都市から収集された4,728サンプルのメタゲノム解析
 https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
 A global metagenomic map of urban microbiomes and antimicrobial resistance: Cell
+
+2021年6月5日
+https://univ-journal.jp/98443/
+都市の微生物と薬材耐性遺伝子の世界地図、国際チーム作成 | 大学ジャーナルオンライン
 
 https://gigazine.net/news/20210601-cities-unique-microbial-fingerprints/
 都市には固有の微生物パターンが存在する、指紋のように微生物から都市を特定することも可能 - GIGAZINE
