@@ -59,6 +59,8 @@ Noelle C Bryan 1, Francois Lebreton 2 3, Michael Gilmore 2, Gary Ruvkun 4, Maria
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.515319/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/
 
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/figure/F2/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7829349_fmicb-11-515319-g002.jpg)
+
 人工環境 (built environment; BE) の微生物。分離源の異なるセレウス菌と黄色ブドウ球菌の比較ゲノム。分離源は、国際宇宙ステーション（ISS; モデルBE）、地球のBE、土壌、ヒトなど。
 https://pubmed.ncbi.nlm.nih.gov/30637341/
 mSystems
@@ -315,13 +317,10 @@ Plasmid core-genome phylogram and accessory genome dendrogram. (left) A maximum-
 
 ![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig3/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g003.jpg)
 
-Plasmid Pan‐ and Core-Genome Analyses
-Gene and protein sequences for all 21 plasmids were predicted using Prokka v1.13 (parameters: -- kingdom Bacteria). Plasmid pan‐ and core-genome analyses were carried out using Perl scripts available in the GET_HOMOLOGUES v20092018 software package (Contreras-Moreira and Vinuesa, 2013; Vinuesa and Contreras-Moreira, 2015). 
+Figure 4
+A co-phylogeny linking the host strain (left) and plasmid (right) phylogenies.
 
-The resulting tree was annotated with FigTree v.1.4.3 (Rambaut, 2017) with midpoint root.
-
-Phylogenetic Analysis
-The evolutionary relationship between plasmids was inferred from the plasmid core-genome. Appropriate phylogenetic loci were identified using the GET_PHYLOMARKERS software package (Vinuesa et al., 2018) with default parameters. The GET_PHYLOMARKERS uses the single-copy plasmid core-genome clusters identified by GET_HOMOLOGUES and removes recombinant sequences as well as loci that produce outlier phylogenies. This resulted in eight high-quality phylogenetic markers. These included genes that encode a TraX conjugative transfer protein, an integrase, three membrane-associated proteins, and three hypothetical proteins of unknown functions.
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig4/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g004.jpg)
 
 ### WASPS
 https://archaea.i2bc.paris-saclay.fr/wasps/
