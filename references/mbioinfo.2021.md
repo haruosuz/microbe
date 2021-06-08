@@ -61,6 +61,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/
 
 ![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/figure/F2/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/bin/fmicb-11-515319-g002.jpg)
 
+FIGURE 2
+Whole genome analysis of Enterococcus faecalis.
+(A) Phylogenetic analysis of E. faecalis strains was determined based on FastTree generalized-time-reversible (GTR) analysis of SNPs present in the 1,844 core genes as determined by Roary (Page et al., 2015) and visualized with IcyTree (Vaughan, 2017).
+(B) Genome size and gene count, the latter as estimated by Prokka (Seemann, 2014). 
+(C) Gene presence/absence as estimated by Roary for the total of 9300 genes identified across the 51 genomes.
+
+
 人工環境 (built environment; BE) の微生物。分離源の異なるセレウス菌と黄色ブドウ球菌の比較ゲノム。分離源は、国際宇宙ステーション（ISS; モデルBE）、地球のBE、土壌、ヒトなど。
 https://pubmed.ncbi.nlm.nih.gov/30637341/
 mSystems
