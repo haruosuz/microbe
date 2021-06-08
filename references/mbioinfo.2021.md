@@ -59,7 +59,7 @@ Noelle C Bryan 1, Francois Lebreton 2 3, Michael Gilmore 2, Gary Ruvkun 4, Maria
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.515319/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/
 
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/figure/F2/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7829349_fmicb-11-515319-g002.jpg)
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/figure/F2/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/bin/fmicb-11-515319-g002.jpg)
 
 人工環境 (built environment; BE) の微生物。分離源の異なるセレウス菌と黄色ブドウ球菌の比較ゲノム。分離源は、国際宇宙ステーション（ISS; モデルBE）、地球のBE、土壌、ヒトなど。
 https://pubmed.ncbi.nlm.nih.gov/30637341/
