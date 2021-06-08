@@ -20,12 +20,6 @@ Last Update: 2021-05
 - [](#)
 
 ----------
-## 2021-05-06
-
-- http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
-Plasmids Around the Globe 2021 | International Society for Plasmid Biology
-
-----------
 ## unclassified
 
 https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
@@ -57,8 +51,22 @@ International Space Station
 
 https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
 
-https://presen.sfc.keio.ac.jp/2021/03/post-56.html
-国際宇宙ステーションにおける微生物の特徴 | 慶應SFC学会学術交流大会2020
+https://pubmed.ncbi.nlm.nih.gov/33505359/
+Front Microbiol
+. 2021 Jan 11;11:515319. doi: 10.3389/fmicb.2020.515319. eCollection 2020.
+Genomic and Functional Characterization of Enterococcus faecalis Isolates Recovered From the International Space Station and Their Potential for Pathogenicity
+Noelle C Bryan 1, Francois Lebreton 2 3, Michael Gilmore 2, Gary Ruvkun 4, Maria T Zuber 1, Christopher E Carr 1 4 5
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.515319/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7829349/
+
+人工環境 (built environment; BE) の微生物。分離源の異なるセレウス菌と黄色ブドウ球菌の比較ゲノム。分離源は、国際宇宙ステーション（ISS; モデルBE）、地球のBE、土壌、ヒトなど。
+https://pubmed.ncbi.nlm.nih.gov/30637341/
+mSystems
+. 2019 Jan 8;4(1):e00281-18. doi: 10.1128/mSystems.00281-18. eCollection Jan-Feb 2019.
+Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil
+Ryan A Blaustein 1, Alexander G McFarland 1, Sarah Ben Maamar 1, Alberto Lopez 2, Sarah Castro-Wallace 3, Erica M Hartmann 1
+https://msystems.asm.org/content/4/1/e00281-18
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/
 
 ----------
 ## phylogenetic
@@ -239,6 +247,9 @@ Ohsumi Frontier Science Foundation
 
 ### 2021
 
+- http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
+Plasmids Around the Globe 2021 | International Society for Plasmid Biology
+
 ### Kirstahler_2021
 
 https://pubmed.ncbi.nlm.nih.gov/34061588/
@@ -288,6 +299,29 @@ RESULTS
 Interestingly, in some Rep proteins, we identified a short hydrophobic region located before the WH1 domain. This region shares a degree of similarity with a sequence within the N-terminal TrfA region (Figure ​(Figure1).1). We thus asked how the TrfA-like proteins are related to other replication initiators. To answer this question, we performed phylogenetic analysis of the representative DNA replication initiators using the maximum likelihood method (ML) (Supplementary Figure S1). Our ML analysis of the WH domains revealed a close monophyletic relationship among all TrfA-like proteins containing extended N-termini. Moreover, the phylogenetic analysis indicated that the TrfA-like proteins are most closely related to RepC, an IncQ-type replication protein C (51,52), and belong to a common protein family together with other plasmid replication initiation factors (Supplementary Figures S1, S2). 
 
 ### 2020
+
+### Ghaly_2020_Acinetobacter_Plasmids
+
+https://pubmed.ncbi.nlm.nih.gov/33343549/
+Front Microbiol
+. 2020 Dec 2;11:605952. doi: 10.3389/fmicb.2020.605952. eCollection 2020.
+A Novel Family of Acinetobacter Mega-Plasmids Are Disseminating Multi-Drug Resistance Across the Globe While Acquiring Location-Specific Accessory Genes
+Timothy M Ghaly 1, Ian T Paulsen 2 3, Ammara Sajjad 1, Sasha G Tetu 2 3, Michael R Gillings 1 3
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.605952/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/
+
+Figure 3
+Plasmid core-genome phylogram and accessory genome dendrogram. (left) A maximum-likelihood tree showing the inferred plasmid phylogeny based on the plasmid core-genome and (right) a maximum-likelihood tree based on the presence and absence of all 1,262 accessory genes in the plasmid pangenome. 
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig3/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g003.jpg)
+
+Plasmid Pan‐ and Core-Genome Analyses
+Gene and protein sequences for all 21 plasmids were predicted using Prokka v1.13 (parameters: -- kingdom Bacteria). Plasmid pan‐ and core-genome analyses were carried out using Perl scripts available in the GET_HOMOLOGUES v20092018 software package (Contreras-Moreira and Vinuesa, 2013; Vinuesa and Contreras-Moreira, 2015). 
+
+The resulting tree was annotated with FigTree v.1.4.3 (Rambaut, 2017) with midpoint root.
+
+Phylogenetic Analysis
+The evolutionary relationship between plasmids was inferred from the plasmid core-genome. Appropriate phylogenetic loci were identified using the GET_PHYLOMARKERS software package (Vinuesa et al., 2018) with default parameters. The GET_PHYLOMARKERS uses the single-copy plasmid core-genome clusters identified by GET_HOMOLOGUES and removes recombinant sequences as well as loci that produce outlier phylogenies. This resulted in eight high-quality phylogenetic markers. These included genes that encode a TraX conjugative transfer protein, an integrase, three membrane-associated proteins, and three hypothetical proteins of unknown functions.
 
 ### WASPS
 https://archaea.i2bc.paris-saclay.fr/wasps/
