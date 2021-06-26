@@ -27,6 +27,10 @@ https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
 遺伝子の系統的分布
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.phylogenetic_distribution.md
 
+2018年12月11日に更新
+https://qiita.com/haruosuz/items/d95de2fa3e5c39e5f35b
+Galaxyの公共サーバ（微生物解析用） - Qiita
+
 本：微生物
 https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 
@@ -176,6 +180,26 @@ COVID-19 drug practices risk antimicrobial resistance evolution
 Ebrahim Afshinnekoo 1 2, Chandrima Bhattacharya 1 2, Ana Burguete-García 3, Eduardo Castro-Nallar 4, Youping Deng 5, Christelle Desnues 6, Emmanuel Dias-Neto 7, Eran Elhaik 8, Gregorio Iraola 9, Soojin Jang 10, Paweł P Łabaj 11, Christopher E Mason 1 2 12, Niranjan Nagarajan 13, Michael Poulsen 14, Bharath Prithiviraj 15, Rania Siam 16 17, Tieliu Shi 18, Haruo Suzuki 19, Johannes Werner 20, Maria Mercedes Zambrano 21, Malay Bhattacharyya 22, MetaSUB Consortium
 https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00039-2/fulltext
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/32249837/
+Sci Rep
+. 2020 Apr 6;10(1):5970. doi: 10.1038/s41598-020-63167-5.
+Massive analysis of 64,628 bacterial genomes to decipher water reservoir and origin of mobile colistin resistance genes: is there another role for these enzymes?
+Mariem Ben Khedher 1, Sophie Alexandra Baron 1 2, Toilhata Riziki 1, Raymond Ruimy 3, Didier Raoult 1 2, Seydina M Diene 4 5, Jean-Marc Rolain 6 7
+https://www.nature.com/articles/s41598-020-63167-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7136264/
+The colistin resistance mechanism also involves genes encoding phosphoethanolamine transferase (PET) and/or glycosyltransferase proteins that are essential for membrane phospholipid biosynthesis and appear extremely ubiquitous due to their presence in all areas of life including bacteria, archaea and eukaryotes (plants, arthropods)12–14. 
+
+Results
+Homologous sequences of mobile colistin resistance genes in available database
+As a starting point, the first MCR-1.1 protein described (NG_050417) was used as query in a BlastP analysis against the NCBI database to fish out a total of 13’658 protein hits with aa identity ranged from 30% to 100% and alignment ≥30% (Fig. 1A). Results include all MCR-variants (from MCR-2 to MCR-9) with aa identity ranged from 30.82% with MCR-4.1 to 82.66% with MCR-6.1 (Fig. 1B). 
+
+Methods
+Looking for homologous MCR-1 sequences from the NCBI database
+Reference sequence of MCR-1 (AKF16168.1) was used as query for BlastP analysis against the NCBI database using as threshold e-value 10e-5. All homologous sequence with identity ≥30% and alignment ≥30% were kept for further analysis. Protein alignments were performed using Mafft tool (https://mafft.cbrc.jp/alignment/software/) and phylogenetic trees were inferred using neighbor-joining method in FastTree program (http://www.microbesonline.org/fasttree/) and visualized with FigTree v1.4.2 (http://tree.bio.ed.ac.uk/software/figtree/), 
+
 
 https://pubmed.ncbi.nlm.nih.gov/29773743/
 Review Science
@@ -426,6 +450,17 @@ The mitochondria of eukaryotic cells contain their own single stranded DNA bindi
 - https://en.wikipedia.org/wiki/SSBP1
 
 
+https://www.ncbi.nlm.nih.gov/research/cog/cogcategory/L/
+L - Replication, recombination and repair
+```
+Organism	Protein	COG	Cat	Annotation
+
+1176	2146	COG0629	L	Single-stranded DNA-binding protein
+```
+https://www.ncbi.nlm.nih.gov/research/cog/cog/COG0629/
+
+
+
 12:01 AM · Mar 27, 2021
 https://twitter.com/mredrejo/status/1375462808389881866
 New preprint from the 
@@ -453,6 +488,24 @@ Maximum-likelihood tree (left) generated using the trimmed multiple sequence ali
 Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
 
 
+https://pubmed.ncbi.nlm.nih.gov/33430354/
+Review Cancers (Basel)
+. 2021 Jan 7;13(2):190. doi: 10.3390/cancers13020190.
+Cold-Shock Domains-Abundance, Structure, Properties, and Nucleic-Acid Binding
+Udo Heinemann 1, Yvette Roske 1
+https://www.mdpi.com/2072-6694/13/2/190
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/bin/cancers-13-00190-g001.jpg)
+Figure 1
+Sequence alignment of representative bacterial CSPs and CSDs from human proteins.
+*snip*
+The sequence motifs RNP1 ([YF]-G-F-I) and RNP2 ([YF]-[YF]-H) are associated with RNA binding and indicated according to Prosite [25].
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/bin/cancers-13-00190-g002.jpg)
+Figure 2
+Proteins with cold-shock domains. Domain annotations for one representative bacterial CSP and human CSD-containing proteins according to SMART [27].
+
 
 2016
 https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
@@ -461,6 +514,11 @@ Variations in amino acid composition in bacterial single stranded DNA–binding 
 Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
 
 
+
+
+https://www.springer.com/gp/book/9781627030311
+Single-Stranded DNA Binding Proteins - Methods and Protocols | James L. Keck | Springer
+2012
 
 
 https://pubmed.ncbi.nlm.nih.gov/22536367/
@@ -618,8 +676,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 https://github.com/haruosuz/metasub/blob/master/README.md
 
 2015～2017年の3年間で世界6大陸32カ国60都市から収集された4,728サンプルのメタゲノム解析
+https://pubmed.ncbi.nlm.nih.gov/34043940/
+Cell
+. 2021 May 22;S0092-8674(21)00585-7. doi: 10.1016/j.cell.2021.05.002. Online ahead of print.
+A global metagenomic map of urban microbiomes and antimicrobial resistance
+David Danko 1, Daniela Bezdan 2,
+International MetaSUB Consortium
 https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
-A global metagenomic map of urban microbiomes and antimicrobial resistance: Cell
+
 
 2021年6月5日
 https://univ-journal.jp/98443/
@@ -627,6 +691,9 @@ https://univ-journal.jp/98443/
 
 https://gigazine.net/news/20210601-cities-unique-microbial-fingerprints/
 都市には固有の微生物パターンが存在する、指紋のように微生物から都市を特定することも可能 - GIGAZINE
+
+https://www.nikkei.com/article/DGXLRSP611254_Y1A520C2000000/
+慶大、都市の微生物・薬剤耐性遺伝子の世界地図を作製: 日本経済新聞
 
 https://www.keio.ac.jp/ja/press-releases/2021/5/28/28-80215/
 都市の微生物・薬剤耐性遺伝子の世界地図－世界60 都市で収集した約5,000 サンプルのメタゲノム解析－：[慶應義塾]
