@@ -682,6 +682,8 @@ Cell
 A global metagenomic map of urban microbiomes and antimicrobial resistance
 David Danko 1, Daniela Bezdan 2,
 International MetaSUB Consortium
+https://www.sciencedirect.com/science/article/pii/S0092867421005857?via%3Dihub
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238498/
 https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
 
 
@@ -849,11 +851,24 @@ PLoS One
 GutLogo: Agent-based modeling framework to investigate spatial and temporal dynamics in the gut microbiome
 Charlie Lin 1, Joshua Culver 1, Bronson Weston 1, Evan Underhill 1, Jonathan Gorky 1, Prasad Dhurjati 1
 
+----------
+
+JST CREST [コロナ基盤] について
+
+https://www.jst.go.jp/kisoken/crest/research_area/ongoing/bunya2020-5.html
+[コロナ基盤] 異分野融合による新型コロナウイルスをはじめとした感染症との共生に資する技術基盤の創生
+https://www.jst.go.jp/kisoken/crest/project/1111111/1111111_2020.html
+超高感度ウイルス計測に基づく感染症対策データ基盤
+
+研究概要
+新規の超高感度ゲノム増幅技術を活用して様々な都市環境（下水、公共スペース、医療現場など）からウイルスを検出・ゲノム情報を取得し，国際連携する公的データベースやポータルサイトからデータを公開します。またゲノムの変異解析を実施し、流行対策の数理モデルを構築します。総じて，種々の新興感染症にも対応可能なデータ基盤を構築します。
+
+https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20K10436/
+KAKEN — 研究課題をさがす | 2020年東京オリンピック前後の都市マイクロバイオームの変動調査 (KAKENHI-PROJECT-20K10436)
+
 
 
 ----------
-
-
 
 
 
