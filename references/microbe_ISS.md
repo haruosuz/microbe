@@ -48,6 +48,7 @@ Jiseon Yang 1 2, Jennifer Barrila 3 4, C Mark Ott 5, Olivia King 3 4 6, Rebekah 
 https://www.nature.com/articles/s41522-021-00240-5
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8421509/
 
+
 ## 2021-04-29
 https://pubmed.ncbi.nlm.nih.gov/33927037/
 Microbiol Resour Announc
@@ -56,6 +57,16 @@ Draft Genome Sequences of Various Bacterial Phyla Isolated from the Internationa
 Anna C Simpson 1, Camilla Urbaniak 1, Nitin K Singh 1, Jason M Wood 1, Marilyne Debieu 2, Niamh B O'Hara 2 3, Christopher E Mason 4 5, Kasthuri Venkateswaran 6
 https://journals.asm.org/doi/full/10.1128/MRA.00214-21
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086211/
+TABLE 1
+Accession numbers, sampling locations, and assembly details for bacterial strains isolated from the ISS
+
+Acinetobacter pittii
+
+Data availability.
+The WGS data and raw data have been deposited in GenBank under the BioProject accession number PRJNA690512.
+
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA690512
+WGS of bacterial species isolated from the International Space Station during MT-2
 
 ## 2021-03-15
 https://pubmed.ncbi.nlm.nih.gov/33790880/
