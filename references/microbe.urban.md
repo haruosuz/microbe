@@ -14,7 +14,30 @@
 
 https://twitter.com/search?q=bacteria%20urbanization
 
+
 ## 2022
+
+### 2022-12-02
+https://pubmed.ncbi.nlm.nih.gov/36457116/
+Microbiome
+. 2022 Dec 2;10(1):208. doi: 10.1186/s40168-022-01407-8.
+Human microbiota drives hospital-associated antimicrobial resistance dissemination in the urban environment and mirrors patient case rates
+Cecilia Salazar 1, Matias Giménez 1 2, Nadia Riera 1, Andrés Parada 1, Josefina Puig 1, Antonio Galiana 3, Fabio Grill 3, Mariela Vieytes 3, Christopher E Mason 4 5 6, Verónica Antelo 1, Bruno D'Alessandro 7 8, Jimena Risso 7, Gregorio Iraola 9 10 11
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
+
+### 2022-10-20
+
+https://twitter.com/yurigravity/status/1588195221224947713
+yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/36299999/
+iScience
+. 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
+A history of the MetaSUB consortium: Tracking urban microbes around the globe
+Krista A Ryon 1 2, Braden T Tierney 1 2, Alina Frolova 3 4, Andre Kahles 5 6, Christelle Desnues 7, Christos Ouzounis 8, Cynthis Gibas 9, Daniela Bezdan 10 11 12, Youping Deng 13, Ding He 14, Emmanuel Dias-Neto 15, Eran Elhaik 16, Evan Afshin 17, George Grills 18, Gregorio Iraola 19, Haruo Suzuki 20, Johannes Werner 21, Klas Udekwu 22, Lynn Schriml 23, Malay Bhattacharyya 24, Manuela Oliveira 25, Maria Mercedes Zambrano 26, Nur Hazlin Hazrin-Chong 27, Olayinka Osuolale 28, Paweł P Łabaj 29, Prisca Tiasse 29, Sampath Rapuri 30, Silvia Borras 31, Sofya Pozdniakova 31, Tieliu Shi 32, Ugur Sezerman 33, Xavier Rodo 31, Zehra Hazal Sezer 34, Christopher E Mason 17 35
+https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589169/
+https://www.sciencedirect.com/science/article/pii/S2589004222012652
 
 ### 2022-09-19
 
@@ -35,6 +58,15 @@ Meta-Analysis Environ Sci Technol
 City-Scale Meta-Analysis of Indoor Airborne Microbiota Reveals that Taxonomic and Functional Compositions Vary with Building Types
 You Zhou 1, Marcus H Y Leung 1, Xinzhao Tong 1, Justin Y Y Lee 1, Patrick K H Lee 2
 https://pubs.acs.org/doi/10.1021/acs.est.1c03941
+
+### 2021-11-02
+https://pubmed.ncbi.nlm.nih.gov/34724986/
+Microbiome
+. 2021 Nov 2;9(1):213. doi: 10.1186/s40168-021-01166-y.
+M﻿etagenomic insights into the microbial communities of inert and oligotrophic outdoor pier surfaces of a coastal city
+Xinzhao Tong 1, Marcus H Y Leung 1, Zhiyong Shen 1, Justin Y Y Lee 1, Christopher E Mason 2 3 4 5, Patrick K H Lee 6 7
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01166-y
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8562002/
 
 ## 2021-10-30
 
@@ -638,6 +670,7 @@ https://twitter.com/GMFHx/status/1412156842940289032
 GutMicrobiota Health on Twitter: "Urbanization has been associated with health issues. New findings reveal that each city has its own fingerprint of bacteria and viruses with antibiotic-resistance genes encoding proteins that help bacteria fight off antimicrobial compounds https://t.co/iMPOv4D3R1 https://t.co/nLULfe5yTj" / Twitter
 
 ### Danko_2021
+### 2021-05-22
 
 2021年6月5日
 https://univ-journal.jp/98443/
@@ -655,7 +688,6 @@ https://www.keio.ac.jp/ja/press-releases/2021/5/28/28-80215/
 10:58 AM · May 27, 2021
 https://twitter.com/mason_lab/status/1397733925057970177
 Chris Mason on Twitter: "I'm elated to release four @metasub papers today, with new species, data interfaces, &amp; online resources. The first is in @CellCellPress, "A global metagenomic map of urban microbiomes and antimicrobial resistance" led by @dcdanko @Daniela_Bezdan https://t.co/47SB0Hda05" a 🧵 /1" / Twitter
-
 
 
 https://news.cornell.edu/stories/2021/05/weill-cornell-study-new-species-are-all-around-us
@@ -745,16 +777,56 @@ Shamarina D1, Stoyantcheva I1, Mason CE2,3,4, Bibby K5, Elhaik E6.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628477/
 The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.”
 
-https://www.ncbi.nlm.nih.gov/pubmed/27255532
-Microbiome. 2016 Jun 3;4(1):24. doi: 10.1186/s40168-016-0168-z.
-The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.
-MetaSUB International Consortium.
 
-https://www.ncbi.nlm.nih.gov/pubmed/26594662
-Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
-Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
-Afshinnekoo et al.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651444/
+
+### 2016-06-03
+
+https://pubmed.ncbi.nlm.nih.gov/27255532/
+Microbiome
+. 2016 Jun 3;4(1):24. doi: 10.1186/s40168-016-0168-z.
+The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report
+MetaSUB International Consortium
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4894504/
+
+
+### 2015-07-29
+### Afshinnekoo_2015
+
+https://github.com/haruosuz/metasub/tree/master/references
+https://github.com/haruosuz/metasub/blob/master/references/README.md#new-york-subway-microbiome
+
+https://pubmed.ncbi.nlm.nih.gov/26594662/
+Cell Syst
+. 2015 Jul 29;1(1):72-87. doi: 10.1016/j.cels.2015.01.001. Epub 2015 Mar 3.
+Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics
+Ebrahim Afshinnekoo 1, Cem Meydan 2, Shanin Chowdhury 3, Dyala Jaroudi 2, Collin Boyer 2, Nick Bernstein 2, Julia M Maritz 4, Darryl Reeves 5, Jorge Gandara 2, Sagar Chhangawala 2, Sofia Ahsanuddin 6, Amber Simmons 2, Timothy Nessel 7, Bharathi Sundaresh 7, Elizabeth Pereira 7, Ellen Jorgensen 8, Sergios-Orestis Kolokotronis 9, Nell Kirchberger 2, Isaac Garcia 2, David Gandara 2, Sean Dhanraj 10, Tanzina Nawrin 10, Yogesh Saletore 5, Noah Alexander 2, Priyanka Vijay 5, Elizabeth M Hénaff 2, Paul Zumbo 2, Michael Walsh 11, Gregory D O'Mullan 12, Scott Tighe 13, Joel T Dudley 14, Anya Dunaif 15, Sean Ennis 16, Eoghan O'Halloran 17, Tiago R Magalhaes 16, Braden Boone 18, Angela L Jones 18, Theodore R Muth 10, Katie Schneider Paolantonio 4, Elizabeth Alter 19, Eric E Schadt 14, Jeanne Garbarino 15, Robert J Prill 20, Jane M Carlton 4, Shawn Levy 18, Christopher E Mason 21
+https://www.cell.com/cell-systems/fulltext/S2405-4712(15)00002-2
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4651444/
+
+
+
+
+July 31, 2015
+https://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/
+Plague or anthrax on the subway? Think again, says now-corrected study – Retraction Watch
+
+http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen
+The long road from Data to Wisdom, and from DNA to Pathogen – microBEnet: the microbiology of the Built Environment network
+
+FEBRUARY 10, 2015
+ED YONG
+https://www.nationalgeographic.com/science/article/theres-no-plague-on-the-nyc-subway-no-platypuses-either
+There’s No Plague on the NYC Subway. No Platypuses Either.
+
+
+----------
+
+
+### 
+
+
+
 
 
 https://twitter.com/kbts_sci/status/1011571324748042240
@@ -781,37 +853,6 @@ https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
 
 
 
-
-
-----------
-
-https://github.com/haruosuz/metasub/tree/master/references
-https://github.com/haruosuz/metasub/blob/master/references/README.md#new-york-subway-microbiome
-
-### Afshinnekoo_2015
-
-https://pubmed.ncbi.nlm.nih.gov/26594662/
-Cell Syst
-. 2015 Jul 29;1(1):72-87. doi: 10.1016/j.cels.2015.01.001. Epub 2015 Mar 3.
-Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics
-Ebrahim Afshinnekoo 1, Cem Meydan 2, Shanin Chowdhury 3, Dyala Jaroudi 2, Collin Boyer 2, Nick Bernstein 2, Julia M Maritz 4, Darryl Reeves 5, Jorge Gandara 2, Sagar Chhangawala 2, Sofia Ahsanuddin 6, Amber Simmons 2, Timothy Nessel 7, Bharathi Sundaresh 7, Elizabeth Pereira 7, Ellen Jorgensen 8, Sergios-Orestis Kolokotronis 9, Nell Kirchberger 2, Isaac Garcia 2, David Gandara 2, Sean Dhanraj 10, Tanzina Nawrin 10, Yogesh Saletore 5, Noah Alexander 2, Priyanka Vijay 5, Elizabeth M Hénaff 2, Paul Zumbo 2, Michael Walsh 11, Gregory D O'Mullan 12, Scott Tighe 13, Joel T Dudley 14, Anya Dunaif 15, Sean Ennis 16, Eoghan O'Halloran 17, Tiago R Magalhaes 16, Braden Boone 18, Angela L Jones 18, Theodore R Muth 10, Katie Schneider Paolantonio 4, Elizabeth Alter 19, Eric E Schadt 14, Jeanne Garbarino 15, Robert J Prill 20, Jane M Carlton 4, Shawn Levy 18, Christopher E Mason 21
-https://www.cell.com/cell-systems/fulltext/S2405-4712(15)00002-2
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4651444/
-
-
-
-
-July 31, 2015
-https://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/
-Plague or anthrax on the subway? Think again, says now-corrected study – Retraction Watch
-
-http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen
-The long road from Data to Wisdom, and from DNA to Pathogen – microBEnet: the microbiology of the Built Environment network
-
-FEBRUARY 10, 2015
-ED YONG
-https://www.nationalgeographic.com/science/article/theres-no-plague-on-the-nyc-subway-no-platypuses-either
-There’s No Plague on the NYC Subway. No Platypuses Either.
 
 
 
