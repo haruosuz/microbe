@@ -21,13 +21,14 @@ https://ja.wikipedia.org/wiki/建造環境
 - [school](#school) 学校
 - [subway](#subway) 地下鉄
 - [japan](#japan)
-- [people](#people)
-  - [Yanagi](#yanagi) 柳 宇
-  - [jessica_green](#jessica_green)
 - [gym](#gym)
 - [review](#review)
 - [epidemi](#epidemi)
 - [](#)
+- [people](#people)
+  - [kato](#kato) 加藤 信介
+  - [yanagi](#yanagi) 柳 宇
+  - [jessica_green](#jessica_green)
 
 
 ----------
@@ -128,9 +129,11 @@ Program (tentative) - CAMDA 2017
 http://camda2017.bioinf.jku.at/lib/exe/fetch.php/camda2017-Moser.pdf
 
 ----------
-## unclassified
+## people
 
+## 
 http://venus.iis.u-tokyo.ac.jp/introduction/member/index.html
+メンバー | 大岡研究室・菊本研究室
 http://venus.iis.u-tokyo.ac.jp/research/pdf/0303.pdf
 環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
 
@@ -157,6 +160,168 @@ Kato Lab., Ooka Lab., and Kikumoto Lab.
 • 個人の行動パターンや建築レイアウトよりも、建物用途のほう
 が接近機会へ及ぼす影響は高いのではないか
 
+
+http://venus.iis.u-tokyo.ac.jp/introduction/member/personal/Kato_Shinsuke/index.html
+加藤 信介(カトウ シンスケ)
+
+## kato
+加藤 信介  東京都市大学, 工学部, 教授 (00142240)
+
+### 2017-06-30 – 2020-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H06216/
+建築環境マイクロバイオームの実態把握による集団感染機構のモニタリング
+研究期間 (年度)	2017-06-30 – 2020-03-31
+
+2020 研究成果報告書 (  PDF )
+https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17H06216/17H06216seika.pdf
+令和 ３ 年 ６ 月 ２９ 日
+
+https://kaken.nii.ac.jp/ja/report/KAKENHI-PROJECT-17H06216/17H062162018jisseki/
+今後の研究の推進方策	
+本研究は、海外からの人から人への感染症侵入のリスクの高まる2020年の東京オリンピック開催までに一応の結果を出すことを念頭にまず3年間の研究を予定しており、現在までに研究は順調に進捗している。室内環境中のマイクロバイオームの実態調査は、北海道から九州までの日本の主要な都市をカバーし、建物用途としては、感染リスクの高い不特定多数の人々が集まる病院待合室、免疫が低く感染リスクの高い老健施設、小学校、一般のオフィス環境を想定した大学研究室などを対象としているが、この方針は変わりない。今後は、検出されたマイクロバイオームの地域特性や、周囲環境条件との相関を分析することを目指す。
+
+### 2015-04-01 – 2018-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
+環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
+研究期間 (年度)	2015-04-01 – 2018-03-31
+
+2017 実績報告書   研究成果報告書 (  PDF )
+https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-15H02277/15H02277seika.pdf
+平成 ３０ 年 ５ 月 ２６ 日
+
+### 2018/09/12 - 2018/09/14
+https://www.jstage.jst.go.jp/article/shasetaikai/2018.7/0/2018.7_37/_article/-char/ja/
+学校環境におけるマイクロバイオームの実態に関する調査研究　第4報　夏期における細菌叢と室内環境の関連性
+*畑中 未来, 柳 宇, 永野 秀明, 加藤 信介
+抄録
+　筆者らはこれまで大学環境中のマイクロバイオームの実態把握を目的とし、次世代シークエンスを用いて16S rRNA解析を行い、検出された細菌の発育特性や発生源を第3報にて報告した。 　前報に引き続きマイクロバイオームの解析結果と温湿度との比較について述べる。 　調査対象は、第3報で報告した東京都・宮城県・北海道にある3大学のD・E・F教室と第1報・第2報で報告した、都内にある某大学超高層ビルのA・B教室を対象として夏期の浮遊細菌、付着細菌の結果と冬期の浮遊細菌の結果を報告する。
+https://www.jstage.jst.go.jp/article/shasetaikai/2018.7/0/2018.7_37/_pdf/-char/ja
+
+https://www.jstage.jst.go.jp/article/shasetaikai/2017.7/0/2017.7_57/_pdf/-char/en
+学校環境におけるマイクロバイオームの実態に関する調査研究
+第 2 報 秋季における細菌叢と室内環境の関連性
+A Study on The Actual Condition Elucidation of Microbiome in Office Buildings
+Part 2 Relationship between Bacterial Flora and Indoor Environment in Autumn
+学生会員 ○畑中 未来（工学院大学大学院） 正 会 員 柳 宇（工学院大学）
+正 会 員 永野 秀明（東京都市大学） 正会員 加藤 信介（東京大学）
+
+
+### yanagi
+https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
+ヤナギ　ウ
+柳　宇
+
+https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
+２０１６年４月
+建築環境における微生物汚染機構の解明
+とその対策に関する一連の研究
+工学院大学 建築学部 建築学科 教授
+柳 宇，D.P.H.,Dr.Eng.
+
+https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
+社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
+2012.04.30調査研究
+社会福祉施設における粒子状物質と浮遊微生物に関する研究
+研究指導員：柳宇（工学院大学建築学部　教授）
+
+### jessica_green
+
+### 2012-08
+
+### Kembel_2012
+
+https://pubmed.ncbi.nlm.nih.gov/22278670/
+ISME J
+. 2012 Aug;6(8):1469-79. doi: 10.1038/ismej.2011.211. Epub 2012 Jan 26.
+Architectural design influences the diversity and structure of the built environment microbiome
+Steven W Kembel 1, Evan Jones, Jeff Kline, Dale Northcutt, Jason Stenson, Ann M Womack, Brendan Jm Bohannan, G Z Brown, Jessica L Green
+https://www.nature.com/articles/ismej2011211
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3400407/
+
+### phylagen
+
+https://twitter.com/phylagen
+https://phylagen.com/
+Every object & every place has a 
+naturally occurring microbial fingerprint
+
+https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
+This Startup Uses Dust to Fight Sweatshops - leapsmag
+Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
+
+
+### phylagen
+
+https://twitter.com/phylagen
+Phylagen (@phylagen) / Twitter
+
+Aug 19, 2020
+https://www.wbaltv.com/article/phylagen-test-allows-swabs-of-coronavirus-on-surfaces/33632747
+New test allows swabbing for coronavirus on surfaces
+
+5:49 AM · Jul 31, 2020
+https://twitter.com/nbcnewsnow/status/1288939776511336448
+NBC News NOW on Twitter: "New technology developed by @phylagen can detect traces of coronavirus on surfaces and have results within 48 hours, @VickyNguyenTV explains Watch NOW: https://t.co/U4UZMH5vN5 https://t.co/TAWiEFJAP3" / Twitter
+
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+ホコリから生まれた空間デザイン
+鼎談に登場したジェシカ・グリーンによる研究プロジェクト。オフィス内に溜まるホコリを集め、その中に含まれている微生物をラボで分析し、健康的な微生物環境を提供するための新しい建築デザイン手法を探っている。TED2013で研究成果を発表して話題となり、実際に病院や食品加工施設などのデザインプロセスを変えることを目指して、2015年9月にコンサルティング企業「Phylagen Inc.」を立ち上げている。
+
+Nov 9, 2015
+https://www.youtube.com/watch?v=GUfR_81fmLE
+【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+Feb 2013
+http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
+ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
+
+January 2013
+https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
+Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
+
+Jul 2011
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
+ジェシカ・グリーン「微生物を正しく取り除くために」
+
+### roxana_hickey
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
+Microbiome. 2017 Jul 14;5(1):76. doi: 10.1186/s40168-017-0294-2.
+Cleanliness in context: reconciling hygiene with a modern microbial perspective.
+Vandegrift R1,2, Bateman AC3,4, Siemens KN3,4, Nguyen M3,5, Wilson HE3,4, Green JL3,4, Van Den Wymelenberg KG6,7, Hickey RJ3,4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
+
+JANUARY 28, 2016
+http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
+We’re All Sitting in Clouds of Bacteria | Mental Floss
+Jan 25, 2016
+https://www.youtube.com/watch?v=2_ib7Z4bmrg
+Your Very Special Bacterial Cloud - YouTube
+
+Sep 7, 2016
+https://www.youtube.com/watch?v=vbYJlEItP7g
+Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
+
+https://twitter.com/roxana_hickey/status/877713794733973504
+Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
+10:24 PM - 21 Jun 2017
+
+
+
+
+
+
+
+
+----------
+## unclassified
 
 
 2016/03/24
@@ -440,21 +605,6 @@ Author Video: An author video summary of this article is available.
 https://www.youtube.com/watch?v=biSEPK7_ikU
 Chemicals Associated with Microbial Function Indoors - YouTube
 
-2018/09/12 - 2018/09/14
-https://www.jstage.jst.go.jp/article/shasetaikai/2018.7/0/2018.7_37/_article/-char/ja/
-学校環境におけるマイクロバイオームの実態に関する調査研究　第4報　夏期における細菌叢と室内環境の関連性
-*畑中 未来, 柳 宇, 永野 秀明, 加藤 信介
-抄録
-　筆者らはこれまで大学環境中のマイクロバイオームの実態把握を目的とし、次世代シークエンスを用いて16S rRNA解析を行い、検出された細菌の発育特性や発生源を第3報にて報告した。 　前報に引き続きマイクロバイオームの解析結果と温湿度との比較について述べる。 　調査対象は、第3報で報告した東京都・宮城県・北海道にある3大学のD・E・F教室と第1報・第2報で報告した、都内にある某大学超高層ビルのA・B教室を対象として夏期の浮遊細菌、付着細菌の結果と冬期の浮遊細菌の結果を報告する。
-https://www.jstage.jst.go.jp/article/shasetaikai/2018.7/0/2018.7_37/_pdf/-char/ja
-
-https://www.jstage.jst.go.jp/article/shasetaikai/2017.7/0/2017.7_57/_pdf/-char/en
-学校環境におけるマイクロバイオームの実態に関する調査研究
-第 2 報 秋季における細菌叢と室内環境の関連性
-A Study on The Actual Condition Elucidation of Microbiome in Office Buildings
-Part 2 Relationship between Bacterial Flora and Indoor Environment in Autumn
-学生会員 ○畑中 未来（工学院大学大学院） 正 会 員 柳 宇（工学院大学）
-正 会 員 永野 秀明（東京都市大学） 正会員 加藤 信介（東京大学）
 
 ## 2017
 
@@ -549,142 +699,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4276630/
 fitness centers or “gyms”. 
 
 
-
-
-----------
-## people
-
-https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H06216/
-建築環境マイクロバイオームの実態把握による集団感染機構のモニタリング
-研究分野	建築学およびその関連分野
-研究代表者
-加藤 信介  東京都市大学, 工学部, 教授 (00142240)
-研究分担者	
-柳 宇  工学院大学, 建築学部(公私立大学の部局等), 教授 (50370945)
-キーワード	建築環境工学 / 公衆衛生学 / 感染防止 / マイクロバイオーム / 全遺伝子解析 / 建築環境・設備 / 公衆衛生 / 集団感染 / モニタリング
-https://kaken.nii.ac.jp/ja/report/KAKENHI-PROJECT-17H06216/17H062162018jisseki/
-研究実績の概要	
-室内環境中のマイクロバイオームの実態調査は、北海道から九州までの日本の主要な都市をカバーする。
-本年度は、その二年目として、保育施設、小学校、病院、バス車内などの室内における室内空気中及び室内表面のマイクロバイオームを採取し、その組成を遺伝子解析した。その結果、腸内細菌や皮膚常在菌を含むグループであるフィルミクテス門Firmicutesが多く検出され、大腸菌や緑膿菌を含むグループや、腸内や土壌などに広く存在するバクテロイデス門Bacterioidetesも検出された。日和見感染症や呼吸器系疾患の原因菌も検出され、室内環境における疾患リスクが明らかとなった。
-
-今後の研究の推進方策	
-本研究は、海外からの人から人への感染症侵入のリスクの高まる2020年の東京オリンピック開催までに一応の結果を出すことを念頭にまず3年間の研究を予定しており、現在までに研究は順調に進捗している。室内環境中のマイクロバイオームの実態調査は、北海道から九州までの日本の主要な都市をカバーし、建物用途としては、感染リスクの高い不特定多数の人々が集まる病院待合室、免疫が低く感染リスクの高い老健施設、小学校、一般のオフィス環境を想定した大学研究室などを対象としているが、この方針は変わりない。今後は、検出されたマイクロバイオームの地域特性や、周囲環境条件との相関を分析することを目指す。
-
-### Yanagi
-
-https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
-https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
-
-https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
-環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
-研究分野	建築環境・設備
-研究分担者	柳 宇  工学院大学, 建築学部(公私立大学の部局等), 教授 (50370945)
-キーワード	建築環境・設備 / 空気環境 / 建築公衆衛生 / マイクロバイオーム / 集団感染 / 遺伝子解析 / 行動観察 / エージェントシミュレーション / 遺伝子 / 社会医学 / 人間生活環境 / 流体工学
-研究成果の概要	
-本研究は、集団内での病原物質のミクロな伝搬機構を明らかにし、建築公衆衛生の観点から、その伝搬を制御し感染防止に役立てることを目的としている。そのため、室内環境並びに人由来の、①微生物叢（Micro-Biome、マイクロバイオーム）の全遺伝子を直接解析し、病原物質の不活化の過程も考慮してその伝搬を解析し、②人の行動観察により、人の接触による病原物質の伝搬可能性を解析し、③人の行動シミュレーションにより具体的に病原物質の伝搬を予測する手法を開発する。
-
-https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
-２０１６年４月
-建築環境における微生物汚染機構の解明
-とその対策に関する一連の研究
-工学院大学 建築学部 建築学科 教授
-柳 宇，D.P.H.,Dr.Eng.
-
-https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
-社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
-2012.04.30調査研究
-社会福祉施設における粒子状物質と浮遊微生物に関する研究
-研究指導員：柳宇（工学院大学建築学部　教授）
-
-### jessica_green
-
-### 2012-08
-
-### Kembel_2012
-
-https://pubmed.ncbi.nlm.nih.gov/22278670/
-ISME J
-. 2012 Aug;6(8):1469-79. doi: 10.1038/ismej.2011.211. Epub 2012 Jan 26.
-Architectural design influences the diversity and structure of the built environment microbiome
-Steven W Kembel 1, Evan Jones, Jeff Kline, Dale Northcutt, Jason Stenson, Ann M Womack, Brendan Jm Bohannan, G Z Brown, Jessica L Green
-https://www.nature.com/articles/ismej2011211
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3400407/
-
-
-### phylagen
-
-https://twitter.com/phylagen
-https://phylagen.com/
-Every object & every place has a 
-naturally occurring microbial fingerprint
-
-https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
-This Startup Uses Dust to Fight Sweatshops - leapsmag
-Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
-
-
-### phylagen
-
-https://twitter.com/phylagen
-Phylagen (@phylagen) / Twitter
-
-Aug 19, 2020
-https://www.wbaltv.com/article/phylagen-test-allows-swabs-of-coronavirus-on-surfaces/33632747
-New test allows swabbing for coronavirus on surfaces
-
-5:49 AM · Jul 31, 2020
-https://twitter.com/nbcnewsnow/status/1288939776511336448
-NBC News NOW on Twitter: "New technology developed by @phylagen can detect traces of coronavirus on surfaces and have results within 48 hours, @VickyNguyenTV explains Watch NOW: https://t.co/U4UZMH5vN5 https://t.co/TAWiEFJAP3" / Twitter
-
-
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
-これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
-未来のバイオは建築や都市デザインまでも変えてゆく。
-ホコリから生まれた空間デザイン
-鼎談に登場したジェシカ・グリーンによる研究プロジェクト。オフィス内に溜まるホコリを集め、その中に含まれている微生物をラボで分析し、健康的な微生物環境を提供するための新しい建築デザイン手法を探っている。TED2013で研究成果を発表して話題となり、実際に病院や食品加工施設などのデザインプロセスを変えることを目指して、2015年9月にコンサルティング企業「Phylagen Inc.」を立ち上げている。
-
-Nov 9, 2015
-https://www.youtube.com/watch?v=GUfR_81fmLE
-【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
-
-https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
-「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
-
-Feb 2013
-http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
-ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
-
-January 2013
-https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
-Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
-
-Jul 2011
-http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
-ジェシカ・グリーン「微生物を正しく取り除くために」
-
-### roxana_hickey
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
-Microbiome. 2017 Jul 14;5(1):76. doi: 10.1186/s40168-017-0294-2.
-Cleanliness in context: reconciling hygiene with a modern microbial perspective.
-Vandegrift R1,2, Bateman AC3,4, Siemens KN3,4, Nguyen M3,5, Wilson HE3,4, Green JL3,4, Van Den Wymelenberg KG6,7, Hickey RJ3,4.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
-
-JANUARY 28, 2016
-http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
-We’re All Sitting in Clouds of Bacteria | Mental Floss
-Jan 25, 2016
-https://www.youtube.com/watch?v=2_ib7Z4bmrg
-Your Very Special Bacterial Cloud - YouTube
-
-Sep 7, 2016
-https://www.youtube.com/watch?v=vbYJlEItP7g
-Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
-
-https://twitter.com/roxana_hickey/status/877713794733973504
-Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
-10:24 PM - 21 Jun 2017
 
 ----------
 ## epidemi
