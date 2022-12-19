@@ -25,6 +25,9 @@ Human microbiota drives hospital-associated antimicrobial resistance disseminati
 Cecilia Salazar 1, Matias Giménez 1 2, Nadia Riera 1, Andrés Parada 1, Josefina Puig 1, Antonio Galiana 3, Fabio Grill 3, Mariela Vieytes 3, Christopher E Mason 4 5 6, Verónica Antelo 1, Bruno D'Alessandro 7 8, Jimena Risso 7, Gregorio Iraola 9 10 11
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
 
+Montevideo is the capital city of Uruguay,
+モンテビデオはウルグアイの首都
+
 ### 2022-10-20
 
 https://twitter.com/yurigravity/status/1588195221224947713
@@ -67,6 +70,10 @@ M﻿etagenomic insights into the microbial communities of inert and oligotrophic
 Xinzhao Tong 1, Marcus H Y Leung 1, Zhiyong Shen 1, Justin Y Y Lee 1, Christopher E Mason 2 3 4 5, Patrick K H Lee 6 7
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01166-y
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8562002/
+
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA722771/
+Hong Kong pier surface metagenomes
+This study aims to understand the taxonomic composition and functional features of pier surface microbiomes along the costal line of Hong Kong.
 
 ## 2021-10-30
 
@@ -178,11 +185,24 @@ https://mainichi.jp/premier/health/articles/20201026/med/00m/070/002000d
 
 ### 2020-08
 
+### 2020-08-19
+メキシコシティ
+https://pubmed.ncbi.nlm.nih.gov/32813719/
+PLoS One
+. 2020 Aug 19;15(8):e0237272. doi: 10.1371/journal.pone.0237272. eCollection 2020.
+Passenger-surface microbiome interactions in the subway of Mexico City
+Daniela Vargas-Robles 1, Carolina Gonzalez-Cedillo 1 2, Apolinar M Hernandez 1, Luis D Alcaraz 2, Mariana Peimbert 1
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237272
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7437895/
+The platform floor was the most bacterial diverse surface, while the stair handrail and pole were the least diverse ones. After pole cleaning, the resettling of microbial diversity was fast (5–30 minutes); however, it did not resemble the initial composition.
+
+
+### 2020-08-04
+
 August 4, 2020 7.19pm AEST
 https://theconversation.com/biodiversity-loss-could-be-making-us-sick-heres-why-143627
 Biodiversity loss could be making us sick – here's why
 urban microbiome
-
 
 ### 2020-07
 
@@ -312,16 +332,6 @@ http://www.shb.cas.cn/kjjz2016/201902/P020190221614185511412.pdf
 - 潜在的なヒト病原菌の相対的存在量は都市化レベルとともに増加した。
 
 
-都市水域のメタゲノム解析により抗生物質耐性のリザーバーを発見。モンテビデオ市（ウルグアイの首都）の沿岸地域（ビーチと下水サンプルを含む）のショットガン・メタゲノミクス・シーケンスにより、細菌群集と病原性・抗生物質耐性レパートリーを調べた。抗生物質耐性遺伝子 antibiotic resistance genes (ARGs) は細菌の染色体よりも可動性遺伝因子（プラスミド）に広く存在した（Fig. 3）
-https://www.ncbi.nlm.nih.gov/pubmed/30819245
-Microbiome. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
-Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters.
-Fresia P1,2,3, Antelo V1,3, Salazar C1,3, Giménez M1,3,4, D'Alessandro B5, Afshinnekoo E6,7,8, Mason C6,7,9,8, Gonnet GH3,10,11, Iraola G12,13,14,15.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396544/
-RESULTS:
-We shotgun-sequenced 20 coastal areas from the city of Montevideo (capital of Uruguay) including beach and sewage water samples to characterize bacterial communities and their virulence and antibiotic resistance repertories. 
-
-https://github.com/giraola/metagenomics_montevideo
 
 ## 2018
 
@@ -663,6 +673,13 @@ We performed high-throughput 16S rRNA gene sequencing of air and surface samples
 
 Surface samples were collected for three surface types at each station: kiosks, railings, and benches. 
 
+
+
+
+
+
+
+
 ### metasub_2021
 
 6:10 AM · Jul 6, 2021
@@ -754,21 +771,45 @@ https://twitter.com/mason_lab/status/1158704680383524866
 Chris Mason on Twitter: "“Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance.” 635 authors, 58 cities, 3,741 samples, 4,424 microbes, 10,928 novel viral species, 91.4% accuracy for predicting city-of-origin. https://t.co/XXwAmBxq49. Big @metasub data release &amp; @biorxivpreprint" / Twitter
 
 
+### 2020-02-01
 
-https://www.ncbi.nlm.nih.gov/pubmed/32071708
-Comput Struct Biotechnol J. 2020 Feb 1;18:314-322. doi: 10.1016/j.csbj.2020.01.007. eCollection 2020.
-Co-occurrence patterns of bacteria within microbiome of Moscow subway.
-Klimenko NS1,2, Tyakht AV1,2, Toshchakov SV3, Shevchenko MA4, Korzhenkov AA3, Afshinnekoo E5,6,7, Mason CE5,6,7,8, Alexeev DG1,9,10,11.
+ロシア　モスクワの地下鉄
+https://pubmed.ncbi.nlm.nih.gov/32071708/
+Comput Struct Biotechnol J
+. 2020 Feb 1;18:314-322. doi: 10.1016/j.csbj.2020.01.007. eCollection 2020.
+Co-occurrence patterns of bacteria within microbiome of Moscow subway
+Natalia S Klimenko 1 2, Alexander V Tyakht 1 2, Stepan V Toshchakov 3, Margarita A Shevchenko 4, Aleksei A Korzhenkov 3, Ebrahim Afshinnekoo 5 6 7, Christopher E Mason 5 6 7 8, Dmitry G Alexeev 1 9 10 11
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7016200/
+https://www.sciencedirect.com/science/article/pii/S2001037019304106
+
 The study was conducted as a part of The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) project.
 Moscow subway (Russia) 
 
-https://www.ncbi.nlm.nih.gov/pubmed/30819245
-Microbiome. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
-Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters.
-Fresia P1,2,3, Antelo V1,3, Salazar C1,3, Giménez M1,3,4, D'Alessandro B5, Afshinnekoo E6,7,8, Mason C6,7,9,8, Gonnet GH3,10,11, Iraola G12,13,14,15.
+Analysis of associations between surface types and alpha-diversity revealed that the samples collected from the floor are characterised by higher diversity compared to other samples (Mann-Whitney test, FDR-adjusted p = 0.07, N = 40, Fig. 2). 
+
+### 2019-02-28
+
+都市水域のメタゲノム解析により抗生物質耐性のリザーバーを発見。モンテビデオ市（ウルグアイの首都）の沿岸地域（ビーチと下水サンプルを含む）のショットガン・メタゲノミクス・シーケンスにより、細菌群集と病原性・抗生物質耐性レパートリーを調べた。抗生物質耐性遺伝子 antibiotic resistance genes (ARGs) は細菌の染色体よりも可動性遺伝因子（プラスミド）に広く存在した（Fig. 3）
+
+ウルグアイ　モンテビデオ市
+https://pubmed.ncbi.nlm.nih.gov/30819245/
+Microbiome
+. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
+Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters
+Pablo Fresia 1 2 3, Verónica Antelo 1 3, Cecilia Salazar 1 3, Matías Giménez 1 3 4, Bruno D'Alessandro 5, Ebrahim Afshinnekoo 6 7 8, Christopher Mason 6 7 9 8, Gastón H Gonnet 3 10 11, Gregorio Iraola 12 13 14 15
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0648-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396544/
+RESULTS:
+We shotgun-sequenced 20 coastal areas from the city of Montevideo (capital of Uruguay) including beach and sewage water samples to characterize bacterial communities and their virulence and antibiotic resistance repertories. 
+
+Introduction
+
 Indeed, the very recent implementation of this methodology to explore the microbial diversity in the urban environment is providing a completely new layer of information to be integrated in the management of cities, potentially assisting decisions that range from urban design to public health [5, 6].
+
+https://github.com/giraola/metagenomics_montevideo
+
+
+### 2017-10-04
 
 https://www.ncbi.nlm.nih.gov/pubmed/28978331
 Microbiome. 2017 Oct 4;5(1):132. doi: 10.1186/s40168-017-0349-4.
@@ -778,6 +819,19 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628477/
 The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.”
 
 
+
+
+### 2017
+
+CAMDA - ISMB/ECCB 2017
+
+2020/09/05
+https://www.youtube.com/watch?v=jArvFCnnWc8
+Assessment of urban microbiome assemblies with the help of targeted mock communities - Samuel Gerner
+
+2020/09/05
+https://www.youtube.com/watch?v=6lj2oN4BUls&list=PLmX8XnLr6zeE0UuZnqGDpl9DCnsJUr4a_&index=12
+Microbiome Diversity on Materials - Chandrima Bhattacharya
 
 ### 2016-06-03
 
