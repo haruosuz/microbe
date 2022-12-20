@@ -18,15 +18,23 @@ https://twitter.com/search?q=bacteria%20urbanization
 ## 2022
 
 ### 2022-12-02
+ウルグアイの首都・モンテビデオ
 https://pubmed.ncbi.nlm.nih.gov/36457116/
 Microbiome
 . 2022 Dec 2;10(1):208. doi: 10.1186/s40168-022-01407-8.
 Human microbiota drives hospital-associated antimicrobial resistance dissemination in the urban environment and mirrors patient case rates
 Cecilia Salazar 1, Matias Giménez 1 2, Nadia Riera 1, Andrés Parada 1, Josefina Puig 1, Antonio Galiana 3, Fabio Grill 3, Mariela Vieytes 3, Christopher E Mason 4 5 6, Verónica Antelo 1, Bruno D'Alessandro 7 8, Jimena Risso 7, Gregorio Iraola 9 10 11
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
-
 Montevideo is the capital city of Uruguay,
-モンテビデオはウルグアイの首都
+
+### 2022-11
+韓国ソウルのバス停 (n=55) と地下鉄の駅 (n=21) 
+https://pubmed.ncbi.nlm.nih.gov/36257123/
+Ecotoxicol Environ Saf
+. 2022 Nov;246:114176. doi: 10.1016/j.ecoenv.2022.114176. Epub 2022 Oct 17.
+Metagenomic characterization of bacterial community and antibiotic resistance genes found in the mass transit system in Seoul, South Korea
+Robin B Guevarra 1, Juchan Hwang 1, Hyunjung Lee 1, Hyung Jun Kim 1, Yunmi Lee 1, David Danko 2, Krista A Ryon 3, Benjamin Grady Young 2, Christopher E Mason 4, Soojin Jang 5
+https://www.sciencedirect.com/science/article/pii/S0147651322010168?via%3Dihub
 
 ### 2022-10-20
 
@@ -149,38 +157,35 @@ https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7784924/
 
 ### 2020-10
 
-### Roslund_2020-10-14
-
+### 2020-10-14
 https://pubmed.ncbi.nlm.nih.gov/33055153/
 Clinical Trial Sci Adv
 . 2020 Oct 14;6(42):eaba2578. doi: 10.1126/sciadv.aba2578. Print 2020 Oct.
 Biodiversity intervention enhances immune regulation and health-associated commensal microbiota among daycare children
-生物多様性介入により、保育園児の免疫制御と健康関連常在細菌叢が強化される
 Marja I Roslund 1, Riikka Puhakka 1, Mira Grönroos 1, Noora Nurminen 2, Sami Oikarinen 2, Ahmad M Gazali 3, Ondřej Cinek 4, Lenka Kramná 4, Nathan Siter 5, Heli K Vari 1, Laura Soininen 1, Anirudra Parajuli 1, Juho Rajaniemi 5, Tuure Kinnunen 3 6, Olli H Laitinen 2, Heikki Hyöty 2, Aki Sinkkonen 7 8, ADELE research group
 https://advances.sciencemag.org/content/6/42/eaba2578
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7556828/
-As the incidence of immune-mediated diseases has increased rapidly in developed societies, there is an unmet need for novel prophylactic practices to fight against these maladies. This study is the first human intervention trial in which urban environmental biodiversity was manipulated to examine its effects on the commensal microbiome and immunoregulation in children. We analyzed changes in the skin and gut microbiota and blood immune markers of children during a 28-day biodiversity intervention. Children in standard urban and nature-oriented daycare centers were analyzed for comparison. The intervention diversified both the environmental and skin Gammaproteobacterial communities, which, in turn, were associated with increases in plasma TGF-β1 levels and the proportion of regulatory T cells. The plasma IL-10:IL-17A ratio increased among intervention children during the trial. Our findings suggest that biodiversity intervention enhances immunoregulatory pathways and provide an incentive for future prophylactic approaches to reduce the risk of immune-mediated diseases in urban societies.
-先進国社会において免疫介在性疾患の発生率が急速に増加しており、これらの疾患と闘うための新しい予防法のニーズが満たされていない状況である。本研究は、都市環境の生物多様性を操作し、それが子どもの常在細菌叢と免疫調節に及ぼす影響を調べる、初のヒト介入試験である。28日間の生物多様性介入期間中の子どもの皮膚・腸内細菌叢と血中免疫マーカーの変化を分析した。比較のため、標準的な都市型保育所と自然志向の保育所の子どもたちを分析した。介入により環境と皮膚のガンマプロテオ細菌群集が多様化し、それが血漿中TGF-β1濃度および制御性T細胞の割合の上昇と関連した。血漿中IL-10:IL-17A比は試験期間中、介入児で増加した。この結果は、生物多様性の介入が免疫制御経路を強化することを示唆し、都市社会における免疫介在性疾患のリスクを低減するための将来の予防的アプローチへのインセンティブを提供するものである。
+
+2020.10.29
+https://project.nikkeibp.co.jp/behealth/atcl/news/overseas/00033/
+森の自然を取り込んだ園庭が園児の免疫を改善か、フィンランド自然資源研究所｜
+子どもの体の細菌叢に多様化をもたらし、免疫機能も改善される可能性
+
 
 10:00 AM · Oct 27, 2020
 https://twitter.com/Alien_Evolve/status/1320892981444890624
 深野　祐也 on Twitter: "これはすごい。これまで生活環境が、人間の微生物相と免疫関係の疾患に与えることは色々示唆されていたものの、観察研究がほとんどで明確な因果関係は不明だった。この研究は、保育園の園庭を自然豊かにする介入試験を行って、因果関係を明確にしている。 論文：https://t.co/HSYwCZcREz" / Twitter
 もちろん、園庭を自然を豊かにすることは色々なデメリット（怪我など）もあると思いますが、「都市社会における免疫関連疾患のリスクを低減するための予防的アプローチへのインセンティブを提案する」素晴らしい研究だと思います。
 
-9:40 AM · Oct 27, 2020
-https://twitter.com/mainichi/status/1320887939220451329
-毎日新聞 on Twitter: "フィンランドの研究で、保育園の園庭を森の土や植物のある自然豊かな環境に変えたところ、園児の炎症レベルが低下し、免疫機能の改善が認められたといいます。研究結果の詳報です。 https://t.co/kQKPWxsYYi" / Twitter
+### 2020-10-01
 
-2020年10月27日
-https://mainichi.jp/premier/health/articles/20201026/med/00m/070/002000d
+https://pubmed.ncbi.nlm.nih.gov/32620964/
+J Antimicrob Chemother
+. 2020 Oct 1;75(10):2769-2772. doi: 10.1093/jac/dkaa260.
+A public health concern: emergence of carbapenem-resistant Klebsiella pneumoniae in a public transportation environment
+Tingting Cao 1, Yuanyuan Liu 1, Yiming Li 1, Yang Wang 1, Zhangqi Shen 1, Bin Shao 1 2, Timothy R Walsh 3, Jianzhong Shen 1, Shaolin Wang 1
+https://academic.oup.com/jac/article/75/10/2769/5867249
 
-　子どもの免疫システムを強化したいなら、泥遊びをさせると良いかもしれない。フィンランドの研究で、保育園の園庭を、森の土や植物のある自然豊かな環境に変えたところ、園児の炎症レベルが低下し、免疫機能の改善が認められたからだ。フィンランド自然資源研究所のAki Sinkkonen氏らが実施したこの研究の詳細は、「Science Advances」10月14日オンライン版に発表された。
-
-　近代的な生活と免疫機能の関係については、これまで多くの研究が実施され、その結果が報告されている。例えば、農場での生活経験（特に小児期の）がアレルギーリスクの低下に関連することや、近代に入って普及した抗菌作用のある石鹸の使用や加工肉の摂取、抗菌薬の使用などが、身体の細菌叢の多様性を低下させる可能性が示唆されている。
-
-この記事は有料記事です。
-
-残り1509文字（全文1858文字）
 
 
 ### 2020-08
