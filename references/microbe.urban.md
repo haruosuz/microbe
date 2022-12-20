@@ -286,28 +286,43 @@ Farm dust microbes linked with reduced asthma in city children
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14694
 In search of microbial indicator taxa: shifts in stream bacterial communities along an urbanization gradient
 
-https://twitter.com/leungmarcus/status/1125925446187606022
-New work from @andyhois @yeipijotape @gilbertjacka and colleagues published @MicrobiomeJ
-https://www.ncbi.nlm.nih.gov/pubmed/31046835
-Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
-Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
-Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
+
+----------
+### 2019-05-02
+
+https://pubmed.ncbi.nlm.nih.gov/31046835/
+Microbiome
+. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
+Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets
+Anukriti Sharma 1, Miles Richardson 1, Lauren Cralle 1, Christopher E Stamper 2, Juan P Maestre 3, Kelly A Stearns-Yoder 4 5 6, Teodor T Postolache 5 6 7 8, Katherine L Bates 6 9, Kerry A Kinney 3, Lisa A Brenner 4 5 6 10, Christopher A Lowry 2 4 5 6 11 12, Jack A Gilbert 1, Andrew J Hoisington 13 14 15
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0686-6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6498636/
+米国空軍士官候補生コホートにおける居住者と建築環境の両者間のマイクロバイオームの縦断的均質化の研究
 
 
+----------
+### 2019-03-11
+
+https://www.frontiersin.org/articles/10.3389/fevo.2019.00043/full
 Front. Ecol. Evol., 11 March 2019 | https://doi.org/10.3389/fevo.2019.00043
 Spatiotemporal Controls on the Urban Aerobiome
 Gwynne Á. Mhuireach1,2*, Clarisse M. Betancourt-Román2,3, Jessica L. Green2 and Bart R. Johnson1,4
 
+----------
+### 2019-02-27
 
 臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
-https://twitter.com/susanprescott88/status/1101464494151294977
-Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
-7:49 AM - 1 Mar 2019
-https://www.ncbi.nlm.nih.gov/pubmed/30814504
-Nat Commun. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
-Man-made microbial resistances in built environments.
-Mahnert A1, Moissl-Eichinger C2,3, Zojer M4, Bogumil D5, Mizrahi I5, Rattei T4, Martinez JL6, Berg G7,3.
+
+https://pubmed.ncbi.nlm.nih.gov/30814504/
+Nat Commun
+. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
+Man-made microbial resistances in built environments
+Alexander Mahnert 1, Christine Moissl-Eichinger 2 3, Markus Zojer 4, David Bogumil 5, Itzhak Mizrahi 5, Thomas Rattei 4, José Luis Martinez 6, Gabriele Berg 7 3
+https://www.nature.com/articles/s41467-019-08864-0
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
+Our results highlight that the loss of microbial diversity correlates with an increase in resistance, and the need for implementing strategies to restore bacterial diversity in certain built environments.
+
+----------
 
 
 https://twitter.com/ForbesScience/status/1100783871237464064
@@ -336,21 +351,9 @@ http://www.shb.cas.cn/kjjz2016/201902/P020190221614185511412.pdf
 - 病原菌と空中浮遊細菌の群集は、都市化レベルが異なる場所で異なった。
 - 潜在的なヒト病原菌の相対的存在量は都市化レベルとともに増加した。
 
-
-
+----------
 ## 2018
-
-### Parajuli_2018
-
-https://pubmed.ncbi.nlm.nih.gov/29467728/
-Front Microbiol
-. 2018 Feb 5;9:84. doi: 10.3389/fmicb.2018.00084. eCollection 2018.
-Urbanization Reduces Transfer of Diverse Environmental Microbiota Indoors
-Anirudra Parajuli 1, Mira Grönroos 1, Nathan Siter 2, Riikka Puhakka 1, Heli K Vari 1, Marja I Roslund 1, Ari Jumpponen 3, Noora Nurminen 4, Olli H Laitinen 4, Heikki Hyöty 4 5, Juho Rajaniemi 2, Aki Sinkkonen 1
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5808279/
-https://www.frontiersin.org/articles/10.3389/fmicb.2018.00084/full
-
-
+----------
 
 ### 
 
@@ -370,8 +373,25 @@ https://shorebird.hatenablog.com/entry/20180509/1525863616
 第20章　ダーウィンとともにデザインする
 この章も日本の話題から始まっている．六本木ヒルズにある屋上庭園を好意的に紹介し，このようなビルの周囲に緑を有機的に取り込む動きを解説する．アクロス福岡，シンガポールのCDLツリーハウス，ミラノのヴォスコ・ヴェルティカーレ，マンハッタンのローライン地下庭園プロジェクト，ベルリンのヒルデガルテンなどの取り組みを挙げ，このような都市計画や建築計画におけるグリーンムーブメントの様々な利点を説明する．しかしスヒルトハウゼンはこれまでのこのような動きは都市環境における進化を考慮していないと指摘し，このような計画のダーウィニアンガイドラインを提唱している．
 
+----------
+
+### Parajuli_2018
+### 2018-02-05
+
+https://pubmed.ncbi.nlm.nih.gov/29467728/
+Front Microbiol
+. 2018 Feb 5;9:84. doi: 10.3389/fmicb.2018.00084. eCollection 2018.
+Urbanization Reduces Transfer of Diverse Environmental Microbiota Indoors
+Anirudra Parajuli 1, Mira Grönroos 1, Nathan Siter 2, Riikka Puhakka 1, Heli K Vari 1, Marja I Roslund 1, Ari Jumpponen 3, Noora Nurminen 4, Olli H Laitinen 4, Heikki Hyöty 4 5, Juho Rajaniemi 2, Aki Sinkkonen 1
+https://www.frontiersin.org/articles/10.3389/fmicb.2018.00084/full
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5808279/
+
+----------
+
+### 2018-07-31
 
 香港
+Hong Kong Mass Transit Railway (MTR) system
 https://www.ncbi.nlm.nih.gov/pubmed/30067975
 Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
 The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
