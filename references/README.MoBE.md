@@ -33,10 +33,13 @@ https://ja.wikipedia.org/wiki/建造環境
 
 ----------
 
-
 https://www.mdpi.com/journal/microorganisms/special_issues/Y4SAOE14JW
 Microorganisms | Special Issue : Microbial Exposure Assessments in Different Occupational and Indoor Settings
 Deadline for manuscript submissions: 15 March 2023 
+
+
+https://www.biomedcentral.com/collections/builtenvironment
+Microbiology of the Built Environment
 
 
 404 - Page not found
@@ -47,10 +50,34 @@ Submission Deadlines
 31 August 2021	Manuscript Extension
 
 
-https://www.biomedcentral.com/collections/builtenvironment
-Microbiology of the Built Environment
+7:00 AM · Aug 2, 2019
+https://twitter.com/NatureJapan/status/1157048360349495296
+Nature Japan on Twitter: "Scientific Reports ゲスト・エディター・コレクション -「建造環境における微生物」に関する投稿論文を募集。建物、輸送車両、水処理施設、建築設備など、建造環境とインフラストラクチャーで見られる微生物のあらゆる側面に関する研究を歓迎します。投稿は2019年9月末まで。https://t.co/w6noTLDWyG https://t.co/dD5JMFHO1U" / Twitter
 
 ----------
+
+https://prtimes.jp/main/html/rd/p/000000080.000009276.html
+リビングルームのホコリ１ｇ中に、約10万個の菌・約6万個のカビを確認 花王が家庭のホコリを調査｜花王株式会社（花王MKニュース）のプレスリリース
+2014年8月6日 17時00分
+
+### 2021-06-27
+https://ir.lib.hiroshima-u.ac.jp/files/public/5/51490/20211015142546977454/FAQMBE_NBK519802_transver_FujiyoshiMaruyama.pdf
+FAQ
+Microbiology of Built Environments
+「本文は Anne S. Marsh、FAQ Microbiology of Built Environments、Report on an American Academy of Microbiology Colloquium held in Washington, DC, in September 2015、Bookshelf ID: NBK519802 PMID: 30176129 DOI: 10.1128/AAMCol.Sept.2015 を日本語に翻訳したものである。」
+翻訳・文責 広島大学 藤吉奏・丸山史人 2021.6.27
+この翻訳者はアメリカ微生物学会より以下のような特別な許可を得ています。
+
+### 2016
+https://pubmed.ncbi.nlm.nih.gov/30176129/
+Review
+FAQ: Microbiology of Built Environments: Report on an American Academy of Microbiology Colloquium held in Washington, DC, in September 2015
+Anne S. Marsh 1
+https://www.ncbi.nlm.nih.gov/books/NBK519802/
+FAQ: Microbiology of Built Environments - NCBI Bookshelf
+
+----------
+
 
 https://caddetailsblog.com/post/the-new-architectural-frontier-buildings-and-their-microbiomes
 The New Architectural Frontier: Buildings and Their Microbiomes | Design Ideas for the Built World
@@ -545,7 +572,21 @@ Microbial Exchange via Fomites and Implications for Human Health
 Conclusions
 This review summarizes our understanding of fomite contamination, microbial survival, microbial exchange, and associated human health risks in the built environment. 
 
-### 2019_02_27
+
+----------
+### 2019-05-02
+
+https://pubmed.ncbi.nlm.nih.gov/31046835/
+Microbiome
+. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
+Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets
+Anukriti Sharma 1, Miles Richardson 1, Lauren Cralle 1, Christopher E Stamper 2, Juan P Maestre 3, Kelly A Stearns-Yoder 4 5 6, Teodor T Postolache 5 6 7 8, Katherine L Bates 6 9, Kerry A Kinney 3, Lisa A Brenner 4 5 6 10, Christopher A Lowry 2 4 5 6 11 12, Jack A Gilbert 1, Andrew J Hoisington 13 14 15
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0686-6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6498636/
+米国空軍士官候補生コホートにおける居住者と建築環境の両者間のマイクロバイオームの縦断的均質化の研究
+
+----------
+### 2019-02-27
 ### Mahnert_2019
 
 臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
@@ -557,26 +598,23 @@ Man-made microbial resistances in built environments
 Alexander Mahnert 1, Christine Moissl-Eichinger 2 3, Markus Zojer 4, David Bogumil 5, Itzhak Mizrahi 5, Thomas Rattei 4, José Luis Martinez 6, Gabriele Berg 7 3
 https://www.nature.com/articles/s41467-019-08864-0
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
+Our results highlight that the loss of microbial diversity correlates with an increase in resistance, and the need for implementing strategies to restore bacterial diversity in certain built environments.
 
 9:49 PM · Mar 1, 2019
 https://twitter.com/susanprescott88/status/1101464494151294977
 Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
 
-
-
-
-
-
-### 2019_01
-
+----------
+### 2019-01-28
 
 https://twitter.com/copypasteusa/status/1093071982155845632
 人工環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
 
-https://www.ncbi.nlm.nih.gov/pubmed/30691394
-BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
-Comparative genomics of Bacteria commonly identified in the built environment.
-Merino N, Zhang S, Tomita M, Suzuki H.
+https://pubmed.ncbi.nlm.nih.gov/30691394/
+Comparative Study BMC Genomics
+. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment
+Nancy Merino 1 2, Shu Zhang 3 4, Masaru Tomita 5 6, Haruo Suzuki 7 8
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 
@@ -590,7 +628,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 結論
 調査した4つのゲノムの特徴のうち、（翻訳の効率と正確度に関連する）高発現遺伝子のコドン使用バイアス（S値）は、人工環境に生息する細菌のライフスタイルを理解する上でより重要な役割を果たす可能性がある。S値は、細菌の増殖速度、遺伝子発現、人工環境における増殖条件（温度、湿度、栄養素など）によって影響を受ける他の潜在的要因を反映し得る。しかし、人工環境の細菌のライフスタイルとゲノムの特徴との間の関係をより明らかにするためには、さらなる実験的証拠、細菌の種レベルの研究、人工環境の分類が必要とされる。
 
-
+----------
 ## 2018
 
 https://pubmed.ncbi.nlm.nih.gov/30574558/
