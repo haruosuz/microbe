@@ -14,6 +14,18 @@
 
 https://twitter.com/search?q=bacteria%20urbanization
 
+----------
+
+## 2023
+
+8:04 PM · Jan 3, 2023
+https://twitter.com/cnn_co_jp/status/1610230618092175360
+cnn_co_jp on Twitter: "街の中心部に野生環境を、各地で進む「都市の再野生化」 https://t.co/ejfCLo5HAj" / Twitter
+2023.01.03 Tue posted at 20:01 JST
+https://www.cnn.co.jp/fringe/35196924.html
+https://www.cnn.co.jp/fringe/35196924-2.html
+
+----------
 
 ## 2022
 
@@ -25,6 +37,7 @@ Microbiome
 Human microbiota drives hospital-associated antimicrobial resistance dissemination in the urban environment and mirrors patient case rates
 Cecilia Salazar 1, Matias Giménez 1 2, Nadia Riera 1, Andrés Parada 1, Josefina Puig 1, Antonio Galiana 3, Fabio Grill 3, Mariela Vieytes 3, Christopher E Mason 4 5 6, Verónica Antelo 1, Bruno D'Alessandro 7 8, Jimena Risso 7, Gregorio Iraola 9 10 11
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9715416/
 Montevideo is the capital city of Uruguay,
 
 ### 2022-11
@@ -59,7 +72,18 @@ Sept. 19, 2022
 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban
 Metro Microbes: Microbiomes of Public Transit & Urban Spaces
 
+### 2022-05-01
+
+https://pubmed.ncbi.nlm.nih.gov/34637759/
+Environ Res
+. 2022 May 1;207:112183. doi: 10.1016/j.envres.2021.112183. Epub 2021 Oct 9.
+Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association
+Jun Wu 1, David Danko 2, Ebrahim Afshinnekoo 2, Daniela Bezdan 2, Malay Bhattacharyya 3, Eduardo Castro-Nallar 4, Agnieszka Chmielarczyk 5, Nur Hazlin Hazrin-Chong 6, Youping Deng 7, Emmanuel Dias-Neto 8, Alina Frolova 9, Gabriella Mason-Buck 10, Gregorio Iraola 11, Soojin Jang 12, Paweł Łabaj 13, Patrick K H Lee 14, Marina Nieto-Caballero 15, Olayinka O Osuolale 16, Christos A Ouzounis 17, Michael H Perlin 18, Bharath Prithiviraj 19, Nicolás Rascovan 20, Anna Różańska 5, Lynn M Schriml 21, Torsten Semmler 22, Haruo Suzuki 23, Juan A Ugalde 24, Ben Young 2, Johannes Werner 25, Maria Mercedes Zambrano 26, Yongxiang Zhao 27, Christopher Mason 2, Tieliu Shi 28; MetaSUB Consortium
+https://www.sciencedirect.com/science/article/abs/pii/S0013935121014845
+
+----------
 ## 2021
+----------
 
 ## 2021-11-16
 
@@ -83,15 +107,6 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA722771/
 Hong Kong pier surface metagenomes
 This study aims to understand the taxonomic composition and functional features of pier surface microbiomes along the costal line of Hong Kong.
 
-## 2021-10-30
-
-2:05 PM · Oct 30, 2021
-https://twitter.com/KawataMasakado/status/1454313530375622656
-Masakado Kawata on Twitter: "生物多様性は感染症リスクを減少させるのかどうかについては国外では論争になっています。最近の論文をレビューして紹介しました。 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/PRlRGhMtI9" / Twitter
-2021年10月30日 10:03
-https://note.com/masakadokawata/n/n9aaf1270abc2
-生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭｜note
-
 ## 2021-08
 
 https://twitter.com/ASMicrobiology/status/1423735679016742912
@@ -101,6 +116,8 @@ https://asm.org/Articles/2021/August/How-Urban-Microbiomes-Contribute-to-the-Eco
 How Urban Microbiomes Contribute to the Ecology of City Life
 
 ### 2021-07
+
+### 2021-07-10
 ### Selway_2021
 
 https://pubmed.ncbi.nlm.nih.gov/33677303/
@@ -109,11 +126,6 @@ Sci Total Environ
 Land-use types shape soil microbial compositions under rapid urbanization in the Xiong'an New Area, China
 Can Wang 1, Abolfazl Masoudi 1, Min Wang 1, Jia Yang 1, Zhijun Yu 2, Jingze Liu 3
 https://www.sciencedirect.com/science/article/abs/pii/S0048969721010433?via%3Dihub
-
-https://twitter.com/MicrobiomDigest/status/1414996478959915009
-Elisabeth Bik on Twitter: "Microbiome Digest July 11, 2021, by @ashoks773 * Extraction methods for canine urine * Outdoor environments and butyrate producing bacteria * Gut microbiome heritability * Soil microbiome and urbanization * Pipeline for RNA-Seq microbiome data https://t.co/hJxeiiMO2t" / Twitter
-https://microbiomedigest.com/2021/07/11/july-11-2021/
-Land-use types shape soil microbial compositions under rapid urbanization in the Xiong’an New Area, China – Can Wang – Science of The Total Environment
 
 ### 2021-06
 
@@ -125,9 +137,17 @@ Melissa R Marselle 1, Sarah J Lindley 2, Penny A Cook 3, Aletta Bonn 4 5 6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8115992/
 https://link.springer.com/article/10.1007/s40572-021-00313-9
 
-### 2021-02
+## 2021-10-30
 
-2021.02.09 TUE
+2:05 PM · Oct 30, 2021
+https://twitter.com/KawataMasakado/status/1454313530375622656
+Masakado Kawata on Twitter: "生物多様性は感染症リスクを減少させるのかどうかについては国外では論争になっています。最近の論文をレビューして紹介しました。 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/PRlRGhMtI9" / Twitter
+2021年10月30日 10:03
+https://note.com/masakadokawata/n/n9aaf1270abc2
+生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭｜note
+
+### 2021-02-09
+
 https://hillslife.jp/learning/2021/02/09/how-to-make-urban-biotope/
 都市こそ生物進化のフロンティア!?——進化生態学者・岸由二に聞く、未来の生物多様性都市｜ヒルズライフ HILLS LIFE
 
@@ -142,7 +162,8 @@ Environ Int
 . 2020 Dec;145:106084. doi: 10.1016/j.envint.2020.106084. Epub 2020 Sep 22.
 Transfer of environmental microbes to the skin and respiratory tract of humans after urban green space exposure
 Caitlin A Selway 1, Jacob G Mills 2, Philip Weinstein 3, Chris Skelly 4, Sudesh Yadav 5, Andrew Lowe 6, Martin F Breed 7, Laura S Weyrich 8
-https://www.sciencedirect.com/science/article/pii/S0160412020320390?via%3Dihub
+https://www.sciencedirect.com/science/article/pii/S0160412020320390
+
 
 ### 2020-11
 ### Abrego_2020
@@ -281,23 +302,26 @@ Farm dust microbes linked with reduced asthma in city children
 都会環境に住む子どもを、農家と似た微生物相を持つハウスダストに曝露してやると、喘息発症が減る可能性があることが分かった。
 
 
-都市化傾度に沿った河川細菌群集の変化
-24 May 2019
-https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14694
-In search of microbial indicator taxa: shifts in stream bacterial communities along an urbanization gradient
+----------
+## 2019-05-24
 
+https://pubmed.ncbi.nlm.nih.gov/31125479/
+Environ Microbiol
+. 2019 Oct;21(10):3653-3668. doi: 10.1111/1462-2920.14694. Epub 2019 Jun 30.
+In search of microbial indicator taxa: shifts in stream bacterial communities along an urbanization gradient
+Marie Simonin 1, Kristofor A Voss 2, Brooke A Hassett 3, Jennifer D Rocca 1, Si-Yi Wang 1, Raven L Bier 1, Christy R Violin 1 4, Justin P Wright 1, Emily S Bernhardt 1
+https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.14694
+First published: 24 May 2019
 
 ----------
-### 2019-05-02
+## 2019-05-15
 
-https://pubmed.ncbi.nlm.nih.gov/31046835/
-Microbiome
-. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
-Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets
-Anukriti Sharma 1, Miles Richardson 1, Lauren Cralle 1, Christopher E Stamper 2, Juan P Maestre 3, Kelly A Stearns-Yoder 4 5 6, Teodor T Postolache 5 6 7 8, Katherine L Bates 6 9, Kerry A Kinney 3, Lisa A Brenner 4 5 6 10, Christopher A Lowry 2 4 5 6 11 12, Jack A Gilbert 1, Andrew J Hoisington 13 14 15
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0686-6
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6498636/
-米国空軍士官候補生コホートにおける居住者と建築環境の両者間のマイクロバイオームの縦断的均質化の研究
+https://pubmed.ncbi.nlm.nih.gov/30772579/
+Sci Total Environ
+. 2019 May 15;665:61-68. doi: 10.1016/j.scitotenv.2019.01.367. Epub 2019 Feb 3.
+Spatial and seasonal variation of the airborne microbiome in a rapidly developing city of China
+Hu Li 1, Xin-Yuan Zhou 1, Xiao-Ru Yang 1, Yong-Guan Zhu 2, You-Wei Hong 3, Jian-Qiang Su 4
+https://www.sciencedirect.com/science/article/abs/pii/S0048969719304176
 
 
 ----------
@@ -307,49 +331,6 @@ https://www.frontiersin.org/articles/10.3389/fevo.2019.00043/full
 Front. Ecol. Evol., 11 March 2019 | https://doi.org/10.3389/fevo.2019.00043
 Spatiotemporal Controls on the Urban Aerobiome
 Gwynne Á. Mhuireach1,2*, Clarisse M. Betancourt-Román2,3, Jessica L. Green2 and Bart R. Johnson1,4
-
-----------
-### 2019-02-27
-
-臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
-
-https://pubmed.ncbi.nlm.nih.gov/30814504/
-Nat Commun
-. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
-Man-made microbial resistances in built environments
-Alexander Mahnert 1, Christine Moissl-Eichinger 2 3, Markus Zojer 4, David Bogumil 5, Itzhak Mizrahi 5, Thomas Rattei 4, José Luis Martinez 6, Gabriele Berg 7 3
-https://www.nature.com/articles/s41467-019-08864-0
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
-Our results highlight that the loss of microbial diversity correlates with an increase in resistance, and the need for implementing strategies to restore bacterial diversity in certain built environments.
-
-----------
-
-
-https://twitter.com/ForbesScience/status/1100783871237464064
-Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
-10:45 AM - 27 Feb 2019
-https://twitter.com/LinhAnhCat/status/1100140109641306112
-Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization increases both number of airborne microbes and proportion of pathogenic bacteria, increasing risks to human health. https://t.co/QoaHxEVV6z"
-4:06 PM - 25 Feb 2019
-https://twitter.com/SfAMtweets/status/1100413682754801675
-SfAM Microbiology on Twitter: "'Another reason why urban and suburban sites have more pathogenic bacteria compared to rural zones are the differences in biological sources of bacteria. In cities, humans incubate and shed bacteria that contribute to the urban air microbiome.' https://t.co/jD9E77L0la"
-10:14 AM - 26 Feb 2019
-都市化は空気中の感染性微生物を増加させる。
-急速に発展している中国の都市（廈門市）で行われた研究は、都市化が空気中の病原菌の割合と空中浮遊微生物の全体量を増加させることを発見した。特に夏季に、都市化に伴って人の健康に対する空中浮遊微生物のリスクが高まる。
-https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes
-Urbanization Increases Infectious Microbes In The Air
-急速に発展している中国の都市における空中浮遊微生物叢の空間的および季節的変動
-https://www.ncbi.nlm.nih.gov/pubmed/30772579
-Sci Total Environ. 2019 May 15;665:61-68. doi: 10.1016/j.scitotenv.2019.01.367. Epub 2019 Feb 3.
-Spatial and seasonal variation of the airborne microbiome in a rapidly developing city of China.
-Li H1, Zhou XY1, Yang XR1, Zhu YG2, Hong YW3, Su JQ4.
-https://www.sciencedirect.com/science/article/pii/S0048969719304176
-http://www.shb.cas.cn/kjjz2016/201902/P020190221614185511412.pdf
-ハイライト
-- FirmicutesとProteobacteriaは空中浮遊細菌群集で優占していた。
-- 空中浮遊菌は春と比べて夏の方が多様性が高かった。
-- 病原菌と空中浮遊細菌の群集は、都市化レベルが異なる場所で異なった。
-- 潜在的なヒト病原菌の相対的存在量は都市化レベルとともに増加した。
 
 ----------
 ## 2018
@@ -404,6 +385,7 @@ https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#hong-k
 ### 2017
 ----------
 
+### 2017-05-09
 
 https://pubmed.ncbi.nlm.nih.gov/28486462/
 Nat Biotechnol
@@ -412,20 +394,11 @@ Living in a microbial world
 Charles Schmidt
 https://www.nature.com/articles/nbt.3868
 
-But whereas companies are already marketing probiotics targeting the gut microbiome, commercial applications for the built environment are still years away, cautions Jack Gilbert,
-しかし、腸内のマイクロバイオームをターゲットにしたプロバイオティクスを販売している企業はすでにありますが、建築環境への商業的な応用はまだ何年も先のことだと、ジャック・ギルバート氏は注意を促しています。
-
-
-Whether it's possible to capitalize on microbiome research by developing health-promoting probiotics for interior living spaces is still unknown, though studies have shown that bacteria that are closely related to human pathogens tend to be more common indoors than outdoors, particularly in rooms with poor ventilation16. Similarly, scientists have found that antibiotic resistance genes accumulate in indoor dust samples from areas with high use of triclosan, a commercial antimicrobial commonly found in soaps, toothpaste, detergents and toys4. At least one company, called Better Air, in Hollywood, Florida, is already marketing so-called environmental probiotics that it claims will promote a healthy indoor microbiome, though sources interviewed for this story doubt that its product has any value. According to Better Air's website, “within a few days, the probiotic will take over the microbial indoor environment, consume resources available to other pathogens, allergens and mold and create a protective microflora on every object in the environment.” Responding to e-mailed questions, Better Air's CEO, Taly Dery, described the probiotic as “proprietary, but consisting of strains from the bacillus family.” However, according to Gilbert, until scientists define specifically what constitutes a healthy indoor microbiome, commercial indoor probiotics will be “totally unproven with regard to treating disease or maintaining health.”
-マイクロバイオームの研究を利用して、室内の居住空間に健康を促進するプロバイオティクスを開発することが可能かどうかはまだ不明ですが、人間の病原体と密接な関係にある細菌は、屋外よりも室内、特に換気の悪い部屋に多く存在する傾向があるという研究結果があります16。同様に、科学者たちは、石鹸、歯磨き粉、洗剤、おもちゃなどによく含まれる商業用抗菌剤であるトリクロサンが多く使用されている地域の室内塵サンプルに、抗生物質耐性遺伝子が蓄積されていることを発見しています4。少なくとも、フロリダ州ハリウッドにある「Better Air」という会社は、いわゆる環境プロバイオティクスを販売しており、室内の健康的なマイクロバイオームを促進すると主張しているが、この記事のために取材した情報源は、この製品に価値があるかどうか疑っている。Better Air社のウェブサイトによると、"数日以内にプロバイオティクスが室内の微生物環境を支配し、他の病原体やアレルゲン、カビなどが利用できる資源を消費し、環境内のあらゆる物体に保護的なマイクロフローラを作り出す "という。メールでの質問に答えたBetter Air社のCEO、Taly Dery氏は、このプロバイオティクスを "独自のものだが、バチルス科の菌株で構成されている "と説明しています。しかし、ギルバート氏によると、科学者が健康的な室内のマイクロバイオームを構成するものを具体的に定義するまでは、市販の室内用プロバイオティクスは "病気の治療や健康の維持に関しては全く証明されていない "とのことです。
-
-
-
+### 
 
 ----------
-
 ### 2016
-
+----------
 
 ### 2016-06
 
