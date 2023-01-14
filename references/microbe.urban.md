@@ -590,8 +590,6 @@ https://pubmed.ncbi.nlm.nih.gov/33712587/
 Nat Commun
 . 2021 Mar 12;12(1):1660. doi: 10.1038/s41467-021-21361-7.
 Shotgun transcriptome, spatial omics, and isothermal profiling of SARS-CoV-2 infection reveals unique host responses, viral diversification, and drug interactions
-Daniel Butler # 1, Christopher Mozsary # 1, Cem Meydan # 1 2 3, Jonathan Foox # 1 2, 
-, Christopher E Mason 39 40 41 42
 https://www.nature.com/articles/s41467-021-21361-7
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7954844/
 
