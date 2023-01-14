@@ -5,6 +5,7 @@
 ## Table of Contents
 - [updates](#updates)
 - [unclassified](#unclassified)
+- [migi](#migi) microbiome-inspired green infrastructure (MIGI) | microbiome rewilding
 - [urban agriculture](#urban-agriculture)
 - [MetaSUB](#metasub)
 - [](#)
@@ -28,6 +29,17 @@ https://www.cnn.co.jp/fringe/35196924-2.html
 ----------
 
 ## 2022
+
+### 2022-11-22
+Perspective
+https://pubmed.ncbi.nlm.nih.gov/36557564/
+Microorganisms
+. 2022 Nov 22;10(12):2311. doi: 10.3390/microorganisms10122311.
+The Microbiome of the Built Environment: The Nexus for Urban Regeneration for the Cities of Tomorrow
+Antonia Bruno 1, Sara Fumagalli 1, Giulia Ghisleni 1, Massimo Labra 1
+https://www.mdpi.com/2076-2607/10/12/2311
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9783557/
+
 
 ### 2022-12-02
 ウルグアイの首都・モンテビデオ
@@ -208,11 +220,15 @@ Tingting Cao 1, Yuanyuan Liu 1, Yiming Li 1, Yang Wang 1, Zhangqi Shen 1, Bin Sh
 https://academic.oup.com/jac/article/75/10/2769/5867249
 
 
+----------
 
 ### 2020-08
 
+----------
+Mariana Peimbert
+
 ### 2020-08-19
-メキシコシティ
+メキシコシティの地下鉄における乗客と表面マイクロバイオームの相互作用
 https://pubmed.ncbi.nlm.nih.gov/32813719/
 PLoS One
 . 2020 Aug 19;15(8):e0237272. doi: 10.1371/journal.pone.0237272. eCollection 2020.
@@ -220,8 +236,28 @@ Passenger-surface microbiome interactions in the subway of Mexico City
 Daniela Vargas-Robles 1, Carolina Gonzalez-Cedillo 1 2, Apolinar M Hernandez 1, Luis D Alcaraz 2, Mariana Peimbert 1
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237272
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7437895/
-The platform floor was the most bacterial diverse surface, while the stair handrail and pole were the least diverse ones. After pole cleaning, the resettling of microbial diversity was fast (5–30 minutes); however, it did not resemble the initial composition.
+Data Availability
+The datasets supporting the conclusions of this article are available in the Sequence Read Archive (SRA) at the NCBI, with the BioProject ID PRJNA629455 and, sample accession numbers: SAMN13706337-425.
 
+### 2020-05-29
+メキシコシティのメトロ（地下鉄／地下）の駅と列車の表面マイクロバイオーム
+https://pubmed.ncbi.nlm.nih.gov/32472074/
+Sci Rep
+. 2020 May 29;10(1):8798. doi: 10.1038/s41598-020-65643-4.
+Station and train surface microbiomes of Mexico City's metro (subway/underground)
+Apolinar Misael Hernández 1, Daniela Vargas-Robles 1 2, Luis David Alcaraz 3, Mariana Peimbert 4
+https://www.nature.com/articles/s41598-020-65643-4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7260218/
+The MetaSUB is a consortium working to develop sample collection, DNA/RNA isolation, and sequencing standard operating procedures to study global microbial diversity in mass transport systems18. This work began before the MetaSUB protocols were published. However, the sampling, DNA isolation, PCR programs, sequencing technologies, and data processing are in line with the MetaSUB requirements. 
+
+https://www.ncbi.nlm.nih.gov/biosample/SAMN12255591
+Metagenome or environmental sample from urban metagenome
+
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA554099
+Microbiome from the Mexico City's Subway
+In this project samples from turnstiles and handrail from the Mexico City's subway were taken and compared for diversity and composition.
+
+----------
 
 ### 2020-08-04
 
@@ -230,10 +266,7 @@ https://theconversation.com/biodiversity-loss-could-be-making-us-sick-heres-why-
 Biodiversity loss could be making us sick – here's why
 urban microbiome
 
-### 2020-07
-
-https://www.u-toyama.ac.jp/education/news/2020/0727.html
-日本の都市域および郊外における細菌バイオエアロゾルの特徴を解明｜教育・研究活動｜富山大学
+### 2020-07-22
 
 https://pubmed.ncbi.nlm.nih.gov/32699373/
 Sci Rep
@@ -243,36 +276,26 @@ Daisuke Tanaka 1, So Fujiyoshi 2 3, Fumito Maruyama 2 3, Motoshi Goto 4, Shinich
 https://www.nature.com/articles/s41598-020-68933-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376176/
 
-
-### 2020-05
-
-メキシコシティの地下鉄の駅と列車表面の微生物群
-https://pubmed.ncbi.nlm.nih.gov/32472074/
-Sci Rep
-. 2020 May 29;10(1):8798. doi: 10.1038/s41598-020-65643-4.
-Station and train surface microbiomes of Mexico City's metro (subway/underground)
-Apolinar Misael Hernández 1, Daniela Vargas-Robles 1 2, Luis David Alcaraz 3, Mariana Peimbert 4
-https://www.nature.com/articles/s41598-020-65643-4
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7260218/
-
-
-https://www.ncbi.nlm.nih.gov/biosample/SAMN12255591
-Metagenome or environmental sample from urban metagenome
-
-https://www.ncbi.nlm.nih.gov/bioproject/554099
-Microbiome from the Mexico City's Subway
-In this project samples from turnstiles and handrail from the Mexico City's subway were taken and compared for diversity and composition.
-
+https://www.u-toyama.ac.jp/education/news/2020/0727.html
+日本の都市域および郊外における細菌バイオエアロゾルの特徴を解明｜教育・研究活動｜富山大学
 
 ----------
-
 ## 2019
+----------
 
+Knight
 
+### 2019-11-04
+### McCall_2019_urbanization
+
+https://www.ncbi.nlm.nih.gov/pubmed/31686026
+Nat Microbiol. 2019 Nov 4. doi: 10.1038/s41564-019-0593-4. [Epub ahead of print]
+Home chemical and microbial transitions across urbanization.
+McCall LI1,2, Callewaert C3,4, Zhu Q3, Song SJ3,5, Bouslimani A6,7, Minich JJ8, Ernst M6,7, Ruiz-Calderon JF9, Cavallin H10, Pereira HS11, Novoselac A12, Hernandez J13, Rios R14, Branch OH15,16, Blaser MJ17, Paulino LC18, Dorrestein PC19,20,21,22, Knight R23,24,25,26, Dominguez-Bello MG27,28.
+https://www.nature.com/articles/s41564-019-0593-4
+
+### 2019-06-17
 ### Kirjavainen_2019
-
-https://aasj.jp/news/watch/10457
-6月28日 農家の環境が喘息を防ぐメカニズムを探る（Nature Medicineオンライン掲載論文） | AASJホームページ
 
 https://pubmed.ncbi.nlm.nih.gov/31209334/
 Nat Med
@@ -280,20 +303,12 @@ Nat Med
 Farm-like indoor microbiota in non-farm homes protects children from asthma development
 Pirkka V Kirjavainen 1 2, Anne M Karvonen 3, Rachel I Adams 4, Martin Täubel 3, Marjut Roponen 5, Pauli Tuoresmäki 3 6, Georg Loss 7, Balamuralikrishna Jayaprakash 3, Martin Depner 8, Markus Johannes Ege 9 10, Harald Renz 11, Petra Ina Pfefferle 12, Bianca Schaub 9 10, Roger Lauener 13 14 15 16, Anne Hyvärinen 3, Rob Knight 17, Dick J J Heederik 18, Erika von Mutius # 8 9 10, Juha Pekkanen # 3 6
 https://www.nature.com/articles/s41591-019-0469-4
+17 June 2019
 
+https://aasj.jp/news/watch/10457
+6月28日 農家の環境が喘息を防ぐメカニズムを探る（Nature Medicineオンライン掲載論文） | AASJホームページ
 
-
-https://twitter.com/search?q=Home%20chemical%20and%20microbial%20transitions%20across%20urbanization%20%7C%20Nature%20Microbiology&src=typed_query
-
-McCall_2019_urbanization
-https://www.ncbi.nlm.nih.gov/pubmed/31686026
-Nat Microbiol. 2019 Nov 4. doi: 10.1038/s41564-019-0593-4. [Epub ahead of print]
-Home chemical and microbial transitions across urbanization.
-McCall LI1,2, Callewaert C3,4, Zhu Q3, Song SJ3,5, Bouslimani A6,7, Minich JJ8, Ernst M6,7, Ruiz-Calderon JF9, Cavallin H10, Pereira HS11, Novoselac A12, Hernandez J13, Rios R14, Branch OH15,16, Blaser MJ17, Paulino LC18, Dorrestein PC19,20,21,22, Knight R23,24,25,26, Dominguez-Bello MG27,28.
-https://www.nature.com/articles/s41564-019-0593-4
-Home chemical and microbial transitions across urbanization | Nature Microbiology
-
-
+このような差の中から喘息の発生率と相関する要因を抽出して、都会の家庭の環境を農家型とそうでない型に分けられるか調べ、バクテリアと古細菌の存在比率をモデル化した指標が農家の喘息を予防する家庭環境と相関していることが明らかになった。この結果をもとに、FaRMIと名付けた家庭環境が農家にどれだけ近いかを測る指標を開発している。
 
 2019年6月18日
 https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
@@ -301,6 +316,7 @@ https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
 Farm dust microbes linked with reduced asthma in city children
 都会環境に住む子どもを、農家と似た微生物相を持つハウスダストに曝露してやると、喘息発症が減る可能性があることが分かった。
 
+Kirjavainenたちは、家庭内微生物相の組成の測定が、住居が郊外あるいは都会にある子どもたちの喘息発症の相対的リスクの評価や監視に役立つ可能性があると考えている。
 
 ----------
 ## 2019-05-24
@@ -457,118 +473,6 @@ https://journals.asm.org/doi/10.1128/AEM.02244-14
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4249038/
 
 ----------
-## microbiome rewilding
-
-### 2020-04-12
-### Mills_2020-04-12
-
-MAY 25, 2020
-https://medicalxpress.com/news/2020-05-microbiome-rewilding-biodiverse-urban-green.html
-Microbiome rewilding: Biodiverse urban green spaces strengthen human immune systems
-by University of Adelaide
-
-12 April 2020 https://doi.org/10.1111/rec.13175
-Revegetation of urban green space rewilds soil microbiotas with implications for human health and urban design - Mills - 2020 - Restoration Ecology - Wiley Online Library
-Jacob G. Mills,Andrew Bissett,Nicholas J. C. Gellie,Andrew J. Lowe,Caitlin A. Selway,Torsten Thomas,Philip Weinstein,Laura S. Weyrich,Martin F. Breed
-
-### 2019-03-26
-### Mills_2019-03-26
-
-https://pubmed.ncbi.nlm.nih.gov/30972043/
-Front Microbiol
-. 2019 Mar 26;10:550. doi: 10.3389/fmicb.2019.00550. eCollection 2019.
-Relating Urban Biodiversity to Human Health With the 'Holobiont' Concept
-Jacob G Mills 1, Justin D Brookes 1, Nicholas J C Gellie 1, Craig Liddicoat 1, Andrew J Lowe 1, Harrison R Sydnor 1, Torsten Thomas 2, Philip Weinstein 1, Laura S Weyrich 3, Martin F Breed 1
-https://www.frontiersin.org/articles/10.3389/fmicb.2019.00550/full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444116/
-
-### 2017-10-11
-### Mills_2017-10-11
-
-11 October 2017 https://doi.org/10.1111/rec.12610
-https://onlinelibrary.wiley.com/doi/10.1111/rec.12610
-Urban habitat restoration provides a human health benefit through microbiome rewilding: the Microbiome Rewilding Hypothesis - Mills - 2017 - Restoration Ecology - Wiley Online Library
-Jacob G. Mills,Philip Weinstein,Nicholas J. C. Gellie,Laura S. Weyrich,Andrew J. Lowe,Martin F. Breed
-
-----------
-
-
-
-## unclassified
-
-
-https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19KK0263/
-KAKEN — 研究課題をさがす | 南米チリにおける大気汚染とバイオエアロゾルの統合解析による健康影響評価基盤の構築 (KAKENHI-PROJECT-19KK0263)
-
-研究代表者
-田中 大祐  富山大学, 学術研究部理学系, 教授 (40360804)
-研究分担者	酒徳 昭宏  富山大学, 学術研究部理学系, 講師 (20713142)
-藤吉 奏  京都大学, 人間・環境学研究科, 特定助教 (20805808)
-丸山 史人  広島大学, 学術・社会連携室, 教授 (30423122)
-能田 淳  酪農学園大学, 獣医学群, 准教授 (70551670)
-研究期間 (年度)	2019-10-07 – 2022-03-31
-
-日本の都市域（横浜市）と地方都市郊外（富山市）において，アンダーセンエアーサンプラーで9段階の粒径別捕集（分級範囲 0.43～11.0μm）した各大気試料を，高速シークエンサーでメタゲノム解析した結果を，原著論文として発表した (Tanaka et al., Sci. Rep., 2020, プレスリリース有り)。
-
-都市のマイクロバイオーム：都市の隠れた足跡の発見
-https://www.frontiersin.org/research-topics/8134
-The Urban Microbiome: Uncovering the Hidden Footprint of Cities | Frontiers Research Topic
-
-https://twitter.com/icf_tokyo/status/918734771416477697
-ICF2018 on Twitter: "ICF2017のバイオテクノロジーセッションでは、「バイオテクノロジーと未来の都市環境デザイン、都市の微生物·視えないものを可視化する、が面白い。ハードウェア、ソフトウェアという使い慣れた言葉に続き、ウェットウェア（バイオテクノロジー）が登場。#icf_tokyo… https://t.co/mUvEyo5gTo"
-3:06 AM - 13 Oct 2017
-
-https://twitter.com/wired_jp/status/696830913980841984
-微生物から新しいデザインがはじまる
-http://wired.jp/special/2016/biology/
-6:00 PM - 8 Feb 2016
-
-https://twitter.com/wired_jp/status/696321295349370880
-微生物から新しいデザインがはじまる
-http://wired.jp/special/2016/biology/ …
-#バイオテクノロジー #建築
-8:15 AM - 7 Feb 2016
-
-https://twitter.com/wired_jp/status/695380136766476290
-微生物から新しいデザインがはじまる
-http://wired.jp/special/2016/biology/ …
-#バイオテクノロジー #都市 #建築Translate Tweet
-5:55 PM - 4 Feb 2016
-
-https://twitter.com/wired_jp/status/687851130433355776
-微生物は都市をこれからどう変えていくのか？ 林千晶（@chiaki）、ジェシカ・グリーン（生物学者）、デイヴィッド・ベンジャミン（建築家）が、バイオと都市の未来を語る。http://wired.jp/special/2016/biology/ …Translate Tweet
-11:17 PM - 14 Jan 2016
-
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
-これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
-未来のバイオは建築や都市デザインまでも変えてゆく。
-
-#MetaSUB
-「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
-https://twitter.com/lifehackerjapan/status/622000940380520448
-ライフハッカー［日本版］ on Twitter: "将来は、細菌だらけの地下鉄で健康的に通勤できるかも http://t.co/fiqLaGrGfc"
-7:12 AM - 17 Jul 2015
-
-https://www.lifehacker.jp/2015/07/150717_subway_germs.html
-将来は、細菌だらけの地下鉄で健康的に通勤できるかも | ライフハッカー［日本版］
-「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
-「清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが」
-
-
-https://twitter.com/wired_jp/status/621524881675411456
-WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
-11:40 PM - 15 Jul 2015
-
-「都市を、人間がデザインしたものではなく、それを越えたシステムとして、いかに捉えるか。そして、ぼくたちのまわりに生息している微生物を認識する感覚を養うにはどうすればいいか」
-https://wired.jp/special/2015/beyond-solution/01.html
-MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp
-
-https://twitter.com/endBooks/status/385905594026033153
-”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
-7:13 PM - 3 Oct 2013
-
-----------
 ## urban agriculture
 https://ja.wikipedia.org/wiki/都市農業
 
@@ -592,6 +496,71 @@ Volume 2020 |Article ID 5738237 | 16 pages | https://doi.org/10.1155/2020/573823
 Analysis of the Soil Microbiome of a Los Angeles Urban Farm
 
 ----------
+## microbiome rewilding
+## migi
+microbiome-inspired green infrastructure (MIGI) 
+
+### 2020-12-01
+Review
+https://pubmed.ncbi.nlm.nih.gov/32402413/
+Trends Biotechnol
+. 2020 Dec;38(12):1305-1308. doi: 10.1016/j.tibtech.2020.04.009. Epub 2020 May 10.
+Microbiome-Inspired Green Infrastructure: A Toolkit for Multidisciplinary Landscape Design
+Harry Watkins 1, Jake M Robinson 2, Martin F Breed 3, Brenda Parker 4, Philip Weinstein 5
+https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30114-1
+https://www.sciencedirect.com/science/article/abs/pii/S0167779920301141
+
+### 2020-04-12
+### Mills_2020-04-12
+RESEARCH ARTICLE
+https://onlinelibrary.wiley.com/doi/10.1111/rec.13175
+Revegetation of urban green space rewilds soil microbiotas with implications for human health and urban design - Mills - 2020 - Restoration Ecology - Wiley Online Library
+Jacob G. Mills, Andrew Bissett, Nicholas J. C. Gellie, Andrew J. Lowe, Caitlin A. Selway, Torsten Thomas, Philip Weinstein, Laura S. Weyrich, Martin F. Breed
+
+MAY 25, 2020
+https://medicalxpress.com/news/2020-05-microbiome-rewilding-biodiverse-urban-green.html
+Microbiome rewilding: Biodiverse urban green spaces strengthen human immune systems
+by University of Adelaide
+
+### 2020-03-11
+### Robinson_2020-03-11
+PERSPECTIVE
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10082
+Rekindling old friendships in new landscapes: The environment–microbiome–health axis in the realms of landscape research - Robinson - 2020 - People and Nature - Wiley Online Library
+Jake M. Robinson, Anna Jorgensen
+First published: 11 March 2020 https://doi.org/10.1002/pan3.10082Citations: 11
+
+### 2019-03-26
+### Mills_2019-03-26
+PERSPECTIVE article
+https://pubmed.ncbi.nlm.nih.gov/30972043/
+Front Microbiol
+. 2019 Mar 26;10:550. doi: 10.3389/fmicb.2019.00550. eCollection 2019.
+Relating Urban Biodiversity to Human Health With the 'Holobiont' Concept
+Jacob G Mills 1, Justin D Brookes 1, Nicholas J C Gellie 1, Craig Liddicoat 1, Andrew J Lowe 1, Harrison R Sydnor 1, Torsten Thomas 2, Philip Weinstein 1, Laura S Weyrich 3, Martin F Breed 1
+https://www.frontiersin.org/articles/10.3389/fmicb.2019.00550/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444116/
+
+### 2018-11-16
+### Robinson_2018-11-16
+Perspective
+https://www.mdpi.com/2078-1547/9/2/40
+Walking Ecosystems in Microbiome-Inspired Green Infrastructure: An Ecological Perspective on Enhancing Personal and Planetary Health
+by Jake M. Robinson 1,2,3,4,*ORCID,Jacob G. Mills 4,5ORCID andMartin F. Breed 4,5
+
+### 2017-10-11
+### Mills_2017-10-11
+OPINION ARTICLE
+https://onlinelibrary.wiley.com/doi/10.1111/rec.12610
+Urban habitat restoration provides a human health benefit through microbiome rewilding: the Microbiome Rewilding Hypothesis - Mills - 2017 - Restoration Ecology - Wiley Online Library
+Jacob G. Mills,Philip Weinstein,Nicholas J. C. Gellie,Laura S. Weyrich,Andrew J. Lowe,Martin F. Breed
+
+
+----------
+
+
+
+----------
 ## MetaSUB
 
 https://github.com/haruosuz/metasub/blob/master/README.md
@@ -613,11 +582,23 @@ Brooklyn Bioreactor
 CAMDA Challenge
 Monumentome
 
-### MetaCoV
+----------
+## MetaCoV
 
+### 2021-03-12
+https://pubmed.ncbi.nlm.nih.gov/33712587/
+Nat Commun
+. 2021 Mar 12;12(1):1660. doi: 10.1038/s41467-021-21361-7.
+Shotgun transcriptome, spatial omics, and isothermal profiling of SARS-CoV-2 infection reveals unique host responses, viral diversification, and drug interactions
+Daniel Butler # 1, Christopher Mozsary # 1, Cem Meydan # 1 2 3, Jonathan Foox # 1 2, Joel Rosiene # 4 5, Alon Shaiber # 4 5 6, David Danko # 1, Ebrahim Afshinnekoo 1 2 3, Matthew MacKay 1, Fritz J Sedlazeck 7, Nikolay A Ivanov 1 2 8, Maria Sierra 1 2, Diana Pohle 9, Michael Zietz 10, Undina Gisladottir 10, Vijendra Ramlall 10 11, Evan T Sholle 12, Edward J Schenck 13, Craig D Westover 1, Ciaran Hassan 1, Krista Ryon 1, Benjamin Young 1, Chandrima Bhattacharya 1, Dianna L Ng 14, Andrea C Granados 14 15, Yale A Santos 14 15, Venice Servellita 14 15, Scot Federman 14 15, Phyllis Ruggiero 5, Arkarachai Fungtammasan 16, Chen-Shan Chin 16, Nathaniel M Pearson 17, Bradley W Langhorst 18, Nathan A Tanner 18, Youngmi Kim 19, Jason W Reeves 19, Tyler D Hether 19, Sarah E Warren 19, Michael Bailey 19, Justyna Gawrys 5, Dmitry Meleshko 1 20, Dong Xu 21, Mara Couto-Rodriguez 22, Dorottya Nagy-Szakal 22 23, Joseph Barrows 22, Heather Wells 22, Niamh B O'Hara 22 23, Jeffrey A Rosenfeld 24 25, Ying Chen 24, Peter A D Steel 26, Amos J Shemesh 26, Jenny Xiang 21, Jean Thierry-Mieg 27, Danielle Thierry-Mieg 27, Angelika Iftner 9, Daniela Bezdan 9, Elizabeth Sanchez 13, Thomas R Campion Jr 12 28, John Sipley 5, Lin Cong 5, Arryn Craney 5, Priya Velu 5, Ari M Melnick 13, Sagi Shapira 10, Iman Hajirasouliha 1 2 6, Alain Borczuk 13, Thomas Iftner 9, Mirella Salvatore 13 28, Massimo Loda 5, Lars F Westblade 5 13, Melissa Cushing 5, Shixiu Wu 29 30, Shawn Levy 31, Charles Chiu 14 15 32, Robert E Schwartz 33, Nicholas Tatonetti 34, Hanna Rennert 35, Marcin Imielinski 36 37 38, Christopher E Mason 39 40 41 42
+https://www.nature.com/articles/s41467-021-21361-7
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7954844/
+
+### 2020-05-01
 https://doi.org/10.1101/2020.04.20.048066
 Shotgun Transcriptome and Isothermal Profiling of SARS-CoV-2 Infection Reveals Unique Host Responses, Viral Diversification, and Drug Interactions | bioRxiv
 Posted May 01, 2020.
+https://www.biorxiv.org/content/10.1101/2020.04.20.048066v5.full
 
 https://pubmed.ncbi.nlm.nih.gov/33024053/
 mSystems
@@ -627,13 +608,15 @@ Ceth W Parker # 1, Nitin Singh # 1, Scott Tighe # 2, Adriana Blachowicz 1, Jason
 https://journals.asm.org/doi/10.1128/mSystems.00771-20
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7542562/
 
-### MetaAIR
+----------
+## MetaAIR
 
 http://metasub.org/projects/
 METAAIR: AIR SAMPLING
 The MetaAIR project (Metagenomics of the Air) is an ongoing project with aims to conduct metagenomic analysis on aerosol samples globally. Currently MetAIR works in conjunction with Global City Sampling Day to collect air samples on an annual basis in cities around the world.
 
-### Leung_2021
+### 2021-05-26
+### Leung_2021-05-26
 
 10:58 AM · May 27, 2021
 https://twitter.com/mason_lab/status/1397733964266315780
@@ -657,7 +640,6 @@ Kari Oline Bøifot 1 2, Jostein Gohli 1, Line Victoria Moen 1, Marius Dybwad 3 4
 https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-019-0349-z
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8067373/
 
-
 ### Gohli_2019
 
 https://pubmed.ncbi.nlm.nih.gov/31856911/
@@ -671,12 +653,7 @@ We performed high-throughput 16S rRNA gene sequencing of air and surface samples
 
 Surface samples were collected for three surface types at each station: kiosks, railings, and benches. 
 
-
-
-
-
-
-
+----------
 
 ### metasub_2021
 
@@ -875,12 +852,6 @@ There’s No Plague on the NYC Subway. No Platypuses Either.
 ----------
 
 
-### 
-
-
-
-
-
 https://twitter.com/kbts_sci/status/1011571324748042240
 ニューヨークの地下鉄で綿棒をこすって取れる微生物のＤＮＡの多くは、未知のものなのだそうです。身近なのに謎だらけな都市の微生物調査について興味深い取り組み。
 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタルTranslate Tweet
@@ -906,9 +877,87 @@ https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
 
 
 
+----------
+
+
+## unclassified
+
+
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19KK0263/
+KAKEN — 研究課題をさがす | 南米チリにおける大気汚染とバイオエアロゾルの統合解析による健康影響評価基盤の構築 (KAKENHI-PROJECT-19KK0263)
+
+研究代表者
+田中 大祐  富山大学, 学術研究部理学系, 教授 (40360804)
+研究分担者	酒徳 昭宏  富山大学, 学術研究部理学系, 講師 (20713142)
+藤吉 奏  京都大学, 人間・環境学研究科, 特定助教 (20805808)
+丸山 史人  広島大学, 学術・社会連携室, 教授 (30423122)
+能田 淳  酪農学園大学, 獣医学群, 准教授 (70551670)
+研究期間 (年度)	2019-10-07 – 2022-03-31
+
+日本の都市域（横浜市）と地方都市郊外（富山市）において，アンダーセンエアーサンプラーで9段階の粒径別捕集（分級範囲 0.43～11.0μm）した各大気試料を，高速シークエンサーでメタゲノム解析した結果を，原著論文として発表した (Tanaka et al., Sci. Rep., 2020, プレスリリース有り)。
+
+都市のマイクロバイオーム：都市の隠れた足跡の発見
+https://www.frontiersin.org/research-topics/8134
+The Urban Microbiome: Uncovering the Hidden Footprint of Cities | Frontiers Research Topic
+
+https://twitter.com/icf_tokyo/status/918734771416477697
+ICF2018 on Twitter: "ICF2017のバイオテクノロジーセッションでは、「バイオテクノロジーと未来の都市環境デザイン、都市の微生物·視えないものを可視化する、が面白い。ハードウェア、ソフトウェアという使い慣れた言葉に続き、ウェットウェア（バイオテクノロジー）が登場。#icf_tokyo… https://t.co/mUvEyo5gTo"
+3:06 AM - 13 Oct 2017
+
+https://twitter.com/wired_jp/status/696830913980841984
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/
+6:00 PM - 8 Feb 2016
+
+https://twitter.com/wired_jp/status/696321295349370880
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/ …
+#バイオテクノロジー #建築
+8:15 AM - 7 Feb 2016
+
+https://twitter.com/wired_jp/status/695380136766476290
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/ …
+#バイオテクノロジー #都市 #建築Translate Tweet
+5:55 PM - 4 Feb 2016
+
+https://twitter.com/wired_jp/status/687851130433355776
+微生物は都市をこれからどう変えていくのか？ 林千晶（@chiaki）、ジェシカ・グリーン（生物学者）、デイヴィッド・ベンジャミン（建築家）が、バイオと都市の未来を語る。http://wired.jp/special/2016/biology/ …Translate Tweet
+11:17 PM - 14 Jan 2016
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+#MetaSUB
+「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
+https://twitter.com/lifehackerjapan/status/622000940380520448
+ライフハッカー［日本版］ on Twitter: "将来は、細菌だらけの地下鉄で健康的に通勤できるかも http://t.co/fiqLaGrGfc"
+7:12 AM - 17 Jul 2015
+
+https://www.lifehacker.jp/2015/07/150717_subway_germs.html
+将来は、細菌だらけの地下鉄で健康的に通勤できるかも | ライフハッカー［日本版］
+「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
+「清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが」
+
+
+https://twitter.com/wired_jp/status/621524881675411456
+WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
+11:40 PM - 15 Jul 2015
+
+「都市を、人間がデザインしたものではなく、それを越えたシステムとして、いかに捉えるか。そして、ぼくたちのまわりに生息している微生物を認識する感覚を養うにはどうすればいいか」
+https://wired.jp/special/2015/beyond-solution/01.html
+MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp
+
+https://twitter.com/endBooks/status/385905594026033153
+”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
+7:13 PM - 3 Oct 2013
+
+
+
 
 
 ----------
-
 
 
