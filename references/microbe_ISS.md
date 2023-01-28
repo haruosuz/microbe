@@ -34,8 +34,25 @@ International Space Station
 
 ## 2022
 
+## 2022-12-12
+
+2:22 AM · Dec 13, 2022
+https://twitter.com/mason_lab/status/1602353183006887940
+Chris Mason on Twitter: "Our new paper analyzing 402 longitudinal environmental and host-associated ISS metagenomes shows that Acinetobacter pittii is showing signs of adaptation and inter-crew succession on the space station. Bravo @BradenTierney @Nitin_NJC &amp; Venkat @NASAJPL https://t.co/gi27SOD73P" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/36503581/
+Microbiome
+. 2022 Dec 12;10(1):210. doi: 10.1186/s40168-022-01358-0.
+Multidrug-resistant Acinetobacter pittii is adapting to and exhibiting potential succession aboard the International Space Station
+Braden T Tierney # 1, Nitin K Singh # 2, Anna C Simpson 2, Andrea M Hujer 3 4, Robert A Bonomo 3 4 5 6, Christopher E Mason 7, Kasthuri Venkateswaran 8
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01358-0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9743659/
+
+## 2022-10-25
+
 When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
 https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
+Out of This World: Microbes in Space
 
 ## 2021
 
