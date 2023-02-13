@@ -155,6 +155,223 @@ Program (tentative) - CAMDA 2017
 17:53	Identification of mobile elements in metagenomic data	Josef Moser, ACIB, Vienna, Austria
 http://camda2017.bioinf.jku.at/lib/exe/fetch.php/camda2017-Moser.pdf
 
+
+----------
+
+## subway
+地下鉄
+
+https://en.wikipedia.org/wiki/London_Underground_mosquito
+
+https://twitter.com/Alien_Evolve/status/483872602293686272
+深野　祐也 on Twitter: "@MasakiHoso 僕も今調べていたのですが、世界中の地下タイプCulex pipiens molestusは単系統で地理的に分化しているようです。つまり、この蚊は地下鉄環境に最近適応したのではなく、人類以前に既に存在していた地下タイプが最近増えたということですかね。"
+
+----------
+
+## money
+お金お札
+
+https://twitter.com/Newsweek_JAPAN/status/866774474166874113
+ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
+5:55 PM - 22 May 2017
+
+2017年5月22日
+http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
+細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版
+Hong Kong's Dirty Money: Cash Carries Acne-Causing Bacteria, Other Pathogens
+＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
+紙幣が細菌追跡の目印に
+都市の細菌集団探しは成長分野
+耐性菌との戦いに役立つ
+
+2017-04-13
+https://twitter.com/yokadzaki/status/852704490436177921
+Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
+
+https://www.ncbi.nlm.nih.gov/pubmed/28450856
+Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
+Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
+
+September 6, 2017
+http://time.com/4918626/money-germs-microbes-dirty/
+Here's How Dirty Your Money Really Is | Time
+
+https://www.ncbi.nlm.nih.gov/pubmed/28384336
+PLoS One. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
+Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City.
+Maritz JM1, Sullivan SA1, Prill RJ2, Aksoy E1, Scheid P1, Carlton JM1.
+
+January 4, 2017
+http://time.com/money/4621673/money-cash-currency-bacteria-disease-sickness/
+Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
+The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
+
+2016/02/02
+http://fukuyuki.net/post-639/
+硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
+
+2013.06.19
+https://www.atpress.ne.jp/news/36512
+現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜プレスリリース配信サービス【＠Press：アットプレス】
+
+- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
+- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
+- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
+- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
+- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
+- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
+
+### ATM
+
+https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
+New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
+
+- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
+- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
+
+----------
+## phone
+携帯電話
+
+### [StuckOnU](http://metasub.org/stuckonu/)
+**携帯電話の微生物群集DNAを調査**
+
+![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
+
+- [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
+- [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
+- 2017-03-28 https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
+- 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
+
+
+https://pubmed.ncbi.nlm.nih.gov/30820259/
+J Genomics
+. 2019 Feb 19;7:26-30. doi: 10.7150/jgen.31911. eCollection 2019.
+SELfies and CELLfies: Whole Genome Sequencing and Annotation of Five Antibiotic Resistant Bacteria Isolated from the Surfaces of Smartphones, An Inquiry Based Laboratory Exercise in a Genomics Undergraduate Course at the Rochester Institute of Technology
+Anutthaman Parthasarathy 1, Narayan H Wong 1, Amanda N Weiss 1, Susan Tian 1, Sara E Ali 1, Nicole T Cavanaugh 1, Tyler M Chinsky 1, Chelsea E Cramer 1, Aditya Gupta 1, Rakshanda Jha 1, Loryn K Johnson 1, Elizabeth D Tuason 1, Lauren M Klafehn 1, Varada Krishnadas 1, Ryan J Musich 1, Jennifer M Pfaff 1, Spencer C Richman 1, Alexandria J Shumway 1, André O Hudson 1
+https://www.jgenomics.com/v07p0026.htm
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6389494/
+
+2015年01月29日
+https://karapaia.com/archives/52183300.html
+なぜ可視化したし。スマートフォンに付着したバクテリアを可視化した写真（英研究）※細菌注意 : カラパイア
+https://www.youtube.com/watch?v=z6AiKkewR0U
+It's not just phones! Find out what...
+What bacteria live in your home? Find out what bacteria you carry around with you and your family when you move house.
+
+Home Microbiome Project
+The project was led by Dr. Jack A. Gilbert
+
+2013年 06月 23日
+https://pulmonary.exblog.jp/20663210/
+スマホは病原微生物のコンタミネーションのリスク : 呼吸器内科医
+
+https://www.ohkiriko.co.jp/product/chemistry/000596.html
+バクテリア・セルフチェッカーmil-kin（見る菌）｜製品情報｜大木理工機材株式会社
+
+バクテリア・セルフチェッカーmil-kin（見る菌）の画像です
+JIS B 7271に「携帯形微生物観察器」が制定されました。
+
+スマートフォンのカメラ機能を使って細菌や汚れを光学倍率1,000倍で撮影・記録できる携帯形微生物観察器です。
+
+https://www.mil-kin.com/
+食中毒予防や歯周病菌のチェックに『mil-kin（見る菌）®︎』 | mil-kin
+
+
+----------
+### hong-kong-subway
+香港
+Hong Kong Mass Transit Railway (MTR) system
+
+https://www.ncbi.nlm.nih.gov/pubmed/30067975
+Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
+The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
+Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
+https://www.sciencedirect.com/science/article/pii/S2211124718310519?via%3Dihub
+
+https://twitter.com/skym_k/status/1068837422509654024
+やましゃけ on Twitter: "地下鉄の吊革に住む微生物を解析したそうです。 病気の原因となる微生物もいれば、その抗生物質を生む微生物もいたそうで、結論・健康なのか不健康なのかよく読み取れませんでしたが興味はあ... #NewsPicks https://t.co/FEnZ7degCt"
+7:01 AM - 1 Dec 2018
+
+https://twitter.com/GenomeWeb/status/1027158748886904833
+GenomeWeb on Twitter: "Researchers saw subway line-specific microbes on the hands of subway riders, with increased skin microbial community convergence in samples from evening commuters. https://t.co/dnQFoWR2Rw"
+7:45 AM - 8 Aug 2018
+
+https://twitter.com/uranus_2/status/1025811324830248960
+マーキュリー２世 on Twitter: "香港の鉄道の手すりについている手のひらの微生物叢を解析。時間帯が一番影響力がある。抗生物質抵抗遺伝子は特に午後に採取されやすい。路線特異的な微生物叢は、路線特異的な環境暴露や都市の特徴を反映。The Environmental Exposures and Inner- and Intercity Traffic…https://t.co/Emw6I4T4qB"
+2:30 PM - 4 Aug 2018
+
+https://phys.org/news/2018-07-microbes-hong-kong-subway-evening.html
+Microbes in the Hong Kong subway system mix together by evening rush hour
+July 31, 2018, Cell Press
+
+25 NOV 2016
+http://www.scmp.com/magazines/post-magazine/short-reads/article/2048971/antibiotic-resistant-superbugs-hong-kong-mtr
+Antibiotic-resistant superbugs on Hong Kong MTR trains, study reveals | Post Magazine | South China Morning Post
+
+
+### boston
+ボストン
+https://www.ncbi.nlm.nih.gov/pubmed/27822528
+mSystems. 2016 Jun 28;1(3). pii: e00018-16. eCollection 2016 May-Jun.
+Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5069760/
+
+### nyc
+ニューヨーク
+https://www.ncbi.nlm.nih.gov/pubmed/26594662
+Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
+Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651444/
+
+### 
+
+マイクロバイオームの世界: あなたの中と表面と周りにいる何兆もの微生物たち
+
+p. 122
+韓国のソウル、日本の東京、ノルウェーのオスロの地下鉄でも分析したところ、
+
+p. 274
+地下鉄のマイクロバイオームの参考文献としては、
+
+https://www.ncbi.nlm.nih.gov/pubmed/23542619
+Appl Environ Microbiol. 2013 Jun;79(11):3485-93. doi: 10.1128/AEM.00331-13. Epub 2013 Mar 29.
+Culture-independent analysis of aerosol microbiology in a metropolitan subway system.
+Robertson CE1, Baumgartner LK, Harris JK, Peterson KL, Stevens MJ, Frank DN, Pace NR.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648054/
+12. Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmos. Environ. 39: 337– 341
+
+https://www.ncbi.nlm.nih.gov/pubmed/22247150
+Appl Environ Microbiol. 2012 Mar;78(6):1917-29. doi: 10.1128/AEM.07212-11. Epub 2012 Jan 13.
+Characterization of airborne bacteria at an underground subway station.
+Dybwad M1, Granum PE, Bruheim P, Blatny JM.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3298144/
+
+The dispersion of sarin nerve gas (a chemical threat agent) by the Japanese religious cult, Aum Shinrikyo, killed 11 and injured over 5,000 persons in the Tokyo subway in 1995 (50). Aum Shinrikyo failed in causing anthrax infection when aerosolizing B. anthracis in Tokyo 2 years earlier, due to the use of a low-virulence vaccine strain (68).
+
+Airborne bacterial concentration.
+Bioaerosol surveys investigating airborne bacteria have been performed at subway stations in various countries, including the United States (7), Japan (35, 62), Korea (34, 38, 41), China (18), Russia (8), Egypt (4), the United Kingdom (27), and Hungary (66, 67), but have not previously been carried out in Norway. 
+
+35. Kawasaki T, et al. 2010. Distribution and identification of airborne fungi in railway stations in Tokyo, Japan. J. Occup. Health 52:186–193 [PubMed]
+
+50. Okumura T, et al. 1996. Report on 640 victims of the Tokyo subway sarin attack. Ann. Emerg. Med. 28:129–135 [PubMed]
+
+62. Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmos. Environ. 39:337–341
+
+68. Takahashi H, et al. 2004. Bacillus anthracis incident, Kameido, Tokyo, 1993. Emerg. Infect. Dis. 10:117–120 [PMC free article] [PubMed]
+
+https://www.ncbi.nlm.nih.gov/pubmed/21173524
+Ind Health. 2011;49(2):242-8. Epub 2010 Dec 16.
+Exposure level and distribution characteristics of airborne bacteria and fungi in Seoul metropolitan subway stations.
+Kim KY1, Kim YS, Kim D, Kim HT.
+
+
+
+
+
+
+
+
 ----------
 ## people
 
@@ -232,11 +449,26 @@ Part 2 Relationship between Bacterial Flora and Indoor Environment in Autumn
 学生会員 ○畑中 未来（工学院大学大学院） 正 会 員 柳 宇（工学院大学）
 正 会 員 永野 秀明（東京都市大学） 正会員 加藤 信介（東京大学）
 
-
 ### yanagi
 https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
 ヤナギ　ウ
 柳　宇
+
+査読付論文
+2023/01/10共著Ventilation methods against Indoor Aerosol Infection of COVID-19 in JapanAtmosphereMDPI
+2022/11共著A longitudinal study on the effects of hygro-thermal conditions and indoor air pollutants on building-related symptoms in office buildingsIndoor Air
+2022/11共著Bacterial communities in various parts of air-conditioning units in 17 Japanese houses.MicroorganismsMDPI
+
+
+https://pubmed.ncbi.nlm.nih.gov/36422316/
+Microorganisms
+. 2022 Nov 13;10(11):2246. doi: 10.3390/microorganisms10112246.
+Bacterial Communities in Various Parts of Air-Conditioning Units in 17 Japanese Houses
+Kensuke Watanabe 1, U Yanagi 2, Yoshiki Shiraishi 3, Kazuhiro Harada 4, Fumitoshi Ogino 4, Koichiro Asano 3
+https://www.mdpi.com/2076-2607/10/11/2246
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9697849/
+
+
 
 https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
 ２０１６年４月
@@ -392,21 +624,26 @@ https://matome.naver.jp/odai/2140057460215399801
 ----------
 ## review
 
-https://twitter.com/NatureRevMicro/status/1031916837896957952
-Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC… https://t.co/d7riEhN2lT"
-10:52 AM - 21 Aug 2018
+### 2018-11
 https://pubmed.ncbi.nlm.nih.gov/30127345/
 Review Nat Rev Microbiol
 . 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
 Microbiology of the built environment
 Jack A Gilbert 1 2, Brent Stephens 3
 https://www.nature.com/articles/s41579-018-0065-5
+https://www.built-envi.com/wp-content/uploads/gilbert-and-stephens-2018-nature-reviews-microbiology-MoBE.pdf
 
 
+11:52 PM · Aug 21, 2018
+https://twitter.com/NatureRevMicro/status/1031916837896957952
+Nature Reviews Microbiology on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC https://t.co/Xl6cg9bCPy" / Twitter
+
+12:15 PM · Jun 2, 2019
 https://twitter.com/copypasteusa/status/1135022062198673408
 #MoBE #microBEnet
 Further reading
 
+8:34 PM · Jun 2, 2019
 https://twitter.com/copypasteusa/status/1135147635763863553
 腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
 人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
@@ -1157,201 +1394,6 @@ The Hospital Microbiome Projects -- Mapping Bacteria and Tracking HAIs
 
 https://www.microbe.net/2012/10/23/websites-for-the-hospital-microbiome-project-and-the-home-microbiome-project/
 Websites for the Hospital Microbiome Project and the Home Microbiome Project
-
-----------
-
-## money
-お金お札
-
-https://twitter.com/Newsweek_JAPAN/status/866774474166874113
-ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
-5:55 PM - 22 May 2017
-
-2017年5月22日
-http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
-細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版
-Hong Kong's Dirty Money: Cash Carries Acne-Causing Bacteria, Other Pathogens
-＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
-紙幣が細菌追跡の目印に
-都市の細菌集団探しは成長分野
-耐性菌との戦いに役立つ
-
-2017-04-13
-https://twitter.com/yokadzaki/status/852704490436177921
-Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
-
-https://www.ncbi.nlm.nih.gov/pubmed/28450856
-Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
-Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
-
-September 6, 2017
-http://time.com/4918626/money-germs-microbes-dirty/
-Here's How Dirty Your Money Really Is | Time
-
-https://www.ncbi.nlm.nih.gov/pubmed/28384336
-PLoS One. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
-Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City.
-Maritz JM1, Sullivan SA1, Prill RJ2, Aksoy E1, Scheid P1, Carlton JM1.
-
-January 4, 2017
-http://time.com/money/4621673/money-cash-currency-bacteria-disease-sickness/
-Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
-The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
-
-2016/02/02
-http://fukuyuki.net/post-639/
-硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
-
-2013.06.19
-https://www.atpress.ne.jp/news/36512
-現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜プレスリリース配信サービス【＠Press：アットプレス】
-
-- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
-- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
-- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
-- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
-- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
-- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
-
-### ATM
-
-https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
-New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
-
-- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
-- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
-
-----------
-## phone
-携帯電話
-
-http://www.jgenomics.com/v07p0026
-SELfies and CELLfies: Whole Genome Sequencing and Annotation of Five Antibiotic Resistant Bacteria Isolated from the Surfaces of Smartphones, An Inquiry Based Laboratory Exercise in a Genomics Undergraduate Course at the Rochester Institute of Technology [Abstract]
-
-2015年01月29日
-http://karapaia.com/archives/52183300.html
-なぜ可視化したし。スマートフォンに付着したバクテリアを可視化した写真（英研究）※細菌注意 : カラパイア
-
-https://pulmonary.exblog.jp/20663210/
-スマホは病原微生物のコンタミネーションのリスク : 呼吸器内科医
-
-https://www.aqua-club.co.jp/products/mil-kin/
-バクテリア・セルフチェッカー『mil-kin（見る菌)』 – アクアシステム
-飲食店舗や食品工場や飲料・製薬工場の気になるところを、スマートフォンやタブレットを使い、リアルタイムに微生物の有無のチェックができる衛生管理のアイテムをご紹介。
-
-https://www.mil-kin.com/
-バクテリアセルフチェッカー mil-kin
-
-### [StuckOnU](http://metasub.org/stuckonu/)
-**携帯電話の微生物群集DNAを調査**
-
-![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
-
-- [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
-- [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
-- 2017-03-28 https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
-- 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
-
-----------
-
-## subway
-地下鉄
-
-https://en.wikipedia.org/wiki/London_Underground_mosquito
-
-https://twitter.com/Alien_Evolve/status/483872602293686272
-深野　祐也 on Twitter: "@MasakiHoso 僕も今調べていたのですが、世界中の地下タイプCulex pipiens molestusは単系統で地理的に分化しているようです。つまり、この蚊は地下鉄環境に最近適応したのではなく、人類以前に既に存在していた地下タイプが最近増えたということですかね。"
-
-
-----------
-### hong-kong-subway
-香港
-Hong Kong Mass Transit Railway (MTR) system
-
-https://www.ncbi.nlm.nih.gov/pubmed/30067975
-Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
-The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
-Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
-https://www.sciencedirect.com/science/article/pii/S2211124718310519?via%3Dihub
-
-https://twitter.com/skym_k/status/1068837422509654024
-やましゃけ on Twitter: "地下鉄の吊革に住む微生物を解析したそうです。 病気の原因となる微生物もいれば、その抗生物質を生む微生物もいたそうで、結論・健康なのか不健康なのかよく読み取れませんでしたが興味はあ... #NewsPicks https://t.co/FEnZ7degCt"
-7:01 AM - 1 Dec 2018
-
-https://twitter.com/GenomeWeb/status/1027158748886904833
-GenomeWeb on Twitter: "Researchers saw subway line-specific microbes on the hands of subway riders, with increased skin microbial community convergence in samples from evening commuters. https://t.co/dnQFoWR2Rw"
-7:45 AM - 8 Aug 2018
-
-https://twitter.com/uranus_2/status/1025811324830248960
-マーキュリー２世 on Twitter: "香港の鉄道の手すりについている手のひらの微生物叢を解析。時間帯が一番影響力がある。抗生物質抵抗遺伝子は特に午後に採取されやすい。路線特異的な微生物叢は、路線特異的な環境暴露や都市の特徴を反映。The Environmental Exposures and Inner- and Intercity Traffic…https://t.co/Emw6I4T4qB"
-2:30 PM - 4 Aug 2018
-
-https://phys.org/news/2018-07-microbes-hong-kong-subway-evening.html
-Microbes in the Hong Kong subway system mix together by evening rush hour
-July 31, 2018, Cell Press
-
-25 NOV 2016
-http://www.scmp.com/magazines/post-magazine/short-reads/article/2048971/antibiotic-resistant-superbugs-hong-kong-mtr
-Antibiotic-resistant superbugs on Hong Kong MTR trains, study reveals | Post Magazine | South China Morning Post
-
-
-### boston
-ボストン
-https://www.ncbi.nlm.nih.gov/pubmed/27822528
-mSystems. 2016 Jun 28;1(3). pii: e00018-16. eCollection 2016 May-Jun.
-Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5069760/
-
-### nyc
-ニューヨーク
-https://www.ncbi.nlm.nih.gov/pubmed/26594662
-Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
-Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651444/
-
-### 
-
-マイクロバイオームの世界: あなたの中と表面と周りにいる何兆もの微生物たち
-
-p. 122
-韓国のソウル、日本の東京、ノルウェーのオスロの地下鉄でも分析したところ、
-
-p. 274
-地下鉄のマイクロバイオームの参考文献としては、
-
-https://www.ncbi.nlm.nih.gov/pubmed/23542619
-Appl Environ Microbiol. 2013 Jun;79(11):3485-93. doi: 10.1128/AEM.00331-13. Epub 2013 Mar 29.
-Culture-independent analysis of aerosol microbiology in a metropolitan subway system.
-Robertson CE1, Baumgartner LK, Harris JK, Peterson KL, Stevens MJ, Frank DN, Pace NR.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648054/
-12. Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmos. Environ. 39: 337– 341
-
-https://www.ncbi.nlm.nih.gov/pubmed/22247150
-Appl Environ Microbiol. 2012 Mar;78(6):1917-29. doi: 10.1128/AEM.07212-11. Epub 2012 Jan 13.
-Characterization of airborne bacteria at an underground subway station.
-Dybwad M1, Granum PE, Bruheim P, Blatny JM.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3298144/
-
-The dispersion of sarin nerve gas (a chemical threat agent) by the Japanese religious cult, Aum Shinrikyo, killed 11 and injured over 5,000 persons in the Tokyo subway in 1995 (50). Aum Shinrikyo failed in causing anthrax infection when aerosolizing B. anthracis in Tokyo 2 years earlier, due to the use of a low-virulence vaccine strain (68).
-
-Airborne bacterial concentration.
-Bioaerosol surveys investigating airborne bacteria have been performed at subway stations in various countries, including the United States (7), Japan (35, 62), Korea (34, 38, 41), China (18), Russia (8), Egypt (4), the United Kingdom (27), and Hungary (66, 67), but have not previously been carried out in Norway. 
-
-35. Kawasaki T, et al. 2010. Distribution and identification of airborne fungi in railway stations in Tokyo, Japan. J. Occup. Health 52:186–193 [PubMed]
-
-50. Okumura T, et al. 1996. Report on 640 victims of the Tokyo subway sarin attack. Ann. Emerg. Med. 28:129–135 [PubMed]
-
-62. Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmos. Environ. 39:337–341
-
-68. Takahashi H, et al. 2004. Bacillus anthracis incident, Kameido, Tokyo, 1993. Emerg. Infect. Dis. 10:117–120 [PMC free article] [PubMed]
-
-https://www.ncbi.nlm.nih.gov/pubmed/21173524
-Ind Health. 2011;49(2):242-8. Epub 2010 Dec 16.
-Exposure level and distribution characteristics of airborne bacteria and fungi in Seoul metropolitan subway stations.
-Kim KY1, Kim YS, Kim D, Kim HT.
-
-
-
 
 
 ----------
