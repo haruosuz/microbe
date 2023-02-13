@@ -15,6 +15,10 @@
 
 https://twitter.com/search?q=bacteria%20urbanization
 
+
+
+
+
 ----------
 
 ## 2023
@@ -279,6 +283,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376176/
 https://www.u-toyama.ac.jp/education/news/2020/0727.html
 日本の都市域および郊外における細菌バイオエアロゾルの特徴を解明｜教育・研究活動｜富山大学
 
+### 2020-06-05
+
+https://pubmed.ncbi.nlm.nih.gov/32582043/
+Front Microbiol
+. 2020 Jun 5;11:912. doi: 10.3389/fmicb.2020.00912. eCollection 2020.
+Microbial Composition and Functional Diversity Differ Across Urban Green Infrastructure Types
+Aman S Gill 1, Kai Purnell 2, Matthew I Palmer 3, Jaime Stein 4, Krista L McGuire 5
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.00912/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7291602/
+
 ----------
 ## 2019
 ----------
@@ -476,6 +490,25 @@ https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4249038/
 ## urban agriculture
 https://ja.wikipedia.org/wiki/都市農業
 
+### 2022-05
+
+6:40 AM · Mar 19, 2022
+https://twitter.com/Alien_Evolve/status/1504935723027206144
+深野　祐也 on Twitter: "都市農業は大学の生物学教育に貢献しうる。 https://t.co/BiPzmWK4sc Ecol. &amp; Evol. 2022 　確かに、基礎から応用、微生物からマクロな景観や物質循環まで、生物学（生態学）の幅広いテーマを体感できる。 「学生は必修科目の中で地域貢献ができ、教官は不確実な時代に大きな達成感を得られるはず。」" / Twitter
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8721
+Potential for urban agriculture to support accessible and impactful undergraduate biology education - Kay - 2022 - Ecology and Evolution - Wiley Online Library
+
+### 
+https://www.hindawi.com/journals/aess/2020/5738237/
+Volume 2020 |Article ID 5738237 | 16 pages | https://doi.org/10.1155/2020/5738237
+Analysis of the Soil Microbiome of a Los Angeles Urban Farm
+
+### 2019-09-25
+https://www.frontiersin.org/articles/10.3389/fevo.2019.00359/full
+Frontiers | The Roles of Invertebrates in the Urban Soil Microbiome | Ecology and Evolution
+
+### 2016-05
+
 https://microbe.net/2016/05/23/urban-microbiomes-and-urban-agriculture/
 Urban microbiomes and urban agriculture – microBEnet: the microbiology of the Built Environment network
 An interesting book chapter was recently published on “Urban Microbiomes and Urban Agriculture: What are the connections and why should we care?” 
@@ -484,16 +517,9 @@ An interesting book chapter was recently published on “Urban Microbiomes and U
 May 24, 2016 at 7:16 am
 I am curious – do they discuss at all how they define urban? I have been wondering about this as I see more papers and studies about urban microbiomes. Is there some sort of transition we might expect as one goes from rural to suburban to urban in regard to microbiomes? And do they discuss at all if there are differences in microbiomes along such gradients?
 
-
+### 2016-04-26
 https://link.springer.com/chapter/10.1007/978-94-017-7453-6_14
 Urban Microbiomes and Urban Agriculture: What Are the Connections and Why Should We Care? | SpringerLink
-
-https://www.frontiersin.org/articles/10.3389/fevo.2019.00359/full
-Frontiers | The Roles of Invertebrates in the Urban Soil Microbiome | Ecology and Evolution
-
-https://www.hindawi.com/journals/aess/2020/5738237/
-Volume 2020 |Article ID 5738237 | 16 pages | https://doi.org/10.1155/2020/5738237
-Analysis of the Soil Microbiome of a Los Angeles Urban Farm
 
 ----------
 ## microbiome rewilding
@@ -758,8 +784,6 @@ https://www.sciencedirect.com/science/article/pii/S2001037019304106
 
 The study was conducted as a part of The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) project.
 Moscow subway (Russia) 
-
-Analysis of associations between surface types and alpha-diversity revealed that the samples collected from the floor are characterised by higher diversity compared to other samples (Mann-Whitney test, FDR-adjusted p = 0.07, N = 40, Fig. 2). 
 
 ### 2019-02-28
 
