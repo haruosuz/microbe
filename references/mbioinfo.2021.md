@@ -1,4 +1,4 @@
-Last Update: 2022-11-05
+Last Update: 2023-03-21
 
 ----------
 
@@ -21,13 +21,17 @@ Last Update: 2022-11-05
 - [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [CRISPR](#crispr)
 - [robust](#robust)
+- [phenotype](#phenotype)
 - [](#)
 
 ----------
 ## unclassified
 
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#homology
+コドン使用
+https://github.com/haruosuz/codon
+
 相同
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#homology
 
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#2021-06-05
 https://github.com/bacteria-archaea-traits/bacteria-archaea-traits
@@ -60,6 +64,36 @@ download tips for Q&A English Japanese
 Let’s Enjoy the Q&A Session!
 - https://www.nig.ac.jp/jimu/soken/courses/EfS/contents/Q&A_j.pdf
 Ｑ＆Ａを楽しもう！
+
+----------
+## phenotype
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#metadata
+
+### growth rate
+増殖速度
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#growth-rate
+
+### optimal growth temperature
+至適増殖温度
+
+### 2019-09-15
+https://pubmed.ncbi.nlm.nih.gov/30689741/
+Bioinformatics
+. 2019 Sep 15;35(18):3224-3231. doi: 10.1093/bioinformatics/btz059.
+Predicting the optimal growth temperatures of prokaryotes using only genome derived features
+David B Sauer 1, Da-Neng Wang 1
+https://academic.oup.com/bioinformatics/article/35/18/3224/5301315
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6748728/
+
+### 2007-01-12
+https://pubmed.ncbi.nlm.nih.gov/17222055/
+PLoS Comput Biol
+. 2007 Jan 12;3(1):e5. doi: 10.1371/journal.pcbi.0030005. Epub 2006 Nov 30.
+Protein and DNA sequence determinants of thermophilic adaptation
+Konstantin B Zeldovich 1, Igor N Berezovsky, Eugene I Shakhnovich
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030005
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1769408/
 
 ----------
 ## nucleotide_composition
