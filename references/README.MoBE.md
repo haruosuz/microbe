@@ -18,9 +18,7 @@ https://ja.wikipedia.org/wiki/建造環境
 - [money](#money) お金お札
   - [ATM](#atm)
 - [phone](#phone) 電話
-- [school](#school) 学校
 - [subway](#subway) 地下鉄
-- [japan](#japan)
 - [gym](#gym)
 - [review](#review)
 - [epidemi](#epidemi)
@@ -30,6 +28,9 @@ https://ja.wikipedia.org/wiki/建造環境
   - [yanagi](#yanagi) 柳 宇
   - [jessica_green](#jessica_green)
 
+- [japan](#japan)
+- [school](#school) 学校
+- [university](#university) 大学
 
 ----------
 
@@ -77,94 +78,272 @@ https://www.ncbi.nlm.nih.gov/books/NBK519802/
 FAQ: Microbiology of Built Environments - NCBI Bookshelf
 
 ----------
+## review
+
+### 2018-11
+https://pubmed.ncbi.nlm.nih.gov/30127345/
+Review Nat Rev Microbiol
+. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
+Microbiology of the built environment
+Jack A Gilbert 1 2, Brent Stephens 3
+https://www.nature.com/articles/s41579-018-0065-5
+https://www.built-envi.com/wp-content/uploads/gilbert-and-stephens-2018-nature-reviews-microbiology-MoBE.pdf
+
+11:52 PM · Aug 21, 2018
+https://twitter.com/NatureRevMicro/status/1031916837896957952
+Nature Reviews Microbiology on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC https://t.co/Xl6cg9bCPy" / Twitter
+
+12:15 PM · Jun 2, 2019
+https://twitter.com/copypasteusa/status/1135022062198673408
+#MoBE #microBEnet
+Further reading
+
+### 2017-05-09
+
+https://pubmed.ncbi.nlm.nih.gov/28486462/
+Nat Biotechnol
+. 2017 May 9;35(5):401-403. doi: 10.1038/nbt.3868.
+Living in a microbial world
+Charles Schmidt
+https://www.nature.com/articles/nbt.3868
+Studies of the gut microbiome have been generating headlines for years, but the focus on external microbiomes—those residing outside the human body—have received less attention. Microbiomes in urban and man-made environments (the 'built environment') are of particular interest, given their close association with humans.
+http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
+
+8:34 PM · Jun 2, 2019
+https://twitter.com/copypasteusa/status/1135147635763863553
+腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
+人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
+企業は既に腸内微生物をターゲットにしたプロバイオティクスを販売しているが、人工環境のための商業的応用はまだ先
+Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 国際コンソーシアムは世界中で都市の微生物群集を調査してきた (http://metasub.org/)。
+2015年、ニューヨークの地下鉄の表面（改札口、非常口、ベンチ、手すり、ゴミ箱）から検出された約1,700の微生物分類群の大部分はヒト皮膚細菌が占め、一部はヒトの腸内と尿生殖路に由来。DNA配列断片のほぼ半分が既知の生物と一致しなかった。地下鉄で見つかった細菌の大部分は無害。
+https://twitter.com/NatureBiotech/status/864838380353449984
+Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
 
 
-https://caddetailsblog.com/post/the-new-architectural-frontier-buildings-and-their-microbiomes
-The New Architectural Frontier: Buildings and Their Microbiomes | Design Ideas for the Built World
+### 2017-01
 
-The profound impact of global interconnectivity and urban densification on the character and composition of the indoor environment has been demonstrated by the rampant spread of the COVID-19 pandemic.
+https://pubmed.ncbi.nlm.nih.gov/27748568/
+Microb Biotechnol
+. 2017 Jan;10(1):11-13. doi: 10.1111/1751-7915.12430. Epub 2016 Oct 17.
+How do we make indoor environments and healthcare settings healthier?
+Jack A Gilbert 1 2 3
 
-Jako Nice, Senior Researcher, Architect, Healthy building specialist, Council for Scientific and Industrial Research
-https://theconversation.com/profiles/jako-nice-1016038
-He holds a doctorate degree in architecture on the microbiology of the built environment, investigating microbiomes and architecture through applied spatial analytics aimed at reducing healthcare-associated infections.
+### 2016-11-15
 
-----------
+http://www.sciencedirect.com/science/article/pii/S0360132316303419
+Building and Environment
+Volume 109, 15 November 2016, Pages 224-234
+Ten questions concerning the microbiomes of buildings
 
-https://www.nationalacademies.org/our-work/microbiomes-of-the-built-environment-from-research-to-application
-Microbiomes of the Built Environment From Research to Application | National Academies
+### 2016-07-26
 
-2017
-Microbiomes of the Built Environment: A Research Agenda for Indoor Microbiology, Human Health, and Buildings
+https://www.ncbi.nlm.nih.gov/pubmed/27822547
+mSystems. 2016 Jul 26;1(4). pii: e00083-16.
+What Have We Learned about the Microbiomes of Indoor Environments?
+Stephens B1.
 
-Committee
+### 2016-05-24
 
-Jack Gilbert
+https://www.ncbi.nlm.nih.gov/pubmed/27216717
+Microbiome. 2016 May 24;4(1):21.
+The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
+Leung MH1, Lee PK2.
 
-Jessica Green
-
-
-----------
-
-http://nas-sites.org/builtmicrobiome/
-Microbiomes of the Built Environment
-
-https://www.ncbi.nlm.nih.gov/books/NBK458827/
-Microbiomes of the Built Environment - NCBI Bookshelf
-
-https://www.biomedcentral.com/collections/mobe2017
-Microbiome of the Built Environment (MoBE) 2017: Research to Application
-
-### microBEnet
-
-http://www.microbe.net
-microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
-
-http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
-Call for Papers MoBE 2017 Microbiome Special Issue
-
-#### metadata
-
-https://www.ncbi.nlm.nih.gov/pubmed/24152717
-ISME J. 2014 Jan;8(1):1-3. doi: 10.1038/ismej.2013.176. Epub 2013 Oct 24.
-MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment.
-Glass EM1, Dribinsky Y1, Yilmaz P2, Levin H3, Van Pelt R4, Wendel D4, Wilke A1, Eisen JA5, Huse S6, Shipanova A6, Sogin M6, Stajich J7, Knight R8, Meyer F9, Schriml LM10.
-
-
-https://microbe.net/resources/metadata-standards/
-Metadata Standards
-
-https://microbe.net/mobe-metadata-resources/
-MoBE Metadata Resources
-
-May 3, 2012
-https://microbe.net/2012/05/03/metadata-for-the-built-environment-mixs-be-package/
-Guest Post: Metadata for the Built Environment – MIxS-BE package
-
-----------
-
-## space
-宇宙
-
-https://github.com/haruosuz/microbe/blob/master/references/microbe_ISS.md
-
-----------
-## plasmids
-
-http://camda2017.bioinf.jku.at/doku.php/agenda
-Program (tentative) - CAMDA 2017
-17:53	Identification of mobile elements in metagenomic data	Josef Moser, ACIB, Vienna, Austria
-http://camda2017.bioinf.jku.at/lib/exe/fetch.php/camda2017-Moser.pdf
-
+http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
+Outdoors, occupants, and the pan-microbiome: a review
+ By Marcus Leung
+Posted on June 1, 2016
 
 ----------
+## japan
+日本の研究
 
-## subway
-地下鉄
+1) Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmospheric Environment 39:337–341.
+https://www.sciencedirect.com/science/article/pii/S1352231004008805
 
-https://en.wikipedia.org/wiki/London_Underground_mosquito
+2) Kang Y, Nagano K. 2016. Field measurement of indoor air quality and airborne microbes in a near-zero energy house with an earth tube in the cold region of Japan. Science and Technology for the Built Environment 22:1010–1023.
+http://www.tandfonline.com/doi/abs/10.1080/23744731.2016.1215690
 
-https://twitter.com/Alien_Evolve/status/483872602293686272
-深野　祐也 on Twitter: "@MasakiHoso 僕も今調べていたのですが、世界中の地下タイプCulex pipiens molestusは単系統で地理的に分化しているようです。つまり、この蚊は地下鉄環境に最近適応したのではなく、人類以前に既に存在していた地下タイプが最近増えたということですかね。"
+
+----------
+## school
+
+### 2021-02-12
+
+https://pubmed.ncbi.nlm.nih.gov/33581712/
+Published Erratum Microbiome
+. 2021 Feb 12;9(1):42. doi: 10.1186/s40168-021-01005-0.
+Correction to: Bacterial community assemblages in classroom floor dust of 50 public schools in a large city: characterization using 16S rRNA sequences and associations with environmental factors
+Ju-Hyeong Park 1, Angela R Lemons 2, Jerry Roseman 3, Brett J Green 2, Jean M Cox-Ganser 4
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01005-0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7881578/
+
+### 2021-01-20
+
+https://pubmed.ncbi.nlm.nih.gov/33472703/
+Microbiome
+. 2021 Jan 20;9(1):15. doi: 10.1186/s40168-020-00954-2.
+Bacterial community assemblages in classroom floor dust of 50 public schools in a large city: characterization using 16S rRNA sequences and associations with environmental factors
+Ju-Hyeong Park 1, Angela R Lemons 2, Jerry Roseman 3, Brett J Green 2, Jean M Cox-Ganser 4
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00954-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7819239/
+
+Video abstract video file.(42M, mp4)
+
+### 2015-12
+
+https://pubmed.ncbi.nlm.nih.gov/25403276/
+Indoor Air
+. 2015 Dec;25(6):641-52. doi: 10.1111/ina.12172. Epub 2014 Dec 6.
+Characterizing airborne fungal and bacterial concentrations and emission rates in six occupied children's classrooms
+D Hospodsky 1, N Yamamoto 1 2, W W Nazaroff 3, D Miller 1, S Gorthala 1, J Peccia 1
+https://escholarship.org/uc/item/9k8396px
+https://onlinelibrary.wiley.com/doi/10.1111/ina.12172
+
+----------
+## university
+
+https://collegestats.org/explore/bacteria-on-campus/
+Bacteria on Campus
+College 
+We swabbed 24 surfaces in four different suite style dorm rooms and eight surfaces in suite style shared bathrooms in southern Florida. Two rooms were occupied by male students, and two were occupied by female students. The surfaces swabbed in each room were the bed sheets, desk surface, dresser surface, light switch, doorknob, mini fridge handle, bathroom light switch, and bathroom doorknob.
+
+
+### 2017-11-29
+
+https://pubmed.ncbi.nlm.nih.gov/29238327/
+Review Front Microbiol
+. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
+Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review
+So Fujiyoshi 1, Daisuke Tanaka 2, Fumito Maruyama 1 3
+https://www.frontiersin.org/articles/10.3389/fmicb.2017.02336/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/
+In university classrooms, domiciles, offices, health care facilities and other buildings, the concentration of microorganisms increased during the occupied periods and declined during vacant periods (Stryjakowska-Sekulska et al., 2007; Qian et al., 2012; Park et al., 2013; Hospodsky et al., 2015).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/table/T1/?report=objectonly
+Table 1
+Changes in microbial community composition, and the typical sources that influence these changes, from a temporal and seasonal perspective.
+
+```
+Area (detail)	References
+
+University libraries	Stryjakowska-Sekulska et al., 2007
+
+Classroom (The schools were in five cities in four countries, from three continents.)	Hospodsky et al., 2015
+
+City (Building, paved lots, and grass field in University of Colorado campus, Boulder, USA)	Fierer et al., 2008
+```
+
+### 2015-12-01
+
+https://pubmed.ncbi.nlm.nih.gov/26620848/
+Microbiome
+. 2015 Dec 1;3:66. doi: 10.1186/s40168-015-0135-0.
+Microbial biogeography of a university campus
+Ashley A Ross 1, Josh D Neufeld 2
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0135-0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666157/
+
+Methods
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666157/#Sec7title
+Sampling
+All 65 buildings located at the main campus of the University of Waterloo were sampled. Handles from the left and right doors from the same entranceway of each building were sampled at three time points in 2014: October 17, October 24, and November 7. 
+
+The V3-V4 regions of the 16S ribosomal RNA gene (16S rRNA gene) were amplified by PCR with the universal prokaryotic primers, 
+
+https://ja.wikipedia.org/wiki/ウォータールー大学
+ウォータールー大学（英語: University of Waterloo）は、オンタリオ州ウォータールー市[1]に本部を置くカナダの州立大学。
+
+
+### 2014-05
+空気。寒天平板培地で培養。
+https://pubmed.ncbi.nlm.nih.gov/25183103/
+Asian Pac J Trop Biomed
+. 2014 May;4(Suppl 1):S312-7. doi: 10.12980/APJTB.4.2014C807.
+Microbiological quality of indoor air in university libraries
+Samuel Fekadu Hayleeyesus 1, Abayneh Melaku Manaye 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4025286/
+Jimma University, Ethiopia
+エチオピア
+Jimma University libraries
+
+Methods
+The microbial quality of indoor air of eight libraries of Jimma University was determined. The settle plate method using open Petri-dishes containing different culture media was employed to collect sample twice daily. Isolates were identified according to standard methods.
+
+2. Materials and methods
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4025286/#s2title
+2.2. Sampling procedure
+Bacteria and fungi measurement were made by passive air sampling technique: the settle plate method using 9 cm diameter Petri dishes. The sampling height which approximated to human breathing zone was 1 m above the floor and at the center of the room. Bacteria and fungi were collected on 2% nutrient agar and 4% sabouroad agar respectively. 
+
+### 2017-09
+
+https://www.ncbi.nlm.nih.gov/pubmed/29123371
+J Prev Med Hyg. 2017 Sep;58(3):E238-E251.
+Monitoring biodiversity in libraries: a pilot study and perspectives for indoor air quality.
+Valeriani F1, Cianfanelli C2, Gianfranceschi G1, Santucci S2, Romano Spica V1, Mucci N2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668934/
+Materials and methods
+In order to evaluate IAQ, three different kinds of libraries were chosen: Site I, a university library; Site II, an old scientific library; Site III, a digital library. 
+
+STUDY AREA
+Three scientific libraries in the city of Rome (Italy), were selected as exemplificative of different typologies. The first site (Site I) is a "university library" founded in 1994, consisting of a single reading room with desks for students, computers and a loft with shelves for the books storage. The documentary print heritage consists in over 5000 monographs and 2000 periodicals, providing access to about 2000 electronic journals and scientific databases. The library also has books storage room, located in the same building, in the basement. 
+
+### 2014
+空気。寒天平板培地で培養。
+http://agronomy.emu.ee/vol123/2014_3_18_b5.pdf
+Agronomy Research 12(3), 837–842, 2014
+The microbiological environment in specific rooms of a
+university campus
+P. Kic1,* and L. Růžek2
+
+The air samples for microbiological analyses were taken by the instrument Merck
+Mas-100 Eco, a microbial air sampler with the volume of 0.200 m3
+ of air, and
+cultivated by PDA (potato-dextrose agar OXOID CM 139; 100%) and NA (nutrient
+agar OXOID CM 003; 100%). Colonies of microorganisms were evaluated after 5 days
+of incubation. Yeast and filamentous fungi were cultivated at 22°C, bacteria at 29°C.
+The captured microorganisms, which formed colonies on the culture media, were
+expressed as colony forming units per m3
+ (CFU× m
+-3). 
+
+### 2012-08
+空気。rRNA遺伝子アンプリコン。
+https://www.ncbi.nlm.nih.gov/pubmed/22257156
+Indoor Air. 2012 Aug;22(4):339-51. doi: 10.1111/j.1600-0668.2012.00769.x. Epub 2012 Feb 13.
+Size-resolved emission rates of airborne bacteria and fungi in an occupied classroom.
+Qian J1, Hospodsky D, Yamamoto N, Nazaroff WW, Peccia J.
+https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0668.2012.00769.x
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437488/
+Materials and methods
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437488/#sec-3title
+Test environment
+A university classroom located on the ground floor of a five-story building in the northeastern United States was selected as the test room. This location was selected because of consistent and readily characterized occupancy levels, along with proximity to the research team and relative ease of securing access. Experiments were conducted in the fall of 2009 and included 4 days when the classroom and building were occupied, and 4 days when the classroom and building were vacant.
+
+Quantification of size-resolved particle mass, bacterial genome copies, and fungal genome copies
+
+The quantification of bacterial 16S rRNA-encoding genes and fungal 18S rRNA-encoding genes in all impactor stages was completed using real-time PCR in accordance with previously developed protocols for DNA extraction, amplification, and calibration (Boreson et al., 2004; Hospodsky et al., 2010). 
+
+### 2008-01
+空気。rRNA遺伝子アンプリコン。
+https://pubmed.ncbi.nlm.nih.gov/17981945/
+Appl Environ Microbiol
+. 2008 Jan;74(1):200-7. doi: 10.1128/AEM.01467-07. Epub 2007 Nov 2.
+Short-term temporal variability in airborne bacterial and fungal populations
+Noah Fierer 1, Zongzhi Liu, Mari Rodríguez-Hernández, Rob Knight, Matthew Henn, Mark T Hernandez
+https://journals.asm.org/doi/10.1128/AEM.01467-07
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223228/
+MATERIALS AND METHODS
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223228/#sec-1title
+Sample collection. All air samples were collected from a single location in the middle of the University of Colorado campus in Boulder, CO (1660 meters above sea level, 40.01°N, 105.27°W). 
+
+Parallel aliquots of sterile PBS collection solution were run through an identical DNA extraction procedure to check for sample contamination. These DNA extraction “blanks” were PCR amplified alongside the DNA samples extracted from the impingers.
+DNA samples were PCR amplified using the universal primer pair 515f (5′-GTGCCAGCMGCCGCGGTAA-3′) and 1391r (5′-GACGGGCGGTGWGTRCA-3′). This primer pair amplifies small subunit rRNA genes from all three domains (Archaea, Bacteria, and Eukarya) (3, 23, 43), yielding a PCR product that is 850 to 1,100 bp in length. 
+
+### 2007
+4/2007 vol. 16
+http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
+Stryjakowska-Sekulska M., Piotraszewska-Pająk A., Szyszka A., Nowicki M., Filipiak M. (2007). Microbiological quality of indoor air in university rooms. Polish J. Environ. Stud. 16, 623–632.
 
 ----------
 
@@ -617,93 +796,12 @@ https://matome.naver.jp/odai/2140057460215399801
 
 
 
-
-
-
-
-----------
-## review
-
-### 2018-11
-https://pubmed.ncbi.nlm.nih.gov/30127345/
-Review Nat Rev Microbiol
-. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
-Microbiology of the built environment
-Jack A Gilbert 1 2, Brent Stephens 3
-https://www.nature.com/articles/s41579-018-0065-5
-https://www.built-envi.com/wp-content/uploads/gilbert-and-stephens-2018-nature-reviews-microbiology-MoBE.pdf
-
-
-11:52 PM · Aug 21, 2018
-https://twitter.com/NatureRevMicro/status/1031916837896957952
-Nature Reviews Microbiology on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC https://t.co/Xl6cg9bCPy" / Twitter
-
-12:15 PM · Jun 2, 2019
-https://twitter.com/copypasteusa/status/1135022062198673408
-#MoBE #microBEnet
-Further reading
-
-8:34 PM · Jun 2, 2019
-https://twitter.com/copypasteusa/status/1135147635763863553
-腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
-人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
-企業は既に腸内微生物をターゲットにしたプロバイオティクスを販売しているが、人工環境のための商業的応用はまだ先
-Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 国際コンソーシアムは世界中で都市の微生物群集を調査してきた (http://metasub.org/)。
-2015年、ニューヨークの地下鉄の表面（改札口、非常口、ベンチ、手すり、ゴミ箱）から検出された約1,700の微生物分類群の大部分はヒト皮膚細菌が占め、一部はヒトの腸内と尿生殖路に由来。DNA配列断片のほぼ半分が既知の生物と一致しなかった。地下鉄で見つかった細菌の大部分は無害。
-https://twitter.com/NatureBiotech/status/864838380353449984
-Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
-
-https://pubmed.ncbi.nlm.nih.gov/28486462/
-Nat Biotechnol
-. 2017 May 9;35(5):401-403. doi: 10.1038/nbt.3868.
-Living in a microbial world
-Charles Schmidt
-https://www.nature.com/articles/nbt.3868
-Studies of the gut microbiome have been generating headlines for years, but the focus on external microbiomes—those residing outside the human body—have received less attention. Microbiomes in urban and man-made environments (the 'built environment') are of particular interest, given their close association with humans.
-http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
-The indoor microbiome is influenced by building design and operations, human inhabitants and their activities. Source: Biology and Built Environment Center at the University of Oregon and Autodesk, Inc.
-
-*Building -> Restrooms, Offices, Classrooms* ![](https://media.nature.com/lw685/nature-assets-draft/nbt/journal/v35/n5/images/nbt.3868-I2.jpg)
-
-Gilbert found something similar; within five to eight hours of being completely sterilized, public restrooms at a school campus were full of human skin and gut bacteria, most of them completely harmless7.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398865/
-FIG 1
-(A) Samples were collected from three surfaces in both female and male restrooms at San Diego State University. The surfaces analyzed were the toilet seat, the floor in front of the toilet, and the soap dispenser pump. 
-
-サンディエゴ州立大学の男性用と女性用のトイレ3表面：便座、トイレの前の床、石鹸ディスペンサーポンプ
-
-https://www.ncbi.nlm.nih.gov/pubmed/27748568
-Microb Biotechnol. 2017 Jan;10(1):11-13. doi: 10.1111/1751-7915.12430. Epub 2016 Oct 17.
-How do we make indoor environments and healthcare settings healthier?
-Gilbert JA1,2,3.
-
-http://www.sciencedirect.com/science/article/pii/S0360132316303419
-Building and Environment
-Volume 109, 15 November 2016, Pages 224-234
-Ten questions concerning the microbiomes of buildings
-
-https://www.ncbi.nlm.nih.gov/pubmed/27822547
-mSystems. 2016 Jul 26;1(4). pii: e00083-16.
-What Have We Learned about the Microbiomes of Indoor Environments?
-Stephens B1.
-
-http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
-Outdoors, occupants, and the pan-microbiome: a review
- By Marcus Leung
-Posted on June 1, 2016
-
-https://www.ncbi.nlm.nih.gov/pubmed/27216717
-Microbiome. 2016 May 24;4(1):21.
-The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
-Leung MH1, Lee PK2.
-
-
 ----------
 ## updates
 
 ## 2022
 
+## 2022-06-01
 https://pubmed.ncbi.nlm.nih.gov/35650292/
 Editorial Sci Rep
 . 2022 Jun 1;12(1):8732. doi: 10.1038/s41598-022-12254-w.
@@ -713,6 +811,14 @@ https://www.nature.com/articles/s41598-022-12254-w
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160266/
 The Microbes in the Built Environment Collection showcases recent research in this important topic around the globe.
 
+## 2022-01-20
+https://pubmed.ncbi.nlm.nih.gov/35208679/
+Microorganisms
+. 2022 Jan 20;10(2):225. doi: 10.3390/microorganisms10020225.
+Pathogen Control in the Built Environment: A Probiotic-Based System as a Remedy for the Spread of Antibiotic Resistance
+Maria D'Accolti 1 2, Irene Soffritti 1 2, Francesca Bini 1, Eleonora Mazziga 1, Sante Mazzacane 2, Elisabetta Caselli 1 2
+https://www.mdpi.com/2076-2607/10/2/225
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8876034/
 
 
 ## 2021
@@ -1394,120 +1500,6 @@ The Hospital Microbiome Projects -- Mapping Bacteria and Tracking HAIs
 
 https://www.microbe.net/2012/10/23/websites-for-the-hospital-microbiome-project-and-the-home-microbiome-project/
 Websites for the Hospital Microbiome Project and the Home Microbiome Project
-
-
-----------
-
-## school
-## university
-
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01005-0
-Correction to: Bacterial community assemblages in classroom floor dust of 50 public schools in a large city: characterization using 16S rRNA sequences and associations with environmental factors
-
-https://pubmed.ncbi.nlm.nih.gov/33472703/
-Microbiome
-. 2021 Jan 20;9(1):15. doi: 10.1186/s40168-020-00954-2.
-Bacterial community assemblages in classroom floor dust of 50 public schools in a large city: characterization using 16S rRNA sequences and associations with environmental factors
-Ju-Hyeong Park 1, Angela R Lemons 2, Jerry Roseman 3, Brett J Green 2, Jean M Cox-Ganser 4
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00954-2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7819239/
-
-
-Video abstract video file.(42M, mp4)
-
-
-
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/29238327
-Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
-Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
-Fujiyoshi S1, Tanaka D2, Maruyama F1,3.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/
-In university classrooms, domiciles, offices, health care facilities and other buildings, the concentration of microorganisms increased during the occupied periods and declined during vacant periods (Stryjakowska-Sekulska et al., 2007; Qian et al., 2012; Park et al., 2013; Hospodsky et al., 2015).
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/table/T1/?report=objectonly
-Table 1
-Changes in microbial community composition, and the typical sources that influence these changes, from a temporal and seasonal perspective.
-
-```
-Area (detail)	References
-
-University libraries	Stryjakowska-Sekulska et al., 2007
-
-Classroom (The schools were in five cities in four countries, from three continents.)	Hospodsky et al., 2015
-
-City (Building, paved lots, and grass field in University of Colorado campus, Boulder, USA)	Fierer et al., 2008
-```
-
-https://www.ncbi.nlm.nih.gov/pubmed/25403276
-Indoor Air. 2015 Dec;25(6):641-52. doi: 10.1111/ina.12172. Epub 2014 Dec 6.
-Characterizing airborne fungal and bacterial concentrations and emission rates in six occupied children's classrooms.
-Hospodsky D1, Yamamoto N1,2, Nazaroff WW3, Miller D1, Gorthala S1, Peccia J1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/17981945
-Appl Environ Microbiol. 2008 Jan;74(1):200-7. Epub 2007 Nov 2.
-Short-term temporal variability in airborne bacterial and fungal populations.
-Fierer N1, Liu Z, Rodríguez-Hernández M, Knight R, Henn M, Hernandez MT.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223228/
-Sample collection.
-All air samples were collected from a single location in the middle of the University of Colorado campus in Boulder, CO (1660 meters above sea level, 40.01°N, 105.27°W). 
-
-
-4/2007 vol. 16
-http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
-Stryjakowska-Sekulska M., Piotraszewska-Pająk A., Szyszka A., Nowicki M., Filipiak M. (2007). Microbiological quality of indoor air in university rooms. Polish J. Environ. Stud. 16, 623–632.
-
-
-https://collegestats.org/explore/bacteria-on-campus/
-
-![](https://collegestats.org/wp-content/uploads/2016/11/bacteria-on-campus-header.png)
-
-https://www.ncbi.nlm.nih.gov/pubmed/26620848
-Microbiome. 2015 Dec 1;3:66. doi: 10.1186/s40168-015-0135-0.
-Microbial biogeography of a university campus.
-Ross AA1, Neufeld JD2.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25183103
-Asian Pac J Trop Biomed. 2014 May;4(Suppl 1):S312-7. doi: 10.12980/APJTB.4.2014C807.
-Microbiological quality of indoor air in university libraries.
-Hayleeyesus SF1, Manaye AM1.
-
-
-http://agronomy.emu.ee/vol123/2014_3_18_b5.pdf
-Agronomy Research 12(3), 837–842, 2014
-The microbiological environment in specific rooms of a
-university campus
-P. Kic1,* and L. Růžek2
-
-https://www.ncbi.nlm.nih.gov/pubmed/22257156
-Indoor Air. 2012 Aug;22(4):339-51. doi: 10.1111/j.1600-0668.2012.00769.x. Epub 2012 Feb 13.
-Size-resolved emission rates of airborne bacteria and fungi in an occupied classroom.
-Qian J1, Hospodsky D, Yamamoto N, Nazaroff WW, Peccia J.
-
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/29123371
-J Prev Med Hyg. 2017 Sep;58(3):E238-E251.
-Monitoring biodiversity in libraries: a pilot study and perspectives for indoor air quality.
-Valeriani F1, Cianfanelli C2, Gianfranceschi G1, Santucci S2, Romano Spica V1, Mucci N2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668934/
-Materials and methods
-In order to evaluate IAQ, three different kinds of libraries were chosen: Site I, a university library; Site II, an old scientific library; Site III, a digital library. 
-
-STUDY AREA
-Three scientific libraries in the city of Rome (Italy), were selected as exemplificative of different typologies. The first site (Site I) is a "university library" founded in 1994, consisting of a single reading room with desks for students, computers and a loft with shelves for the books storage. The documentary print heritage consists in over 5000 monographs and 2000 periodicals, providing access to about 2000 electronic journals and scientific databases. The library also has books storage room, located in the same building, in the basement. 
-
-
-----------
-## japan
-日本の研究
-
-1) Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmospheric Environment 39:337–341.
-https://www.sciencedirect.com/science/article/pii/S1352231004008805
-
-2) Kang Y, Nagano K. 2016. Field measurement of indoor air quality and airborne microbes in a near-zero energy house with an earth tube in the cold region of Japan. Science and Technology for the Built Environment 22:1010–1023.
-http://www.tandfonline.com/doi/abs/10.1080/23744731.2016.1215690
 
 
 ----------
