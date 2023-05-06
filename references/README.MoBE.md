@@ -142,18 +142,6 @@ mSystems. 2016 Jul 26;1(4). pii: e00083-16.
 What Have We Learned about the Microbiomes of Indoor Environments?
 Stephens B1.
 
-### 2016-05-24
-
-https://www.ncbi.nlm.nih.gov/pubmed/27216717
-Microbiome. 2016 May 24;4(1):21.
-The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
-Leung MH1, Lee PK2.
-
-http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
-Outdoors, occupants, and the pan-microbiome: a review
- By Marcus Leung
-Posted on June 1, 2016
-
 ----------
 ## japan
 日本の研究
@@ -628,6 +616,17 @@ Part 2 Relationship between Bacterial Flora and Indoor Environment in Autumn
 学生会員 ○畑中 未来（工学院大学大学院） 正 会 員 柳 宇（工学院大学）
 正 会 員 永野 秀明（東京都市大学） 正会員 加藤 信介（東京大学）
 
+### 2018-12
+
+https://doi.org/10.3130/aije.83.997
+大学研究室におけるヒト由来細菌の分布特性
+柳 宇, 加藤 信介
+著者情報
+キーワード: 建築環境, 環境モニタリング, マイクロバイオーム, 口腔菌, 拡散特性, 次世代シーケンサー
+ジャーナル フリー
+2018 年 83 巻 754 号 p. 997-1004
+https://www.jstage.jst.go.jp/article/aije/83/754/83_997/_pdf/-char/ja
+
 ### yanagi
 https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
 ヤナギ　ウ
@@ -801,6 +800,17 @@ https://matome.naver.jp/odai/2140057460215399801
 
 ## 2022
 
+### 2022-06-01
+https://pubmed.ncbi.nlm.nih.gov/35650275/
+NPJ Biofilms Microbiomes
+. 2022 Jun 1;8(1):44. doi: 10.1038/s41522-022-00305-z.
+The sanitary indoor environment-a potential source for intact human-associated anaerobes
+Manuela-Raluca Pausan # 1 2, Marcus Blohs # 1, Alexander Mahnert 1, Christine Moissl-Eichinger 3
+https://www.nature.com/articles/s41522-022-00305-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160270/
+representative human body site samples (green = nasal cavity, light blue = oral, yellow = skin, brown = stool, pink = urine, purple = vaginal). 
+
+
 ## 2022-06-01
 https://pubmed.ncbi.nlm.nih.gov/35650292/
 Editorial Sci Rep
@@ -902,19 +912,20 @@ Farm-like indoor microbiota in non-farm homes protects children from asthma deve
 
 ### Stephens_2019
 
-Stephens B, Azimi P, Thoemmes MS, Heidarinejad M, Allen JG, Gilbert JA. 2019. Microbial exchange via fomites and implications for human health. Curr Pollution Rep 5:214. doi:10.1007/s40726-019-00126-3.
-
-19 October 2019
-https://link.springer.com/article/10.1007/s40726-019-00126-3
-Correction to: Microbial Exchange via Fomites and Implications for Human Health
+https://pubmed.ncbi.nlm.nih.gov/34171005/
+Review Curr Pollut Rep
+. 2019;5(4):198-213. doi: 10.1007/s40726-019-00123-6. Epub 2019 Aug 31.
+Microbial Exchange via Fomites and Implications for Human Health
+Brent Stephens 1, Parham Azimi 2, Megan S Thoemmes 3, Mohammad Heidarinejad 1, Joseph G Allen 2, Jack A Gilbert 3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149182/
 
 31 August 2019
 https://link.springer.com/article/10.1007/s40726-019-00123-6
 Microbial Exchange via Fomites and Implications for Human Health
 
-Conclusions
-This review summarizes our understanding of fomite contamination, microbial survival, microbial exchange, and associated human health risks in the built environment. 
-
+19 October 2019
+https://link.springer.com/article/10.1007/s40726-019-00126-3
+Correction to: Microbial Exchange via Fomites and Implications for Human Health
 
 ----------
 ### 2019-05-02
@@ -1288,19 +1299,43 @@ Charles E Robertson 1, Laura K Baumgartner, J Kirk Harris, Kristen L Peterson, M
 ### Patrick Lee
 ### Marcus Leung
 
+### 2016-05-24
+
+https://pubmed.ncbi.nlm.nih.gov/27216717/
+Review Microbiome
+. 2016 May 24;4(1):21. doi: 10.1186/s40168-016-0165-2.
+The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review
+Marcus H Y Leung 1, Patrick K H Lee 2
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0165-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877933/
+Therefore, both the outdoors and occupants act as major sources of microorganisms found in the BE. 
+
+http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
+Outdoors, occupants, and the pan-microbiome: a review
+ By Marcus Leung
+Posted on June 1, 2016
+
+### 2017-08-20
 By Marcus Leung  Posted on August 20, 2017
 https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
 The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
 
+### 2015-06-20
 June 20, 2015 
 http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1
 Air Microbiome of Hong Kong’s Subways
 Patrick Lee
 
-https://www.ncbi.nlm.nih.gov/pubmed/25172855
-Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
-Indoor-air microbiome in an urban subway network: diversity and dynamics.
-Leung MH1, Wilkins D1, Li EK1, Kong FK1, Lee PK2.
+### 2014-11
+
+https://pubmed.ncbi.nlm.nih.gov/25172855/
+Appl Environ Microbiol
+. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
+Indoor-air microbiome in an urban subway network: diversity and dynamics
+Marcus H Y Leung 1, David Wilkins 1, Ellen K T Li 1, Fred K F Kong 1, Patrick K H Lee 2
+https://journals.asm.org/doi/10.1128/AEM.02244-14
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249038/
+
 
 ### Tamami Kawasaki
 
