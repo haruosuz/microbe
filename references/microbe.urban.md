@@ -8,20 +8,70 @@
 - [migi](#migi) microbiome-inspired green infrastructure (MIGI) | microbiome rewilding
 - [urban agriculture](#urban-agriculture)
 - [MetaSUB](#metasub)
+- [people](#people)
+  - [aki.sinkkonen](#aki.sinkkonen) Aki Sinkkonen
+  - [gking](#gking) Gary M. King
 - [](#)
 
 ----------
 ## updates
 
+
 https://twitter.com/search?q=bacteria%20urbanization
 
+----------
 
+10:32 AM · Jul 3, 2022
+https://twitter.com/NikkeiScience/status/1543407324466802688
+日経サイエンス on Twitter: "「都市が変える生物進化」 様々な生物が都市環境に適応を進めている。人間が作り出した環境が進化の方向を変えているのだ。 【別冊日経サイエンス235 進化と絶滅 生命はいかに誕生し多様化したか】 https://t.co/r4Bog4usqf #子ども科学電話相談 #大人のための補講 https://t.co/EcbblHNQlL" / Twitter
+11:11 AM · May 29, 2022
+https://twitter.com/NikkeiScience/status/1530733536809914368
+日経サイエンス on Twitter: "「都市が変える生物進化」 様々な生物が都市環境に適応を進めている。人間が作り出した環境が進化の方向を変えているのだ。 【別冊日経サイエンス235 進化と絶滅 生命はいかに誕生し多様化したか】 https://t.co/r4Bog4usqf #子ども科学電話相談 #大人のための補講 https://t.co/K75Zu0I1gp" / Twitter
+https://www.nikkei-science.com/201812_082.html
+都市が変える生物進化 - 日経サイエンス
+日経サイエンス　 2018年12月号
 
-
+9:05 PM · Apr 4, 2023
+https://twitter.com/NatGeoMagJP/status/1643223278000168960
+ナショナルジオグラフィック日本版 on Twitter: "ミツバチの巣から都市に潜む微生物がわかる、東京などで調査: ニューヨークなど世界5都市で調査。それぞれに固有の特徴が見つかりました。都市の環境や動物、そして人間の健康状態を知るのに役立つ可能性があります。 https://t.co/ct9a2G1W6p #ナショジオ" / Twitter
+https://natgeo.nikkeibp.co.jp/atcl/news/23/040400166/
+ミツバチの巣から都市に潜む微生物がわかる、東京などで調査 | ナショナル ジオグラフィック日本版サイト
+動物
+ミツバチの巣から都市に潜む微生物がわかる、東京などで調査
+世界5都市で採取、人間や動物に感染する病原体の遺伝子も見つかる
+2023.04.04
 
 ----------
 
 ## 2023
+
+----------
+
+### 2023-01
+
+https://pubmed.ncbi.nlm.nih.gov/36991491/
+Environ Microbiome
+. 2023 Mar 30;18(1):23. doi: 10.1186/s40793-023-00467-z.
+Holobiont Urbanism: sampling urban beehives reveals cities' metagenomes
+Elizabeth Hénaff 1 2, Devora Najjar 3, Miguel Perez 3, Regina Flores 4, Christopher Woebken 5, Christopher E Mason 6 7 8, Kevin Slavin 3
+https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00467-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10060141/
+
+2:57 AM · Mar 31, 2023
+https://twitter.com/MicrobiomeJ/status/1641499976424386560
+Microbiome on Twitter: "Beehives reveal city health and metagenomes - these could have real world implications for monitoring #epidemics and #pandemics! @lschriml @joyemwatts @IanDEALidbury @jac_ravel @sharonhuws https://t.co/o6OcIA5FiK" / Twitter
+
+9:05 PM · Apr 4, 2023
+https://twitter.com/NatGeoMagJP/status/1643223278000168960
+ナショナルジオグラフィック日本版 on Twitter: "ミツバチの巣から都市に潜む微生物がわかる、東京などで調査: ニューヨークなど世界5都市で調査。それぞれに固有の特徴が見つかりました。都市の環境や動物、そして人間の健康状態を知るのに役立つ可能性があります。 https://t.co/ct9a2G1W6p #ナショジオ" / Twitter
+
+https://news.yahoo.co.jp/articles/fdbbd73372a41f2cf656b326bc90afb144e13cce?page=2
+ミツバチの巣から都市に潜む微生物がわかる、世界5都市で調査、東京で見つかったのはなんと！（ナショナル ジオグラフィック日本版） - Yahoo!ニュース
+
+https://news.goo.ne.jp/article/natgeo/world/natgeo-0000BKXf.html?page=2
+ミツバチの巣から都市に潜む微生物がわかる、東京などで調査(ナショナル ジオグラフィック日本版) - goo ニュース
+
+### 2023-01
 
 8:04 PM · Jan 3, 2023
 https://twitter.com/cnn_co_jp/status/1610230618092175360
@@ -34,16 +84,18 @@ https://www.cnn.co.jp/fringe/35196924-2.html
 
 ## 2022
 
-### 2022-11-22
-Perspective
-https://pubmed.ncbi.nlm.nih.gov/36557564/
-Microorganisms
-. 2022 Nov 22;10(12):2311. doi: 10.3390/microorganisms10122311.
-The Microbiome of the Built Environment: The Nexus for Urban Regeneration for the Cities of Tomorrow
-Antonia Bruno 1, Sara Fumagalli 1, Giulia Ghisleni 1, Massimo Labra 1
-https://www.mdpi.com/2076-2607/10/12/2311
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9783557/
+### 2022-12-26
+https://pubmed.ncbi.nlm.nih.gov/36572917/
+Environ Microbiome
+. 2022 Dec 26;17(1):61. doi: 10.1186/s40793-022-00457-7.
+Temporary establishment of bacteria from indoor plant leaves and soil on human skin
+Gwynne Á Mhuireach 1, Ashkaan K Fahimipour 2 3 4, Roo Vandegrift 2 5, Mario E Muscarella 6, Roxana Hickey 2, Ashley C Bateman 2, Kevin G Van Den Wymelenberg 2, Brendan J M Bohannan 3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9793532/
+https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00457-7
 
+7:10 PM · Jan 2, 2023
+https://twitter.com/shinbiosis/status/1609854518614978565
+シンバイオシス研究所　-目に見えないものたちの力で新しい常識をつくる- on Twitter: "室内植物の葉および土壌に由来する細菌のヒト皮膚への一時的な定着性 環境微生物が1回の接触で皮膚に永続的に定着する可能性は低い 都市化が進むにつれて、室内の生物多様性に繰り返しまたは継続的に曝露することが、ヒトの微生物叢の機能と多様性に関連する可能性がある。 https://t.co/ZYKUx9nu2v" / Twitter
 
 ### 2022-12-02
 ウルグアイの首都・モンテビデオ
@@ -55,6 +107,18 @@ Cecilia Salazar 1, Matias Giménez 1 2, Nadia Riera 1, Andrés Parada 1, Josefin
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9715416/
 Montevideo is the capital city of Uruguay,
+
+
+### 2022-11-22
+Perspective
+https://pubmed.ncbi.nlm.nih.gov/36557564/
+Microorganisms
+. 2022 Nov 22;10(12):2311. doi: 10.3390/microorganisms10122311.
+The Microbiome of the Built Environment: The Nexus for Urban Regeneration for the Cities of Tomorrow
+Antonia Bruno 1, Sara Fumagalli 1, Giulia Ghisleni 1, Massimo Labra 1
+https://www.mdpi.com/2076-2607/10/12/2311
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9783557/
+
 
 ### 2022-11
 韓国ソウルのバス停 (n=55) と地下鉄の駅 (n=21) 
@@ -193,26 +257,6 @@ https://www.nature.com/articles/s41396-020-0732-1
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7784924/
 
 ### 2020-10
-
-### 2020-10-14
-https://pubmed.ncbi.nlm.nih.gov/33055153/
-Clinical Trial Sci Adv
-. 2020 Oct 14;6(42):eaba2578. doi: 10.1126/sciadv.aba2578. Print 2020 Oct.
-Biodiversity intervention enhances immune regulation and health-associated commensal microbiota among daycare children
-Marja I Roslund 1, Riikka Puhakka 1, Mira Grönroos 1, Noora Nurminen 2, Sami Oikarinen 2, Ahmad M Gazali 3, Ondřej Cinek 4, Lenka Kramná 4, Nathan Siter 5, Heli K Vari 1, Laura Soininen 1, Anirudra Parajuli 1, Juho Rajaniemi 5, Tuure Kinnunen 3 6, Olli H Laitinen 2, Heikki Hyöty 2, Aki Sinkkonen 7 8, ADELE research group
-https://advances.sciencemag.org/content/6/42/eaba2578
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7556828/
-
-2020.10.29
-https://project.nikkeibp.co.jp/behealth/atcl/news/overseas/00033/
-森の自然を取り込んだ園庭が園児の免疫を改善か、フィンランド自然資源研究所｜
-子どもの体の細菌叢に多様化をもたらし、免疫機能も改善される可能性
-
-
-10:00 AM · Oct 27, 2020
-https://twitter.com/Alien_Evolve/status/1320892981444890624
-深野　祐也 on Twitter: "これはすごい。これまで生活環境が、人間の微生物相と免疫関係の疾患に与えることは色々示唆されていたものの、観察研究がほとんどで明確な因果関係は不明だった。この研究は、保育園の園庭を自然豊かにする介入試験を行って、因果関係を明確にしている。 論文：https://t.co/HSYwCZcREz" / Twitter
-もちろん、園庭を自然を豊かにすることは色々なデメリット（怪我など）もあると思いますが、「都市社会における免疫関連疾患のリスクを低減するための予防的アプローチへのインセンティブを提案する」素晴らしい研究だと思います。
 
 ### 2020-10-01
 
@@ -384,18 +428,7 @@ https://shorebird.hatenablog.com/entry/20180509/1525863616
 第20章　ダーウィンとともにデザインする
 この章も日本の話題から始まっている．六本木ヒルズにある屋上庭園を好意的に紹介し，このようなビルの周囲に緑を有機的に取り込む動きを解説する．アクロス福岡，シンガポールのCDLツリーハウス，ミラノのヴォスコ・ヴェルティカーレ，マンハッタンのローライン地下庭園プロジェクト，ベルリンのヒルデガルテンなどの取り組みを挙げ，このような都市計画や建築計画におけるグリーンムーブメントの様々な利点を説明する．しかしスヒルトハウゼンはこれまでのこのような動きは都市環境における進化を考慮していないと指摘し，このような計画のダーウィニアンガイドラインを提唱している．
 
-----------
 
-### Parajuli_2018
-### 2018-02-05
-
-https://pubmed.ncbi.nlm.nih.gov/29467728/
-Front Microbiol
-. 2018 Feb 5;9:84. doi: 10.3389/fmicb.2018.00084. eCollection 2018.
-Urbanization Reduces Transfer of Diverse Environmental Microbiota Indoors
-Anirudra Parajuli 1, Mira Grönroos 1, Nathan Siter 2, Riikka Puhakka 1, Heli K Vari 1, Marja I Roslund 1, Ari Jumpponen 3, Noora Nurminen 4, Olli H Laitinen 4, Heikki Hyöty 4 5, Juho Rajaniemi 2, Aki Sinkkonen 1
-https://www.frontiersin.org/articles/10.3389/fmicb.2018.00084/full
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5808279/
 
 ----------
 
@@ -487,6 +520,61 @@ https://journals.asm.org/doi/10.1128/AEM.02244-14
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4249038/
 
 ----------
+## people
+----------
+## aki.sinkkonen
+Aki Sinkkonen
+
+### 2020-10-14
+https://pubmed.ncbi.nlm.nih.gov/33055153/
+Clinical Trial Sci Adv
+. 2020 Oct 14;6(42):eaba2578. doi: 10.1126/sciadv.aba2578. Print 2020 Oct.
+Biodiversity intervention enhances immune regulation and health-associated commensal microbiota among daycare children
+Marja I Roslund 1, Riikka Puhakka 1, Mira Grönroos 1, Noora Nurminen 2, Sami Oikarinen 2, Ahmad M Gazali 3, Ondřej Cinek 4, Lenka Kramná 4, Nathan Siter 5, Heli K Vari 1, Laura Soininen 1, Anirudra Parajuli 1, Juho Rajaniemi 5, Tuure Kinnunen 3 6, Olli H Laitinen 2, Heikki Hyöty 2, Aki Sinkkonen 7 8, ADELE research group
+https://advances.sciencemag.org/content/6/42/eaba2578
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7556828/
+
+2020.10.29
+https://project.nikkeibp.co.jp/behealth/atcl/news/overseas/00033/
+森の自然を取り込んだ園庭が園児の免疫を改善か、フィンランド自然資源研究所｜
+子どもの体の細菌叢に多様化をもたらし、免疫機能も改善される可能性
+
+10:00 AM · Oct 27, 2020
+https://twitter.com/Alien_Evolve/status/1320892981444890624
+深野　祐也 on Twitter: "これはすごい。これまで生活環境が、人間の微生物相と免疫関係の疾患に与えることは色々示唆されていたものの、観察研究がほとんどで明確な因果関係は不明だった。この研究は、保育園の園庭を自然豊かにする介入試験を行って、因果関係を明確にしている。 論文：https://t.co/HSYwCZcREz" / Twitter
+もちろん、園庭を自然を豊かにすることは色々なデメリット（怪我など）もあると思いますが、「都市社会における免疫関連疾患のリスクを低減するための予防的アプローチへのインセンティブを提案する」素晴らしい研究だと思います。
+
+### 2018-02-05
+
+https://pubmed.ncbi.nlm.nih.gov/29467728/
+Front Microbiol
+. 2018 Feb 5;9:84. doi: 10.3389/fmicb.2018.00084. eCollection 2018.
+Urbanization Reduces Transfer of Diverse Environmental Microbiota Indoors
+Anirudra Parajuli 1, Mira Grönroos 1, Nathan Siter 2, Riikka Puhakka 1, Heli K Vari 1, Marja I Roslund 1, Ari Jumpponen 3, Noora Nurminen 4, Olli H Laitinen 4, Heikki Hyöty 4 5, Juho Rajaniemi 2, Aki Sinkkonen 1
+https://www.frontiersin.org/articles/10.3389/fmicb.2018.00084/full
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5808279/
+
+----------
+## gking
+Gary M. King
+
+### 2019-08-06
+https://www.frontiersin.org/articles/10.3389/fevo.2019.00288/full
+Frontiers | Impacts of Experimental Flooding on Microbial Communities and Methane Fluxes in an Urban Meadow, Baton Rouge, Louisiana
+
+### 2016-04-26
+https://link.springer.com/chapter/10.1007/978-94-017-7453-6_14
+Urban Microbiomes and Urban Agriculture: What Are the Connections and Why Should We Care? | SpringerLink
+
+### 2014-09
+https://pubmed.ncbi.nlm.nih.gov/25224504/
+Review J Microbiol
+. 2014 Sep;52(9):721-8. doi: 10.1007/s12275-014-4364-x. Epub 2014 Sep 2.
+Urban microbiomes and urban ecology: how do microbes in the built environment affect human sustainability in cities?
+Gary M King 1
+https://link.springer.com/article/10.1007/s12275-014-4364-x
+
+----------
 ## urban agriculture
 https://ja.wikipedia.org/wiki/都市農業
 
@@ -516,10 +604,6 @@ An interesting book chapter was recently published on “Urban Microbiomes and U
  Jonathan Eisen says:
 May 24, 2016 at 7:16 am
 I am curious – do they discuss at all how they define urban? I have been wondering about this as I see more papers and studies about urban microbiomes. Is there some sort of transition we might expect as one goes from rural to suburban to urban in regard to microbiomes? And do they discuss at all if there are differences in microbiomes along such gradients?
-
-### 2016-04-26
-https://link.springer.com/chapter/10.1007/978-94-017-7453-6_14
-Urban Microbiomes and Urban Agriculture: What Are the Connections and Why Should We Care? | SpringerLink
 
 ----------
 ## microbiome rewilding
@@ -666,6 +750,7 @@ https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-019-03
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8067373/
 
 ### Gohli_2019
+### 2019-12-19
 
 https://pubmed.ncbi.nlm.nih.gov/31856911/
 Microbiome
@@ -687,7 +772,17 @@ https://twitter.com/GMFHx/status/1412156842940289032
 GutMicrobiota Health on Twitter: "Urbanization has been associated with health issues. New findings reveal that each city has its own fingerprint of bacteria and viruses with antibiotic-resistance genes encoding proteins that help bacteria fight off antimicrobial compounds https://t.co/iMPOv4D3R1 https://t.co/nLULfe5yTj" / Twitter
 
 ### Danko_2021
-### 2021-05-22
+### 2021-06-24
+
+https://pubmed.ncbi.nlm.nih.gov/34043940/
+Cell
+. 2021 Jun 24;184(13):3376-3393.e17. doi: 10.1016/j.cell.2021.05.002. Epub 2021 May 26.
+A global metagenomic map of urban microbiomes and antimicrobial resistance
+David Danko 1, Daniela Bezdan 2,
+International MetaSUB Consortium
+https://www.sciencedirect.com/science/article/pii/S0092867421005857?via%3Dihub
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238498/
+https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
 
 2021年6月5日
 https://univ-journal.jp/98443/
@@ -719,17 +814,6 @@ https://www.sciencemag.org/news/2021/05/cities-have-their-own-distinct-microbial
 Cities have their own distinct microbial fingerprints | Science | AAAS
 By Cathleen O’Grady
 May. 26, 2021 , 8:00 PM
-
-https://pubmed.ncbi.nlm.nih.gov/34043940/
-Cell
-. 2021 May 22;S0092-8674(21)00585-7. doi: 10.1016/j.cell.2021.05.002. Online ahead of print.
-A global metagenomic map of urban microbiomes and antimicrobial resistance
-David Danko 1, Daniela Bezdan 2,
-International MetaSUB Consortium
-https://www.sciencedirect.com/science/article/pii/S0092867421005857?via%3Dihub
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238498/
-https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
-
 
 ### metasub_2020
 
