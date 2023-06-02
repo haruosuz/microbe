@@ -390,19 +390,20 @@ Time-resolved phylogeny and penA polymorphisms.
 
 Plasmid-encoded resistance
 
-### Lam_2018
+https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+## Francois Balloux
 
-https://pubmed.ncbi.nlm.nih.gov/30006589/
+### 2022-03-03
+
+https://pubmed.ncbi.nlm.nih.gov/35241674/
 Nat Commun
-. 2018 Jul 13;9(1):2703. doi: 10.1038/s41467-018-05114-7.
-Population genomics of hypervirulent Klebsiella pneumoniae clonal-group 23 reveals early emergence and rapid global dissemination
-Margaret M C Lam 1, Kelly L Wyres 1, Sebastian Duchêne 1, Ryan R Wick 1, Louise M Judd 1, Yunn-Hwen Gan 2, Chu-Han Hoh 2, Sophia Archuleta 3, James S Molton 3, Shirin Kalimuddin 4, Tse Hsien Koh 5, Virginie Passet 6, Sylvain Brisse 6, Kathryn E Holt 7 8
-https://www.nature.com/articles/s41467-018-05114-7
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6045662/
+. 2022 Mar 3;13(1):1131. doi: 10.1038/s41467-022-28819-2.
+Role of mobile genetic elements in the global dissemination of the carbapenem resistance gene blaNDM
+Mislav Acman 1, Ruobing Wang 2, Lucy van Dorp 3, Liam P Shaw 4, Qi Wang 2, Nina Luhmann 5, Yuyao Yin 2, Shijun Sun 2, Hongbin Chen 2, Hui Wang 2, Francois Balloux 3
+https://www.nature.com/articles/s41467-022-28819-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8894482/
 
-We detected a strong temporal signal in the CG23 genome alignment (see Supplementary Fig. 2a-c, Supplementary Methods), sufficient to estimate evolutionary rates and dates for the most recent common ancestors (MRCAs) of key CG23 lineages with BEAST (best-fitting Bayesian model was the UCLD constant model, see Supplementary Methods). The mean evolutionary rate for CG23 was estimated to be 3.40 × 10−7 substitutions site−1 year−1 (95% HPD; 2.43 × 10−7–4.38 × 10−7). The MRCAs for the entire CG23 population, CG23-I and equine sublineage nested within CG23-I were estimated to be 1878 (95% HPD; 1827–1915), 1928 (95% HPD; 1908–1953) and 1972 (95% HPD, 1961–1975), respectively.
-
-### Wang_2018
+### 2018-03-21
 
 https://pubmed.ncbi.nlm.nih.gov/29563494/
 Nat Commun
@@ -412,53 +413,17 @@ Ruobing Wang 1, Lucy van Dorp 2, Liam P Shaw 2, Phelim Bradley 3, Qi Wang 1, Xia
 https://www.nature.com/articles/s41467-018-03205-z
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/
 
-Our analyses establish that all mcr-1 elements in circulation descend from the same initial mobilization of mcr-1 by an ISApl1 transposon in the mid 2000s (2002–2008; 95% highest posterior density), followed by a marked demographic expansion, which led to its current global distribution.
+### Lam_2018
+### 2018-07-13
 
-
-Results
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/#Sec2title
-
-
-
-Fig. 1
-Overview of the mcr-1-positive isolates included. a Global map of mcr-1-positive isolates included colored by genus with the number and size of pies providing the sample size per location; b Map of novel Chinese isolates sequenced for this study; c Histogram of sampling dates (years) of the isolates. Maps were created using the R package rworldmap using the public domain Natural Earth data set
-
-
-Fig. 4
-Phylogeny of the mcr-1 composite transposon indicates a dominant sequence type with subsequent diversification. Midpoint-rooted maximum parsimony phylogeny based on the 3522 bp alignment of 457 sequences (recombinant regions removed). Size of points indicates the number of identical sequences, with a representative sequence for each shown next to each tip
-
-
-A Bayesian dating approach (BEAST) was applied to infer a timed phylogeny of the maximal alignable region of the mcr-1 carrying transposon (see Methods). Based on this 3522 site alignment we infer a common ancestor for 364 dated isolates in 2006 (Supplementary Fig. 3; 2002–2008 95% highest poster density (HPD) with a strict clock and coalescent model) with a mutation rate around 7.51 × 10−5 substitutions per site per year (Supplementary Table 1). There was no clear overall geographic clustering in the Maximum Clade Credibility (MCC) tree (Supplementary Figure 4).
-
-
-
-Fig. 5
-The distribution of plasmid types shown on the transposon phylogeny. Maximum parsimony tree (homoplastic sites removed, midpoint rooted, as in Fig. 4) based on the composite transposon alignment for 172 sequences containing a plasmid replicon on the same contig i.e. those with an assigned plasmid type (color). IncI2 and IncX4 are the most common plasmid types. An example sequence ID is shown for each unique sequence
-
-
-We applied BEAST to infer a timed phylogeny for each of these alignable regions after removal of SNPs showing evidence of recombination. For the IncI2 background we infer that a common ancestor to all 108 isolates existed in 2006 (1998–2010 95% CI relaxed exponential clock model) assuming a constant population size model (Supplementary Fig. 5). For the IncX4 backgrounds we dated the common ancestor of the eight isolates to 2011 (2010–2013 95% CI relaxed exponential clock model) assuming a constant population size model (Supplementary Fig. 6). Posterior density distributions of root dating under different population models are shown in Supplementary Figs. 7–8. The difference in dating inferred for these two plasmid backgrounds and the recent date obtained for IncX4 highlight the dynamic nature of the integration of the mcr-1 carrying transposon, even if in the IncX4 phylogeny isolates from East Asia and Europe and the Americas cluster together. The inferred mutation rates obtained for the IncI2 and IncX4 backgrounds consistently lie around 5–10 × 10−5 substitutions per site per year (Supplementary Table 1).
-
-
-Discussion
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/#Sec8title
-
-Our phylogenetic analyses point to a date for the insertion of mcr-1 into the gene transposon shared across our isolates in the mid 2000s (2002–2008 95% HPD). 
-
-Our estimates of the age of spread of the representative IncI2 and IncX4 plasmid backgrounds are more recent, dating to ~ 2008 and 2013, respectively, but are both consistent with the age of the transposon mobilization event. 
-
-
-Methods
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/#Sec9title
-
-Phylogenetic dating
-Given recombination can conceal the clonal phylogenetic signal we also applied ClonalFrameML52 to identify regions of high recombination in a subset of IncI2 and IncX4 plasmid background alignments. Where recombination hotspots were identified, they were removed from the alignment. In the IncI2 alignment, this resulted in removing 1281 positions. No regions of high recombination were detected in the IncX4 alignment. We applied root-to-tip correlations to test for a temporal signal in the data using TempEST55. There was a significantly positive slope for all three alignments (Supplementary Fig. 9–11).
-
-We applied BEAUTi and BEAST v2.4.756,57 to estimate a timed phylogeny from an alignment of IncI2 plasmids (7161 sites, 110 isolates) and IncX4 plasmids (34,761 sites, 8 isolates). 
-
-
-
-
-
+https://pubmed.ncbi.nlm.nih.gov/30006589/
+Nat Commun
+. 2018 Jul 13;9(1):2703. doi: 10.1038/s41467-018-05114-7.
+Population genomics of hypervirulent Klebsiella pneumoniae clonal-group 23 reveals early emergence and rapid global dissemination
+Margaret M C Lam 1, Kelly L Wyres 1, Sebastian Duchêne 1, Ryan R Wick 1, Louise M Judd 1, Yunn-Hwen Gan 2, Chu-Han Hoh 2, Sophia Archuleta 3, James S Molton 3, Shirin Kalimuddin 4, Tse Hsien Koh 5, Virginie Passet 6, Sylvain Brisse 6, Kathryn E Holt 7 8
+https://www.nature.com/articles/s41467-018-05114-7
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6045662/
+We detected a strong temporal signal in the CG23 genome alignment (see Supplementary Fig. 2a-c, Supplementary Methods), sufficient to estimate evolutionary rates and dates for the most recent common ancestors (MRCAs) of key CG23 lineages with BEAST (best-fitting Bayesian model was the UCLD constant model, see Supplementary Methods). The mean evolutionary rate for CG23 was estimated to be 3.40 × 10−7 substitutions site−1 year−1 (95% HPD; 2.43 × 10−7–4.38 × 10−7). The MRCAs for the entire CG23 population, CG23-I and equine sublineage nested within CG23-I were estimated to be 1878 (95% HPD; 1827–1915), 1928 (95% HPD; 1908–1953) and 1972 (95% HPD, 1961–1975), respectively.
 
 ----------
 ## niid
