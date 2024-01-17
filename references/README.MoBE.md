@@ -15,8 +15,6 @@ https://ja.wikipedia.org/wiki/建造環境
 - [airport](#airport) 空港
 - [home](#home) 家
 - [hospital](#hospital) 病院
-- [money](#money) お金お札
-  - [ATM](#atm)
 - [phone](#phone) 電話
 - [subway](#subway) 地下鉄
 - [gym](#gym)
@@ -27,10 +25,94 @@ https://ja.wikipedia.org/wiki/建造環境
   - [kato](#kato) 加藤 信介
   - [yanagi](#yanagi) 柳 宇
   - [jessica_green](#jessica_green)
-
 - [japan](#japan)
 - [school](#school) 学校
 - [university](#university) 大学
+
+
+
+----------
+
+----------
+
+### 2020-01
+https://pubmed.ncbi.nlm.nih.gov/31901242/
+Microbiome
+. 2020 Jan 4;8(1):1. doi: 10.1186/s40168-019-0777-4.
+Viruses in the Built Environment (VIBE) meeting report
+Aaron J Prussin 2nd 1, Jessica A Belser 2, Werner Bischoff 3, Scott T Kelley 4, Kaisen Lin 1, William G Lindsley 5, Jean Pierre Nshimyimana 6, Michael Schuit 7, Zhenyu Wu 8, Kyle Bibby 8, Linsey C Marr 9
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0777-4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6942371/
+
+https://ir.lib.hiroshima-u.ac.jp/00051491
+VIBE（Viruses in the Built Environment）ミーティングレポート - 広島大学 学術情報リポジトリ
+Microbiome_8_1_transver_FujiyoshiMaruyama.pdf
+VIBE（Viruses in the Built Environment）ミーティングレポート
+作成者	
+藤吉 奏
+丸山 史人
+本文は© Prussin et al. 2020 Viruses in the Built Environment (VIBE) meeting report Microbiome 8:1 https://doi.org/10.1186/s40168-019-0777-4 を日本語に翻訳したものある。
+
+
+### 2017-11-29
+
+https://pubmed.ncbi.nlm.nih.gov/29238327/
+Review Front Microbiol
+. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
+Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review
+So Fujiyoshi 1, Daisuke Tanaka 2, Fumito Maruyama 1 3
+https://www.frontiersin.org/articles/10.3389/fmicb.2017.02336/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/
+In university classrooms, domiciles, offices, health care facilities and other buildings, the concentration of microorganisms increased during the occupied periods and declined during vacant periods (Stryjakowska-Sekulska et al., 2007; Qian et al., 2012; Park et al., 2013; Hospodsky et al., 2015).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/table/T1/?report=objectonly
+Table 1
+Changes in microbial community composition, and the typical sources that influence these changes, from a temporal and seasonal perspective.
+
+```
+Area (detail)	References
+
+University libraries	Stryjakowska-Sekulska et al., 2007
+
+Classroom (The schools were in five cities in four countries, from three continents.)	Hospodsky et al., 2015
+
+City (Building, paved lots, and grass field in University of Colorado campus, Boulder, USA)	Fierer et al., 2008
+```
+
+### 2016
+https://pubmed.ncbi.nlm.nih.gov/30176129/
+Review
+FAQ: Microbiology of Built Environments: Report on an American Academy of Microbiology Colloquium held in Washington, DC, in September 2015
+Anne S. Marsh 1
+https://www.ncbi.nlm.nih.gov/books/NBK519802/
+FAQ: Microbiology of Built Environments - NCBI Bookshelf
+
+2021-06-27
+https://ir.lib.hiroshima-u.ac.jp/files/public/5/51490/20211015142546977454/FAQMBE_NBK519802_transver_FujiyoshiMaruyama.pdf
+FAQ
+Microbiology of Built Environments
+「本文は Anne S. Marsh、FAQ Microbiology of Built Environments、Report on an American Academy of Microbiology Colloquium held in Washington, DC, in September 2015、Bookshelf ID: NBK519802 PMID: 30176129 DOI: 10.1128/AAMCol.Sept.2015 を日本語に翻訳したものである。」
+翻訳・文責 広島大学 藤吉奏・丸山史人 2021.6.27
+この翻訳者はアメリカ微生物学会より以下のような特別な許可を得ています。
+
+----------
+
+
+
+http://www.aero.ds.shibaura-it.ac.jp/stuff/2009/09ronbun/j06107.pdf
+主要 6 都市の地下街における浮遊微生物に関する研究
+Research ofAirborne Microorganism in Underground Mall of Principal 6 Cities in Japan
+J06107-5 矢幡 亘
+
+【謝辞】
+本研究は、平成21 年度厚生労働科学研究費補助金（健康科学研究事業）に
+よる「建築物の特性を考慮した環境衛生管理に関する研究（研究代表者：大
+澤元毅」によって行った。記してここに感謝の意を表する。
+
+https://researchmap.jp/read0086625/published_papers
+大澤 元毅
+オオサワ ハルキ  (Haruki Osawa)
+
 
 ----------
 
@@ -56,26 +138,40 @@ https://twitter.com/NatureJapan/status/1157048360349495296
 Nature Japan on Twitter: "Scientific Reports ゲスト・エディター・コレクション -「建造環境における微生物」に関する投稿論文を募集。建物、輸送車両、水処理施設、建築設備など、建造環境とインフラストラクチャーで見られる微生物のあらゆる側面に関する研究を歓迎します。投稿は2019年9月末まで。https://t.co/w6noTLDWyG https://t.co/dD5JMFHO1U" / Twitter
 
 ----------
+## unclassified
 
+2014年8月6日 17時00分
 https://prtimes.jp/main/html/rd/p/000000080.000009276.html
 リビングルームのホコリ１ｇ中に、約10万個の菌・約6万個のカビを確認 花王が家庭のホコリを調査｜花王株式会社（花王MKニュース）のプレスリリース
-2014年8月6日 17時00分
 
-### 2021-06-27
-https://ir.lib.hiroshima-u.ac.jp/files/public/5/51490/20211015142546977454/FAQMBE_NBK519802_transver_FujiyoshiMaruyama.pdf
-FAQ
-Microbiology of Built Environments
-「本文は Anne S. Marsh、FAQ Microbiology of Built Environments、Report on an American Academy of Microbiology Colloquium held in Washington, DC, in September 2015、Bookshelf ID: NBK519802 PMID: 30176129 DOI: 10.1128/AAMCol.Sept.2015 を日本語に翻訳したものである。」
-翻訳・文責 広島大学 藤吉奏・丸山史人 2021.6.27
-この翻訳者はアメリカ微生物学会より以下のような特別な許可を得ています。
+2015/10/17
+https://tabi-labo.com/191733/doctors-me-bacteria10
+知らなかった！じつは雑菌だらけの10のモノ
+1. 台所のスポンジ 
+2. まな板 
+3. お金 
+4. スマホ 
+5. 水道の蛇口 
+6. パソコンのキーボード 
+7. マットレス 
+8. ハンドバッグやポーチ 
+9. レストランのメニュー 
+10. カーペット 
 
-### 2016
-https://pubmed.ncbi.nlm.nih.gov/30176129/
-Review
-FAQ: Microbiology of Built Environments: Report on an American Academy of Microbiology Colloquium held in Washington, DC, in September 2015
-Anne S. Marsh 1
-https://www.ncbi.nlm.nih.gov/books/NBK519802/
-FAQ: Microbiology of Built Environments - NCBI Bookshelf
+2015年5月19日 
+http://trapradar.net/life/dirty-things/
+実はトイレより汚い意外な物13選 | トラップ・レーダー
+
+2014年06月07日
+https://matome.naver.jp/odai/2140057460215399801
+手洗い必須！日常的に触れている実はとても雑菌まみれなモノ - NAVER まとめ 
+1.スマートフォン
+2.お金
+3.パソコンのキーボード、マウス
+4.トイレのドアノブや蛇口
+
+----------
+
 
 ----------
 ## review
@@ -197,31 +293,6 @@ College
 We swabbed 24 surfaces in four different suite style dorm rooms and eight surfaces in suite style shared bathrooms in southern Florida. Two rooms were occupied by male students, and two were occupied by female students. The surfaces swabbed in each room were the bed sheets, desk surface, dresser surface, light switch, doorknob, mini fridge handle, bathroom light switch, and bathroom doorknob.
 
 
-### 2017-11-29
-
-https://pubmed.ncbi.nlm.nih.gov/29238327/
-Review Front Microbiol
-. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
-Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review
-So Fujiyoshi 1, Daisuke Tanaka 2, Fumito Maruyama 1 3
-https://www.frontiersin.org/articles/10.3389/fmicb.2017.02336/full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/
-In university classrooms, domiciles, offices, health care facilities and other buildings, the concentration of microorganisms increased during the occupied periods and declined during vacant periods (Stryjakowska-Sekulska et al., 2007; Qian et al., 2012; Park et al., 2013; Hospodsky et al., 2015).
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/table/T1/?report=objectonly
-Table 1
-Changes in microbial community composition, and the typical sources that influence these changes, from a temporal and seasonal perspective.
-
-```
-Area (detail)	References
-
-University libraries	Stryjakowska-Sekulska et al., 2007
-
-Classroom (The schools were in five cities in four countries, from three continents.)	Hospodsky et al., 2015
-
-City (Building, paved lots, and grass field in University of Colorado campus, Boulder, USA)	Fierer et al., 2008
-```
-
 ### 2015-12-01
 
 https://pubmed.ncbi.nlm.nih.gov/26620848/
@@ -332,69 +403,6 @@ DNA samples were PCR amplified using the universal primer pair 515f (5′-GTGCCA
 4/2007 vol. 16
 http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
 Stryjakowska-Sekulska M., Piotraszewska-Pająk A., Szyszka A., Nowicki M., Filipiak M. (2007). Microbiological quality of indoor air in university rooms. Polish J. Environ. Stud. 16, 623–632.
-
-----------
-
-## money
-お金お札
-
-https://twitter.com/Newsweek_JAPAN/status/866774474166874113
-ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
-5:55 PM - 22 May 2017
-
-2017年5月22日
-http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
-細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版
-Hong Kong's Dirty Money: Cash Carries Acne-Causing Bacteria, Other Pathogens
-＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
-紙幣が細菌追跡の目印に
-都市の細菌集団探しは成長分野
-耐性菌との戦いに役立つ
-
-2017-04-13
-https://twitter.com/yokadzaki/status/852704490436177921
-Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
-
-https://www.ncbi.nlm.nih.gov/pubmed/28450856
-Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
-Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
-
-September 6, 2017
-http://time.com/4918626/money-germs-microbes-dirty/
-Here's How Dirty Your Money Really Is | Time
-
-https://www.ncbi.nlm.nih.gov/pubmed/28384336
-PLoS One. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
-Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City.
-Maritz JM1, Sullivan SA1, Prill RJ2, Aksoy E1, Scheid P1, Carlton JM1.
-
-January 4, 2017
-http://time.com/money/4621673/money-cash-currency-bacteria-disease-sickness/
-Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
-The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
-
-2016/02/02
-http://fukuyuki.net/post-639/
-硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
-
-2013.06.19
-https://www.atpress.ne.jp/news/36512
-現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜プレスリリース配信サービス【＠Press：アットプレス】
-
-- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
-- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
-- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
-- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
-- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
-- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
-
-### ATM
-
-https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
-New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
-
-- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
-- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
 
 ----------
 ## phone
@@ -749,49 +757,6 @@ Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment t
 https://twitter.com/roxana_hickey/status/877713794733973504
 Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
 10:24 PM - 21 Jun 2017
-
-
-
-
-
-
-
-
-----------
-## unclassified
-
-
-2016/03/24
-https://news.mynavi.jp/article/20160324-a137/
-外国人は日本のお金を見てどう思った? | マイナビニュース
-
-2015/06/01
-https://doctors-me.com/doctor/symptom/84/column/1188
-知らなかった！ じつは雑菌だらけの10のモノ
-1. 台所のスポンジ 
-2. まな板 
-3. お金 
-4. スマホ 
-5. 水道の蛇口 
-6. パソコンのキーボード 
-7. マットレス 
-8. ハンドバッグやポーチ 
-9. レストランのメニュー 
-10. カーペット 
-
-2015年5月19日 
-http://trapradar.net/life/dirty-things/
-実はトイレより汚い意外な物13選 | トラップ・レーダー
-
-2014年06月07日
-https://matome.naver.jp/odai/2140057460215399801
-手洗い必須！日常的に触れている実はとても雑菌まみれなモノ - NAVER まとめ 
-1.スマートフォン
-2.お金
-3.パソコンのキーボード、マウス
-4.トイレのドアノブや蛇口
-
-----------
 
 
 
@@ -1251,11 +1216,6 @@ Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization inc
 
 ### air_2017
 
-https://www.ncbi.nlm.nih.gov/pubmed/29238327
-Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
-Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
-Fujiyoshi S1, Tanaka D2, Maruyama F1,3.
-
 2017年8月28日
 https://www.recordchina.co.jp/b188759-s0-c30-d0054.html
 韓国のPM2．5は中国から飛来？含まれる細菌の83％類似―韓国メディア
@@ -1339,18 +1299,27 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249038/
 
 ### Tamami Kawasaki
 
-http://www.ncbi.nlm.nih.gov/pubmed/24025860
+https://pubmed.ncbi.nlm.nih.gov/24025860/
 J Occup Health
 . 2013;55(6):495-502. doi: 10.1539/joh.13-0055-fs. Epub 2013 Sep 10.
-Distribution of Airborne Bacteria in Railway Stations in Tokyo, Japan
+Distribution of airborne bacteria in railway stations in Tokyo, Japan
 Tamami Kawasaki 1, Takashi Kyotani, Tomoyoshi Ushiogi, Hunjun Lee
+https://onlinelibrary.wiley.com/doi/10.1539/joh.13-0055-fs
+Objectives
+We performed the current study to (1) understand the distribution of culturable airborne bacteria over a one-year monitoring period, (2)
+Methods
+Airborne bacteria at each measurement position were collected with an air sampler on plate count agar media. After cultivation of the sampled media, the number of bacteria colonies was counted on each media.
 
-http://www.ncbi.nlm.nih.gov/pubmed/20299760
+https://pubmed.ncbi.nlm.nih.gov/20299760/
 J Occup Health
 . 2010;52(3):186-93. doi: 10.1539/joh.o9022. Epub 2010 Mar 19.
-Distribution and Identification of Airborne Fungi in Railway Stations in Tokyo, Japan
+Distribution and identification of airborne fungi in railway stations in Tokyo, Japan
 Tamami Kawasaki 1, Takashi Kyotani, Tomoyoshi Ushiogi, Yasuhiko Izumi, Hunjun Lee, Toshio Hayakawa
-http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf
+https://onlinelibrary.wiley.com/doi/10.1539/joh.o9022
+Objectives: The current study was performed to (1) understand the distribution of airborne fungi culturable on dichloran-glycerol agar (DG18) media over a one-year monitoring period, (2) 
+Methods: 
+Airborne fungi at each measurement position were collected with an air sampler on DG18 media. After cultivation of the sample plates, the number of fungi colonies was counted on each agar plate.
+
 
 http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf
 Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations
@@ -1371,6 +1340,13 @@ https://www.rtri.or.jp/rd/news/human/human_201107.html#sect05
 https://www.rtri.or.jp/rd/news/human/human_200909.html#sect06
 公益財団法人鉄道総合技術研究所｜人間科学ニュース 2009年9月号（第163号）
 「カビくさい」の正体を探る
+
+https://www.rtri.or.jp/rd/news/human/human_201703.html
+公益財団法人鉄道総合技術研究所｜人間科学ニュース 2017年3月号（第208号）
+参考文献
+1) Hsu et al., mSystems, 1, e00018-16, 2016
+（生物工学グループ　吉江幸子）
+
 
 ----------
 ## airport
