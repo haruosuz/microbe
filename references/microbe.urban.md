@@ -63,11 +63,20 @@ https://shorebird.hatenablog.com/entry/20180509/1525863616
 この章も日本の話題から始まっている．六本木ヒルズにある屋上庭園を好意的に紹介し，このようなビルの周囲に緑を有機的に取り込む動きを解説する．アクロス福岡，シンガポールのCDLツリーハウス，ミラノのヴォスコ・ヴェルティカーレ，マンハッタンのローライン地下庭園プロジェクト，ベルリンのヒルデガルテンなどの取り組みを挙げ，このような都市計画や建築計画におけるグリーンムーブメントの様々な利点を説明する．しかしスヒルトハウゼンはこれまでのこのような動きは都市環境における進化を考慮していないと指摘し，このような計画のダーウィニアンガイドラインを提唱している．
 
 
-
-
 ----------
 
 ## 2023
+
+### 2023-12-07
+
+https://pubmed.ncbi.nlm.nih.gov/38062054/
+NPJ Biofilms Microbiomes
+. 2023 Dec 7;9(1):94. doi: 10.1038/s41522-023-00459-4.
+Environmental determinants and demographic influences on global urban microbiomes, antimicrobial resistance and pathogenicity
+Yang Chen # 1, Xi Fu # 2, Zheyuan Ou 1, Jiang Li 1, Simiao Lin 1, Yaoxuan Wu 1, Xuwei Wang 1, Yiqun Deng 3, Yu Sun 4
+https://www.nature.com/articles/s41522-023-00459-4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10703778/
+The concentration of O3 was relatively high in Japan (median: 41.58; Q1-Q3: 34.79, 45.6), particularly in Tokyo (48.52 ppbv), Sendai (48.22 ppbv), Yamaguchi (47.56 ppbv), and Fukuoka (47.16 ppbv).
 
 ----------
 
