@@ -11,6 +11,7 @@ Last Update: 2024-02-03
 - [ISS](#iss) International Space Station 国際宇宙ステーション
 - [urban_microbiome](#urban_microbiome) 都市の微生物群集 MetaSUB
 - [microbiome](#microbiome) 微生物群集
+- [MAGUK](#maguk) membrane-associated guanylate kinases
 - [phylogenetic](#phylogenetic) 系統
   - [jlsteenwyk](#jlsteenwyk)
 - [phylogenetic_profiling](#phylogenetic_profiling)
@@ -24,6 +25,9 @@ Last Update: 2024-02-03
 - [money](#money) お金 お札 ATM
 - [robust](#robust)
 - [](#)
+
+----------
+## 
 
 ----------
 ## unclassified
@@ -147,6 +151,58 @@ batch effect
 https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
 導入した植物の葉面や土壌などメタゲノム解析
+
+----------
+## MAGUK
+membrane-associated guanylate kinases
+
+https://en.wikipedia.org/wiki/Membrane-associated_guanylate_kinase
+
+https://en.wikipedia.org/wiki/Guanylate_kinase
+In prokaryotes (such as Escherichia coli), lower eukaryotes (such as yeast) and in vertebrates, GK is a highly conserved monomeric protein of about 200 amino acids. GK has been shown to be structurally similar to protein A57R (or SalG2R) from various strains of Vaccinia virus.[2][3][4] Systems biology analyses carried out by the team of Andreas Dräger also identified a pivotal role of this enzyme in the replication of SARS-CoV-2 within the human airways.[5][6][7]
+
+https://pubmed.ncbi.nlm.nih.gov/20359327/
+BMC Evol Biol
+. 2010 Apr 1;10:93. doi: 10.1186/1471-2148-10-93.
+Evolution of the MAGUK protein gene family in premetazoan lineages
+Alex de Mendoza 1, Hiroshi Suga, Iñaki Ruiz-Trillo
+https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-93
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859873/
+
+The MAGUK family have been divided into different classes or groups, according to phylogenetic position and protein domain architecture (see for example [2] and [10], and Figure ​Figure11 for our own MAGUK classification). These MAGUKs classes are known as calcium/calmodulin-dependent proteins kinase (CASK), palmitoylated membrane protein (MPP), zona occludens (ZO), caspase recruitment domain family (CARMA), Disc Large Homolog (DLG), Calcium channel β subunit (CACNB), and membrane-associated guanylate kinase with an inverted repeat (MAGI). All classes contain the following: one or several PDZ domains (except CACNB), a catalytically inactive guanylate kinase (GUK) domain with homology to yeast guanylate kinase and a Src Homology 3 (SH3) domain (except for MAGI) (Figure ​(Figure1).1).
+
+Figure 1
+Domain architectures of the different MAGUK classes.
+
+Figure 2
+Unrooted phylogenetic tree of GUK domain sequences. 
+
+Figure 3
+Phylogeny of SH3+GUK domain sequences.
+
+Figure 4
+Protein domain architectures for the Capsaspora and Monosiga MAGUK and MAGUK-like homologs, except for MAGI.
+
+Figure 5
+Distribution of MAGUKs in opisthokonts. 
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859873/bin/1471-2148-10-93-1.jpg)
+
+https://pubmed.ncbi.nlm.nih.gov/19732467/
+BMC Evol Biol
+. 2009 Sep 7;9:222. doi: 10.1186/1471-2148-9-222.
+FoxO gene family evolution in vertebrates
+Minghui Wang 1, Xiangzhe Zhang, Hongbo Zhao, Qishan Wang, Yuchun Pan
+https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-9-222
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746812/
+https://link.springer.com/article/10.1186/1471-2148-9-222
+Synonymous codon usage analyses
+
+Estimation of substitution rates and testing natural selection
+
+the ratio of the nonsynonymous (dN) to synonymous substitution rates (dS), ω = dN/dS
+
+
 
 ----------
 ## recombination
@@ -803,12 +859,6 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
  The G + C contents of plasmids tend to be lower than (and are correlated with) those of the host chromosomes.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
-
-
-
-
-
-
 
 ----------
 
