@@ -1,4 +1,4 @@
-Last Update: 2023-03-21
+Last Update: 2024-02-03
 
 ----------
 
@@ -18,10 +18,11 @@ Last Update: 2023-03-21
 - [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
 - [AMR](#amr) 薬剤耐性
 - [plasmid](#plasmid) プラスミド
-- [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
 - [CRISPR](#crispr)
-- [robust](#robust)
 - [phenotype](#phenotype)
+- [recombination](#recombination)
+- [money](#money) お金 お札 ATM
+- [robust](#robust)
 - [](#)
 
 ----------
@@ -146,6 +147,48 @@ batch effect
 https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
 導入した植物の葉面や土壌などメタゲノム解析
+
+----------
+## recombination
+組み換え
+
+https://pubmed.ncbi.nlm.nih.gov/30670614/
+mBio
+. 2019 Jan 22;10(1):e02494-18. doi: 10.1128/mBio.02494-18.
+Impact of Homologous Recombination on the Evolution of Prokaryotic Core Genomes
+Pedro González-Torres 1 2 3, Francisco Rodríguez-Mateos 4, Josefa Antón 1 5, Toni Gabaldón 6 3 7
+https://journals.asm.org/doi/10.1128/mbio.02494-18
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6343036/
+
+https://pubmed.ncbi.nlm.nih.gov/17110367/
+Bioinformatics
+. 2006 Dec 15;22(24):3096-8. doi: 10.1093/bioinformatics/btl474. Epub 2006 Nov 16.
+GARD: a genetic algorithm for recombination detection
+
+Motivation: Phylogenetic and evolutionary inference can be severely misled if recombination is not accounted for, hence screening for it should be an essential component of nearly every comparative study. The evolution of recombinant sequences can not be properly explained by a single phylogenetic tree, but several phylogenies may be used to correctly model the evolution of non-recombinant fragments.
+
+https://pubmed.ncbi.nlm.nih.gov/11847565/
+J Mol Evol
+. 2002 Mar;54(3):396-402. doi: 10.1007/s00239-001-0034-9.
+The effect of recombination on the accuracy of phylogeny estimation
+David Posada 1, Keith A Crandall
+https://link.springer.com/article/10.1007/s00239-001-0034-9
+
+https://pubmed.ncbi.nlm.nih.gov/11114432/
+Trends Ecol Evol
+. 2000 Dec 1;15(12):489-490. doi: 10.1016/s0169-5347(00)02027-9.
+How does recombination affect phylogeny estimation?
+D Posada
+https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(00)02027-9
+To read this article in full you will need to make a payment
+
+https://pubmed.ncbi.nlm.nih.gov/11014833/
+Genetics
+. 2000 Oct;156(2):879-91. doi: 10.1093/genetics/156.2.879.
+Consequences of recombination on traditional phylogenetic analysis
+M H Schierup 1, J Hein
+https://academic.oup.com/genetics/article/156/2/879/6051420
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1461297/
 
 ----------
 ## phylogenetic
@@ -762,167 +805,13 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
 
 
+
+
+
+
+
 ----------
-## SSBP
-Single-strand DNA-binding protein
 
-- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
-細菌SSBタンパク質
-- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
-Eukaryotic mitochondrial SSB
-The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
-- https://en.wikipedia.org/wiki/SSBP1
-
-
-https://www.ncbi.nlm.nih.gov/research/cog/cogcategory/L/
-L - Replication, recombination and repair
-```
-Organism	Protein	COG	Cat	Annotation
-
-1176	2146	COG0629	L	Single-stranded DNA-binding protein
-```
-https://www.ncbi.nlm.nih.gov/research/cog/cog/COG0629/
-
-
-
-12:01 AM · Mar 27, 2021
-https://twitter.com/mredrejo/status/1375462808389881866
-New preprint from the 
-@RnR_Lab
- !!  In this work, we identify and characterize the single-stranded DNA binding protein (SSB) of one of our favorite viruses, the tectivirus Bam35. A great work of 
-@Analema93
- and a great collaboration with 
-@DariusBio
- (1/4)
-The Bam35 SSB is encoded by viral gene 2 and it turned out to be a highly specific SSB, unable to bind other nucleic acid substrates. Moreover, ssDNA binding is highly cooperative and results in (unspecific) stimulation of DNA replication. (2/4)
-Although diverse at the amino acid level, typical SSBs share a conserved structural domain, named OB-fold, present in all DNA binding proteins from all domains as well as DNA viruses. However, protein-primed viruses seemed an exception, as we didn't know any OB-fold SSB. (3/4)
-Based on sensitive database searches we found that B35SSB belongs to a novel and independent group of SSBs, along with other protein-primed viral genomes like (surprise!) Φ29 and close podoviruses. (4/4)
-BONUS TRACK: Structural predictions indicate that B35SSB contains a conserved domain resembling a divergent OB-fold, which would constitute the first occurrence of an OB-fold-like domain in a protein-primed genome.
-
-https://www.biorxiv.org/content/10.1101/2021.03.25.437074v1.full
-Unlimited cooperativity of Betatectivirus SSB, a novel DNA binding protein related to an atypical group of SSBs from protein-primed replicating bacterial viruses | bioRxiv
-
-Based on databases searches as well as phylogenetic and structural analyses, we showed that B35SSB belongs to a novel and independent group of SSBs. 
-
-As expected from such a diverse dataset of short sequences, phylogeny reconstruction not always yielded confident clades (Figure 6). 
-
-Figure 6.
-B35SSB and Φ29 related viruses belong to the same clade of SSBs from protein-primed genomes.
-Maximum-likelihood tree (left) generated using the trimmed multiple sequence alignment of B35SSB-related proteins (right) and visualized with the ggtree package for R software [50]. 
-Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
-
-
-https://pubmed.ncbi.nlm.nih.gov/33430354/
-Review Cancers (Basel)
-. 2021 Jan 7;13(2):190. doi: 10.3390/cancers13020190.
-Cold-Shock Domains-Abundance, Structure, Properties, and Nucleic-Acid Binding
-Udo Heinemann 1, Yvette Roske 1
-https://www.mdpi.com/2072-6694/13/2/190
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/
-
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/bin/cancers-13-00190-g001.jpg)
-Figure 1
-Sequence alignment of representative bacterial CSPs and CSDs from human proteins.
-*snip*
-The sequence motifs RNP1 ([YF]-G-F-I) and RNP2 ([YF]-[YF]-H) are associated with RNA binding and indicated according to Prosite [25].
-
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/bin/cancers-13-00190-g002.jpg)
-Figure 2
-Proteins with cold-shock domains. Domain annotations for one representative bacterial CSP and human CSD-containing proteins according to SMART [27].
-
-
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/33020264/
-Proc Natl Acad Sci U S A
-. 2020 Oct 20;117(42):26206-26217. doi: 10.1073/pnas.2000761117. Epub 2020 Oct 5.
-Phase separation by ssDNA binding protein controlled via protein-protein and protein-DNA interactions
-Gábor M Harami 1, Zoltán J Kovács 1, Rita Pancsa 2, János Pálinkás 3, Veronika Baráth 3, Krisztián Tárnok 4, András Málnási-Csizmadia 5, Mihály Kovács 1 5
-https://www.pnas.org/content/117/42/26206
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584906/
-
-
-
-
-2016
-https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
-Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
-
-Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
-
-
-
-
-https://www.springer.com/gp/book/9781627030311
-Single-Stranded DNA Binding Proteins - Methods and Protocols | James L. Keck | Springer
-2012
-
-
-https://pubmed.ncbi.nlm.nih.gov/22536367/
-PLoS One
-. 2012;7(4):e35285. doi: 10.1371/journal.pone.0035285. Epub 2012 Apr 19.
-Characterization of the single stranded DNA binding protein SsbB encoded in the Gonoccocal Genetic Island
-Samta Jain 1, Maria Zweig, Eveline Peeters, Katja Siewering, Kathleen T Hackett, Joseph P Dillard, Chris van der Does
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035285
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334931/
-Single stranded DNA binding proteins (SSBs) are highly conserved, essential proteins found in all kingdoms of life. These proteins bind to single-stranded DNA (ssDNA) with high affinity and low sequence specificity. They play a crucial role in processes involved in DNA metabolism like DNA repair, replication and recombination by modulating the functions of many DNA processing enzymes either by controlling the accessibility to ssDNA or via protein–protein interactions [1]. Several bacteria contain, next to the main SSB, a second SSB. 
-The second SSB can either be found on the chromosome or is located on a plasmid. The presence of a second chromosomal paralog is often related to natural competence [2], [3], [4]. Furthermore, nearly all conjugative plasmids also encode an SSB homologue. The exact function of these SSBs is still unclear; they seem not to be necessary for conjugal transfer of the plasmids, but might be involved in plasmid stability [5]. Remarkably, the SSB homologue VirE2 encoded on the Agrobacterium tumefaciens Ti plasmid is essential for infection of the host plant cells [6], [7]. VirE2 is transported via the Type IV secretion system (T4SS) on the Ti plasmid independent of the ssDNA [8]. In the recipient cell, it probably functions as a molecular motor facilitating the import of the Ti ssDNA [9], [10].
-
-Figure 1
-Unrooted phylogenetic tree of the ssDNA-binding proteins.
-
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/22073223/
-PLoS One
-. 2011;6(11):e26942. doi: 10.1371/journal.pone.0026942. Epub 2011 Nov 4.
-Phylogenetic and complementation analysis of a single-stranded DNA binding protein family from lactococcal phages indicates a non-bacterial origin
-Agnieszka K Szczepankowska 1, Eric Prestel, Mahendra Mariadassou, Jacek K Bardowski, Elena Bidnenko
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026942
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208561/
-For some phages, specific SSBs are involved in DNA replication and, in some cases are essential for phage development [20], [25]–[26]. Phylogenetic analysis of a number of bacterial and phage SSB proteins indicates that there have been frequent horizontal transfers from bacterial hosts to the genomes of their phages [27]. The bacterial origin of the phage ssb genes is easily recognized despite the high evolution rate of phages [24], [27]. Moreover, some phage SSBs are interchangeable with their bacterial analogs in vivo and in vitro [23], [28].
-
-
-https://pubmed.ncbi.nlm.nih.gov/20012581/
-Review Subcell Biochem
-. 2010;50:143-63. doi: 10.1007/978-90-481-3471-7_8.
-Eukaryotic single-stranded DNA binding proteins: central factors in genome stability
-Sandra Broderick 1, Kristina Rehmet, Claire Concannon, Heinz-Peter Nasheuer
-https://link.springer.com/chapter/10.1007%2F978-90-481-3471-7_8
-Mitochondrial SSBs (mtSSBs) have been found in all eukaryotes studied. mtSSBs are related to prokaryotic SSBs and essential to main the genome stability in eukaryotic mitochondria.
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/12208948/
-J Virol
-. 2002 Oct;76(19):9695-701. doi: 10.1128/jvi.76.19.9695-9701.2002.
-Phylogenetic and functional analysis of the bacteriophage P1 single-stranded DNA-binding protein
-Jannick Dyrløv Bendtsen 1, Anders S Nilsson, Hansjörg Lehnherr
-https://jvi.asm.org/content/76/19/9695.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC136491/
-ABSTRACT
-Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which shows 66% amino acid sequence identity to the SSB protein of the host bacterium Escherichia coli. 
-系統解析
-A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
-
-RESULTS
-Phylogenetic analysis of ssb-P1.
-
-![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
-FIG. 1.
-Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/2013585/
-Comparative Study J Bacteriol
-. 1991 Apr;173(8):2720-3. doi: 10.1128/jb.173.8.2720-2723.1991.
-The single-stranded-DNA-binding protein encoded by the Escherichia coli F factor can complement a deletion of the chromosomal ssb gene
-R D Porter 1, S Black
-https://jb.asm.org/content/173/8/2720.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
 
 ----------
 ## CRISPR
@@ -985,6 +874,159 @@ https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9
 What are the functions of CRISPR-Cas systems encoded by transposons and plasmids?
 Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a large family of Tn7-like transposons [9] and by various plasmids [2]. All transposon-encoded and some of the plasmid-encoded CRISPR-Cas are “minimal” variants that lack the enzymes involved in target cleavage and hence are predicted to be involved in non-defense roles. The nature of these functions remains to be elucidated, and might involve RNA-guided transposition [9].
 
+----------
+
+
+----------
+
+## money
+お金 お札 ATM
+Jane M Carlton
+
+### 2017-04-13
+
+6:55 AM · May 23, 2017
+https://twitter.com/Newsweek_JAPAN/status/866774474166874113
+ニューズウィーク日本版 on X: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ … https://t.co/dZpLZTSzjs" / X
+
+2017年5月22日（月）
+https://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
+細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版 オフィシャルサイト
+＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
+香港大学の研究チームは、紙幣に付着した細菌の生存期間を調べるため、香港市内にある12の医療機関と3つの地下鉄駅から1枚ずつ、合わせて15枚の香港ドル紙幣を回収した。
+スイスの科学誌「フロンティアズ・イン・マイクロバイオロジー」に掲載
+
+紙幣が細菌追跡の目印に
+次のページ都市の細菌集団探しは成長分野
+https://www.newsweekjapan.jp/stories/world/2017/05/post-7651_2.php
+耐性菌との戦いに役立つ
+
+11:06 AM · Apr 14, 2017
+https://twitter.com/yokadzaki/status/852704490436177921
+Yusuke Okazaki on X: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc" / X
+
+https://pubmed.ncbi.nlm.nih.gov/28450856/
+Front Microbiol
+. 2017 Apr 13:8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
+Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes
+Yoshitaro Heshiki 1, Thrimendra Dissanayake 1, Tingting Zheng 1, Kang Kang 1, Ni Yueqiong 1, Zeling Xu 2, Chinmoy Sarkar 3, Patrick C Y Woo 4 5 6 7 8, Billy K C Chow 2, David Baker 2, Aixin Yan 2, Christopher J Webster 3, Gianni Panagiotou 1 9, Jun Li 1
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2017.00632/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389987/
+
+### 2017-04-06
+
+https://pubmed.ncbi.nlm.nih.gov/28384336/
+PLoS One
+. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
+Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City
+Julia M Maritz 1, Steven A Sullivan 1, Robert J Prill 2, Emre Aksoy 1, Paul Scheid 1, Jane M Carlton 1
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175527
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383295/
+In this pilot study, we swabbed circulating $1 bills obtained from a New York City bank in February (Winter) and June (Summer) 2013 and used shotgun metagenomic sequencing to profile the communities found on their surface.
+
+SEPTEMBER 6, 2017
+https://time.com/4918626/money-germs-microbes-dirty/
+Here's How Dirty Your Money Really Is | TIME
+
+In a 2017 study published in the journal PLOS ONE, researchers swabbed $1 bills from a bank in New York City to see what was living on paper currency.
+
+Cash is also often streaked with drugs. In a study of 10 one-dollar bills from cities across the country, nearly 80% of them had traces of cocaine.
+https://academic.oup.com/jat/article/20/4/213/838490
+Cocaine Contamination of United States Paper Currency | Journal of Analytical Toxicology | Oxford Academic
+
+Jan 04, 2017
+https://money.com/money-cash-currency-bacteria-disease-sickness/
+Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
+The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
+
+https://pubmed.ncbi.nlm.nih.gov/11566423/
+Forensic Sci Int
+. 2001 Oct 1;121(3):189-93. doi: 10.1016/s0379-0738(01)00401-7.
+Drug contamination of US paper currency
+A J Jenkins 1
+
+2014/05/18
+https://news.nicovideo.jp/watch/nw1072131
+お金を触ったら手洗い必須かも「お札には3,000ものバクテリアが」―研究結果 | ニコニコニュース
+APR 30, 2014
+You won’t believe how much bacteria is on a dollar bill
+http://www.womenshealthmag.com/health/bacteria-on-money
+researchers collected 20 $1 bills in both February and July 2013 (because certain microbes may be more prevalent depending on the season).
+
+2014-04-24
+April 24, 2014
+https://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria/
+Dirty Money: Your cash is home to thousands of bacteria - CBS News
+The unpublished study examined 80 circulating $1 bills in New York City between two periods - winter (February 2013) and summer (July 2013).
+
+### 2016-11-16
+https://pubmed.ncbi.nlm.nih.gov/27904880/
+mSphere
+. 2016 Nov 16;1(6):e00226-16. doi: 10.1128/mSphere.00226-16. eCollection 2016 Nov-Dec.
+Microbial Community Patterns Associated with Automated Teller Machine Keypads in New York City
+Holly M Bik 1, Julia M Maritz 1, Albert Luong 2, Hakdong Shin 2, Maria Gloria Dominguez-Bello 2, Jane M Carlton 1
+https://journals.asm.org/doi/10.1128/msphere.00226-16
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5112336/
+
+11/21/2016
+https://www.dailysunny.com/2016/11/21/nynews161121-2/
+菌まみれのＡＴＭ ２年の調査で数十種類を検出 | DAILYSUN NEW YORK
+
+### 2015-06-08
+
+https://pubmed.ncbi.nlm.nih.gov/26035208/
+PLoS One
+. 2015 Jun 2;10(6):e0128711. doi: 10.1371/journal.pone.0128711. eCollection 2015.
+Screening currency notes for microbial pathogens and antibiotic resistance genes using a shotgun metagenomic approach
+Saakshi Jalali 1, Samantha Kohli 2, Chitra Latka 3, Sugandha Bhatia 4, Shamsudheen Karuthedath Vellarikal 5, Sridhar Sivasubbu 5, Vinod Scaria 1, Srinivasan Ramachandran 1
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128711
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4452720/
+
+https://www.genomeweb.com/scan/week-plos-31
+This Week in PLOS: Jun 8, 2015
+In PLOS One, researchers from India use shotgun metagenomic sequencing to look at the microbes found on paper currency in that country. By sequencing DNA from bills deemed most and least circulated from Reserve Bank of India data, the team detected sequences coinciding with dozens of antibiotic resistance genes, as well as sequences believed to represent pathogenic and cellulose degrading organisms. "Our analysis suggests a significant diversity in the microbial population on paper currency notes," study authors write, "and presence of antibiotic resistance genes."
+
+### 2014-02-26
+
+https://pubmed.ncbi.nlm.nih.gov/24571076/
+Review Future Microbiol
+. 2014;9(2):249-61. doi: 10.2217/fmb.13.161.
+Paper money and coins as potential vectors of transmissible disease
+Emmanouil Angelakis 1, Esam I Azhar, Fehmida Bibi, Muhammad Yasir, Ahmed K Al-Ghamdi, Ahmad M Ashshi, Adel G Elshemi, Didier Raoult
+https://www.futuremedicine.com/doi/10.2217/fmb.13.161
+26 Feb 2014
+
+
+### jp
+
+2016/02/02
+http://fukuyuki.net/post-639/
+硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
+
+2015/06/26
+https://www.narinari.com/Nd/20150632327.html
+お金の触りすぎ原因で性病に、業務多忙で手を洗わなかった女性銀行員。 | Narinari.com
+香港城市大学・細菌学研究センターによる調査で、アジアで流通する紙幣の中で“最も汚い”という、不名誉ならく印を押されたこともある中国の人民元紙幣。先日、中国の銀行で働くある女性は、原因不明の性病に悩まされることになったのだが、その原因はなんと“汚いお札”の触りすぎにあったそうだ。
+代表的なウイルス性の性感染症である尖圭コンジローマと診断された。
+
+2013-08-12
+2013年8月12日(月)
+https://www.recordchina.co.jp/b75402-s0-c30-d0035.html
+アジアで最も汚く雑菌まみれのお札、それは人民元―台湾
+香港城市大学細菌学研究センターが香港、中国、インドなどアジア7地域の紙幣に付着した細菌を調べたところ、中国の人民元が17万8000個と最多。2位の香港、カンボジア紙幣（各1万個）を大きく上回った。人民元のなかでも特に流通の頻繁な1元札の細菌が最も多く、1枚におよそ180万個の細菌がついていることも。
+
+2013.06.19
+https://www.atpress.ne.jp/news/36512
+現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜株式会社衛生微生物研究センターのプレスリリース
+
+2014-04-21
+12:08 PM · Apr 21, 2014
+https://twitter.com/WSJJapan/status/458079813899517952
+ウォール・ストリート・ジャーナル日本版 on X: "米ニューヨーク大学の科学者たちは、紙幣には驚くほどの数のバクテリアが住んでいることを発見した⇒「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア http://t.co/KaSEvhLBRr http://t.co/nqJEXMN3l3" / X
+
+----------
+
+
 
 ----------
 
@@ -1008,8 +1050,11 @@ Using Mahalanobis distance to compare genomic signatures between bacterial plasm
 
 
 
+----------
 
 
 
+
+----------
 
 
