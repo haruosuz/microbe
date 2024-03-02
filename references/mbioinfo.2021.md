@@ -158,6 +158,9 @@ membrane-associated guanylate kinases
 
 https://en.wikipedia.org/wiki/Membrane-associated_guanylate_kinase
 
+https://ebi.ac.uk/interpro/entry/panther/PTHR23122/taxonomy/uniprot/#sunburst
+MEMBRANE-ASSOCIATED GUANYLATE KINASE MAGUK (PTHR23122) - PANTHER entry - InterPro
+
 https://en.wikipedia.org/wiki/Guanylate_kinase
 In prokaryotes (such as Escherichia coli), lower eukaryotes (such as yeast) and in vertebrates, GK is a highly conserved monomeric protein of about 200 amino acids. GK has been shown to be structurally similar to protein A57R (or SalG2R) from various strains of Vaccinia virus.[2][3][4] Systems biology analyses carried out by the team of Andreas Dräger also identified a pivotal role of this enzyme in the replication of SARS-CoV-2 within the human airways.[5][6][7]
 
@@ -188,6 +191,15 @@ Distribution of MAGUKs in opisthokonts.
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859873/bin/1471-2148-10-93-1.jpg)
 
+https://pubmed.ncbi.nlm.nih.gov/35659305/
+Microbiome
+. 2022 Jun 4;10(1):84. doi: 10.1186/s40168-022-01274-3.
+Ecogenomics sheds light on diverse lifestyle strategies in freshwater CPR
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01274-3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9166423/
+Moreover, inosine monophosphate (IMP) can be synthesized from phosphoribosyl diphosphate by Gracilibacteria, Microgenomatia, and Paceibacteria. Further processing of IMP to ATP occurs in ABY1, Gracilibacteria, Microgenomatia, and Paceibacteria, but the synthesis of GTP is not completely encoded in Microgenomatia which lack guanylate kinase. 
+
+
 https://pubmed.ncbi.nlm.nih.gov/19732467/
 BMC Evol Biol
 . 2009 Sep 7;9:222. doi: 10.1186/1471-2148-9-222.
@@ -201,8 +213,6 @@ Synonymous codon usage analyses
 Estimation of substitution rates and testing natural selection
 
 the ratio of the nonsynonymous (dN) to synonymous substitution rates (dS), ω = dN/dS
-
-
 
 ----------
 ## recombination
