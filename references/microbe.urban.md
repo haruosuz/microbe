@@ -16,11 +16,9 @@
 ----------
 ## updates
 
-
 https://twitter.com/search?q=bacteria%20urbanization
 
 ----------
-
 
 ### 
 
@@ -109,9 +107,6 @@ https://natgeo.nikkeibp.co.jp/atcl/news/23/040400166/
 
 ここから先は、「ナショナル ジオグラフィック日本版」の
 会員*のみ、ご利用いただけます。
-
-https://news.yahoo.co.jp/articles/fdbbd73372a41f2cf656b326bc90afb144e13cce?page=2
-ミツバチの巣から都市に潜む微生物がわかる、世界5都市で調査、東京で見つかったのはなんと！（ナショナル ジオグラフィック日本版） - Yahoo!ニュース
 
 ### 2023-01
 
