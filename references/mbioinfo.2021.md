@@ -189,8 +189,6 @@ Protein domain architectures for the Capsaspora and Monosiga MAGUK and MAGUK-lik
 Figure 5
 Distribution of MAGUKs in opisthokonts. 
 
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859873/bin/1471-2148-10-93-1.jpg)
-
 https://pubmed.ncbi.nlm.nih.gov/35659305/
 Microbiome
 . 2022 Jun 4;10(1):84. doi: 10.1186/s40168-022-01274-3.
