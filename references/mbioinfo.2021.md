@@ -23,8 +23,7 @@ Last Update: 2024-02-03
 - [phenotype](#phenotype)
 - [recombination](#recombination)
 - [money](#money) お金 お札 ATM
-- [robust](#robust)
-- [](#)
+- [monumentome](#monumentome)
 
 ----------
 ## 
@@ -877,19 +876,6 @@ clustered regularly interspaced short palindromic repeat; クリスパー
 
 https://en.wikipedia.org/wiki/CRISPR
 
-https://ja.wikipedia.org/wiki/CRISPR
-リピートとスペーサー
-CRISPRリピートの要素は24から48塩基対で[20]通常は回文配列を含み、stem-loopヘアピン構造を形成する[21]。このリピート要素の間に似たような長さのスペーサーが介在している[20]。スペーサーの配列はプラスミドやファージの持つ配列と同一であったり[8][9][10]、あるいは自身のゲノム中の配列と同一(self-targeting spacers)であったりする[22]。ファージが感染すると、速やかに新たなスペーサーが追加される[23]。
-
-https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
-特集：CRISPR-Cas9 とは DNA二本鎖を切断してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術 | DNA二本鎖を切断してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術 | コスモ・バイオ株式会社
-CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
-
-https://seikagaku.jbsoc.or.jp/10.14952/SEIKAGAKU.2015.870686/data/index.html
-CRISPR-Cas9の構造と機能
-2. CRISPR-Cas9
-原核生物のゲノムにはCRISPRアレイとCasオペロンから構成されるCRISPR領域が存在する16)．CRISPRアレイは外来核酸に由来する塩基配列（スペーサー配列）とリピート配列からなる．細菌に感染した外来核酸はCas1–Cas2複合体により断片化され新たなスペーサー配列としてCRISPRアレイに取り込まれる17)．
-
 https://pubmed.ncbi.nlm.nih.gov/33159058/
 Nat Commun
 . 2020 Nov 6;11(1):5652. doi: 10.1038/s41467-020-19415-3.
@@ -907,11 +893,51 @@ Software and statistical analysis
 Numerical data were analyzed and plotted with GraphPad Prism 6.0 Software. HHPred searches were carried out for the prediction of protein domains (e.g., HTH). 
 
 
+10:58 AM · May 27, 2021
+https://twitter.com/mason_lab/status/1397733925057970177
+Chris Mason on Twitter: "I'm elated to release four @metasub papers today, with new species, data interfaces, &amp; online resources. The first is in @CellCellPress, "A global metagenomic map of urban microbiomes and antimicrobial resistance" led by @dcdanko @Daniela_Bezdan https://t.co/47SB0Hda05" a 🧵 /1" / Twitter
+https://twitter.com/mason_lab/status/1397733926278402053
+Chris Mason on X: "Our metagenome atlas spans ~5,000 samples from mass-transit systems in 60 cities over 3 years, showing thousands of species, antimicrobial resistance (AMR) markers &amp; novel biology everywhere: 10,928 new viruses, 1,302 new bacteria, 2 new archaea, and 838,532 new CRISPR arrays /2" / X
+https://twitter.com/mason_lab/status/1397733959317049344
+Chris Mason on X: "then, with @omarabudayyeh and @jgooten, we mined the metagenome-assembled genomes (MAGs) to find &gt;800K new CRISPR arrays, which showed the ongoing dynamics of bacteria battling their ever-evolving viruses and some unknown CRISPR types /12 https://t.co/6DkLeHOaY9" / X
 
+Cell . 2021 Jun 24
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238498/
+Figure 5
+Newly observed genetic sequences
+(C) Mapping rate of CRISPR spacers from MetaSUB data to viral genomes in RefSeq and viral genomes found in MetaSUB data.
+(E and F) Fractional breakdowns of identifiable CRISPR systems found in the MetaSUB data.
+From these MAGs, we identified 838,532 CRISPR arrays, of which 3,245 could be annotated for specific CRISPR systems. The annotated CRISPR arrays were mostly type 1-E and 1-F, but a number of type II and III systems were identified as well (Figures 5E and 5F), and some arrays had unclear (ambiguous) type assignment. Critically, when we aligned spacers to both our viral MAGs and all viral sequences in RefSeq, the spacers in our identified CRISPR arrays closely matched our predicted MAG-derived viruses. 
+
+
+
+2020
+https://pubmed.ncbi.nlm.nih.gov/32523110/
+Nat Commun
+. 2020 Jun 10;11(1):2934. doi: 10.1038/s41467-020-16731-6.
+Development of CRISPR-Cas13a-based antimicrobials capable of sequence-specific killing of target bacteria
+https://www.nature.com/articles/s41467-020-16731-6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7287087/
 https://www.amed.go.jp/news/release_20200610-02.html
 狙った細菌を選択的に殺菌できる遺伝子標的型抗菌薬を創出―薬剤耐性菌問題の解決へ― | 国立研究開発法人日本医療研究開発機構
-https://www.nature.com/articles/s41467-020-16731-6
-Development of CRISPR-Cas13a-based antimicrobials capable of sequence-specific killing of target bacteria | Nature Communications
+
+https://ja.wikipedia.org/wiki/CRISPR
+CRISPR (英: clustered regularly interspaced short palindromic repeat; クリスパー)は数十塩基対の短い反復配列を含み、原核生物における一種の獲得免疫系として働く座位である。配列決定された原核生物のうち真正細菌の4割と古細菌の9割に見出されており[1][2]、プラスミドやファージといった外来の遺伝性因子に対する抵抗性に寄与している[3][4]。
+
+さらにCRISPR-Casシステムには抗菌作用も存在し、DNA編集を行うCas9を使用した場合にはプラスミド上に遺伝子があると適切な殺菌ができず、細菌の変異をもたらすリスクがある一方、RNA編集を行うCas13aを使用する場合はそのような懸念がなく薬剤耐性菌を標的とした増殖の抑制に臨床上使いやすいと期待する研究もある[22][23][24]。
+
+リピートとスペーサー
+CRISPRリピートの要素は24から48塩基対で[43]通常は回文配列を含み、stem-loopヘアピン構造を形成する[44]。このリピート要素の間に似たような長さのスペーサーが介在している[43]。スペーサーの配列はプラスミドやファージの持つ配列と同一であったり[8][9][10]、あるいは自身のゲノム中の配列と同一(self-targeting spacers)であったりする[45]。ファージが感染すると、速やかに新たなスペーサーが追加される[46]。
+
+https://www.cosmobio.co.jp/product/detail/crispr-cas.asp?entry_id=14354
+特集：CRISPR-Cas9 とは DNA二本鎖を切断してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術 | DNA二本鎖を切断してゲノム配列の任意の場所を削除、置換、挿入することができる新しい遺伝子改変技術 | コスモ・バイオ株式会社
+CRISPR-Cas9システムは、細菌や古細菌においてウイルスやプラスミドといった遺伝的要素の侵入物を標的し、排除するよう進化した適応免疫の一つです。
+
+
+https://www.tmd.ac.jp/grad/bac/CRISPR.html
+京都大学　微生物感染症学分野
+CRISPRとはClustered Regularly Interspaced Short Palindromic Repeatsの略で、近年原核生物でファージやプラスミドに対する獲得免疫機構として機能していることが判明したDNA領域のことを指します。
+
 
 https://crisp-bio.blog.jp/archives/18437923.html
 CRISPRメモ_2019/06/21 (3件) : crisp_bio
@@ -932,8 +958,40 @@ https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9
 What are the functions of CRISPR-Cas systems encoded by transposons and plasmids?
 Apart from archaeal and bacterial genomes, CRISPR-Cas systems are encoded by a large family of Tn7-like transposons [9] and by various plasmids [2]. All transposon-encoded and some of the plasmid-encoded CRISPR-Cas are “minimal” variants that lack the enzymes involved in target cleavage and hence are predicted to be involved in non-defense roles. The nature of these functions remains to be elucidated, and might involve RNA-guided transposition [9].
 
+
+2015
+https://seikagaku.jbsoc.or.jp/10.14952/SEIKAGAKU.2015.870686/data/index.html
+CRISPR-Cas9の構造と機能
+2. CRISPR-Cas9
+原核生物のゲノムにはCRISPRアレイとCasオペロンから構成されるCRISPR領域が存在する16)．CRISPRアレイは外来核酸に由来する塩基配列（スペーサー配列）とリピート配列からなる．細菌に感染した外来核酸はCas1–Cas2複合体により断片化され新たなスペーサー配列としてCRISPRアレイに取り込まれる17)．
+
+
+
 ----------
 
+
+----------
+## monumentome
+
+### 2023-09-22
+
+https://pubmed.ncbi.nlm.nih.gov/37808297/
+Front Microbiol
+. 2023 Sep 22:14:1253371. doi: 10.3389/fmicb.2023.1253371. eCollection 2023.
+The microbial biodiversity at the archeological site of Tel Megiddo (Israel)
+Yali Zhang 1, S Emil Ruff 2, Nikolay Oskolkov 3, Braden T Tierney 4, Krista Ryon 4, David Danko 4, Christopher E Mason 5 6 7 8, Eran Elhaik 1
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1253371/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10559971/
+Data availability statement
+The data presented in the study are deposited in the GeoSeeq.com repository, accession name: Monumentome Project available at: https://portal.geoseeq.com/sample-groups/0c919d45-410e-4edc-8d0b-1529f6516726.
+
+
+### 2021-12-08
+
+Dec. 8, 2021
+AUTHOR: MADELINE BARRON, PH.D.
+https://asm.org/Articles/2021/December/Microbes-as-Enemies-and-Allies-in-the-World-of-Art
+Microbes as Enemies and Allies in the World of Art Conservation
 
 ----------
 
