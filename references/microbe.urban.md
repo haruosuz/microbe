@@ -80,6 +80,13 @@ The concentration of O3 was relatively high in Japan (median: 41.58; Q1-Q3: 34.7
 
 ### 2023-01
 
+https://pubmed.ncbi.nlm.nih.gov/37059877/
+Comment Nat Rev Microbiol
+. 2023 Jun;21(6):345. doi: 10.1038/s41579-023-00899-x.
+Urban bees reveal a city's microbiome
+Ashley York 1
+https://www.nature.com/articles/s41579-023-00899-x
+
 https://pubmed.ncbi.nlm.nih.gov/36991491/
 Environ Microbiome
 . 2023 Mar 30;18(1):23. doi: 10.1186/s40793-023-00467-z.
@@ -700,20 +707,6 @@ https://github.com/haruosuz/metasub/blob/master/README.md
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 http://metasub.org/projects/
-Global City Sampling Day
-MetaCoV
-MetaMED
-MetaCATs
-Olympiome
-StuckOnU
-MetaSEW
-MetaBEA
-MetaSTREET
-MetaAIR
-The Extreme Microbiome Project
-Brooklyn Bioreactor
-CAMDA Challenge
-Monumentome
 
 ----------
 ## MetaCoV
