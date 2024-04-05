@@ -28,10 +28,38 @@ https://ja.wikipedia.org/wiki/建造環境
 - [japan](#japan)
 - [school](#school) 学校
 - [university](#university) 大学
+- [mental health](#mental-health)
 
+----------
 
 
 ----------
+## mental health
+
+https://en.wikipedia.org/wiki/Microbiomes_of_the_built_environment
+Mental health. In a 2015 review Hoisington et al. discuss possible connections between the microbiology of the built environment and human health.[62] The concept presented in this paper is that more and more evidence is accumulating that the human microbiome has some impact on the brain and thus if the built environment either directly or indirectly impacts the human microbiome, this in turn could have impacts on human mental health.
+
+https://www.sciencedirect.com/science/article/pii/S0360132319301982
+Building and Environment
+Volume 155, 15 May 2019, Pages 58-69
+Ten questions concerning the built environment and mental health
+
+- Increases in mental health disorders in Western societies may be due, in part, to increased systemic inflammation, secondary to decreased exposures to a diverse microbial environment (i.e., the hygiene hypothesis, “Old Friends” hypothesis, “missing microbes” hypothesis, or biodiversity hypothesis), 
+- We offer ten questions that highlight the importance of current lessons learned regarding the built environment and mental health, including a potential role for the microbiome of the built environment to influence mental health. 
+
+人工環境の微生物群集とメンタルヘルス
+https://www.ncbi.nlm.nih.gov/pubmed/26674771
+Microbiome. 2015 Dec 17;3:60. doi: 10.1186/s40168-015-0127-0.
+The microbiome of the built environment and mental health.
+Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
+
+Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
+http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
+
+
+----------
+
+
 
 ----------
 
@@ -1514,30 +1542,47 @@ Websites for the Hospital Microbiome Project and the Home Microbiome Project
 
 
 ----------
-## mental health
 
-https://en.wikipedia.org/wiki/Microbiomes_of_the_built_environment
-Mental health. In a 2015 review Hoisington et al. discuss possible connections between the microbiology of the built environment and human health.[62] The concept presented in this paper is that more and more evidence is accumulating that the human microbiome has some impact on the brain and thus if the built environment either directly or indirectly impacts the human microbiome, this in turn could have impacts on human mental health.
 
-https://www.sciencedirect.com/science/article/pii/S0360132319301982
-Building and Environment
-Volume 155, 15 May 2019, Pages 58-69
-Ten questions concerning the built environment and mental health
 
-- Increases in mental health disorders in Western societies may be due, in part, to increased systemic inflammation, secondary to decreased exposures to a diverse microbial environment (i.e., the hygiene hypothesis, “Old Friends” hypothesis, “missing microbes” hypothesis, or biodiversity hypothesis), 
-- We offer ten questions that highlight the importance of current lessons learned regarding the built environment and mental health, including a potential role for the microbiome of the built environment to influence mental health. 
+### 2024-01-25
 
-人工環境の微生物群集とメンタルヘルス
-https://www.ncbi.nlm.nih.gov/pubmed/26674771
-Microbiome. 2015 Dec 17;3:60. doi: 10.1186/s40168-015-0127-0.
-The microbiome of the built environment and mental health.
-Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
+Jan. 25, 2024
+https://asm.org/Articles/2024/January/Why-Surface-Materials-Matter-in-Health-Care-Settin
+Why Surface Materials Matter in Health Care Settings
 
-Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
-http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
+### 2023-11-29
+
+Nov. 29, 2023
+https://asm.org/Articles/2023/November/How-Viruses-Spread-Indoors-What-to-Do-About-It
+How Viruses Spread Indoors and What to Do About It
+
+
 
 
 ----------
+
+### 2023-01-31
+
+https://pubmed.ncbi.nlm.nih.gov/36625592/
+Review Appl Environ Microbiol
+. 2023 Jan 31;89(1):e0132522. doi: 10.1128/aem.01325-22. Epub 2023 Jan 10.
+Microbiome-Based Stain Analyses in Crime Scenes
+Meghna Swayambhu 1, Rolf Kümmerli 2, Natasha Arora 1
+https://journals.asm.org/doi/10.1128/aem.01325-22
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9888269/
+
+
+----------
+
+
+----------
+
+
+
+
+
+
 
 
 
