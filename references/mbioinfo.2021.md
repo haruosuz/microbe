@@ -876,6 +876,35 @@ clustered regularly interspaced short palindromic repeat; クリスパー
 
 https://en.wikipedia.org/wiki/CRISPR
 
+### 2022-01-13
+
+https://pubmed.ncbi.nlm.nih.gov/35025885/
+PLoS Biol
+. 2022 Jan 13;20(1):e3001514. doi: 10.1371/journal.pbio.3001514. eCollection 2022 Jan.
+Microbial defenses against mobile genetic elements and viruses: Who defends whom from what?
+Eduardo P C Rocha 1, David Bikard 2
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001514
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8791490/
+
+Box 1. Glossary.
+
+Clustered regularly interspaced short palindromic repeats/CRISPR associated protein (CRISPR/Cas) systems: provide adaptive immunity based on spacer sequences within CRISPR arrays. These sequences guide nucleases to destroy cognate invading genetic elements.
+
+The resulting DNA can be recovered by other defense systems, like clustered regularly interspaced short palindromic repeats/CRISPR associated protein (CRISPR/Cas) or the Argonaut, to build more specific defenses against subsequent infections by the same phages [30,31].
+
+Fig 1
+Examples of defense systems discussed in the text.
+Homologous recombination via the RecBCD pathway can defend from MGEs because RecBCD is a powerful exonuclease that degrades linear double-stranded DNA (but is inactivated by some phage encoded proteins, like Gam). Epigenetic modifications are the basis of many defense systems that can be counteracted by phage proteins, like Ocr in phage T7, or by epigenetic modification of phage DNA. Abortive infection is a costly defense strategy that induces cell growth arrest or death when a threat to the cell is detected. Adaptive immunity by CRISPR/Cas systems targets MGEs with specific DNA sequences, while allowing other exogenous DNA to remain in the cell and eventually recombine with the chromosome. CRISPR/Cas, clustered regularly interspaced short palindromic repeats/CRISPR associated protein; MGE, mobile genetic element.
+
+
+Fig 2
+Defense and antidefense systems are often studied in the context of the interaction between one host and one MGE, usually a virulent phage (left). Yet, the presence of numerous MGEs in populations and their ability to encode their own defense systems renders the picture more complex (right). 
+
+
+Why are there so many defense systems in each genome?
+Most bacterial genomes encode several R–Ms, but often also CRISPR/Cas, retrons, and many other defense systems [35]. For example, the first 2 sequenced genomes of Helicobacter pylori encode a total of more than 20 putative R–M systems [52], and genomes with multiple CRISPR arrays and Cas systems are frequent [53].
+
+
 ### 2021-06-24
 10:58 AM · May 27, 2021
 https://twitter.com/mason_lab/status/1397733925057970177
@@ -934,6 +963,14 @@ https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000309#
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6927304/
 One of these groups rarely has plasmids, and bears clustered regularly interspaced short palindromic repeat (CRISPR) sequences, in addition to CRISPR-associated genes (cas genes) or restriction-modification system genes. This fact strongly supports the lack of plasmids. Furthermore, the scarce plasmids in this group also bear CRISPR sequences, and specifically contain genes involved in prokaryotic toxin-antitoxin systems that could either act as the still little known CRISPR type IV system or be the precursors of other novel CRISPR/Cas systems. In addition, a limited set of strains present a new cas9-like gene, which may complement the other cas genes in inhibiting the entrance of new plasmids into the bacteria. 
 そのうちの1つのグループは、プラスミドをほとんど持たず、CRISPR関連遺伝子（cas遺伝子）や制限修飾系遺伝子に加えて、CRISPR（clustered regular interspaced short palindromic repeat）配列を持っています。この事実は、プラスミドの欠如を強く裏付けるものである。さらに、このグループの希少なプラスミドにもCRISPR配列があり、原核生物の毒素・抗毒素システムに関与する遺伝子が特異的に含まれていることから、まだあまり知られていないCRISPRタイプIVシステムとして作用するか、他の新規CRISPRCasシステムの前駆体となる可能性がある。さらに、限られた菌株には新しいcas9様遺伝子が存在し、他のcas遺伝子を補完して新たなプラスミドの菌体内への侵入を抑制している可能性がある。
+
+### 2019-08
+https://pubmed.ncbi.nlm.nih.gov/31165781/
+Nat Rev Microbiol
+. 2019 Aug;17(8):513-525. doi: 10.1038/s41579-019-0204-7.
+CRISPR-Cas in mobile genetic elements: counter-defence and beyond
+Guilhem Faure 1 2, Sergey A Shmakov 1 3, Winston X Yan 4, David R Cheng 4, David A Scott 4, Joseph E Peters 5, Kira S Makarova 1, Eugene V Koonin 6
+
 
 ### 2020-06-10
 https://pubmed.ncbi.nlm.nih.gov/32523110/
