@@ -257,10 +257,44 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1461297/
 ## phylogenetic
 系統
 
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree
-
 系統樹に根(root)をつける
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree
+http://www.iqtree.org/doc/Concordance-Factor
+gCF and sCF complement classical measures of branch support (e.g. bootstrap) in phylogenetics by providing a full description of underlying disagreement among loci and sites.
+HINT: See very nice tips on how to use and interpret concordance factors written by Rob Lanfear.
+https://www.robertlanfear.com/blog/files/concordance_factors.html
+Calculating and interpreting gene- and site-concordance factors in phylogenomics
+How concordance factors relate to each other and to bootstraps
+
+### 2023-12
+https://pubmed.ncbi.nlm.nih.gov/37369847/
+Review Nat Rev Genet
+. 2023 Dec;24(12):834-850. doi: 10.1038/s41576-023-00620-x. Epub 2023 Jun 27.
+Incongruence in the phylogenomics era
+Jacob L Steenwyk 1 2 3, Yuanning Li 4, Xiaofan Zhou 5, Xing-Xing Shen 6, Antonis Rokas 7 8 9
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_2830666552
+https://www-nature-com.kras.lib.keio.ac.jp/articles/s41576-023-00620-x
+Measures of branch support
+
+### 2023-07-27
+
+https://pubmed.ncbi.nlm.nih.gov/37853257/
+Published Erratum Nat Biotechnol
+. 2023 Oct 18. doi: 10.1038/s41587-023-02027-9. Online ahead of print.
+Author Correction: Generation of accurate, expandable phylogenomic trees with uDance
+Metin Balaban 1, Yueyu Jiang 2, Qiyun Zhu 3 4, Daniel McDonald 5, Rob Knight 5 6 7 8, Siavash Mirarab 9 10 11
+
+https://pubmed.ncbi.nlm.nih.gov/37500914/
+Nat Biotechnol
+. 2023 Jul 27:10.1038/s41587-023-01868-8. doi: 10.1038/s41587-023-01868-8. Online ahead of print.
+Generation of accurate, expandable phylogenomic trees with uDance
+Metin Balaban 1, Yueyu Jiang 2, Qiyun Zhu 3 4, Daniel McDonald 5, Rob Knight 5 6 7 8, Siavash Mirarab 9 10 11
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_2854431047
+https://www-nature-com.kras.lib.keio.ac.jp/articles/s41587-023-01868-8
+Gene tree conflicts, branch support and diversity across the tree
+uDance produces species and partition trees with branch support (local posterior probability), thanks to ASTRAL35. 
 
 ### 2022-02-03
 ### Krieger_2022-02-03
@@ -284,8 +318,16 @@ Gareth A Coleman # 1, Adrián A Davín # 2, Tara A Mahendrarajah 3, Lénárd L S
 https://science.sciencemag.org/content/372/6542/eabe0511
 Our analyses place the root between two major bacterial clades, the Gracilicutes and Terrabacteria. We found no support for a root between the Candidate Phyla Radiation (CPR), a lineage comprising putative symbionts and parasites with small genomes, and all other Bacteria. Instead, the CPR was inferred to be a member of the Terrabacteria and formed a sister lineage to the Chloroflexota and Dormibacterota. 
 
-### 2021-01
+### 2021-09
+https://pubmed.ncbi.nlm.nih.gov/34734192/
+Nat Comput Sci
+. 2021 Sep;1(9):573-577. doi: 10.1038/s43588-021-00129-5. Epub 2021 Sep 22.
+Fast and accurate bootstrap confidence limits on genome-scale phylogenies using little bootstraps
+Sudip Sharma 1 2, Sudhir Kumar 1 2 3
+https://www.nature.com/articles/s43588-021-00129-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8560003/
 
+### 2021-01
 https://pubmed.ncbi.nlm.nih.gov/33510015/
 Science
 . 2021 Jan 29;371(6528):466-467. doi: 10.1126/science.abf3995.
@@ -296,17 +338,18 @@ https://science.sciencemag.org/content/371/6528/466.long
 Uses for viral sequence data
 Viral phylogenies, rooted at the most recent common ancestor (TMRCA), are inferred on the basis of genetic differences. These phylogenies can be used to estimate viral emergence, characterize the geographic spread of the virus, reconstruct epidemiological dynamics of viral spread within a region, and identify instances of adaptation.
 
-![](https://science.sciencemag.org/content/sci/371/6528/466/F1.medium.gif)
-
 ### 2020-07
-
 https://pubmed.ncbi.nlm.nih.gov/32424311/
 Review Nat Rev Genet
 . 2020 Jul;21(7):428-444. doi: 10.1038/s41576-020-0233-0. Epub 2020 May 18.
 Phylogenetic tree building in the genomic age
 Paschalia Kapli 1, Ziheng Yang 1, Maximilian J Telford 2
 https://www.nature.com/articles/s41576-020-0233-0
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_pubmed_primary_32424311
+https://www-nature-com.kras.lib.keio.ac.jp/articles/s41576-020-0233-0
+Confidence in clades using the bootstrap
 
+### 2020-07
 https://pubmed.ncbi.nlm.nih.gov/32427978/
 Nat Microbiol
 . 2020 Jul;5(7):876-877. doi: 10.1038/s41564-020-0738-5.
@@ -316,13 +359,14 @@ https://www.nature.com/articles/s41564-020-0738-5
 severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
 
 ### 2018-06
-
 https://pubmed.ncbi.nlm.nih.gov/29795540/
 Review Nat Microbiol
 . 2018 Jun;3(6):652-661. doi: 10.1038/s41564-018-0156-0. Epub 2018 May 24.
 Methods for phylogenetic analysis of microbiome data
 Alex D Washburne # 1, James T Morton # 2 3, Jon Sanders 3, Daniel McDonald 3, Qiyun Zhu 3, Angela M Oliverio 4 5, Rob Knight 2 3
 https://www.nature.com/articles/s41564-018-0156-0
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/1rcqpmf/cdi_proquest_miscellaneous_2045274002
+https://www-nature-com.kras.lib.keio.ac.jp/articles/s41564-018-0156-0
 In this Review Article, we organize the field of phylogenetically structured data analysis by discussing the major classes of methods. We first emphasize a fundamental issue in the field: the imperfection of estimated phylogenies. We then define four classes: (1) comparative methods; (2) ancestral state reconstruction and descendant trait imputation; (3) phylogenetic variables; and (4) phylogeny-aware distances (Table 1); and provide Supplementary Online Tutorials with examples (https://knightlab-analyses.github.io/phylogenetic-tutorials/). 
 
 ### Guglielmini_2013
@@ -349,6 +393,9 @@ https://academic.oup.com/femsre/article/33/3/657/591359
 
 Figure 1
 A scheme of the relationships between the main relaxase protein families. A first relaxase cluster (shown on a dark-grey background) contains relaxase groups that contain just one active Tyr in the catalytic centre (see text). A second relaxase cluster (light-grey) contains relaxases with two Tyr in the catalytic centre. For the remaining groups (white background) not enough is known about the biochemistry of the respective relaxases. According to the analysis of their amino acid sequences and of experimental work (see text) they seem to be nonhomologous, and thus may use different DNA-processing mechanisms. Some relaxase protein families also overlap other protein families, such as plasmid RC-replication proteins (Rep), IS91-like transposases (IS91) or HD hydrolases. Areas of circles are proportional to relaxase number. The MOBP area includes (MOBP+MOBHEN+MOBQ1).
+
+Figure 4
+Conserved sequence motifs in representative relaxase protein clades within the MOBF family. The clades to which the sequences belong are shown at the left margin of the figure. The CLUSTALW alignment considered only the 300 N-terminal residues of each protein, containing the relaxase domain. Vertical arrowheads point to residues known to be important for function in TrwC_R388 (Guasch et al., 2003). 
 
 ----------
 ## jlsteenwyk
