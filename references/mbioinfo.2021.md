@@ -876,27 +876,7 @@ clustered regularly interspaced short palindromic repeat; クリスパー
 
 https://en.wikipedia.org/wiki/CRISPR
 
-<<<<<<< HEAD
 ### 2021-06-24
-=======
-https://pubmed.ncbi.nlm.nih.gov/33159058/
-Nat Commun
-. 2020 Nov 6;11(1):5652. doi: 10.1038/s41467-020-19415-3.
-Discovery of multiple anti-CRISPRs highlights anti-defense gene clustering in mobile genetic elements
-Rafael Pinilla-Redondo 1 2 3, Saadlee Shehreen 4, Nicole D Marino 2, Robert D Fagerlund 5 6, Chris M Brown 4 6, Søren J Sørensen 1, Peter C Fineran 7 8 9, Joseph Bondy-Denomy 10 11 12
-https://www.nature.com/articles/s41467-020-19415-3
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648647/
-
-helix-turn-helix (HTH)
-
-Methods
-Bioinformatic searches and phylogenetic analyses of Aca and Acr proteins
-
-Software and statistical analysis
-Numerical data were analyzed and plotted with GraphPad Prism 6.0 Software. HHPred searches were carried out for the prediction of protein domains (e.g., HTH). 
-
-
->>>>>>> d7cc4740ce9813c797c9d864bddcfaa93489de7e
 10:58 AM · May 27, 2021
 https://twitter.com/mason_lab/status/1397733925057970177
 Chris Mason on Twitter: "I'm elated to release four @metasub papers today, with new species, data interfaces, &amp; online resources. The first is in @CellCellPress, "A global metagenomic map of urban microbiomes and antimicrobial resistance" led by @dcdanko @Daniela_Bezdan https://t.co/47SB0Hda05" a 🧵 /1" / Twitter
@@ -913,7 +893,6 @@ Newly observed genetic sequences
 (E and F) Fractional breakdowns of identifiable CRISPR systems found in the MetaSUB data.
 From these MAGs, we identified 838,532 CRISPR arrays, of which 3,245 could be annotated for specific CRISPR systems. The annotated CRISPR arrays were mostly type 1-E and 1-F, but a number of type II and III systems were identified as well (Figures 5E and 5F), and some arrays had unclear (ambiguous) type assignment. Critically, when we aligned spacers to both our viral MAGs and all viral sequences in RefSeq, the spacers in our identified CRISPR arrays closely matched our predicted MAG-derived viruses. 
 
-<<<<<<< HEAD
 ### 2020-11-06
 https://pubmed.ncbi.nlm.nih.gov/33159058/
 Nat Commun
@@ -957,11 +936,6 @@ One of these groups rarely has plasmids, and bears clustered regularly interspac
 そのうちの1つのグループは、プラスミドをほとんど持たず、CRISPR関連遺伝子（cas遺伝子）や制限修飾系遺伝子に加えて、CRISPR（clustered regular interspaced short palindromic repeat）配列を持っています。この事実は、プラスミドの欠如を強く裏付けるものである。さらに、このグループの希少なプラスミドにもCRISPR配列があり、原核生物の毒素・抗毒素システムに関与する遺伝子が特異的に含まれていることから、まだあまり知られていないCRISPRタイプIVシステムとして作用するか、他の新規CRISPRCasシステムの前駆体となる可能性がある。さらに、限られた菌株には新しいcas9様遺伝子が存在し、他のcas遺伝子を補完して新たなプラスミドの菌体内への侵入を抑制している可能性がある。
 
 ### 2020-06-10
-=======
-
-
-2020
->>>>>>> d7cc4740ce9813c797c9d864bddcfaa93489de7e
 https://pubmed.ncbi.nlm.nih.gov/32523110/
 Nat Commun
 . 2020 Jun 10;11(1):2934. doi: 10.1038/s41467-020-16731-6.
@@ -1016,10 +990,6 @@ CRISPR-Cas9の構造と機能
 原核生物のゲノムにはCRISPRアレイとCasオペロンから構成されるCRISPR領域が存在する16)．CRISPRアレイは外来核酸に由来する塩基配列（スペーサー配列）とリピート配列からなる．細菌に感染した外来核酸はCas1–Cas2複合体により断片化され新たなスペーサー配列としてCRISPRアレイに取り込まれる17)．
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d7cc4740ce9813c797c9d864bddcfaa93489de7e
 ----------
 
 
