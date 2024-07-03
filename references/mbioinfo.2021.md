@@ -292,6 +292,9 @@ The ML rooted tree as inferred from the whole Chiroptera amino acid data set.
 The Ambiguous Root of Cetartiodactyla
 The ML tree inferred with the whole amino acid data set places the clade containing Tylopoda (represented by its only extant family; Camelidae) and Suina as the sister group to all other cetartiodactylans with 71.8% rootstrap support (Fig. 6). Yet, The AU test did not reject Tylopoda alone as the sister group to all other cetartiodactylans. 
 
+figure 6.
+The ML rooted tree of as inferred from the whole Cetartiodactyla amino acid data set. 
+
 ### 2019-12-01
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree_assessing-phylogenetic-assumptions
@@ -303,9 +306,6 @@ fig. 3.
 —Maximum-likelihood trees of mammalian relationships based on analysis of Lartillot 2012 data set. 
 
 The tree inferred from the partitions that show significant violation of the SRH conditions (Tfail) differs in its topology from the tree inferred from the partitions that do not show significant violation of the SRH conditions (Tpass) with respect to the interordinal relationships in Laurasiatheria (fig. 3). The tree inferred from partitions that violate the SRH conditions (Tfail) is consistent with the results from the original paper in that it places Perissodactyla as a sister group to Carnivora + Pholidota (Lartillot and Delsuc 2012). However, other studies using ML analysis show Perissodactyla to be a sister group to Cetartiodactyla (Graur et al. 1997; Murphy et al. 2001; Tsagkogeorga et al. 2013; Liu et al. 2017), which is also the relationship we find in this study with the tree inferred from partitions that do not show significant violation of the SRH assumptions.
-
-
-
 
 
 ### 2023-12
