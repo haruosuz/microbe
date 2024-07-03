@@ -1,4 +1,4 @@
-Last Update: 2024-02-03
+Last Update: 2024-07-03
 
 ----------
 
@@ -12,7 +12,7 @@ Last Update: 2024-02-03
 - [urban_microbiome](#urban_microbiome) 都市の微生物群集 MetaSUB
 - [microbiome](#microbiome) 微生物群集
 - [MAGUK](#maguk) membrane-associated guanylate kinases
-- [phylogenetic](#phylogenetic) 系統
+- [tree](#tree) 系統樹
   - [jlsteenwyk](#jlsteenwyk)
 - [phylogenetic_profiling](#phylogenetic_profiling)
 - [date](#date) Phylogenetic Dating 分岐年代推定
@@ -254,19 +254,59 @@ https://academic.oup.com/genetics/article/156/2/879/6051420
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1461297/
 
 ----------
-## phylogenetic
-系統
+## tree
+系統樹
+
+https://www.jstage.jst.go.jp/article/jsbibr/2/1/2_jsbibr.2021.7/_html/-char/ja
+総説
+分子系統解析の最前線
+松井 求 
+2021 年 2 巻 1 号 p. 30-57
+3.5　系統樹の信頼性評価
+得られた系統樹の統計的信頼性を評価するために標準的に使用されているのがBootstrap法［70］である。
+信頼性評価法の歴史についてはSimonの総説を参照されたい［74］。
 
 系統樹に根(root)をつける
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree
+Dec 1, 2022
 http://www.iqtree.org/doc/Concordance-Factor
 gCF and sCF complement classical measures of branch support (e.g. bootstrap) in phylogenetics by providing a full description of underlying disagreement among loci and sites.
 HINT: See very nice tips on how to use and interpret concordance factors written by Rob Lanfear.
 https://www.robertlanfear.com/blog/files/concordance_factors.html
 Calculating and interpreting gene- and site-concordance factors in phylogenomics
 How concordance factors relate to each other and to bootstraps
+
+### 2022-06-16
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree_rootstrap
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9260635/
+
+Microchiroptera–Megachiroptera or Yinpterochiroptera–Yangochiroptera?
+Using the whole amino acid data set, our results show 65.5% rootstrap support for the Yinpterochiroptera–Yangochiroptera hypothesis and 23.2% for the Microchiroptera–Megachiroptera hypothesis. The remaining11.3% of the rootstrap support goes to supporting the branch leading to Rhinolophoidea as root branch of the bats (Fig. 4).
+
+figure 4.
+The ML rooted tree as inferred from the whole Chiroptera amino acid data set. 
+
+The Ambiguous Root of Cetartiodactyla
+The ML tree inferred with the whole amino acid data set places the clade containing Tylopoda (represented by its only extant family; Camelidae) and Suina as the sister group to all other cetartiodactylans with 71.8% rootstrap support (Fig. 6). Yet, The AU test did not reject Tylopoda alone as the sister group to all other cetartiodactylans. 
+
+### 2019-12-01
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree_assessing-phylogenetic-assumptions
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893154/
+
+The tree reconstructed from all of the partitions (Tall) and the tree reconstructed from the partitions that pass the MaxSymTest (Tpass, 29 partitions) both show Perissodactyla (odd-toed ungulates) as a sister group to Cetartiodactyla (even-toed ungulates) (fig. 3a and supplementary extended figs. 4 and 5, Supplementary Material online). Even so, the bootstrap support for this branch is not high: 73% for Tall and 34% for Tpass. On the other hand, the tree reconstructed from the data that fail the MaxSymTest (Tfail, 22 partitions) shows Perissodactyla as the sister group to the clade that contains Carnivora + Pholidota with 49% bootstrap support (fig. 3b and supplementary extended fig. 6, Supplementary Material online).
+
+fig. 3.
+—Maximum-likelihood trees of mammalian relationships based on analysis of Lartillot 2012 data set. 
+
+The tree inferred from the partitions that show significant violation of the SRH conditions (Tfail) differs in its topology from the tree inferred from the partitions that do not show significant violation of the SRH conditions (Tpass) with respect to the interordinal relationships in Laurasiatheria (fig. 3). The tree inferred from partitions that violate the SRH conditions (Tfail) is consistent with the results from the original paper in that it places Perissodactyla as a sister group to Carnivora + Pholidota (Lartillot and Delsuc 2012). However, other studies using ML analysis show Perissodactyla to be a sister group to Cetartiodactyla (Graur et al. 1997; Murphy et al. 2001; Tsagkogeorga et al. 2013; Liu et al. 2017), which is also the relationship we find in this study with the tree inferred from partitions that do not show significant violation of the SRH assumptions.
+
+
+
+
 
 ### 2023-12
 https://pubmed.ncbi.nlm.nih.gov/37369847/
@@ -295,6 +335,15 @@ https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscell
 https://www-nature-com.kras.lib.keio.ac.jp/articles/s41587-023-01868-8
 Gene tree conflicts, branch support and diversity across the tree
 uDance produces species and partition trees with branch support (local posterior probability), thanks to ASTRAL35. 
+
+### 2022-06-16
+https://pubmed.ncbi.nlm.nih.gov/32915964/
+Syst Biol
+. 2022 Jun 16;71(4):921-928. doi: 10.1093/sysbio/syaa068.
+An Evolving View of Phylogenetic Support
+Chris Simon 1
+https://academic.oup.com/sysbio/article/71/4/921/5904279?login=false
+[Bayes factors; bootstrap; branch support; concordance factors; internode certainty; posterior probabilities; spectral analysis; transfer bootstrap expectation.].
 
 ### 2022-02-03
 ### Krieger_2022-02-03
@@ -961,8 +1010,16 @@ Chris Mason on X: "Our metagenome atlas spans ~5,000 samples from mass-transit s
 https://twitter.com/mason_lab/status/1397733959317049344
 Chris Mason on X: "then, with @omarabudayyeh and @jgooten, we mined the metagenome-assembled genomes (MAGs) to find &gt;800K new CRISPR arrays, which showed the ongoing dynamics of bacteria battling their ever-evolving viruses and some unknown CRISPR types /12 https://t.co/6DkLeHOaY9" / X
 
-Cell . 2021 Jun 24
+### 2021-06-24
+https://pubmed.ncbi.nlm.nih.gov/34043940/
+Cell
+. 2021 Jun 24;184(13):3376-3393.e17. doi: 10.1016/j.cell.2021.05.002. Epub 2021 May 26.
+A global metagenomic map of urban microbiomes and antimicrobial resistance
+David Danko 1, Daniela Bezdan 2,
+International MetaSUB Consortium
+https://www.sciencedirect.com/science/article/pii/S0092867421005857?via%3Dihub
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238498/
+https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
 Figure 5
 Newly observed genetic sequences
 (C) Mapping rate of CRISPR spacers from MetaSUB data to viral genomes in RefSeq and viral genomes found in MetaSUB data.
@@ -1018,6 +1075,18 @@ Nat Rev Microbiol
 CRISPR-Cas in mobile genetic elements: counter-defence and beyond
 Guilhem Faure 1 2, Sergey A Shmakov 1 3, Winston X Yan 4, David R Cheng 4, David A Scott 4, Joseph E Peters 5, Kira S Makarova 1, Eugene V Koonin 6
 
+### 2016-08
+### p7ME01
+https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md#p7me01
+https://pubmed.ncbi.nlm.nih.gov/27345842/
+Environ Microbiol Rep
+. 2016 Aug;8(4):508-19. doi: 10.1111/1758-2229.12424. Epub 2016 Jun 27.
+Analysis of defence systems and a conjugative IncP-1 plasmid in the marine polyaromatic hydrocarbons-degrading bacterium Cycloclasticus sp. 78-ME
+Michail M Yakimov 1, Francesca Crisafi 1, Enzo Messina 1, Francesco Smedile 1, Anna Lopatina 2, Renata Denaro 1, Dietmar H Pieper 3, Peter N Golyshin 4, Laura Giuliano 1
+https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12424
+Get access to the full version of this article.
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_crossref_primary_10_1111_1758_2229_12424
+Two ‘defence islands’ were identified in its genome: one contained CRISPR-Cas and toxin-antitoxin system, while the second was composed of an array of genes for toxin-antitoxin and restriction-modification proteins. Among 116 spacers of CRISPR-Cas system only seven spacers matched phages and plasmids. Additionally, we showed that Cycloclasticus sp. 78-ME harbours a conjugative plasmid p7ME01 of a new IncP-1θ ancestral archetype, which likely suppresses the acquisition of exogenous DNA by this organism. Based on this finding, we suggested that the adaptive immunity of Cycloclasticus sp. 78-ME is linked with the acquisition of this plasmid.
 
 ### 2020-06-10
 https://pubmed.ncbi.nlm.nih.gov/32523110/
@@ -1168,6 +1237,15 @@ Forensic Sci Int
 Drug contamination of US paper currency
 A J Jenkins 1
 
+2014-04-24
+April 24, 2014
+https://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria/
+Dirty Money: Your cash is home to thousands of bacteria - CBS News
+The unpublished study examined 80 circulating $1 bills in New York City between two periods - winter (February 2013) and summer (July 2013).
+
+2014/05/22(木) 22:33
+https://girlschannel.net/topics/140416/
+お金を触ったら手洗い必須かも！「お札には3,000ものバクテリアが」…((；ﾟДﾟ)) | ガールズちゃんねる - Girls Channel -
 2014/05/18
 https://news.nicovideo.jp/watch/nw1072131
 お金を触ったら手洗い必須かも「お札には3,000ものバクテリアが」―研究結果 | ニコニコニュース
@@ -1176,13 +1254,8 @@ You won’t believe how much bacteria is on a dollar bill
 http://www.womenshealthmag.com/health/bacteria-on-money
 researchers collected 20 $1 bills in both February and July 2013 (because certain microbes may be more prevalent depending on the season).
 
-2014-04-24
-April 24, 2014
-https://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria/
-Dirty Money: Your cash is home to thousands of bacteria - CBS News
-The unpublished study examined 80 circulating $1 bills in New York City between two periods - winter (February 2013) and summer (July 2013).
-
 ### 2016-11-16
+
 https://pubmed.ncbi.nlm.nih.gov/27904880/
 mSphere
 . 2016 Nov 16;1(6):e00226-16. doi: 10.1128/mSphere.00226-16. eCollection 2016 Nov-Dec.
