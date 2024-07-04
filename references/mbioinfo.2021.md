@@ -278,6 +278,24 @@ https://www.robertlanfear.com/blog/files/concordance_factors.html
 Calculating and interpreting gene- and site-concordance factors in phylogenomics
 How concordance factors relate to each other and to bootstraps
 
+### jlsteenwyk
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#jlsteenwyk
+
+https://pubmed.ncbi.nlm.nih.gov/31289177/
+mBio
+. 2019 Jul 9;10(4):e00925-19. doi: 10.1128/mBio.00925-19.
+A Robust Phylogenomic Time Tree for Biotechnologically and Medically Important Fungi in the Genera Aspergillus and Penicillium
+Jacob L Steenwyk 1, Xing-Xing Shen 1, Abigail L Lind 2 3, Gustavo H Goldman 4, Antonis Rokas 5 2
+https://journals.asm.org/doi/10.1128/mBio.00925-19
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6747717/
+
+Topology tests. The phylogeny of the genera Aspergillus and Penicillium has been a topic of debate. Our topology supports the reciprocal monophyly of Aspergillus and Penicillium and rejects the monophyly of narrow Aspergillus. Both of these results are consistent with some previous studies (61) (see Fig. 6) but in contrast to other previous studies, which recovered a topology where Penicillium is sister to section Nidulantes within Aspergillus and narrow Aspergillus (sections Nigri, Ochraceorosei, Flavi, Circumdati, Candidi, and Terrei) is monophyletic (43, 62). To further evaluate both of these hypotheses, we conducted separate topology constraint analyses using the Shimodaira-Hasegawa test (69) and the approximately unbiased tests (70). Both tests rejected the constrained topologies (Table 1; P value < 0.001 for all tests), providing further support that Aspergillus and Penicillium are reciprocally monophyletic and that narrow Aspergillus is not monophyletic (Fig. 5). 
+
+FIG 5
+A visual comparison of the differences between the phylogeny reported in this study and the phylogeny reported in the work of Kocsubé et al. (61). 
+
+
 ### 2022-06-16
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree_rootstrap
@@ -446,21 +464,6 @@ A scheme of the relationships between the main relaxase protein families. A firs
 Figure 4
 Conserved sequence motifs in representative relaxase protein clades within the MOBF family. The clades to which the sequences belong are shown at the left margin of the figure. The CLUSTALW alignment considered only the 300 N-terminal residues of each protein, containing the relaxase domain. Vertical arrowheads point to residues known to be important for function in TrwC_R388 (Guasch et al., 2003). 
 
-----------
-## jlsteenwyk
-
-- https://jlsteenwyk.com/tutorials/phylogenomics_made_easy.html
-Five-step phylogenomics, from proteomes to species tree
-- https://github.com/JLSteenwyk/PhyKIT
-- https://github.com/JLSteenwyk/BioKIT
-
-https://pubmed.ncbi.nlm.nih.gov/31289177/
-mBio
-. 2019 Jul 9;10(4):e00925-19. doi: 10.1128/mBio.00925-19.
-A Robust Phylogenomic Time Tree for Biotechnologically and Medically Important Fungi in the Genera Aspergillus and Penicillium
-Jacob L Steenwyk 1, Xing-Xing Shen 1, Abigail L Lind 2 3, Gustavo H Goldman 4, Antonis Rokas 5 2
-https://journals.asm.org/doi/10.1128/mBio.00925-19
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6747717/
 
 ----------
 ## phylogenetic_profiling
