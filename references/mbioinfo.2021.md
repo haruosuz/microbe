@@ -24,6 +24,7 @@ Last Update: 2024-07-03
 - [recombination](#recombination)
 - [money](#money) お金 お札 ATM
 - [monumentome](#monumentome)
+- [publication](#publication)
 
 ----------
 ## 
@@ -631,6 +632,34 @@ https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6045662/
 We detected a strong temporal signal in the CG23 genome alignment (see Supplementary Fig. 2a-c, Supplementary Methods), sufficient to estimate evolutionary rates and dates for the most recent common ancestors (MRCAs) of key CG23 lineages with BEAST (best-fitting Bayesian model was the UCLD constant model, see Supplementary Methods). The mean evolutionary rate for CG23 was estimated to be 3.40 × 10−7 substitutions site−1 year−1 (95% HPD; 2.43 × 10−7–4.38 × 10−7). The MRCAs for the entire CG23 population, CG23-I and equine sublineage nested within CG23-I were estimated to be 1878 (95% HPD; 1827–1915), 1928 (95% HPD; 1908–1953) and 1972 (95% HPD, 1961–1975), respectively.
 
 ----------
+
+https://ja.wikipedia.org/wiki/創始者効果
+
+人と物の移動により微生物が移動する
+
+https://pubmed.ncbi.nlm.nih.gov/28912233/
+Science
+. 2017 Sep 15;357(6356):1099-1100. doi: 10.1126/science.aao3007.
+Microbial mass movements
+Yong-Guan Zhu 1, Michael Gillings 2, Pascal Simonet 3, Dov Stekel 4, Steve Banwart 5, Josep Penuelas 6 7
+https://www.science.org/doi/10.1126/science.aao3007
+Wastewater, tourism, and trade are moving microbes around the globe at an unprecedented scale
+
+https://primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/
+ブラジルにウイルスが持ち込まれた経路については、2014年のサッカー・ワールドカップ（6月から7月）、その直後のリオデジャネイロでのカヌー競技（8月）、2013年6月のコンフェデレーション・カップが候補に挙げられていた。
+ジカウイルスのゲノムでは、1年間に1000塩基中の1個の割合で変異が起きていると推定されている。この分子進化速度に基づいて計算すると、ウイルスがアメリカ大陸に持ち込まれた時期は、ワールドカップやカヌー競技よりも前で、コンフェデレーション・カップの時期に一致していた。しかし、この競技はポリネシアで最初のジカウイルス感染が確認される前に終わっていたため、このイベントとは関係ないと考えられた（1）。
+
+https://pubmed.ncbi.nlm.nih.gov/27013429/
+Science
+. 2016 Apr 15;352(6283):345-349. doi: 10.1126/science.aaf5036. Epub 2016 Mar 24.
+Zika virus in the Americas: Early epidemiological and genetic findings
+https://science.sciencemag.org/content/352/6283/345.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
+Fig. 3
+Timescale of the introduction of ZIKV to the Americas.
+There are two published hypotheses for how ZIKV came to be introduced into Brazil, during (i) the 2014 World Cup soccer tournament (Jun 12th - Jul 13th) (29) or (ii) the Va’a canoe event held in Rio de Janeiro between 12-17 Aug 2014 (34). Alternatively, introduction could have occurred during (iii) the 2013 Confederations Cup soccer tournament (15th–30th Jun 2013). Events (ii) and (iii) notably included competitors from French Polynesia. Our results suggest that the introduction of ZIKV to the Americas predated events (i) and (ii). Although the molecular clock dates are more consistent with the Confederations cup, that event ended before ZIKV cases were first reported in French Polynesia (4). Consequently, we believe that large-scale patterns in human mobility will provide more useful and testable hypotheses about viral introduction and emergence (33, 35, 36) than ad hoc hypotheses focused on specific events.
+
+----------
 ## niid
 
 - https://www.niid.go.jp/niid/en/
@@ -1178,6 +1207,16 @@ Microbes as Enemies and Allies in the World of Art Conservation
 お金 お札 ATM
 Jane M Carlton
 
+### 2021-01-27
+
+https://pubmed.ncbi.nlm.nih.gov/33585735/
+ACS Omega
+. 2021 Jan 27;6(5):3499-3507. doi: 10.1021/acsomega.0c04546. eCollection 2021 Feb 9.
+Metagenomic Sequencing Revealed the Potential Pathogenic Threats of Banknotes
+Jun Lin 1 2 3 4, Wenqian Jiang 1 3, Yang Shi 1 3, Weiwen Cai 1 3
+https://pubs.acs.org/doi/10.1021/acsomega.0c04546
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7876676/
+
 ### 2017-04-13
 
 6:55 AM · May 23, 2017
@@ -1295,6 +1334,16 @@ Emmanouil Angelakis 1, Esam I Azhar, Fehmida Bibi, Muhammad Yasir, Ahmed K Al-Gh
 https://www.futuremedicine.com/doi/10.2217/fmb.13.161
 26 Feb 2014
 
+### 2013-08-28
+
+https://pubmed.ncbi.nlm.nih.gov/23985137/
+Antimicrob Resist Infect Control
+. 2013 Aug 28;2(1):22. doi: 10.1186/2047-2994-2-22.
+Money and transmission of bacteria
+Habip Gedik 1, Timothy A Voss, Andreas Voss
+https://aricjournal.biomedcentral.com/articles/10.1186/2047-2994-2-22
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3765964/
+Euro, US Dollar, Canadian Dollar, Croatian Luna, Romanian Leu (RON), Moroccan Dirham, and Indian Rupee banknotes were included into the first part of the study. Cultures of the Romanian Leu yielded all 3 multi-drug resistant pathogens; MRSA, VRE and ESBL-producing E. coli. 
 
 ### jp
 
@@ -1347,12 +1396,164 @@ Using Mahalanobis distance to compare genomic signatures between bacterial plasm
 
 ----------
 
+# publication
 
+2023-07-07
+https://pubmed.ncbi.nlm.nih.gov/37420286/
+BMC Res Notes
+. 2023 Jul 7;16(1):142. doi: 10.1186/s13104-023-06417-9.
+Evaluation of rRNA depletion methods for capturing the RNA virome from environmental surfaces
+Yuh Shiwa 1 2, Tomoya Baba 3 4, Maria A Sierra 5, JangKeun Kim 6 7, Christopher E Mason 6 7 8, Haruo Suzuki 9 10
+https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-023-06417-9
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10326927/
 
-----------
+2023-06
+https://pubmed.ncbi.nlm.nih.gov/37341708/
+Microb Genom
+. 2023 Jun;9(6):mgen001043. doi: 10.1099/mgen.0.001043.
+Transconjugant range of PromA plasmids in microbial communities is predicted by sequence similarity with the bacterial host chromosome
+Maho Tokuda 1, Masahiro Yuki 2, Moriya Ohkuma 2, Kazuhide Kimbara 1, Haruo Suzuki 3, Masaki Shintani 1 2 4
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001043#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10327500/
 
+2023-02-06
+https://pubmed.ncbi.nlm.nih.gov/36744408/
+Environ Microbiol
+. 2023 Jun;25(6):1071-1076. doi: 10.1111/1462-2920.16345. Epub 2023 Feb 13.
+Reconsideration of the previously classified incompatibility groups of plasmids, IncP-1 and IncP-11
+Masaki Shintani 1 2 3, Haruo Suzuki 4, Hideaki Nojiri 5, Masato Suzuki 6
+https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16345
 
+2022-01-25
+https://pubmed.ncbi.nlm.nih.gov/35084026/
+Comment J Antimicrob Chemother
+. 2022 Mar 31;77(4):1203-1205. doi: 10.1093/jac/dkac006.
+Precise classification of antimicrobial resistance-associated IncP-2 megaplasmids for molecular epidemiological studies on Pseudomonas species
+Masaki Shintani 1 2 3, Haruo Suzuki 4, Hideaki Nojiri 5, Masato Suzuki 6
+https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkac006/6515317
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8969547/
 
+2021-05-22
+https://pubmed.ncbi.nlm.nih.gov/34043940/
+Cell
+. 2021 Jun 24;184(13):3376-3393.e17. doi: 10.1016/j.cell.2021.05.002. Epub 2021 May 26.
+A global metagenomic map of urban microbiomes and antimicrobial resistance
+David Danko 1, Daniela Bezdan 2, Evan E Afshin 1, Sofia Ahsanuddin 3, Chandrima Bhattacharya 1, Daniel J Butler 1, Kern Rei Chng 4, Daisy Donnellan 1, Jochen Hecht 5, Katelyn Jackson 1, Katerina Kuchin 1, Mikhail Karasikov 6, Abigail Lyons 1, Lauren Mak 1, Dmitry Meleshko 1, Harun Mustafa 6, Beth Mutai 7, Russell Y Neches 8, Amanda Ng 4, Olga Nikolayeva 9, Tatyana Nikolayeva 9, Eileen Png 4, Krista A Ryon 1, Jorge L Sanchez 1, Heba Shaaban 1, Maria A Sierra 1, Dominique Thomas 1, Ben Young 1, Omar O Abudayyeh 10, Josue Alicea 1, Malay Bhattacharyya 11, Ran Blekhman 12, Eduardo Castro-Nallar 13, Ana M Cañas 1, Aspassia D Chatziefthimiou 1, Robert W Crawford 14, Francesca De Filippis 15, Youping Deng 16, Christelle Desnues 17, Emmanuel Dias-Neto 18, Marius Dybwad 19, Eran Elhaik 20, Danilo Ercolini 15, Alina Frolova 21, Dennis Gankin 10, Jonathan S Gootenberg 10, Alexandra B Graf 22, David C Green 23, Iman Hajirasouliha 1, Jaden J A Hastings 1, Mark Hernandez 24, Gregorio Iraola 25, Soojin Jang 26, Andre Kahles 27, Frank J Kelly 23, Kaymisha Knights 1, Nikos C Kyrpides 8, Paweł P Łabaj 28, Patrick K H Lee 29, Marcus H Y Leung 29, Per O Ljungdahl 30, Gabriella Mason-Buck 23, Ken McGrath 31, Cem Meydan 1, Emmanuel F Mongodin 32, Milton Ozorio Moraes 33, Niranjan Nagarajan 4, Marina Nieto-Caballero 24, Houtan Noushmehr 34, Manuela Oliveira 35, Stephan Ossowski 36, Olayinka O Osuolale 37, Orhan Özcan 38, David Paez-Espino 8, Nicolás Rascovan 39, Hugues Richard 40, Gunnar Rätsch 6, Lynn M Schriml 32, Torsten Semmler 41, Osman U Sezerman 38, Leming Shi 42, Tieliu Shi 43, Rania Siam 44, Le Huu Song 45, Haruo Suzuki 46, Denise Syndercombe Court 23, Scott W Tighe 47, Xinzhao Tong 29, Klas I Udekwu 48, Juan A Ugalde 49, Brandon Valentine 1, Dimitar I Vassilev 50, Elena M Vayndorf 51, Thirumalaisamy P Velavan 52, Jun Wu 43, María M Zambrano 53, Jifeng Zhu 1, Sibo Zhu 54, Christopher E Mason 55, International MetaSUB Consortium
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238498/
+
+2020-06-09
+https://pubmed.ncbi.nlm.nih.gov/32582111/
+Front Microbiol
+. 2020 Jun 9;11:1187. doi: 10.3389/fmicb.2020.01187. eCollection 2020.
+Determination of Plasmid pSN1216-29 Host Range and the Similarity in Oligonucleotide Composition Between Plasmid and Host Chromosomes
+Maho Tokuda 1, Haruo Suzuki 2 3, Kosuke Yanagiya 1, Masahiro Yuki 4, Kengo Inoue 5, Moriya Ohkuma 4, Kazuhide Kimbara 1, Masaki Shintani 1 4 6
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.01187/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7296055/
+
+2019-05-07
+https://pubmed.ncbi.nlm.nih.gov/30910818/
+G3 (Bethesda)
+. 2019 May 7;9(5):1321-1329. doi: 10.1534/g3.118.200978.
+Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation
+Masafumi Harada 1 2, Kohei Ito 1 2, Nobuyoshi Nakajima 3, Shigeki Yamamura 3 4, Masaru Tomita 1 2, Haruo Suzuki 5 2, Seigo Amachi 6
+https://academic.oup.com/g3journal/article/9/5/1321/6026415
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6505155/
+
+2019-01-28
+https://pubmed.ncbi.nlm.nih.gov/30691394/
+Comparative Study BMC Genomics
+. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment
+Nancy Merino 1 2, Shu Zhang 3 4, Masaru Tomita 5 6, Haruo Suzuki 7 8
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
+
+2018-12-15
+https://pubmed.ncbi.nlm.nih.gov/30619542/
+Review Comput Struct Biotechnol J
+. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
+Reconsidering plasmid maintenance factors for computational plasmid design
+Hirokazu Yano 1, Masaki Shintani 2 3, Masaru Tomita 4 5, Haruo Suzuki 4 5, Taku Oshima 6
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6312765/
+
+2017-11-29
+https://pubmed.ncbi.nlm.nih.gov/29213333/
+Case Reports Gut Pathog
+. 2017 Nov 29;9:70. doi: 10.1186/s13099-017-0219-4. eCollection 2017.
+Comparative genomic analysis of Clostridium difficile ribotype 027 strains including the newly sequenced strain NCKUH-21 isolated from a patient in Taiwan
+Haruo Suzuki 1 2, Masaru Tomita 1 2, Pei-Jane Tsai 3, Wen-Chien Ko 4, Yuan-Pin Hung 5 6, I-Hsiu Huang 7, Jenn-Wei Chen 7
+https://gutpathogens.biomedcentral.com/articles/10.1186/s13099-017-0219-4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708112/
+
+2016-05-19
+https://pubmed.ncbi.nlm.nih.gov/27196606/
+PLoS One
+. 2016 May 19;11(5):e0154306. doi: 10.1371/journal.pone.0154306. eCollection 2016.
+Codon Adaptation of Plastid Genes
+Haruo Suzuki 1, Brian R Morton 2
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154306
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4873144/
+
+2015-10-07
+https://pubmed.ncbi.nlm.nih.gov/26341535/
+FEBS Lett
+. 2015 Oct 7;589(20 Pt B):3113-8. doi: 10.1016/j.febslet.2015.08.033. Epub 2015 Sep 1.
+Analysis of amino acid and codon usage in Paramecium bursaria
+Hideo Dohra 1, Masahiro Fujishima 2, Haruo Suzuki 3
+https://febs.onlinelibrary.wiley.com/doi/full/10.1016/j.febslet.2015.08.033
+
+2014-10-01
+https://pubmed.ncbi.nlm.nih.gov/25115770/
+Comparative Study FEMS Microbiol Lett
+. 2014 Oct;359(1):16-8. doi: 10.1111/1574-6968.12577.
+Draft genome sequences of three Holospora species (Holospora obtusa, Holospora undulata, and Holospora elegans), endonuclear symbiotic bacteria of the ciliate Paramecium caudatum
+Hideo Dohra, Kenya Tanaka, Tomohiro Suzuki, Masahiro Fujishima, Haruo Suzuki
+https://academic.oup.com/femsle/article/359/1/16/2684400
+
+2014-01-31
+https://pubmed.ncbi.nlm.nih.gov/24488312/
+Comparative Study J Bacteriol
+. 2014 Apr;196(7):1458-70. doi: 10.1128/JB.01439-13. Epub 2014 Jan 31.
+Comparative functional genomics of Lactobacillus spp. reveals possible mechanisms for specialization of vaginal lactobacilli to their environment
+Helena Mendes-Soares 1, Haruo Suzuki, Roxana J Hickey, Larry J Forney
+https://journals.asm.org/doi/10.1128/JB.01439-13
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3993339/
+
+2012-03
+https://pubmed.ncbi.nlm.nih.gov/22155358/
+Infect Genet Evol
+. 2012 Mar;12(2):274-7. doi: 10.1016/j.meegid.2011.11.004. Epub 2011 Dec 3.
+Functional bias of positively selected genes in Streptococcus genomes
+Haruo Suzuki 1, Michael J Stanhope
+https://www.sciencedirect.com/science/article/abs/pii/S1567134811003893?via%3Dihub
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294173/
+
+2012-01-24
+https://pubmed.ncbi.nlm.nih.gov/22272658/
+BMC Genomics
+. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
+Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae
+Haruo Suzuki 1, Tristan Lefébure, Paulina Pavinski Bitar, Michael J Stanhope
+https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-38
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
+
+2011-01-31 Published: 31 January 2011
+https://pubmed.ncbi.nlm.nih.gov/21282711/
+Comparative Study Genome Biol Evol
+. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
+Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution
+Haruo Suzuki 1, Tristan Lefébure, Melissa Jane Hubisz, Paulina Pavinski Bitar, Ping Lang, Adam Siepel, Michael J Stanhope
+https://academic.oup.com/gbe/article/doi/10.1093/gbe/evr006/576019
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056289/
+
+2010-09-27 Published online 2010 Sep 27.
+https://pubmed.ncbi.nlm.nih.gov/20851899/
+J Bacteriol
+. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
+Predicting plasmid promiscuity based on genomic signature
+Haruo Suzuki 1, Hirokazu Yano, Celeste J Brown, Eva M Top
+https://jb.asm.org/content/192/22/6045.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/
 
 ----------
 
