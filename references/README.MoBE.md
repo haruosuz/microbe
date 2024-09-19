@@ -32,12 +32,13 @@ https://ja.wikipedia.org/wiki/建造環境
 
 ----------
 
-
 ----------
 ## mental health
 
+人工環境の微生物群集とメンタルヘルス
+
 https://en.wikipedia.org/wiki/Microbiomes_of_the_built_environment
-Mental health. In a 2015 review Hoisington et al. discuss possible connections between the microbiology of the built environment and human health.[62] The concept presented in this paper is that more and more evidence is accumulating that the human microbiome has some impact on the brain and thus if the built environment either directly or indirectly impacts the human microbiome, this in turn could have impacts on human mental health.
+Mental health. In a 2015 review Hoisington et al. discuss possible connections between the microbiology of the built environment and human health.[66] The concept presented in this paper is that more and more evidence is accumulating that the human microbiome has some impact on the brain and thus if the built environment either directly or indirectly impacts the human microbiome, this in turn could have impacts on human mental health.
 
 https://www.sciencedirect.com/science/article/pii/S0360132319301982
 Building and Environment
@@ -47,21 +48,48 @@ Ten questions concerning the built environment and mental health
 - Increases in mental health disorders in Western societies may be due, in part, to increased systemic inflammation, secondary to decreased exposures to a diverse microbial environment (i.e., the hygiene hypothesis, “Old Friends” hypothesis, “missing microbes” hypothesis, or biodiversity hypothesis), 
 - We offer ten questions that highlight the importance of current lessons learned regarding the built environment and mental health, including a potential role for the microbiome of the built environment to influence mental health. 
 
-人工環境の微生物群集とメンタルヘルス
-https://www.ncbi.nlm.nih.gov/pubmed/26674771
-Microbiome. 2015 Dec 17;3:60. doi: 10.1186/s40168-015-0127-0.
+
+https://colil.dbcls.jp/browse/papers/26674771/1/100/year
 The microbiome of the built environment and mental health.
-Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
+Hoisington AJ, Brenner LA, Kinney KA, Postolache TT, Lowry CA Microbiome. 2015 Dec 17;3:60. PMID:26674771
+    is cited by the following papers.
+合計: 29, 
+
+https://pubmed.ncbi.nlm.nih.gov/26674771/
+Review Microbiome
+. 2015 Dec 17:3:60. doi: 10.1186/s40168-015-0127-0.
+The microbiome of the built environment and mental health
+Andrew J Hoisington 1, Lisa A Brenner 2, Kerry A Kinney 3, Teodor T Postolache 4, Christopher A Lowry 5
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0127-0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682225/
 
 Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
 http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
 
-
 ----------
 
+### 2024-07-19
+
+5:32 PM · Jul 22, 2024
+https://x.com/NatureRevMicro/status/1815303953975849449
+Nature Reviews Microbiology on X: "The indoors microbiome and human health https://t.co/fgYY90VnmM Gilbert &amp; Hartmann examine the microbial ecology of indoor spaces, the factors that influence the #microbiome of the built environment, and their influence on human health. https://t.co/lbtSTuWtVa" / X
+https://pubmed.ncbi.nlm.nih.gov/39030408/
+Review Nat Rev Microbiol
+. 2024 Jul 19. doi: 10.1038/s41579-024-01077-3. Online ahead of print.
+The indoors microbiome and human health
+Jack A Gilbert 1 2 3, Erica M Hartmann 4 5 6
+https://www.nature.com/articles/s41579-024-01077-3
+
+### 2024-05-14
+https://pubmed.ncbi.nlm.nih.gov/38662573/
+Proc Natl Acad Sci U S A
+. 2024 May 14;121(20):e2313971121. doi: 10.1073/pnas.2313971121. Epub 2024 Apr 25.
+The potential importance of the built-environment microbiome and its impact on human health
+Thomas C G Bosch 1 2, Mark Wigley 3, Beatriz Colomina 4, Brendan Bohannan 5, Forrest Meggers 6, Katherine R Amato 2 7, Meghan B Azad 2 8 9, Martin J Blaser 2 10 11, Kate Brown 2 12, Maria Gloria Dominguez-Bello 2 13 14, Stanislav Dusko Ehrlich 2 15, Eran Elinav 2 16 17, B Brett Finlay 2 18, Kate Geddie 2 19, Naama Geva-Zatorsky 2 20 21, Tamara Giles-Vernick 2 22, Philippe Gros 2 23, Karen Guillemin 2 24, Louis-Patrick Haraoui 2 25, Elizabeth Johnson 2 26, Frédéric Keck 2 27, Jamie Lorimer 2 28, Margaret J McFall-Ngai 2 29, Mark Nichter 2 30, Sven Pettersson 2 31, Hendrik Poinar 2 32, Tobias Rees 2 33, Carolina Tropini 2 34, Eduardo A Undurraga 2 35, Liping Zhao 2 13, Melissa K Melby 2 36
+https://www.pnas.org/doi/abs/10.1073/pnas.2313971121
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11098107/
 
 
-----------
 
 ### 2020-01
 https://pubmed.ncbi.nlm.nih.gov/31901242/
@@ -140,30 +168,6 @@ J06107-5 矢幡 亘
 https://researchmap.jp/read0086625/published_papers
 大澤 元毅
 オオサワ ハルキ  (Haruki Osawa)
-
-
-----------
-
-https://www.mdpi.com/journal/microorganisms/special_issues/Y4SAOE14JW
-Microorganisms | Special Issue : Microbial Exposure Assessments in Different Occupational and Indoor Settings
-Deadline for manuscript submissions: 15 March 2023 
-
-
-https://www.biomedcentral.com/collections/builtenvironment
-Microbiology of the Built Environment
-
-
-404 - Page not found
-https://www.frontiersin.org/research-topics/15119/unveiling-the-metagenomic-world-of-the-built-environment
-Unveiling the Metagenomic World of the Built Environment | Frontiers Research Topic
-Submission Deadlines
-08 January 2021	Manuscript
-31 August 2021	Manuscript Extension
-
-
-7:00 AM · Aug 2, 2019
-https://twitter.com/NatureJapan/status/1157048360349495296
-Nature Japan on Twitter: "Scientific Reports ゲスト・エディター・コレクション -「建造環境における微生物」に関する投稿論文を募集。建物、輸送車両、水処理施設、建築設備など、建造環境とインフラストラクチャーで見られる微生物のあらゆる側面に関する研究を歓迎します。投稿は2019年9月末まで。https://t.co/w6noTLDWyG https://t.co/dD5JMFHO1U" / Twitter
 
 ----------
 ## unclassified
