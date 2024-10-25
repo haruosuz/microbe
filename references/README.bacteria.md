@@ -2839,6 +2839,8 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 
 ### Ogura
 
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#escherichia-coli
+
 https://pubmed.ncbi.nlm.nih.gov/19815525/
 Comparative Study Proc Natl Acad Sci U S A
 . 2009 Oct 20;106(42):17939-44. doi: 10.1073/pnas.0903585106. Epub 2009 Oct 6.
