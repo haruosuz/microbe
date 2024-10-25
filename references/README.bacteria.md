@@ -49,6 +49,7 @@ vaginal microbiota
 - [people](#people)
   - [amachi](#amachi) Amachi Seigo
   - [Gilmore](#gilmore) Michael S. Gilmore
+  - [Ogura](#ogura) Yoshitoshi Ogura
 - [excerpt](#excerpt) 抜粋［引用］
 
 ----------
@@ -938,6 +939,7 @@ www.eiken.co.jp/modern_media/backnumber/pdf/MM1010_01.pdf
 （Clostridium difficile）は一部の健. 常者の腸内
 
 ディフィシル菌（C.difficile）リボタイプ027株の比較ゲノムにより、台湾の患者から分離されたNCKUH-21株に特異的なプロファージを発見
+2017-11-29
 https://pubmed.ncbi.nlm.nih.gov/29213333/
 Case Reports Gut Pathog
 . 2017 Nov 29;9:70. doi: 10.1186/s13099-017-0219-4. eCollection 2017.
@@ -1120,7 +1122,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5881158/
 - These data suggest the genomes of Gardnerella have undergone a substantial reduction in size after diverging from their Bifidobacterium relatives. 
 - G. vaginalis genomes are substantially smaller and have a significantly lower GC content when compared to Bifidobacterium, a pattern that has previously been observed in many bacterial symbionts (McCutcheon & Moran, 2012). 
 
-Lactobacillus属：膣から分離
+Lactobacillus属：膣から分離された種は、他の環境から分離された種に比べ、ゲノムのサイズが小さく、GC含有量も低かった。
 https://pubmed.ncbi.nlm.nih.gov/24488312/
 Comparative Study J Bacteriol
 . 2014 Apr;196(7):1458-70. doi: 10.1128/JB.01439-13. Epub 2014 Jan 31.
@@ -1128,6 +1130,7 @@ Comparative functional genomics of Lactobacillus spp. reveals possible mechanism
 Helena Mendes-Soares 1, Haruo Suzuki, Roxana J Hickey, Larry J Forney
 https://journals.asm.org/doi/10.1128/JB.01439-13
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3993339/
+We found that the genomes of the vaginal species were significantly smaller and had significantly lower GC content than those of the nonvaginal species.
 
 
 Lactobacillus属：体重増加に関連
@@ -2413,6 +2416,9 @@ Haruo Suzuki 1, Michael J Stanhope
 https://www.sciencedirect.com/science/article/abs/pii/S1567134811003893?via%3Dihub
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294173/
 
+
+
+2011
 https://pubmed.ncbi.nlm.nih.gov/21282711/
 Comparative Study Genome Biol Evol
 . 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
@@ -2420,9 +2426,6 @@ Comparative genomic analysis of the Streptococcus dysgalactiae species group: ge
 Haruo Suzuki 1, Tristan Lefébure, Melissa Jane Hubisz, Paulina Pavinski Bitar, Ping Lang, Adam Siepel, Michael J Stanhope
 https://academic.oup.com/gbe/article/doi/10.1093/gbe/evr006/576019
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056289/
-
-
-
 
 
 ----------
@@ -2833,6 +2836,21 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 ## people
 
 ----------
+
+### Ogura
+
+https://pubmed.ncbi.nlm.nih.gov/19815525/
+Comparative Study Proc Natl Acad Sci U S A
+. 2009 Oct 20;106(42):17939-44. doi: 10.1073/pnas.0903585106. Epub 2009 Oct 6.
+Comparative genomics reveal the mechanism of the parallel evolution of O157 and non-O157 enterohemorrhagic Escherichia coli
+Yoshitoshi Ogura 1, Tadasuke Ooka, Atsushi Iguchi, Hidehiro Toh, Md Asadulghani, Kenshiro Oshima, Toshio Kodama, Hiroyuki Abe, Keisuke Nakayama, Ken Kurokawa, Toru Tobe, Masahira Hattori, Tetsuya Hayashi
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2764950/
+Fig. 3.
+Genome-wide phylogenetic analysis and whole gene repertoire comparison of the EHECs and other fully sequenced E. coli/Shigella strains. (A) The neighbor-joining tree constructed by using the concatenated nucleotide sequences of 345 orthologous CDS groups from the 25 sequenced strains. 
+(B) The hierarchical clustering tree that was constructed based on a gene repertoire comparison of the 25 strains. The entire gene repertoire of the 25 strains is represented by 12,940 CDS groups that were defined based on the results of an all-to-all BLASTP analysis of CDSs from the 25 strains.
+
+
+----------
 ### Gilmore
 Michael S. Gilmore
 
@@ -3004,8 +3022,7 @@ https://haruosuz.hatenadiary.org/entry/20090605
 論文 - Haruo Suzuki / Bioinformatics
 【結果】S. simiaeのドラフトゲノム配列をRoche/454で決定し、ブドウ球菌属の他種を含む近縁細菌のゲノム配列を比較した。全ゲノム情報に基づく系統解析により、S. simiaeがS. aureusの姉妹群であること、最初にStaphylococcus pseudintermediusとその他の集団が分岐し、次にStaphylococcus carnosusとその他の集団が分岐したこと、ブドウ球菌属のヒトへの適応はS. carnosusと分岐した後に起きたことが示唆された。
 
-
-
+2012-01-24
 https://pubmed.ncbi.nlm.nih.gov/22272658/
 BMC Genomics
 . 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
