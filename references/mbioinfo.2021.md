@@ -1,7 +1,3 @@
-Last Update: 2024-07-03
-
-----------
-
 # mbioinfo.2021
 
 **Table of Contents**
@@ -23,8 +19,11 @@ Last Update: 2024-07-03
 - [phenotype](#phenotype)
 - [recombination](#recombination)
 - [money](#money) お金 お札 ATM
+- [MRSA](#mrsa)
+- [](#)
 - [monumentome](#monumentome)
 - [publication](#publication)
+- [](#)
 
 ----------
 ## 
@@ -296,6 +295,16 @@ Topology tests. The phylogeny of the genera Aspergillus and Penicillium has been
 FIG 5
 A visual comparison of the differences between the phylogeny reported in this study and the phylogeny reported in the work of Kocsubé et al. (61). 
 
+### 2024-01-08
+https://x.com/EvolvedBiofilm/status/1812461344186085459
+Akos T. Kovacs on X: "Phylogenetic reconciliation: making the most of genomes to understand microbial ecology and evolution @ISMEJournal from @sllsi with @PhilHugenholtz @anjspa1 @micecoevo @Paul__Sheridan @eme_laura @RochelleSoo1 @wwood @drenal_eu https://t.co/pWKtIBq0mD https://t.co/lE7qVnSkxz" / X
+総説
+https://pubmed.ncbi.nlm.nih.gov/39001714/
+Review ISME J
+. 2024 Jan 8;18(1):wrae129. doi: 10.1093/ismejo/wrae129.
+Phylogenetic reconciliation: making the most of genomes to understand microbial ecology and evolution
+Tom A Williams 1, Adrian A Davin 2, Lénárd L Szánthó 3 4, Alexandros Stamatakis 5 6 7, Noah A Wahl 5, Ben J Woodcroft 8, Rochelle M Soo 9, Laura Eme 10, Paul O Sheridan 11, Cecile Gubry-Rangin 12, Anja Spang 13 14, Philip Hugenholtz 9, Gergely J Szöllősi 3 4 15
+https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrae129/7713227?login=false
 
 ### 2022-06-16
 
@@ -1207,6 +1216,33 @@ Microbes as Enemies and Allies in the World of Art Conservation
 お金 お札 ATM
 Jane M Carlton
 
+### money.jp
+
+2016/02/02
+http://fukuyuki.net/post-639/
+硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
+
+2015/06/26
+https://www.narinari.com/Nd/20150632327.html
+お金の触りすぎ原因で性病に、業務多忙で手を洗わなかった女性銀行員。 | Narinari.com
+香港城市大学・細菌学研究センターによる調査で、アジアで流通する紙幣の中で“最も汚い”という、不名誉ならく印を押されたこともある中国の人民元紙幣。先日、中国の銀行で働くある女性は、原因不明の性病に悩まされることになったのだが、その原因はなんと“汚いお札”の触りすぎにあったそうだ。
+代表的なウイルス性の性感染症である尖圭コンジローマと診断された。
+
+2013-08-12
+2013年8月12日(月)
+https://www.recordchina.co.jp/b75402-s0-c30-d0035.html
+アジアで最も汚く雑菌まみれのお札、それは人民元―台湾
+香港城市大学細菌学研究センターが香港、中国、インドなどアジア7地域の紙幣に付着した細菌を調べたところ、中国の人民元が17万8000個と最多。2位の香港、カンボジア紙幣（各1万個）を大きく上回った。人民元のなかでも特に流通の頻繁な1元札の細菌が最も多く、1枚におよそ180万個の細菌がついていることも。
+
+2013.06.19
+https://www.atpress.ne.jp/news/36512
+現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜株式会社衛生微生物研究センターのプレスリリース
+
+2014-04-21
+12:08 PM · Apr 21, 2014
+https://twitter.com/WSJJapan/status/458079813899517952
+ウォール・ストリート・ジャーナル日本版 on X: "米ニューヨーク大学の科学者たちは、紙幣には驚くほどの数のバクテリアが住んでいることを発見した⇒「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア http://t.co/KaSEvhLBRr http://t.co/nqJEXMN3l3" / X
+
 ### 2021-01-27
 
 https://pubmed.ncbi.nlm.nih.gov/33585735/
@@ -1345,36 +1381,37 @@ https://aricjournal.biomedcentral.com/articles/10.1186/2047-2994-2-22
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3765964/
 Euro, US Dollar, Canadian Dollar, Croatian Luna, Romanian Leu (RON), Moroccan Dirham, and Indian Rupee banknotes were included into the first part of the study. Cultures of the Romanian Leu yielded all 3 multi-drug resistant pathogens; MRSA, VRE and ESBL-producing E. coli. 
 
-### jp
-
-2016/02/02
-http://fukuyuki.net/post-639/
-硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
-
-2015/06/26
-https://www.narinari.com/Nd/20150632327.html
-お金の触りすぎ原因で性病に、業務多忙で手を洗わなかった女性銀行員。 | Narinari.com
-香港城市大学・細菌学研究センターによる調査で、アジアで流通する紙幣の中で“最も汚い”という、不名誉ならく印を押されたこともある中国の人民元紙幣。先日、中国の銀行で働くある女性は、原因不明の性病に悩まされることになったのだが、その原因はなんと“汚いお札”の触りすぎにあったそうだ。
-代表的なウイルス性の性感染症である尖圭コンジローマと診断された。
-
-2013-08-12
-2013年8月12日(月)
-https://www.recordchina.co.jp/b75402-s0-c30-d0035.html
-アジアで最も汚く雑菌まみれのお札、それは人民元―台湾
-香港城市大学細菌学研究センターが香港、中国、インドなどアジア7地域の紙幣に付着した細菌を調べたところ、中国の人民元が17万8000個と最多。2位の香港、カンボジア紙幣（各1万個）を大きく上回った。人民元のなかでも特に流通の頻繁な1元札の細菌が最も多く、1枚におよそ180万個の細菌がついていることも。
-
-2013.06.19
-https://www.atpress.ne.jp/news/36512
-現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜株式会社衛生微生物研究センターのプレスリリース
-
-2014-04-21
-12:08 PM · Apr 21, 2014
-https://twitter.com/WSJJapan/status/458079813899517952
-ウォール・ストリート・ジャーナル日本版 on X: "米ニューヨーク大学の科学者たちは、紙幣には驚くほどの数のバクテリアが住んでいることを発見した⇒「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア http://t.co/KaSEvhLBRr http://t.co/nqJEXMN3l3" / X
-
 ----------
+## MRSA
 
+https://ja.wikipedia.org/wiki/メチシリン耐性黄色ブドウ球菌
+methicillin-resistant Staphylococcus aureus
 
+https://x.com/H_Nakaminami
+中南 秀将 (@H_Nakaminami) / X
+
+2024年3月26日
+https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/related-articles-529/12583-529r07.html
+国内外の家畜関連MRSA（LA-MRSA）の状況について
+医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
+
+2022年7月6日
+http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
+日本環境感染学会：
+─総説─
+本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
+中南　秀将
+http://www.kankyokansen.org/journal/full/03705/037050164.pdf
+
+https://pubmed.ncbi.nlm.nih.gov/35762208/
+Elife
+. 2022 Jun 28:11:e74819. doi: 10.7554/eLife.74819.
+Stable antibiotic resistance and rapid human adaptation in livestock-associated MRSA
+Marta Matuszewska # 1, Gemma G R Murray # 1, Xiaoliang Ba 1, Rhiannon Wood 1, Mark A Holmes 1, Lucy A Weinert 1
+https://elifesciences.org/articles/74819
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9239682/
+Figure 3. A type V SCCmec has been maintained since the 1980s, with occasional replacements.
+(c) Well-supported clades and SCCmec type are annotated on the CC398 phylogeny in external rings.
 
 ----------
 
