@@ -1395,6 +1395,24 @@ https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/rela
 国内外の家畜関連MRSA（LA-MRSA）の状況について
 医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
 
+一般的に，CA-MRSA の方が HA-MRSAよりも増殖速度が速い２０）
+20）Okuma K, 
+https://pubmed.ncbi.nlm.nih.gov/12409412/
+J Clin Microbiol
+. 2002 Nov;40(11):4289-94. doi: 10.1128/JCM.40.11.4289-4294.2002.
+Dissemination of new methicillin-resistant Staphylococcus aureus clones in the community
+Keiko Okuma 1, Kozue Iwakawa, John D Turnidge, Warren B Grubb, Jan M Bell, Frances G O'Brien, Geoffrey W Coombs, John W Pearman, Fred C Tenover, Maria Kapi, Chuntima Tiensasitorn, Teruyo Ito, Keiichi Hiramatsu
+https://pmc.ncbi.nlm.nih.gov/articles/PMC139674/
+TABLE 1.
+Genotyping and antibiogram of tested MRSA strains
+|
+Doubling time (min)h
+|
+hDoubling time during exponential growth phase (optical density of 0.05 to ∼1.0 at 660 nm) measured by using TN-2612 (Advantec Toyo Kaisha, Ltd., Tokyo, Japan) as previously described (8).
+|
+C-MRSA/NORSA strains grew significantly faster than H-MRSA strains: the mean doubling times (8) of the former group of strains were 28.79 ± 7.09 and 28.24 ± 2.48 min, respectively, whereas that for the latter was 38.81 ± 7.01 min (see Table 1). The difference was statistically significant (P value of <0.0001 by t test). This high growth rate may be a prerequisite in the absence of antibiotics for C-MRSA to achieve successful colonization of humans by outcompeting the numerous bacterial species in the environment.
+
+
 2022年7月6日
 http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
 日本環境感染学会：
