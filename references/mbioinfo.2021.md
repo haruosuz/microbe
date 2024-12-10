@@ -1395,6 +1395,13 @@ https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/rela
 国内外の家畜関連MRSA（LA-MRSA）の状況について
 医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
 
+2022 年 37 巻 5 号 p. 164-173
+https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_article/-char/ja/
+総説
+本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
+中南 秀将
+https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_pdf/-char/ja
+http://www.kankyokansen.org/journal/full/03705/037050164.pdf
 一般的に，CA-MRSA の方が HA-MRSAよりも増殖速度が速い２０）
 20）Okuma K, 
 https://pubmed.ncbi.nlm.nih.gov/12409412/
