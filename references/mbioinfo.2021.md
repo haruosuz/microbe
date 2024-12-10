@@ -1387,20 +1387,25 @@ Euro, US Dollar, Canadian Dollar, Croatian Luna, Romanian Leu (RON), Moroccan Di
 https://ja.wikipedia.org/wiki/メチシリン耐性黄色ブドウ球菌
 methicillin-resistant Staphylococcus aureus
 
-https://x.com/H_Nakaminami
-中南 秀将 (@H_Nakaminami) / X
-
 2024年3月26日
 https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/related-articles-529/12583-529r07.html
 国内外の家畜関連MRSA（LA-MRSA）の状況について
 医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
 
-2022 年 37 巻 5 号 p. 164-173
+https://x.com/H_Nakaminami
+中南 秀将 (@H_Nakaminami) / X
+
 https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_article/-char/ja/
 総説
 本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
 中南 秀将
 https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_pdf/-char/ja
+2022年7月6日
+http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
+日本環境感染学会：
+─総説─
+本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
+中南　秀将
 http://www.kankyokansen.org/journal/full/03705/037050164.pdf
 一般的に，CA-MRSA の方が HA-MRSAよりも増殖速度が速い２０）
 20）Okuma K, 
@@ -1420,13 +1425,6 @@ hDoubling time during exponential growth phase (optical density of 0.05 to ∼1.
 C-MRSA/NORSA strains grew significantly faster than H-MRSA strains: the mean doubling times (8) of the former group of strains were 28.79 ± 7.09 and 28.24 ± 2.48 min, respectively, whereas that for the latter was 38.81 ± 7.01 min (see Table 1). The difference was statistically significant (P value of <0.0001 by t test). This high growth rate may be a prerequisite in the absence of antibiotics for C-MRSA to achieve successful colonization of humans by outcompeting the numerous bacterial species in the environment.
 
 
-2022年7月6日
-http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
-日本環境感染学会：
-─総説─
-本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
-中南　秀将
-http://www.kankyokansen.org/journal/full/03705/037050164.pdf
 
 https://pubmed.ncbi.nlm.nih.gov/35762208/
 Elife
