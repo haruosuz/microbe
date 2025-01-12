@@ -9,38 +9,194 @@
 - [urban agriculture](#urban-agriculture)
 - [MetaSUB](#metasub)
 - [people](#people)
+  - [kato](#kato) 加藤 信介
+  - [yanagi](#yanagi) 柳 宇
+  - [jessica_green](#jessica_green)
   - [aki.sinkkonen](#aki.sinkkonen) Aki Sinkkonen
   - [gking](#gking) Gary M. King
+- [kaken](#kaken)
 - [](#)
 
 ----------
-## updates
 
-https://twitter.com/search?q=bacteria%20urbanization
+----------
+## kaken
+
+### 2023-06-30 – 2026-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K17785/
+目に見えない微生物から切り開く都市工学の新視点 (KAKENHI-PROJECT-23K17785)
+
+挑戦的研究(萌芽)
+
+審査区分	中区分23:建築学およびその関連分野
+研究機関	豊橋技術科学大学
+研究代表者
+小野 悠  豊橋技術科学大学, 工学(系)研究科(研究院), 准教授 (70782986)
+研究分担者	岩崎 渉  東京大学, 大学院新領域創成科学研究科, 教授 (50545019)
+研究期間 (年度)	2023-06-30 – 2026-03-31
+
+### 2023-04-01 – 2027-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00540/
+見過ごされてきた都会の微生物進化：都市化が微生物を介して自然環境に与える影響 (KAKENHI-PROJECT-23H00540)
+
+基盤研究(A)
+
+審査区分	中区分64:環境保全対策およびその関連分野
+研究機関	国立研究開発法人産業技術総合研究所
+研究代表者
+佐藤 由也  国立研究開発法人産業技術総合研究所, エネルギー・環境領域, 主任研究員 (80711291)
+研究分担者	吉岡 真弓  国立研究開発法人産業技術総合研究所, 地質調査総合センター, 主任研究員 (10575492)
+山本 京祐  国立研究開発法人産業技術総合研究所, 生命工学領域, 主任研究員 (70636472)
+高根 雄也  国立研究開発法人産業技術総合研究所, エネルギー・環境領域, 主任研究員 (80711952)
+稲葉 知大  国立研究開発法人産業技術総合研究所, エネルギー・環境領域, 主任研究員 (90760439)
+研究期間 (年度)	2023-04-01 – 2027-03-31
+
+### 2022-06-30 – 2024-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K18845/
+材料選定による建築空間の微生物環境の制御に関する基礎的研究 (KAKENHI-PROJECT-22K18845)
+
+審査区分	中区分23:建築学およびその関連分野
+研究機関	広島大学
+研究代表者
+寺本 篤史  広島大学, 先進理工系科学研究科(工), 准教授 (30735254)
+研究分担者	森 拓郎  広島大学, 先進理工系科学研究科(工), 准教授 (00335225)
+石山 央樹  大阪公立大学, 大学院工学研究科, 准教授 (90634436)
+研究期間 (年度)	2022-06-30 – 2024-03-31
+
+### 2020-07-30 – 2024-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K20613/
+建造環境の微生物叢の実態把握と応用:温度調節による新たな病原体制御理論の創成 (KAKENHI-PROJECT-20K20613)
+
+研究種目	
+挑戦的研究(開拓)
+
+配分区分	基金
+審査区分	中区分58:社会医学、看護学およびその関連分野
+研究機関	北海道大学
+研究代表者
+山口 博之  北海道大学, 保健科学研究院, 教授 (40221650)
+研究分担者	矢野 理香  北海道大学, 保健科学研究院, 教授 (50250519)
+大森 亮介  北海道大学, 人獣共通感染症国際共同研究所, 准教授 (10746952)
+大久保 寅彦  北海道大学, 保健科学研究院, 講師 (90762196)
+研究期間 (年度)	2020-07-30 – 2024-03-31
+
+### 2019-10-07 – 2023-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19KK0263/
+南米チリにおける大気汚染とバイオエアロゾルの統合解析による健康影響評価基盤の構築 (KAKENHI-PROJECT-19KK0263)
+
+審査区分	中区分63:環境解析評価およびその関連分野
+研究機関	富山大学
+研究代表者
+田中 大祐  富山大学, 学術研究部理学系, 教授 (40360804)
+研究分担者	酒徳 昭宏  富山大学, 学術研究部理学系, 講師 (20713142)
+藤吉 奏  広島大学, 学術・社会連携室, 助教 (20805808)
+丸山 史人  広島大学, 学術・社会連携室, 教授 (30423122)
+能田 淳  酪農学園大学, 獣医学群, 教授 (70551670)
+研究期間 (年度)	2019-10-07 – 2023-03-31
+
+日本の都市域（横浜市）と地方都市郊外（富山市）において，アンダーセンエアーサンプラーで9段階の粒径別捕集（分級範囲 0.43～11.0μm）した各大気試料を，高速シークエンサーでメタゲノム解析した結果を，原著論文として発表した (Tanaka et al., Sci. Rep., 2020, プレスリリース有り)。
 
 
 ----------
+### 2024-11-12
 
-## 2024
+https://pubmed.ncbi.nlm.nih.gov/39532959/
+Sci Rep
+. 2024 Nov 12;14(1):27738. doi: 10.1038/s41598-024-79447-3.
+Detection and genetic characterization of multidrug-resistant staphylococci isolated from public areas in an international airport
+Dewa A P Rasmika Dewi 1 2, Hazim O Khalifa 3 4, Haque Khandar 5, Junzo Hisatsune 6, Shoko Kutuno 6, Liansheng Yu 6, Wataru Hayashi 6, Shizuo Kayama 6, Christopher E Mason 7 8, Motoyuki Sugai 5, Haruo Suzuki 9 10, Tetsuya Matsumoto 5
+https://www.nature.com/articles/s41598-024-79447-3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11557577/
+
 
 ### 2024-06
-
+### 2024-03-12
+MetaSUB
+世界的な都市環境レジストームの景観と、地域の社会経済的・医療的地位との関連性
 https://pubmed.ncbi.nlm.nih.gov/38489008/
 Sci China Life Sci
 . 2024 Jun;67(6):1292-1301. doi: 10.1007/s11427-023-2504-1. Epub 2024 Mar 12.
 Landscape of global urban environmental resistome and its association with local socioeconomic and medical status
 Jun Wu 1, Yige Hu 1, Michael H Perlin 2, David Danko 3 4, Jun Lu 5, Manuela Oliveira 6 7 8, Johannes Werner 9, Maria M Zambrano 10, Maria A Sierra 3 4, Olayinka O Osuolale 11, Paweł Łabaj 12, Nicolás Rascovan 13, Nur Hazlin Hazrin-Chong 14, Soojin Jang 15, Haruo Suzuki 16, Marina Nieto-Caballero 17, Bharath Prithiviraj 18, Patrick K H Lee 19, Agnieszka Chmielarczyk 20, Anna Różańska 20, Yongxiang Zhao 21, Lan Wang 22, Christopher E Mason 23 24, Tieliu Shi 25 26
 https://link.springer.com/article/10.1007/s11427-023-2504-1
-
-### 2024-03-12
-
-https://pubmed.ncbi.nlm.nih.gov/38489008/
-Sci China Life Sci
-. 2024 Mar 12. doi: 10.1007/s11427-023-2504-1. Online ahead of print.
-Landscape of global urban environmental resistome and its association with local socioeconomic and medical status
-Jun Wu 1, Yige Hu 1, Michael H Perlin 2, David Danko 3 4, Jun Lu 5, Manuela Oliveira 6 7 8, Johannes Werner 9, Maria M Zambrano 10, Maria A Sierra 3 4, Olayinka O Osuolale 11, Paweł Łabaj 12, Nicolás Rascovan 13, Nur Hazlin Hazrin-Chong 14, Soojin Jang 15, Haruo Suzuki 16, Marina Nieto-Caballero 17, Bharath Prithiviraj 18, Patrick K H Lee 19, Agnieszka Chmielarczyk 20, Anna Różańska 20, Yongxiang Zhao 21, Lan Wang 22, Christopher E Mason 23 24, Tieliu Shi 25 26
-https://link.springer.com/article/10.1007/s11427-023-2504-1
 The socioeconomic and medical indicators, including world development indicators, education statistics, and health nutrition and population statistics, were collected from the World Bank database (https://databank.worldbank.org/home.aspx).
+
+
+### 2022-11
+韓国ソウルのバス停 (n=55) と地下鉄の駅 (n=21) 
+https://pubmed.ncbi.nlm.nih.gov/36257123/
+Ecotoxicol Environ Saf
+. 2022 Nov;246:114176. doi: 10.1016/j.ecoenv.2022.114176. Epub 2022 Oct 17.
+Metagenomic characterization of bacterial community and antibiotic resistance genes found in the mass transit system in Seoul, South Korea
+Robin B Guevarra 1, Juchan Hwang 1, Hyunjung Lee 1, Hyung Jun Kim 1, Yunmi Lee 1, David Danko 2, Krista A Ryon 3, Benjamin Grady Young 2, Christopher E Mason 4, Soojin Jang 5
+https://www.sciencedirect.com/science/article/pii/S0147651322010168?via%3Dihub
+
+### 2022-10-20
+
+https://twitter.com/yurigravity/status/1588195221224947713
+yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/36299999/
+iScience
+. 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
+A history of the MetaSUB consortium: Tracking urban microbes around the globe
+Krista A Ryon 1 2, Braden T Tierney 1 2, Alina Frolova 3 4, Andre Kahles 5 6, Christelle Desnues 7, Christos Ouzounis 8, Cynthis Gibas 9, Daniela Bezdan 10 11 12, Youping Deng 13, Ding He 14, Emmanuel Dias-Neto 15, Eran Elhaik 16, Evan Afshin 17, George Grills 18, Gregorio Iraola 19, Haruo Suzuki 20, Johannes Werner 21, Klas Udekwu 22, Lynn Schriml 23, Malay Bhattacharyya 24, Manuela Oliveira 25, Maria Mercedes Zambrano 26, Nur Hazlin Hazrin-Chong 27, Olayinka Osuolale 28, Paweł P Łabaj 29, Prisca Tiasse 29, Sampath Rapuri 30, Silvia Borras 31, Sofya Pozdniakova 31, Tieliu Shi 32, Ugur Sezerman 33, Xavier Rodo 31, Zehra Hazal Sezer 34, Christopher E Mason 17 35
+https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589169/
+https://www.sciencedirect.com/science/article/pii/S2589004222012652
+
+
+### 2022-05-01
+未知の都市微生物種を地球規模でアノテーションすることで、新たな機能的多様性と地域環境との関連性が明らかになる
+https://pubmed.ncbi.nlm.nih.gov/34637759/
+Environ Res
+. 2022 May 1;207:112183. doi: 10.1016/j.envres.2021.112183. Epub 2021 Oct 9.
+Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association
+Jun Wu 1, David Danko 2, Ebrahim Afshinnekoo 2, Daniela Bezdan 2, Malay Bhattacharyya 3, Eduardo Castro-Nallar 4, Agnieszka Chmielarczyk 5, Nur Hazlin Hazrin-Chong 6, Youping Deng 7, Emmanuel Dias-Neto 8, Alina Frolova 9, Gabriella Mason-Buck 10, Gregorio Iraola 11, Soojin Jang 12, Paweł Łabaj 13, Patrick K H Lee 14, Marina Nieto-Caballero 15, Olayinka O Osuolale 16, Christos A Ouzounis 17, Michael H Perlin 18, Bharath Prithiviraj 19, Nicolás Rascovan 20, Anna Różańska 5, Lynn M Schriml 21, Torsten Semmler 22, Haruo Suzuki 23, Juan A Ugalde 24, Ben Young 2, Johannes Werner 25, Maria Mercedes Zambrano 26, Yongxiang Zhao 27, Christopher Mason 2, Tieliu Shi 28; MetaSUB Consortium
+https://www.sciencedirect.com/science/article/abs/pii/S0013935121014845
+
+----------
+
+## unclassified
+
+https://www.mdpi.com/journal/microorganisms/special_issues/VV03015W12
+Microorganisms | Special Issue : The Urban Microbiome
+
+
+https://www.nature.com/collections/ficbfibehb
+Microbiology of the built environment
+nature  scientific reports  collection
+Collection  17 May 2023
+
+https://www.frontiersin.org/research-topics/8134
+The Urban Microbiome: Uncovering the Hidden Footprint of Cities | Frontiers Research Topic
+
+https://www.mdpi.com/journal/microorganisms/special_issues/Y4SAOE14JW
+Microorganisms | Special Issue : Microbial Exposure Assessments in Different Occupational and Indoor Settings
+Deadline for manuscript submissions: 15 March 2023 
+
+
+404 - Page not found
+https://www.frontiersin.org/research-topics/15119/unveiling-the-metagenomic-world-of-the-built-environment
+Unveiling the Metagenomic World of the Built Environment | Frontiers Research Topic
+Submission Deadlines
+08 January 2021	Manuscript
+31 August 2021	Manuscript Extension
+
+
+2019
+https://www.biomedcentral.com/collections/builtenvironment
+Microbiology of the Built Environment
+
+
+7:00 AM · Aug 2, 2019
+https://twitter.com/NatureJapan/status/1157048360349495296
+Nature Japan on Twitter: "Scientific Reports ゲスト・エディター・コレクション -「建造環境における微生物」に関する投稿論文を募集。建物、輸送車両、水処理施設、建築設備など、建造環境とインフラストラクチャーで見られる微生物のあらゆる側面に関する研究を歓迎します。投稿は2019年9月末まで。https://t.co/w6noTLDWyG https://t.co/dD5JMFHO1U" / Twitter
+
+
+
+
+
 
 ----------
 
@@ -84,6 +240,95 @@ https://shorebird.hatenablog.com/entry/20180509/1525863616
 第20章　ダーウィンとともにデザインする
 この章も日本の話題から始まっている．六本木ヒルズにある屋上庭園を好意的に紹介し，このようなビルの周囲に緑を有機的に取り込む動きを解説する．アクロス福岡，シンガポールのCDLツリーハウス，ミラノのヴォスコ・ヴェルティカーレ，マンハッタンのローライン地下庭園プロジェクト，ベルリンのヒルデガルテンなどの取り組みを挙げ，このような都市計画や建築計画におけるグリーンムーブメントの様々な利点を説明する．しかしスヒルトハウゼンはこれまでのこのような動きは都市環境における進化を考慮していないと指摘し，このような計画のダーウィニアンガイドラインを提唱している．
 
+----------
+
+
+
+https://twitter.com/icf_tokyo/status/918734771416477697
+ICF2018 on Twitter: "ICF2017のバイオテクノロジーセッションでは、「バイオテクノロジーと未来の都市環境デザイン、都市の微生物·視えないものを可視化する、が面白い。ハードウェア、ソフトウェアという使い慣れた言葉に続き、ウェットウェア（バイオテクノロジー）が登場。#icf_tokyo… https://t.co/mUvEyo5gTo"
+3:06 AM - 13 Oct 2017
+
+https://twitter.com/wired_jp/status/696830913980841984
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/
+6:00 PM - 8 Feb 2016
+
+https://twitter.com/wired_jp/status/696321295349370880
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/ …
+#バイオテクノロジー #建築
+8:15 AM - 7 Feb 2016
+
+https://twitter.com/wired_jp/status/695380136766476290
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/ …
+#バイオテクノロジー #都市 #建築Translate Tweet
+5:55 PM - 4 Feb 2016
+
+https://twitter.com/wired_jp/status/687851130433355776
+微生物は都市をこれからどう変えていくのか？ 林千晶（@chiaki）、ジェシカ・グリーン（生物学者）、デイヴィッド・ベンジャミン（建築家）が、バイオと都市の未来を語る。http://wired.jp/special/2016/biology/ …Translate Tweet
+11:17 PM - 14 Jan 2016
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+#MetaSUB
+「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
+https://twitter.com/lifehackerjapan/status/622000940380520448
+ライフハッカー［日本版］ on Twitter: "将来は、細菌だらけの地下鉄で健康的に通勤できるかも http://t.co/fiqLaGrGfc"
+7:12 AM - 17 Jul 2015
+
+https://www.lifehacker.jp/2015/07/150717_subway_germs.html
+将来は、細菌だらけの地下鉄で健康的に通勤できるかも | ライフハッカー［日本版］
+「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
+「清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが」
+
+https://twitter.com/wired_jp/status/621524881675411456
+WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
+11:40 PM - 15 Jul 2015
+
+「都市を、人間がデザインしたものではなく、それを越えたシステムとして、いかに捉えるか。そして、ぼくたちのまわりに生息している微生物を認識する感覚を養うにはどうすればいいか」
+https://wired.jp/special/2015/beyond-solution/01.html
+MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp
+
+https://twitter.com/endBooks/status/385905594026033153
+”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
+7:13 PM - 3 Oct 2013
+
+----------
+
+----------
+## updates
+
+https://twitter.com/search?q=bacteria%20urbanization
+
+
+----------
+
+## 2024
+
+### 2024-07-19
+
+5:32 PM · Jul 22, 2024
+https://x.com/NatureRevMicro/status/1815303953975849449
+Nature Reviews Microbiology on X: "The indoors microbiome and human health https://t.co/fgYY90VnmM Gilbert &amp; Hartmann examine the microbial ecology of indoor spaces, the factors that influence the #microbiome of the built environment, and their influence on human health. https://t.co/lbtSTuWtVa" / X
+https://pubmed.ncbi.nlm.nih.gov/39030408/
+Review Nat Rev Microbiol
+. 2024 Jul 19. doi: 10.1038/s41579-024-01077-3. Online ahead of print.
+The indoors microbiome and human health
+Jack A Gilbert 1 2 3, Erica M Hartmann 4 5 6
+https://www.nature.com/articles/s41579-024-01077-3
+
+### 2024-05-14
+https://pubmed.ncbi.nlm.nih.gov/38662573/
+Proc Natl Acad Sci U S A
+. 2024 May 14;121(20):e2313971121. doi: 10.1073/pnas.2313971121. Epub 2024 Apr 25.
+The potential importance of the built-environment microbiome and its impact on human health
+Thomas C G Bosch 1 2, Mark Wigley 3, Beatriz Colomina 4, Brendan Bohannan 5, Forrest Meggers 6, Katherine R Amato 2 7, Meghan B Azad 2 8 9, Martin J Blaser 2 10 11, Kate Brown 2 12, Maria Gloria Dominguez-Bello 2 13 14, Stanislav Dusko Ehrlich 2 15, Eran Elinav 2 16 17, B Brett Finlay 2 18, Kate Geddie 2 19, Naama Geva-Zatorsky 2 20 21, Tamara Giles-Vernick 2 22, Philippe Gros 2 23, Karen Guillemin 2 24, Louis-Patrick Haraoui 2 25, Elizabeth Johnson 2 26, Frédéric Keck 2 27, Jamie Lorimer 2 28, Margaret J McFall-Ngai 2 29, Mark Nichter 2 30, Sven Pettersson 2 31, Hendrik Poinar 2 32, Tobias Rees 2 33, Carolina Tropini 2 34, Eduardo A Undurraga 2 35, Liping Zhao 2 13, Melissa K Melby 2 36
+https://www.pnas.org/doi/abs/10.1073/pnas.2313971121
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11098107/
 
 ----------
 
@@ -187,28 +432,6 @@ Antonia Bruno 1, Sara Fumagalli 1, Giulia Ghisleni 1, Massimo Labra 1
 https://www.mdpi.com/2076-2607/10/12/2311
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9783557/
 
-### 2022-11
-韓国ソウルのバス停 (n=55) と地下鉄の駅 (n=21) 
-https://pubmed.ncbi.nlm.nih.gov/36257123/
-Ecotoxicol Environ Saf
-. 2022 Nov;246:114176. doi: 10.1016/j.ecoenv.2022.114176. Epub 2022 Oct 17.
-Metagenomic characterization of bacterial community and antibiotic resistance genes found in the mass transit system in Seoul, South Korea
-Robin B Guevarra 1, Juchan Hwang 1, Hyunjung Lee 1, Hyung Jun Kim 1, Yunmi Lee 1, David Danko 2, Krista A Ryon 3, Benjamin Grady Young 2, Christopher E Mason 4, Soojin Jang 5
-https://www.sciencedirect.com/science/article/pii/S0147651322010168?via%3Dihub
-
-### 2022-10-20
-
-https://twitter.com/yurigravity/status/1588195221224947713
-yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
-
-https://pubmed.ncbi.nlm.nih.gov/36299999/
-iScience
-. 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
-A history of the MetaSUB consortium: Tracking urban microbes around the globe
-Krista A Ryon 1 2, Braden T Tierney 1 2, Alina Frolova 3 4, Andre Kahles 5 6, Christelle Desnues 7, Christos Ouzounis 8, Cynthis Gibas 9, Daniela Bezdan 10 11 12, Youping Deng 13, Ding He 14, Emmanuel Dias-Neto 15, Eran Elhaik 16, Evan Afshin 17, George Grills 18, Gregorio Iraola 19, Haruo Suzuki 20, Johannes Werner 21, Klas Udekwu 22, Lynn Schriml 23, Malay Bhattacharyya 24, Manuela Oliveira 25, Maria Mercedes Zambrano 26, Nur Hazlin Hazrin-Chong 27, Olayinka Osuolale 28, Paweł P Łabaj 29, Prisca Tiasse 29, Sampath Rapuri 30, Silvia Borras 31, Sofya Pozdniakova 31, Tieliu Shi 32, Ugur Sezerman 33, Xavier Rodo 31, Zehra Hazal Sezer 34, Christopher E Mason 17 35
-https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589169/
-https://www.sciencedirect.com/science/article/pii/S2589004222012652
 
 ### 2022-09-19
 
@@ -219,27 +442,41 @@ Sept. 19, 2022
 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban
 Metro Microbes: Microbiomes of Public Transit & Urban Spaces
 
-### 2022-05-01
+### 2022-06-01
+https://pubmed.ncbi.nlm.nih.gov/35650275/
+NPJ Biofilms Microbiomes
+. 2022 Jun 1;8(1):44. doi: 10.1038/s41522-022-00305-z.
+The sanitary indoor environment-a potential source for intact human-associated anaerobes
+Manuela-Raluca Pausan # 1 2, Marcus Blohs # 1, Alexander Mahnert 1, Christine Moissl-Eichinger 3
+https://www.nature.com/articles/s41522-022-00305-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160270/
+representative human body site samples (green = nasal cavity, light blue = oral, yellow = skin, brown = stool, pink = urine, purple = vaginal). 
 
-https://pubmed.ncbi.nlm.nih.gov/34637759/
-Environ Res
-. 2022 May 1;207:112183. doi: 10.1016/j.envres.2021.112183. Epub 2021 Oct 9.
-Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association
-Jun Wu 1, David Danko 2, Ebrahim Afshinnekoo 2, Daniela Bezdan 2, Malay Bhattacharyya 3, Eduardo Castro-Nallar 4, Agnieszka Chmielarczyk 5, Nur Hazlin Hazrin-Chong 6, Youping Deng 7, Emmanuel Dias-Neto 8, Alina Frolova 9, Gabriella Mason-Buck 10, Gregorio Iraola 11, Soojin Jang 12, Paweł Łabaj 13, Patrick K H Lee 14, Marina Nieto-Caballero 15, Olayinka O Osuolale 16, Christos A Ouzounis 17, Michael H Perlin 18, Bharath Prithiviraj 19, Nicolás Rascovan 20, Anna Różańska 5, Lynn M Schriml 21, Torsten Semmler 22, Haruo Suzuki 23, Juan A Ugalde 24, Ben Young 2, Johannes Werner 25, Maria Mercedes Zambrano 26, Yongxiang Zhao 27, Christopher Mason 2, Tieliu Shi 28; MetaSUB Consortium
-https://www.sciencedirect.com/science/article/abs/pii/S0013935121014845
+
+## 2022-06-01
+https://pubmed.ncbi.nlm.nih.gov/35650292/
+Editorial Sci Rep
+. 2022 Jun 1;12(1):8732. doi: 10.1038/s41598-022-12254-w.
+Microbes in the built environment
+Lena Ciric 1
+https://www.nature.com/articles/s41598-022-12254-w
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160266/
+The Microbes in the Built Environment Collection showcases recent research in this important topic around the globe.
+
+
+## 2022-01-20
+https://pubmed.ncbi.nlm.nih.gov/35208679/
+Microorganisms
+. 2022 Jan 20;10(2):225. doi: 10.3390/microorganisms10020225.
+Pathogen Control in the Built Environment: A Probiotic-Based System as a Remedy for the Spread of Antibiotic Resistance
+Maria D'Accolti 1 2, Irene Soffritti 1 2, Francesca Bini 1, Eleonora Mazziga 1, Sante Mazzacane 2, Elisabetta Caselli 1 2
+https://www.mdpi.com/2076-2607/10/2/225
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8876034/
+
 
 ----------
 ## 2021
 ----------
-
-## 2021-11-16
-
-https://pubmed.ncbi.nlm.nih.gov/34738808/
-Meta-Analysis Environ Sci Technol
-. 2021 Nov 16;55(22):15051-15062. doi: 10.1021/acs.est.1c03941. Epub 2021 Nov 5.
-City-Scale Meta-Analysis of Indoor Airborne Microbiota Reveals that Taxonomic and Functional Compositions Vary with Building Types
-You Zhou 1, Marcus H Y Leung 1, Xinzhao Tong 1, Justin Y Y Lee 1, Patrick K H Lee 2
-https://pubs.acs.org/doi/10.1021/acs.est.1c03941
 
 ### 2021-11-02
 https://pubmed.ncbi.nlm.nih.gov/34724986/
@@ -253,6 +490,18 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8562002/
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA722771/
 Hong Kong pier surface metagenomes
 This study aims to understand the taxonomic composition and functional features of pier surface microbiomes along the costal line of Hong Kong.
+
+
+
+
+### 2021-09-28
+京都の茅葺き屋根の伝統的日本家屋におけるマイクロバイオームと室内温湿度の関係
+https://www.mdpi.com/1424-2818/13/10/475
+Relationship between the Microbiome and Indoor Temperature/Humidity in a Traditional Japanese House with a Thatched Roof in Kyoto, Japan
+by Makoto Kokubo 1,*,So Fujiyoshi 2,3,*ORCID,Daisuke Ogura 1,3,*ORCID,Makiko Nakajima 3,4ORCID,Ayako Fujieda 3,5,Jun Noda 3,6ORCID andFumito Maruyama 2,3,*ORCID
+Diversity 2021, 13(10), 475; https://doi.org/10.3390/d13100475
+Submission received: 30 August 2021 / Revised: 24 September 2021 / Accepted: 24 September 2021 / Published: 28 September 2021
+
 
 ## 2021-08
 
@@ -301,6 +550,55 @@ https://hillslife.jp/learning/2021/02/09/how-to-make-urban-biotope/
 ----------
 ## 2020
 
+## 2020-12-31
+
+4:37 PM · Dec 31, 2020
+https://twitter.com/GlobalResearc16/status/1344548269276471296
+グローバルリサーチ【都市計画・地方創生】Global Research on Twitter: "建物が、無菌になるよう設計されたものでさえ、ウィルスの媒介となる理由は？ 中国の調査では、コロナ感染者7300人のうち屋外での感染は2人だけだった。 米国のBLMデモでは大人数が近い距離で大声を上げて参加していたが、13,000人のコロナ検査者のうち陽性者は1.8%だった。 https://t.co/xxOZ3hAn1a" / Twitter
+
+2020.12.31
+https://courrier.jp/news/archives/226424/
+パンデミックで問い合わせ殺到「建物のマイクロバイオーム」とは何か？ | 新型コロナウイルスが圧倒的に屋内で感染しやすい理由 | クーリエ・ジャポン
+
+「建築環境の微生物学」
+
+なぜ建物が病気を媒介するのか？
+
+屋内の「マイクロバイオーム」？
+
+未来の建築とマイクロバイオーム
+
+https://courrier.jp/news/archives/226436/
+コロナ禍の「無差別消毒」が有害ですらあるかもしれない理由 | 目に見えない「マイクロバイオーム」の世界から見えてくる | クーリエ・ジャポン
+
+屋内「マイクロバイオーム」の豊かな世界
+
+コロナウイルスの発散の仕方
+
+https://courrier.jp/news/archives/226473/
+コロナ禍でも死活問題「最善の換気」方法とは何か？ | 「建物にとってのヨーグルト」は窓を開けること | クーリエ・ジャポン
+
+可能であれば、多様な微生物がいる外気を室内にたっぷり取り込む換気装置の設置をリャンは勧める。
+
+https://courrier.jp/news/archives/226552/
+人は自然と和解し地上の建築物に「天国」を実現できるのか？ | コロナ禍は「過去200年の誤りを正すチャンス」 | クーリエ・ジャポン
+
+
+
+2020.12.31
+https://courrier.jp/news/archives/226424/
+パンデミックで問い合わせ殺到「建物のマイクロバイオーム」とは何か？ | 新型コロナウイルスが圧倒的に屋内で感染しやすい理由 | クーリエ・ジャポン
+
+https://courrier.jp/news/archives/226436/
+コロナ禍の「無差別消毒」が有害ですらあるかもしれない理由 | 目に見えない「マイクロバイオーム」の世界から見えてくる | クーリエ・ジャポン
+
+https://courrier.jp/news/archives/226473/
+コロナ禍でも死活問題「最善の換気」方法とは何か？ | 「建物にとってのヨーグルト」は窓を開けること | クーリエ・ジャポン
+
+https://courrier.jp/news/archives/226552/
+人は自然と和解し地上の建築物に「天国」を実現できるのか？ | コロナ禍は「過去200年の誤りを正すチャンス」 | クーリエ・ジャポン
+
+
 ### 2020-12
 ### Selway_2020
 
@@ -310,6 +608,8 @@ Environ Int
 Transfer of environmental microbes to the skin and respiratory tract of humans after urban green space exposure
 Caitlin A Selway 1, Jacob G Mills 2, Philip Weinstein 3, Chris Skelly 4, Sudesh Yadav 5, Andrew Lowe 6, Martin F Breed 7, Laura S Weyrich 8
 https://www.sciencedirect.com/science/article/pii/S0160412020320390
+
+
 
 
 ### 2020-11
@@ -354,6 +654,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7437895/
 Data Availability
 The datasets supporting the conclusions of this article are available in the Sequence Read Archive (SRA) at the NCBI, with the BioProject ID PRJNA629455 and, sample accession numbers: SAMN13706337-425.
 
+Bray Curtis dissimilarities
+
 ### 2020-05-29
 メキシコシティのメトロ（地下鉄／地下）の駅と列車の表面マイクロバイオーム
 https://pubmed.ncbi.nlm.nih.gov/32472074/
@@ -364,6 +666,8 @@ Apolinar Misael Hernández 1, Daniela Vargas-Robles 1 2, Luis David Alcaraz 3, M
 https://www.nature.com/articles/s41598-020-65643-4
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7260218/
 The MetaSUB is a consortium working to develop sample collection, DNA/RNA isolation, and sequencing standard operating procedures to study global microbial diversity in mass transport systems18. This work began before the MetaSUB protocols were published. However, the sampling, DNA isolation, PCR programs, sequencing technologies, and data processing are in line with the MetaSUB requirements. 
+
+UniFrac
 
 https://www.ncbi.nlm.nih.gov/biosample/SAMN12255591
 Metagenome or environmental sample from urban metagenome
@@ -391,6 +695,8 @@ Daisuke Tanaka 1, So Fujiyoshi 2 3, Fumito Maruyama 2 3, Motoshi Goto 4, Shinich
 https://www.nature.com/articles/s41598-020-68933-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376176/
 
+principal coordinate analysis (PCoA) of Bray–Curtis dissimilarity
+
 https://www.u-toyama.ac.jp/education/news/2020/0727.html
 日本の都市域および郊外における細菌バイオエアロゾルの特徴を解明｜教育・研究活動｜富山大学
 
@@ -408,7 +714,33 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7291602/
 ## 2019
 ----------
 
-Knight
+
+### 2019-11-22
+
+https://pubmed.ncbi.nlm.nih.gov/31758010/
+Sci Rep
+. 2019 Nov 22;9(1):17355. doi: 10.1038/s41598-019-53527-1.
+Early life home microbiome and hyperactivity/inattention in school-age children
+Lidia Casas 1, Anne M Karvonen 2, Pirkka V Kirjavainen 2 3, Martin Täubel 2, Heidi Hyytiäinen 2, Balamuralikrishna Jayaprakash 2, Irina Lehmann 4 5, Marie Standl 6, Juha Pekkanen 2 7, Joachim Heinrich 6 8
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6874766/
+The worldwide prevalence of attention deficit and hyperactivity disorder (ADHD) is estimated to be close to 5%1. 
+
+
+2019年8月2日
+https://www.natureasia.com/ja-jp/srep/pr-highlights/13045
+【微生物学】英国ロンドンで頻繁に手が触れる場所における多剤耐性菌の存在度 | 
+抗生物質耐性ブドウ球菌
+https://www.nature.com/articles/s41598-019-45886-6
+Whole genome sequencing revealed new molecular characteristics in multidrug resistant staphylococci recovered from high frequency touched surfaces in London | Scientific Reports
+
+
+2019年6月18日
+https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
+農場の家の室内塵の微生物が都会の子どもの喘息減少に結び付く
+https://www.nature.com/articles/s41591-019-0469-4
+Farm-like indoor microbiota in non-farm homes protects children from asthma development | Nature Medicine
+
+----------
 
 ### 2019-11-04
 ### McCall_2019_urbanization
@@ -473,6 +805,80 @@ Front. Ecol. Evol., 11 March 2019 | https://doi.org/10.3389/fevo.2019.00043
 Spatiotemporal Controls on the Urban Aerobiome
 Gwynne Á. Mhuireach1,2*, Clarisse M. Betancourt-Román2,3, Jessica L. Green2 and Bart R. Johnson1,4
 
+
+### 2019_Stephens
+
+https://pubmed.ncbi.nlm.nih.gov/34171005/
+Review Curr Pollut Rep
+. 2019;5(4):198-213. doi: 10.1007/s40726-019-00123-6. Epub 2019 Aug 31.
+Microbial Exchange via Fomites and Implications for Human Health
+Brent Stephens 1, Parham Azimi 2, Megan S Thoemmes 3, Mohammad Heidarinejad 1, Joseph G Allen 2, Jack A Gilbert 3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149182/
+
+31 August 2019
+https://link.springer.com/article/10.1007/s40726-019-00123-6
+Microbial Exchange via Fomites and Implications for Human Health
+
+19 October 2019
+https://link.springer.com/article/10.1007/s40726-019-00126-3
+Correction to: Microbial Exchange via Fomites and Implications for Human Health
+
+----------
+### 2019-05-02
+
+https://pubmed.ncbi.nlm.nih.gov/31046835/
+Microbiome
+. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
+Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets
+Anukriti Sharma 1, Miles Richardson 1, Lauren Cralle 1, Christopher E Stamper 2, Juan P Maestre 3, Kelly A Stearns-Yoder 4 5 6, Teodor T Postolache 5 6 7 8, Katherine L Bates 6 9, Kerry A Kinney 3, Lisa A Brenner 4 5 6 10, Christopher A Lowry 2 4 5 6 11 12, Jack A Gilbert 1, Andrew J Hoisington 13 14 15
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0686-6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6498636/
+米国空軍士官候補生コホートにおける居住者と建築環境の両者間のマイクロバイオームの縦断的均質化の研究
+
+----------
+### 2019-02-27
+### Mahnert_2019
+
+臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
+
+https://pubmed.ncbi.nlm.nih.gov/30814504/
+Nat Commun
+. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
+Man-made microbial resistances in built environments
+Alexander Mahnert 1, Christine Moissl-Eichinger 2 3, Markus Zojer 4, David Bogumil 5, Itzhak Mizrahi 5, Thomas Rattei 4, José Luis Martinez 6, Gabriele Berg 7 3
+https://www.nature.com/articles/s41467-019-08864-0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
+Our results highlight that the loss of microbial diversity correlates with an increase in resistance, and the need for implementing strategies to restore bacterial diversity in certain built environments.
+
+9:49 PM · Mar 1, 2019
+https://twitter.com/susanprescott88/status/1101464494151294977
+Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
+
+----------
+### 2019-01-28
+
+https://twitter.com/copypasteusa/status/1093071982155845632
+人工環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
+
+https://pubmed.ncbi.nlm.nih.gov/30691394/
+Comparative Study BMC Genomics
+. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment
+Nancy Merino 1 2, Shu Zhang 3 4, Masaru Tomita 5 6, Haruo Suzuki 7 8
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
+
+
+背景
+人工環境（built environment）の微生物群集は、人々の生活に影響を与える可能性があり、様々な屋内・屋外・地下・極限環境で研究されてきた。従来、これらの微生物は培養法または培養非依存法（アンプリコンシークエンシング）によって研究されてきた。しかしながら、いずれの方法にも限界があり、複数の研究結果を比較することは困難であり、微生物のライフスタイル（宿主との共生、自由生活性、増殖スピードなど）に関する情報はほとんど得られない。人工環境の微生物をより深く理解するためには、DNA配列が完全に解読されたゲノムから情報を得る方法が有効と考えられる。そこで、人工環境で共通して同定される細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）を調査することにより、これらの細菌のライフスタイルを理解するための第一歩を提供することを目的とした。
+
+結果
+本研究では、人工環境で共通して同定されている細菌の属（「人工環境の細菌ゲノム」）と、他の細菌の属（「他の細菌ゲノム」）を比較した。「人工環境の細菌ゲノム」は、様々な気候や人工環境（屋内・屋外・地下・極限環境）で同定された。これらの人工環境には、地下鉄、病院、住宅、公共レクリエーション施設（ジム・フィットネスセンター）、国際宇宙ステーション（ISS）、クリーンルームなどが含まれる。16SリボソームRNA遺伝子配列に基づく細菌の多様性レベルは属間で大きく異なった。「人工環境の細菌ゲノム」のゲノムサイズ、GC含量、DNA複製鎖間の非対称度は、「他の細菌ゲノム」のそれより、統計的に有意に大きかったが、実質的な差は小さかった。これに対して、コドン使用バイアスの自然選択の強度（S値）は、「他の細菌ゲノム」と比較して「人工環境の細菌ゲノム」で統計的に有意に高く、実質的な差も大きかった。
+
+結論
+調査した4つのゲノムの特徴のうち、（翻訳の効率と正確度に関連する）高発現遺伝子のコドン使用バイアス（S値）は、人工環境に生息する細菌のライフスタイルを理解する上でより重要な役割を果たす可能性がある。S値は、細菌の増殖速度、遺伝子発現、人工環境における増殖条件（温度、湿度、栄養素など）によって影響を受ける他の潜在的要因を反映し得る。しかし、人工環境の細菌のライフスタイルとゲノムの特徴との間の関係をより明らかにするためには、さらなる実験的証拠、細菌の種レベルの研究、人工環境の分類が必要とされる。
+
+
 ----------
 ## 2018
 ----------
@@ -489,17 +895,84 @@ https://www.jstage.jst.go.jp/article/hozen/23/2/23_265/_article/-char/ja/
 
 香港
 Hong Kong Mass Transit Railway (MTR) system
-https://www.ncbi.nlm.nih.gov/pubmed/30067975
-Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
-The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
-Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
-https://www.sciencedirect.com/science/article/pii/S2211124718310519?via%3Dihub
+https://pubmed.ncbi.nlm.nih.gov/30067975/
+Cell Rep
+. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
+The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome
+Kang Kang 1, Yueqiong Ni 1, Jun Li 1, Lejla Imamovic 2, Chinmoy Sarkar 3, Marie Danielle Kobler 4, Yoshitaro Heshiki 1, Tingting Zheng 1, Sarika Kumari 3, Jane Ching Yan Wong 5, Anand Archna 5, Cheong Wai Martin Wong 5, Caroline Dingle 6, Seth Denizen 7, David Michael Baker 5, Morten Otto Alexander Sommer 2, Christopher John Webster 3, Gianni Panagiotou 8
+https://www.cell.com/cell-reports/fulltext/S2211-1247(18)31051-9
+https://www.sciencedirect.com/science/article/pii/S2211124718310519
 
-https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#hong-kong-subway
+
+
+https://twitter.com/skym_k/status/1068837422509654024
+やましゃけ on Twitter: "地下鉄の吊革に住む微生物を解析したそうです。 病気の原因となる微生物もいれば、その抗生物質を生む微生物もいたそうで、結論・健康なのか不健康なのかよく読み取れませんでしたが興味はあ... #NewsPicks https://t.co/FEnZ7degCt"
+7:01 AM - 1 Dec 2018
+
+https://twitter.com/GenomeWeb/status/1027158748886904833
+GenomeWeb on Twitter: "Researchers saw subway line-specific microbes on the hands of subway riders, with increased skin microbial community convergence in samples from evening commuters. https://t.co/dnQFoWR2Rw"
+7:45 AM - 8 Aug 2018
+
+https://twitter.com/uranus_2/status/1025811324830248960
+マーキュリー２世 on Twitter: "香港の鉄道の手すりについている手のひらの微生物叢を解析。時間帯が一番影響力がある。抗生物質抵抗遺伝子は特に午後に採取されやすい。路線特異的な微生物叢は、路線特異的な環境暴露や都市の特徴を反映。The Environmental Exposures and Inner- and Intercity Traffic…https://t.co/Emw6I4T4qB"
+2:30 PM - 4 Aug 2018
+
+https://phys.org/news/2018-07-microbes-hong-kong-subway-evening.html
+Microbes in the Hong Kong subway system mix together by evening rush hour
+July 31, 2018, Cell Press
+
+25 NOV 2016
+http://www.scmp.com/magazines/post-magazine/short-reads/article/2048971/antibiotic-resistant-superbugs-hong-kong-mtr
+Antibiotic-resistant superbugs on Hong Kong MTR trains, study reveals | Post Magazine | South China Morning Post
+
+
+
+
+
+----------
+## 2018
+
+https://pubmed.ncbi.nlm.nih.gov/30574558/
+mSystems
+. 2018 Dec 11;3(6):e00200-18. doi: 10.1128/mSystems.00200-18. eCollection Nov-Dec 2018.
+Antimicrobial Chemicals Associate with Microbial Function and Antibiotic Resistance Indoors
+Ashkaan K Fahimipour 1, Sarah Ben Mamaar 2, Alexander G McFarland 2, Ryan A Blaustein 2, Jing Chen 3 4, Adam J Glawe 2, Jeff Kline 1 5 6, Jessica L Green 1 6 7 8, Rolf U Halden 3 9, Kevin Van Den Wymelenberg 1 5 6, Curtis Huttenhower 10 11, Erica M Hartmann 1 2
+https://journals.asm.org/doi/10.1128/mSystems.00200-18
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6290264/
+
+Author Video: An author video summary of this article is available.
+https://www.youtube.com/watch?v=biSEPK7_ikU
+Chemicals Associated with Microbial Function Indoors - YouTube
+
 
 ----------
 ### 2017
 ----------
+
+https://www.microbe.net/2017/02/10/genomes-of-eight-bacteria-from-the-built-environment/
+Genomes of eight bacteria from the built environment – microBEnet: the microbiology of the Built Environment network
+https://www.ncbi.nlm.nih.gov/pubmed/28163826
+Stand Genomic Sci. 2017 Jan 31;12:17. doi: 10.1186/s40793-017-0223-9. eCollection 2017.
+Draft genome sequences of eight bacteria isolated from the indoor environment: Staphylococcus capitis strain H36, S. capitis strain H65, S. cohnii strain H62, S. hominis strain H69, Microbacterium sp. strain H83, Mycobacterium iranicum strain H39, Plantibacter sp. strain H53, and Pseudomonas oryzihabitans strain H72.
+Lymperopoulou DS1, Coil DA2, Schichnes D3, Lindow SE1, Jospin G2, Eisen JA2,4,5, Adams RI1.
+
+https://www.microbe.net/2016/05/26/the-built-environment-reference-genome-collection-a-first-taste/
+The Built Environment Reference Genome Collection… A First Taste – microBEnet: the microbiology of the Built Environment network
+
+### MoBE 2017
+
+https://www.microbe.net/event/mobe-2017-symposium-maryland/
+MoBE 2017 Symposium (Maryland)
+October 10 - October 12
+
+https://www.microbe.net/microbenet-past-events-meetings-workshops/upcoming-events/mobe_2017/
+MoBE 2017: Microbiology of the Built Environment Research and Applications Symposium
+October 10 – October 12, 2017
+
+MoBE YouTube videos: checkout the MoBE talks and panel discussions.
+
+https://www.youtube.com/watch?v=cCkRLJ1z_HE
+Ed Yong MoBE Keynote - YouTube
 
 ### 2017-05-09
 
@@ -516,14 +989,25 @@ https://www.nature.com/articles/nbt.3868
 ### 2016
 ----------
 
+https://twitter.com/roxana_hickey/status/779008466484473856
+Roxana Hickey on Twitter: "My #LAMG16 talk "Microbial interactions between humans and built environment" is available on @SlideShare: https://t.co/8YT1fKJ3bV"
+1:24 PM - 22 Sep 2016
+
+https://twitter.com/DarwinBioprosp/status/734749760612077571
+DarwinBioprospecting on Twitter: "Bacteria from the built environment: the inner zoo. https://t.co/5aoUVEw6Ql… "
+10:16 AM - 23 May 2016
+
 ### 2016-06
 
 ボストン
-https://www.ncbi.nlm.nih.gov/pubmed/27822528
-mSystems. 2016 Jun 28;1(3). pii: e00018-16. eCollection 2016 May-Jun.
-Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment.
-Hsu T1, Joice R2, Vallarino J2, Abu-Ali G2, Hartmann EM3, Shafquat A2, DuLong C2, Baranowski C2, Gevers D4, Green JL3, Morgan XC1, Spengler JD2, Huttenhower C1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5069760/
+https://pubmed.ncbi.nlm.nih.gov/27822528/
+mSystems
+. 2016 Jun 28;1(3):e00018-16. doi: 10.1128/mSystems.00018-16. eCollection 2016 May-Jun.
+Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment
+Tiffany Hsu 1, Regina Joice 2, Jose Vallarino 2, Galeb Abu-Ali 2, Erica M Hartmann 3, Afrah Shafquat 2, Casey DuLong 2, Catherine Baranowski 2, Dirk Gevers 4, Jessica L Green 3, Xochitl C Morgan 1, John D Spengler 2, Curtis Huttenhower 1
+https://journals.asm.org/doi/full/10.1128/msystems.00018-16
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5069760/
+
 
 ### 2016-04
 ### Chase_2016
@@ -541,6 +1025,37 @@ https://journals.asm.org/doi/10.1128/mSystems.00022-16
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5069741/
 
 ### 2015
+
+https://pubmed.ncbi.nlm.nih.gov/26459172/
+Meta-Analysis Microbiome
+. 2015 Oct 13;3:49. doi: 10.1186/s40168-015-0108-3.
+Microbiota of the indoor environment: a meta-analysis
+Rachel I Adams 1, Ashley C Bateman 2, Holly M Bik 3 4, James F Meadow 5
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0108-3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604073/
+
+https://wired.jp/2015/10/11/bacteria-clouds/
+人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
+
+https://www.ncbi.nlm.nih.gov/pubmed/26417541
+PeerJ. 2015 Sep 22;3:e1258. doi: 10.7717/peerj.1258. eCollection 2015.
+Humans differ in their personal microbial cloud.
+Meadow JF1, Altrichter AE1, Bateman AC1, Stenson J2, Brown GZ2, Green JL3, Bohannan BJ1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25964341
+Proc Natl Acad Sci U S A. 2015 Jun 2;112(22):E2930-8. doi: 10.1073/pnas.1423854112. Epub 2015 May 11.
+Identifying personal microbiomes using metagenomic codes.
+Franzosa EA1, Huang K2, Meadow JF3, Gevers D2, Lemon KP4, Bohannan BJ3, Huttenhower C5.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25754179
+Trends Immunol. 2015 Mar;36(3):121-3. doi: 10.1016/j.it.2015.01.001.
+Our interface with the built environment: immunity and the indoor microbiota.
+Lax S1, Nagler CR2, Gilbert JA3.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25170151
+Science. 2014 Aug 29;345(6200):1048-52. doi: 10.1126/science.1254529.
+Longitudinal analysis of microbial interaction between humans and the indoor environment.
+Lax S1, Smith DP2, Hampton-Marcell J1, Owens SM3, Handley KM1, Scott NM1, Gibbons SM4, Larsen P5, Shogan BD6, Weiss S7, Metcalf JL8, Ursell LK9, Vázquez-Baeza Y10, Van Treuren W8, Hasan NA11, Gibson MK12, Colwell R11, Dantas G12, Knight R13, Gilbert JA14.
 
 メタゲノミクス：都市のマイクロバイオーム
 https://www.ncbi.nlm.nih.gov/pubmed/25732610
@@ -562,19 +1077,220 @@ Urban microbiomes and urban ecology: how do microbes in the built environment af
 King GM1.
 MINIREVIEW
 
-### Leung_2014
-
-https://pubmed.ncbi.nlm.nih.gov/25172855/
-Appl Environ Microbiol
-. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
-Indoor-air microbiome in an urban subway network: diversity and dynamics
-Marcus H Y Leung 1, David Wilkins 1, Ellen K T Li 1, Fred K F Kong 1, Patrick K H Lee 2
-https://journals.asm.org/doi/10.1128/AEM.02244-14
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4249038/
-
 ----------
 ## people
 ----------
+
+## 
+http://venus.iis.u-tokyo.ac.jp/introduction/member/index.html
+メンバー | 大岡研究室・菊本研究室
+http://venus.iis.u-tokyo.ac.jp/research/pdf/0303.pdf
+環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
+
+加藤研究室・大岡研究室・菊本研究室
+Kato Lab., Ooka Lab., and Kikumoto Lab.
+
+感染症の脅威
+・感染症は運輸体系が構築され、人口密度が高い都市の最大の脅威
+のひとつ
+・感染症を引き起こす細菌やウイルスなどの病原物質が、人の活動
+する環境中で拡散して生じるため、この拡散速度を制御する必要
+がある
+
+
+建物環境中のマイクロバイオームは極めて希薄で、十分な遺伝子を確保したサンプリングが困難である。またサンプルに
+関するコンタミ対策が不可避と考えられるため、再現性の高い建築環境空間内でのマイクロバイオームのサンプル法、解析
+法を開発する。次に、人の行動観察より病原物質の伝搬を整理し、その結果を反映した人の行動シミュレーションにより病
+原物質の伝搬予測を行う手法を開発する。
+
+
+大学を想定した空間では、ミーティング中における他者との接
+近機会が多い結果となった
+• オフィスビルなどでは異なる可能性がある
+• 個人の行動パターンや建築レイアウトよりも、建物用途のほう
+が接近機会へ及ぼす影響は高いのではないか
+
+
+http://venus.iis.u-tokyo.ac.jp/introduction/member/personal/Kato_Shinsuke/index.html
+加藤 信介(カトウ シンスケ)
+
+## kato
+加藤 信介  東京都市大学, 工学部, 教授 (00142240)
+
+### 2017-06-30 – 2020-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H06216/
+建築環境マイクロバイオームの実態把握による集団感染機構のモニタリング
+研究期間 (年度)	2017-06-30 – 2020-03-31
+
+2020 研究成果報告書 (  PDF )
+https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17H06216/17H06216seika.pdf
+令和 ３ 年 ６ 月 ２９ 日
+
+https://kaken.nii.ac.jp/ja/report/KAKENHI-PROJECT-17H06216/17H062162018jisseki/
+今後の研究の推進方策	
+本研究は、海外からの人から人への感染症侵入のリスクの高まる2020年の東京オリンピック開催までに一応の結果を出すことを念頭にまず3年間の研究を予定しており、現在までに研究は順調に進捗している。室内環境中のマイクロバイオームの実態調査は、北海道から九州までの日本の主要な都市をカバーし、建物用途としては、感染リスクの高い不特定多数の人々が集まる病院待合室、免疫が低く感染リスクの高い老健施設、小学校、一般のオフィス環境を想定した大学研究室などを対象としているが、この方針は変わりない。今後は、検出されたマイクロバイオームの地域特性や、周囲環境条件との相関を分析することを目指す。
+
+### 2015-04-01 – 2018-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
+環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
+研究期間 (年度)	2015-04-01 – 2018-03-31
+
+2017 実績報告書   研究成果報告書 (  PDF )
+https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-15H02277/15H02277seika.pdf
+平成 ３０ 年 ５ 月 ２６ 日
+
+### 2018/09/12 - 2018/09/14
+https://www.jstage.jst.go.jp/article/shasetaikai/2018.7/0/2018.7_37/_article/-char/ja/
+学校環境におけるマイクロバイオームの実態に関する調査研究　第4報　夏期における細菌叢と室内環境の関連性
+*畑中 未来, 柳 宇, 永野 秀明, 加藤 信介
+抄録
+　筆者らはこれまで大学環境中のマイクロバイオームの実態把握を目的とし、次世代シークエンスを用いて16S rRNA解析を行い、検出された細菌の発育特性や発生源を第3報にて報告した。 　前報に引き続きマイクロバイオームの解析結果と温湿度との比較について述べる。 　調査対象は、第3報で報告した東京都・宮城県・北海道にある3大学のD・E・F教室と第1報・第2報で報告した、都内にある某大学超高層ビルのA・B教室を対象として夏期の浮遊細菌、付着細菌の結果と冬期の浮遊細菌の結果を報告する。
+https://www.jstage.jst.go.jp/article/shasetaikai/2018.7/0/2018.7_37/_pdf/-char/ja
+
+https://www.jstage.jst.go.jp/article/shasetaikai/2017.7/0/2017.7_57/_pdf/-char/en
+学校環境におけるマイクロバイオームの実態に関する調査研究
+第 2 報 秋季における細菌叢と室内環境の関連性
+A Study on The Actual Condition Elucidation of Microbiome in Office Buildings
+Part 2 Relationship between Bacterial Flora and Indoor Environment in Autumn
+学生会員 ○畑中 未来（工学院大学大学院） 正 会 員 柳 宇（工学院大学）
+正 会 員 永野 秀明（東京都市大学） 正会員 加藤 信介（東京大学）
+
+### 2018-12
+
+https://doi.org/10.3130/aije.83.997
+大学研究室におけるヒト由来細菌の分布特性
+柳 宇, 加藤 信介
+著者情報
+キーワード: 建築環境, 環境モニタリング, マイクロバイオーム, 口腔菌, 拡散特性, 次世代シーケンサー
+ジャーナル フリー
+2018 年 83 巻 754 号 p. 997-1004
+https://www.jstage.jst.go.jp/article/aije/83/754/83_997/_pdf/-char/ja
+
+### yanagi
+https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
+ヤナギ　ウ
+柳　宇
+
+査読付論文
+2023/01/10共著Ventilation methods against Indoor Aerosol Infection of COVID-19 in JapanAtmosphereMDPI
+2022/11共著A longitudinal study on the effects of hygro-thermal conditions and indoor air pollutants on building-related symptoms in office buildingsIndoor Air
+2022/11共著Bacterial communities in various parts of air-conditioning units in 17 Japanese houses.MicroorganismsMDPI
+
+
+https://pubmed.ncbi.nlm.nih.gov/36422316/
+Microorganisms
+. 2022 Nov 13;10(11):2246. doi: 10.3390/microorganisms10112246.
+Bacterial Communities in Various Parts of Air-Conditioning Units in 17 Japanese Houses
+Kensuke Watanabe 1, U Yanagi 2, Yoshiki Shiraishi 3, Kazuhiro Harada 4, Fumitoshi Ogino 4, Koichiro Asano 3
+https://www.mdpi.com/2076-2607/10/11/2246
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9697849/
+
+
+
+https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
+２０１６年４月
+建築環境における微生物汚染機構の解明
+とその対策に関する一連の研究
+工学院大学 建築学部 建築学科 教授
+柳 宇，D.P.H.,Dr.Eng.
+
+https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
+社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
+2012.04.30調査研究
+社会福祉施設における粒子状物質と浮遊微生物に関する研究
+研究指導員：柳宇（工学院大学建築学部　教授）
+
+### jessica_green
+
+### 2012-08
+
+### Kembel_2012
+
+https://pubmed.ncbi.nlm.nih.gov/22278670/
+ISME J
+. 2012 Aug;6(8):1469-79. doi: 10.1038/ismej.2011.211. Epub 2012 Jan 26.
+Architectural design influences the diversity and structure of the built environment microbiome
+Steven W Kembel 1, Evan Jones, Jeff Kline, Dale Northcutt, Jason Stenson, Ann M Womack, Brendan Jm Bohannan, G Z Brown, Jessica L Green
+https://www.nature.com/articles/ismej2011211
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3400407/
+
+### phylagen
+
+https://twitter.com/phylagen
+https://phylagen.com/
+Every object & every place has a 
+naturally occurring microbial fingerprint
+
+https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
+This Startup Uses Dust to Fight Sweatshops - leapsmag
+Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
+
+
+### phylagen
+
+https://twitter.com/phylagen
+Phylagen (@phylagen) / Twitter
+
+Aug 19, 2020
+https://www.wbaltv.com/article/phylagen-test-allows-swabs-of-coronavirus-on-surfaces/33632747
+New test allows swabbing for coronavirus on surfaces
+
+5:49 AM · Jul 31, 2020
+https://twitter.com/nbcnewsnow/status/1288939776511336448
+NBC News NOW on Twitter: "New technology developed by @phylagen can detect traces of coronavirus on surfaces and have results within 48 hours, @VickyNguyenTV explains Watch NOW: https://t.co/U4UZMH5vN5 https://t.co/TAWiEFJAP3" / Twitter
+
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+ホコリから生まれた空間デザイン
+鼎談に登場したジェシカ・グリーンによる研究プロジェクト。オフィス内に溜まるホコリを集め、その中に含まれている微生物をラボで分析し、健康的な微生物環境を提供するための新しい建築デザイン手法を探っている。TED2013で研究成果を発表して話題となり、実際に病院や食品加工施設などのデザインプロセスを変えることを目指して、2015年9月にコンサルティング企業「Phylagen Inc.」を立ち上げている。
+
+Nov 9, 2015
+https://www.youtube.com/watch?v=GUfR_81fmLE
+【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+Feb 2013
+http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
+ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
+
+January 2013
+https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
+Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
+
+Jul 2011
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
+ジェシカ・グリーン「微生物を正しく取り除くために」
+
+### roxana_hickey
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
+Microbiome. 2017 Jul 14;5(1):76. doi: 10.1186/s40168-017-0294-2.
+Cleanliness in context: reconciling hygiene with a modern microbial perspective.
+Vandegrift R1,2, Bateman AC3,4, Siemens KN3,4, Nguyen M3,5, Wilson HE3,4, Green JL3,4, Van Den Wymelenberg KG6,7, Hickey RJ3,4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513348/
+
+JANUARY 28, 2016
+http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
+We’re All Sitting in Clouds of Bacteria | Mental Floss
+Jan 25, 2016
+https://www.youtube.com/watch?v=2_ib7Z4bmrg
+Your Very Special Bacterial Cloud - YouTube
+
+Sep 7, 2016
+https://www.youtube.com/watch?v=vbYJlEItP7g
+Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
+
+https://twitter.com/roxana_hickey/status/877713794733973504
+Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
+10:24 PM - 21 Jun 2017
+
+----------
+
 ## aki.sinkkonen
 Aki Sinkkonen
 
@@ -788,19 +1504,44 @@ Kari Oline Bøifot 1 2, Jostein Gohli 1, Line Victoria Moen 1, Marius Dybwad 3 4
 https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-019-0349-z
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8067373/
 
-### Gohli_2019
 ### 2019-12-19
-
+ノルウェー・オスロの地下鉄駅
 https://pubmed.ncbi.nlm.nih.gov/31856911/
 Microbiome
 . 2019 Dec 19;7(1):160. doi: 10.1186/s40168-019-0772-9.
 The subway microbiome: seasonal dynamics and direct comparison of air and surface bacterial communities
 Jostein Gohli 1, Kari Oline Bøifot 2 3, Line Victoria Moen 2, Paulina Pastuszek 4, Gunnar Skogan 2, Klas I Udekwu 5, Marius Dybwad 2 3
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0772-9
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6924074/
-We performed high-throughput 16S rRNA gene sequencing of air and surface samples from 16 subway stations in Oslo, Norway, across all four seasons. 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6924074/
+16S rRNA gene sequencing of air and surface samples from 16 subway stations in Oslo, Norway, across all four seasons
 
 Surface samples were collected for three surface types at each station: kiosks, railings, and benches. 
+
+### 2021-11-16
+
+https://pubmed.ncbi.nlm.nih.gov/34738808/
+Meta-Analysis Environ Sci Technol
+. 2021 Nov 16;55(22):15051-15062. doi: 10.1021/acs.est.1c03941. Epub 2021 Nov 5.
+City-Scale Meta-Analysis of Indoor Airborne Microbiota Reveals that Taxonomic and Functional Compositions Vary with Building Types
+You Zhou 1, Marcus H Y Leung 1, Xinzhao Tong 1, Justin Y Y Lee 1, Patrick K H Lee 2
+https://pubs.acs.org/doi/10.1021/acs.est.1c03941
+16S rRNA gene sequences
+UniFrac
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_webofscience_primary_000721255600009CitationCount
+American Chemical Society Journals
+
+### 2014-11
+香港
+https://pubmed.ncbi.nlm.nih.gov/25172855/
+Appl Environ Microbiol
+. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
+Indoor-air microbiome in an urban subway network: diversity and dynamics
+Marcus H Y Leung 1, David Wilkins 1, Ellen K T Li 1, Fred K F Kong 1, Patrick K H Lee 2
+https://journals.asm.org/doi/10.1128/AEM.02244-14
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4249038/
+urban subway network in Hong Kong
+16S rRNA gene V4 region
+Faith's phylogenetic diversity [FPD], UniFrac
 
 ----------
 
@@ -892,17 +1633,16 @@ David Danko on Twitter: "We present a dataset of nearly 4,000 metagenomic sample
 https://twitter.com/mason_lab/status/1158704680383524866
 Chris Mason on Twitter: "“Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance.” 635 authors, 58 cities, 3,741 samples, 4,424 microbes, 10,928 novel viral species, 91.4% accuracy for predicting city-of-origin. https://t.co/XXwAmBxq49. Big @metasub data release &amp; @biorxivpreprint" / Twitter
 
-
 ### 2020-02-01
-
-ロシア　モスクワの地下鉄
+ロシア・モスクワの地下鉄
 https://pubmed.ncbi.nlm.nih.gov/32071708/
 Comput Struct Biotechnol J
 . 2020 Feb 1;18:314-322. doi: 10.1016/j.csbj.2020.01.007. eCollection 2020.
 Co-occurrence patterns of bacteria within microbiome of Moscow subway
 Natalia S Klimenko 1 2, Alexander V Tyakht 1 2, Stepan V Toshchakov 3, Margarita A Shevchenko 4, Aleksei A Korzhenkov 3, Ebrahim Afshinnekoo 5 6 7, Christopher E Mason 5 6 7 8, Dmitry G Alexeev 1 9 10 11
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7016200/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7016200/
 https://www.sciencedirect.com/science/article/pii/S2001037019304106
+16S rRNA gene sequencing.
 
 The study was conducted as a part of The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) project.
 Moscow subway (Russia) 
@@ -1021,125 +1761,6 @@ https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
 
 
 
-
-----------
-
-
-## unclassified
-
-https://www.mdpi.com/journal/microorganisms/special_issues/VV03015W12
-Microorganisms | Special Issue : The Urban Microbiome
-
-
-https://www.nature.com/collections/ficbfibehb
-Microbiology of the built environment
-nature  scientific reports  collection
-Collection  17 May 2023
-
-https://www.frontiersin.org/research-topics/8134
-The Urban Microbiome: Uncovering the Hidden Footprint of Cities | Frontiers Research Topic
-
-https://www.mdpi.com/journal/microorganisms/special_issues/Y4SAOE14JW
-Microorganisms | Special Issue : Microbial Exposure Assessments in Different Occupational and Indoor Settings
-Deadline for manuscript submissions: 15 March 2023 
-
-
-404 - Page not found
-https://www.frontiersin.org/research-topics/15119/unveiling-the-metagenomic-world-of-the-built-environment
-Unveiling the Metagenomic World of the Built Environment | Frontiers Research Topic
-Submission Deadlines
-08 January 2021	Manuscript
-31 August 2021	Manuscript Extension
-
-
-2019
-https://www.biomedcentral.com/collections/builtenvironment
-Microbiology of the Built Environment
-
-
-7:00 AM · Aug 2, 2019
-https://twitter.com/NatureJapan/status/1157048360349495296
-Nature Japan on Twitter: "Scientific Reports ゲスト・エディター・コレクション -「建造環境における微生物」に関する投稿論文を募集。建物、輸送車両、水処理施設、建築設備など、建造環境とインフラストラクチャーで見られる微生物のあらゆる側面に関する研究を歓迎します。投稿は2019年9月末まで。https://t.co/w6noTLDWyG https://t.co/dD5JMFHO1U" / Twitter
-
-
-
-----------
-
-
-
-
-https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19KK0263/
-KAKEN — 研究課題をさがす | 南米チリにおける大気汚染とバイオエアロゾルの統合解析による健康影響評価基盤の構築 (KAKENHI-PROJECT-19KK0263)
-
-研究代表者
-田中 大祐  富山大学, 学術研究部理学系, 教授 (40360804)
-研究分担者	酒徳 昭宏  富山大学, 学術研究部理学系, 講師 (20713142)
-藤吉 奏  京都大学, 人間・環境学研究科, 特定助教 (20805808)
-丸山 史人  広島大学, 学術・社会連携室, 教授 (30423122)
-能田 淳  酪農学園大学, 獣医学群, 准教授 (70551670)
-研究期間 (年度)	2019-10-07 – 2022-03-31
-
-日本の都市域（横浜市）と地方都市郊外（富山市）において，アンダーセンエアーサンプラーで9段階の粒径別捕集（分級範囲 0.43～11.0μm）した各大気試料を，高速シークエンサーでメタゲノム解析した結果を，原著論文として発表した (Tanaka et al., Sci. Rep., 2020, プレスリリース有り)。
-
-
-https://twitter.com/icf_tokyo/status/918734771416477697
-ICF2018 on Twitter: "ICF2017のバイオテクノロジーセッションでは、「バイオテクノロジーと未来の都市環境デザイン、都市の微生物·視えないものを可視化する、が面白い。ハードウェア、ソフトウェアという使い慣れた言葉に続き、ウェットウェア（バイオテクノロジー）が登場。#icf_tokyo… https://t.co/mUvEyo5gTo"
-3:06 AM - 13 Oct 2017
-
-https://twitter.com/wired_jp/status/696830913980841984
-微生物から新しいデザインがはじまる
-http://wired.jp/special/2016/biology/
-6:00 PM - 8 Feb 2016
-
-https://twitter.com/wired_jp/status/696321295349370880
-微生物から新しいデザインがはじまる
-http://wired.jp/special/2016/biology/ …
-#バイオテクノロジー #建築
-8:15 AM - 7 Feb 2016
-
-https://twitter.com/wired_jp/status/695380136766476290
-微生物から新しいデザインがはじまる
-http://wired.jp/special/2016/biology/ …
-#バイオテクノロジー #都市 #建築Translate Tweet
-5:55 PM - 4 Feb 2016
-
-https://twitter.com/wired_jp/status/687851130433355776
-微生物は都市をこれからどう変えていくのか？ 林千晶（@chiaki）、ジェシカ・グリーン（生物学者）、デイヴィッド・ベンジャミン（建築家）が、バイオと都市の未来を語る。http://wired.jp/special/2016/biology/ …Translate Tweet
-11:17 PM - 14 Jan 2016
-
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
-これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
-未来のバイオは建築や都市デザインまでも変えてゆく。
-
-#MetaSUB
-「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
-https://twitter.com/lifehackerjapan/status/622000940380520448
-ライフハッカー［日本版］ on Twitter: "将来は、細菌だらけの地下鉄で健康的に通勤できるかも http://t.co/fiqLaGrGfc"
-7:12 AM - 17 Jul 2015
-
-https://www.lifehacker.jp/2015/07/150717_subway_germs.html
-将来は、細菌だらけの地下鉄で健康的に通勤できるかも | ライフハッカー［日本版］
-「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
-「清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが」
-
-https://twitter.com/wired_jp/status/621524881675411456
-WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
-11:40 PM - 15 Jul 2015
-
-「都市を、人間がデザインしたものではなく、それを越えたシステムとして、いかに捉えるか。そして、ぼくたちのまわりに生息している微生物を認識する感覚を養うにはどうすればいいか」
-https://wired.jp/special/2015/beyond-solution/01.html
-MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp
-
-https://twitter.com/endBooks/status/385905594026033153
-”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
-7:13 PM - 3 Oct 2013
-
-----------
-
-
-
-----------
 
 
 
