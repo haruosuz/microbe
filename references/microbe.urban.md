@@ -1437,8 +1437,6 @@ Jacob G. Mills,Philip Weinstein,Nicholas J. C. Gellie,Laura S. Weyrich,Andrew J.
 
 ----------
 
-
-
 ----------
 ## MetaSUB
 
@@ -1449,6 +1447,10 @@ http://metasub.org/projects/
 
 ----------
 ## MetaCoV
+
+http://metasub.org/projects/
+METACoV: RNA/COVID-19 ENVIRONMENTAL SAMPLING
+With the emergence of the COVID-19 pandemic in 2020 the MetaSUB International Consortium banded together  to sample urban environments in cities around the globe before, during and after the pandemic. The project aims to characterize the change in the urban metagenome and possibly isolate the presence of the SARS-CoV-2 virus.
 
 ### 2021-03-12
 https://pubmed.ncbi.nlm.nih.gov/33712587/
@@ -1463,6 +1465,7 @@ https://doi.org/10.1101/2020.04.20.048066
 Shotgun Transcriptome and Isothermal Profiling of SARS-CoV-2 Infection Reveals Unique Host Responses, Viral Diversification, and Drug Interactions | bioRxiv
 Posted May 01, 2020.
 https://www.biorxiv.org/content/10.1101/2020.04.20.048066v5.full
+Environmental sampling of SARS-CoV-2 in the NYC subway
 
 https://pubmed.ncbi.nlm.nih.gov/33024053/
 mSystems
@@ -1470,7 +1473,16 @@ mSystems
 End-to-End Protocol for the Detection of SARS-CoV-2 from Built Environments
 Ceth W Parker # 1, Nitin Singh # 1, Scott Tighe # 2, Adriana Blachowicz 1, Jason M Wood 1, Arman Seuylemezian 1, Parag Vaishampayan 1, Camilla Urbaniak 1 3, Ryan Hendrickson 1, Pheobe Laaguiby 2, Kevin Clark 1, Brian G Clement 1, Niamh B O'Hara 4 5, Mara Couto-Rodriguez 4, Daniela Bezdan 6 7, Christopher E Mason 6, Kasthuri Venkateswaran 8
 https://journals.asm.org/doi/10.1128/mSystems.00771-20
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7542562/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7542562/
+
+### 2023-07-07
+https://pubmed.ncbi.nlm.nih.gov/37420286/
+BMC Res Notes
+. 2023 Jul 7;16(1):142. doi: 10.1186/s13104-023-06417-9.
+Evaluation of rRNA depletion methods for capturing the RNA virome from environmental surfaces
+Yuh Shiwa 1 2, Tomoya Baba 3 4, Maria A Sierra 5, JangKeun Kim 6 7, Christopher E Mason 6 7 8, Haruo Suzuki 9 10
+https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-023-06417-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10326927/
 
 ----------
 ## MetaAIR
