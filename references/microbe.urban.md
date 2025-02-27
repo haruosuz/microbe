@@ -1484,6 +1484,27 @@ Yuh Shiwa 1 2, Tomoya Baba 3 4, Maria A Sierra 5, JangKeun Kim 6 7, Christopher 
 https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-023-06417-9
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10326927/
 
+2024年11月28日
+https://www.neb.com/ja-jp/nebinspired-blog/interview-nebnext-shiwa
+2024 JP interview NEBNext Shiwa | NEB
+巨生物に埋もれたウイルスを見つけ出す！
+
+METACoV プロジェクトから公開された報告のプレプリント［Butler, et al . 2020］上で、ニューヨークの地下鉄内の環境からのスワブサンプルをRNA-seq にて解析する際にNEBNext® rRNA Depletion Kit を用いてrRNAを除去したという記述を見て、同様の手法を試してみることになりました。
+
+表１．ヒトとバクテリアのrRNA を同時除去したテーブル表面由来サンプルのシーケンシング解析結果（Shiwa, et al . 2023 Supplementary Information より抜粋）
+
+片方の除去キットのみを用いた際に、ネガティブコントロールの滅菌水からも2 nM強のライブラリーが調製されたので［Shiwa,et al . 2023］、ライブラリーの調製過程に由来するコンタミネーションはあったと考えています。ただ、NASA を中心とした論文の報告［Regberg, et al . 2020］では、小惑星探査機の組立および試験のための基準下にある環境においてもバクテリアが検出されており、通常の実験室の環境においてこのようなコンタミネーションを低減するためには、さらに工夫が必要だと思います。
+
+すでに2020 年の段階で、不活化ウイルスを安全キャビネット内のさまざまな建材表面に塗布し、そこからリアルタイムPCR でウイルスを検出する条件の検討を行った論文［Parker, et al . 2020］が出ており、
+
+https://www.ir-mail.com/grant2024_neb.html
+ＩＲＭＡＩＬサイエンスグラント｜ＩＲＭＡＩＬ
+NEB賞　受賞者インタビュー
+東京農業大学　生命科学部　分子微生物学科
+准教授　志波優　先生
+しかし、実際の環境表面由来RNAには、ウイルス・細菌よりもゲノムサイズが大きな
+巨生物（真菌・ダニ・花粉等の真核生物）由来RNAが予想以上に豊富で、これらのRNAがウイルス由来リードの検出感度を低下させることを明らかにしました（Shiwa, Y. et al. Evaluation of rRNA depletion methods for capturing the RNA virome from environmental surfaces. BMC Res Notes 16, 142, 2023）。
+
 ----------
 ## MetaAIR
 
