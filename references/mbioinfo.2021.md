@@ -700,6 +700,28 @@ Antimicrobial Resistance
 - https://www.kegg.jp/kegg/annotation/br01553.html
 KEGG Antimicrobial Resistance: beta-Lactamase Genes
 
+### who
+
+https://pubmed.ncbi.nlm.nih.gov/40245910/
+Lancet Infect Dis
+. 2025 Apr 11:S1473-3099(25)00118-5. doi: 10.1016/S1473-3099(25)00118-5. Online ahead of print.
+The WHO Bacterial Priority Pathogens List 2024: a prioritisation study to guide research, development, and public health strategies against antimicrobial resistance
+; WHO Bacterial Priority Pathogens List Advisory Group
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(25)00118-5/fulltext
+
+https://www.mhlw.go.jp/content/10906000/001309717.pdf
+WHO Bacterial Priority Pathogens List 2024概要
+
+2024年05月20日
+https://japan-who.or.jp/news-releases/2405-40/
+薬剤耐性菌のリストを更新 | 公益社団法人 日本ＷＨＯ協会
+詳細はWHOのウエブサイトをご覧ください。
+17 May 2024 
+https://www.who.int/news/item/17-05-2024-who-updates-list-of-drug-resistant-bacteria-most-threatening-to-human-health
+updated Bacterial Priority Pathogens List (BPPL) 2024
+17 May 2024
+https://www.who.int/publications/i/item/9789240093461
+
 ### 2022-02-16
 ### Waddington_2022
 
