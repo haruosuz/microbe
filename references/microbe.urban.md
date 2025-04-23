@@ -309,28 +309,8 @@ https://twitter.com/search?q=bacteria%20urbanization
 
 ## 2024
 
-### 2024-07-19
-
-5:32 PM · Jul 22, 2024
-https://x.com/NatureRevMicro/status/1815303953975849449
-Nature Reviews Microbiology on X: "The indoors microbiome and human health https://t.co/fgYY90VnmM Gilbert &amp; Hartmann examine the microbial ecology of indoor spaces, the factors that influence the #microbiome of the built environment, and their influence on human health. https://t.co/lbtSTuWtVa" / X
-https://pubmed.ncbi.nlm.nih.gov/39030408/
-Review Nat Rev Microbiol
-. 2024 Jul 19. doi: 10.1038/s41579-024-01077-3. Online ahead of print.
-The indoors microbiome and human health
-Jack A Gilbert 1 2 3, Erica M Hartmann 4 5 6
-https://www.nature.com/articles/s41579-024-01077-3
-
-### 2024-05-14
-https://pubmed.ncbi.nlm.nih.gov/38662573/
-Proc Natl Acad Sci U S A
-. 2024 May 14;121(20):e2313971121. doi: 10.1073/pnas.2313971121. Epub 2024 Apr 25.
-The potential importance of the built-environment microbiome and its impact on human health
-Thomas C G Bosch 1 2, Mark Wigley 3, Beatriz Colomina 4, Brendan Bohannan 5, Forrest Meggers 6, Katherine R Amato 2 7, Meghan B Azad 2 8 9, Martin J Blaser 2 10 11, Kate Brown 2 12, Maria Gloria Dominguez-Bello 2 13 14, Stanislav Dusko Ehrlich 2 15, Eran Elinav 2 16 17, B Brett Finlay 2 18, Kate Geddie 2 19, Naama Geva-Zatorsky 2 20 21, Tamara Giles-Vernick 2 22, Philippe Gros 2 23, Karen Guillemin 2 24, Louis-Patrick Haraoui 2 25, Elizabeth Johnson 2 26, Frédéric Keck 2 27, Jamie Lorimer 2 28, Margaret J McFall-Ngai 2 29, Mark Nichter 2 30, Sven Pettersson 2 31, Hendrik Poinar 2 32, Tobias Rees 2 33, Carolina Tropini 2 34, Eduardo A Undurraga 2 35, Liping Zhao 2 13, Melissa K Melby 2 36
-https://www.pnas.org/doi/abs/10.1073/pnas.2313971121
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11098107/
-
 ----------
+
 
 ## 2023
 
