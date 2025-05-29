@@ -1011,15 +1011,35 @@ James P J Hall 1, João Botelho 2 3, Adrian Cazares 4 5, David A Baltrus 6
 https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0472
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8628078/
 
+1. Megaplasmids: very large plasmids
+
 Figure 1.
 Percentage of plasmid publications containing the term ‘megaplasmid’.
 
 The recent availability of long-read single-molecule sequencing technologies, such as the PacBio SMRT protocol and Nanopore devices, enables megaplasmids to be unambiguously resolved [25–27], and with this increased detection rate, recent years have seen a steep increase in the proportion of plasmid publications containing the term ‘megaplasmid’ (figure 1).
 
+2. How big is a megaplasmid?
+
 Figure 2.
 Plasmid size distributions for families with greater than 100 plasmids in the COMPASS database [13].
 
+In the next sections, we discuss these features of megaplasmids—their size, genetics, and gene content—that explain their evolutionary and ecological role (figure 3).
+
+Figure 3.
+What makes a megaplasmid. 
+
+3. Why are megaplasmids bigger?
+
+4. Are megaplasmids just chromids-in-training?
+
+5. Plasmid plasticity promotes megaplasmid emergence
+
+6. Boxes: megaplasmids to watch
+
+(c) Acinetobacter megaplasmids, global distribution, local adaptation: pR4WN-1BD1 (285 kb) and relatives
+
 A role for local adaptation in shaping plasmid accessory gene content was discernible in these data, as plasmids from similar geographical locations had similar accessory genes, even if they were not closely related [27]. Increased sampling of non-clinical sites may be necessary to reveal the full megaplasmid picture in Acinetobacter, as an analysis of Acinetobacter plasmids from hospitals and soil/water suggested that larger plasmids were obtained from environmental samples [141].
+
 
 ### 2021-09-21
 
