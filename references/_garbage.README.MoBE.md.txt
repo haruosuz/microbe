@@ -1,0 +1,204 @@
+
+
+
+----------
+
+https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+
+----------
+
+
+
+----------
+
+
+
+----------
+
+
+
+----------
+2024-01-17
+
+- [money](#money) お金お札
+  - [ATM](#atm)
+
+----------
+
+## money
+お金お札
+
+https://twitter.com/Newsweek_JAPAN/status/866774474166874113
+ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
+5:55 PM - 22 May 2017
+
+2017年5月22日
+http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
+細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版
+Hong Kong's Dirty Money: Cash Carries Acne-Causing Bacteria, Other Pathogens
+＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
+紙幣が細菌追跡の目印に
+都市の細菌集団探しは成長分野
+耐性菌との戦いに役立つ
+
+2017-04-13
+https://twitter.com/yokadzaki/status/852704490436177921
+Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
+
+https://www.ncbi.nlm.nih.gov/pubmed/28450856
+Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
+Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
+
+September 6, 2017
+http://time.com/4918626/money-germs-microbes-dirty/
+Here's How Dirty Your Money Really Is | Time
+
+https://www.ncbi.nlm.nih.gov/pubmed/28384336
+PLoS One. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
+Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City.
+Maritz JM1, Sullivan SA1, Prill RJ2, Aksoy E1, Scheid P1, Carlton JM1.
+
+January 4, 2017
+http://time.com/money/4621673/money-cash-currency-bacteria-disease-sickness/
+Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
+The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
+
+2016/02/02
+http://fukuyuki.net/post-639/
+硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
+
+2013.06.19
+https://www.atpress.ne.jp/news/36512
+現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜プレスリリース配信サービス【＠Press：アットプレス】
+
+- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
+- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
+- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
+- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
+- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
+- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
+
+### ATM
+
+https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
+New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
+
+- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
+- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
+
+
+----------
+
+
+
+----------
+## review
+
+----------
+### 2018-11
+
+11:52 PM · Aug 21, 2018
+https://twitter.com/NatureRevMicro/status/1031916837896957952
+Nature Reviews Microbiology on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC https://t.co/Xl6cg9bCPy" / Twitter
+
+12:15 PM · Jun 2, 2019
+https://twitter.com/copypasteusa/status/1135022062198673408
+#MoBE #microBEnet
+Further reading
+
+
+https://pubmed.ncbi.nlm.nih.gov/30127345/
+Review Nat Rev Microbiol
+. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
+Microbiology of the built environment
+Jack A Gilbert 1 2, Brent Stephens 3
+https://www.nature.com/articles/s41579-018-0065-5
+https://www.built-envi.com/wp-content/uploads/gilbert-and-stephens-2018-nature-reviews-microbiology-MoBE.pdf
+
+Fig. 4 | Shaping the indoor microbiome. Sensors that can detect the indoor microbiome will be valuable in increasing our understanding of which organisms or microbial antigens are associated with disease onset or prevention. Practices that promote possible health-promoting microbial exposure while minimizing the influence of disease-associated metabolites and organisms include, but are not limited to, increasing the proportion of outdoor air in the indoor environment through increased ventilation, changing the type of building material used in construction and reducing moisture. Exposure to pets and plants presents a relatively simple way to increase microbial diversity in indoor environments. Controlled exposure to farming environments has been shown to be effective, but implementation will require more insights into the underlying mechanisms. These approaches represent a possible way to advance human health outcomes based on understanding microbial colonization, activity and host interaction in buildings.      
+図4｜室内マイクロバイオームを形成する。室内マイクロバイオームを検出できるセンサーは、どの生物または微生物抗原が病気の発症や予防に関連するのかについての理解を深める上で貴重な存在となるであろう。病気に関連する代謝物や微生物の影響を最小限に抑えつつ、健康を促進する可能性のある微生物への曝露を促進する実践方法には、換気を良くして室内環境における外気の割合を増やす、建築に使用する建材の種類を変える、湿気を減らすなどがあるが、これらに限定されない。ペットや植物に触れることは、室内環境の微生物多様性を高める比較的簡単な方法を提示する。農業環境への制御された暴露は効果的であることが示されていますが、実施には根本的なメカニズムに関するより深い洞察が必要です。これらのアプローチは、建物内の微生物のコロニー形成、活動、宿主との相互作用の理解に基づき、人の健康状態を改善する可能性を示しています。     
+
+
+
+Implications and translation 
+The finding that the ecology, metabolism and transmission pathways of microbial communities in indoor environments are dynamic has led to renewed interest in refining how we practise health care, how we design, operate and build buildings, and how we shape our built environments. Examples include identifying the types and sources of microorganisms in homes that influence the development of asthma in children, changing surface materials to reduce the transmission of pathogenic viruses and bacteria, controlling water activity to reduce mould growth and changing ventilation rates or filtration requirements to reduce the accumulation of bacteria that are being dispersed from humans in work spaces and homes (Fig. 4). Although there is substantial evidence that some bacteria can influence the onset of asthma, we still do not know whether it would be possible to intervene in homes of at-risk children with microbial probiotics (that is, the introduction of health-promoting microorganisms) to reduce the risk, although an ongoing study in Finland called PROBIOM is attempting to determine whether the introduction of microorganisms associated with forest soil could influence human health outcomes.   
+意味合いと翻訳 
+室内環境における微生物群集の生態、代謝、伝播経路がダイナミックであるという発見により、ヘルスケアの実践方法、建物の設計、運営、建設方法、そして建築環境の形成方法を洗練させることに新たな関心が集まっています。例えば、子どもの喘息の発症に影響を与える家庭内の微生物の種類や発生源の特定、病原性ウイルスや細菌の感染を抑えるための表面素材の変更、カビの繁殖を抑えるための水の活性制御、作業空間や家庭内で人間から飛散する細菌の蓄積を抑えるための換気量やろ過要件の変更などがあります（図4）。一部の細菌が喘息の発症に影響を与えるという実質的な証拠がありますが、リスクのある子供の家庭に微生物のプロバイオティクス（つまり、健康を促進する微生物の導入）を介入させてリスクを低減することが可能かどうかはまだわかっていません。フィンランドで進行中のPROBIOMという研究では、森林土壌に関連する微生物の導入が人間の健康結果に影響を与えるかどうかを判断しようとしています。  
+
+
+
+
+
+----------
+### 2017-05-09
+
+8:34 PM · Jun 2, 2019
+https://twitter.com/copypasteusa/status/1135147635763863553
+腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
+人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
+企業は既に腸内微生物をターゲットにしたプロバイオティクスを販売しているが、人工環境のための商業的応用はまだ先
+Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 国際コンソーシアムは世界中で都市の微生物群集を調査してきた (http://metasub.org/)。
+2015年、ニューヨークの地下鉄の表面（改札口、非常口、ベンチ、手すり、ゴミ箱）から検出された約1,700の微生物分類群の大部分はヒト皮膚細菌が占め、一部はヒトの腸内と尿生殖路に由来。DNA配列断片のほぼ半分が既知の生物と一致しなかった。地下鉄で見つかった細菌の大部分は無害。
+https://twitter.com/NatureBiotech/status/864838380353449984
+Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
+
+https://pubmed.ncbi.nlm.nih.gov/28486462/
+Nat Biotechnol
+. 2017 May 9;35(5):401-403. doi: 10.1038/nbt.3868.
+Living in a microbial world
+Charles Schmidt
+https://www.nature.com/articles/nbt.3868
+Studies of the gut microbiome have been generating headlines for years, but the focus on external microbiomes—those residing outside the human body—have received less attention. Microbiomes in urban and man-made environments (the 'built environment') are of particular interest, given their close association with humans.
+http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
+
+The indoor microbiome is influenced by building design and operations, human inhabitants and their activities.
+Source: Biology and Built Environment Center at the University of Oregon and Autodesk, Inc.
+室内マイクロバイオームは、建物の設計と運用、人間の居住者とその活動によって影響を受けます。
+出典はこちら オレゴン大学生物学・建築環境センター、Autodesk, Inc.
+
+*Building -> Restrooms, Offices, Classrooms* ![](https://media.nature.com/lw685/nature-assets-draft/nbt/journal/v35/n5/images/nbt.3868-I2.jpg)
+
+Gilbert found something similar; within five to eight hours of being completely sterilized, public restrooms at a school campus were full of human skin and gut bacteria, most of them completely harmless7.
+
+7. Gibbons, S.M. et al. Appl. Environ. Microbiol. 81,
+765–773 (2015).
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398865/
+FIG 1
+(A) Samples were collected from three surfaces in both female and male restrooms at San Diego State University. The surfaces analyzed were the toilet seat, the floor in front of the toilet, and the soap dispenser pump. 
+
+サンディエゴ州立大学の男性用と女性用のトイレ3表面：便座、トイレの前の床、石鹸ディスペンサーポンプ
+
+
+
+
+403　左
+
+Probiotics for home and office
+Whether it’s possible to capitalize on microbiome research by developing health-promoting probiotics for interior living spaces is still unknown, though studies have shown that bacteria that are closely related to human pathogens tend to be more common indoors than outdoors, particularly in rooms with poor ventilation16.
+
+家庭やオフィスで使えるプロバイオティクス
+マイクロバイオーム研究を活かして、室内の生活空間に健康を促進するプロバイオティクスを開発することが可能かどうかはまだ不明ですが、人間の病原体と密接な関係にある細菌は、屋外よりも屋内、特に換気の悪い部屋に多い傾向があるという研究結果が出ています16。
+
+However, according to Gilbert, until scientists define specifically what constitutes a healthy indoor microbiome, commercial indoor probiotics will be “totally unproven with regard to treating disease or maintaining health.”  
+しかし、ギルバート氏によると、科学者が健康な室内マイクロバイオームを構成するものを具体的に定義するまでは、市販の室内用プロバイオティクスは "病気の治療や健康維持に関して全く証明されていない "ことになります。 
+
+
+
+
+
+
+
+
+
+
+----------
+
+
+
+
+
+
+
+
+
+

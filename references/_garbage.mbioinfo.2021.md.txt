@@ -1,0 +1,381 @@
+
+
+
+
+
+
+
+----------
+
+----------
+
+- [SSBP](#ssbp) Single-strand DNA-binding protein 一本鎖DNA結合タンパク質
+
+----------
+## SSBP
+Single-strand DNA-binding protein
+
+- https://ja.wikipedia.org/wiki/一本鎖DNA結合タンパク質
+細菌SSBタンパク質
+- https://en.wikipedia.org/wiki/Single-stranded_binding_protein
+Eukaryotic mitochondrial SSB
+The mitochondria of eukaryotic cells contain their own single stranded DNA binding protein. Human mitochondrial SSB (mtSSB) binds to single-stranded mitochondrial DNA as a tetramer and has sequence similarity to bacterial SSB.[7] Human mtSSB is encoded by the SSBP1 gene. In yeast, it is encoded by the RIM1 gene.[8]
+- https://en.wikipedia.org/wiki/SSBP1
+
+
+https://www.ncbi.nlm.nih.gov/research/cog/cogcategory/L/
+L - Replication, recombination and repair
+```
+Organism	Protein	COG	Cat	Annotation
+
+1176	2146	COG0629	L	Single-stranded DNA-binding protein
+```
+https://www.ncbi.nlm.nih.gov/research/cog/cog/COG0629/
+
+
+
+12:01 AM · Mar 27, 2021
+https://twitter.com/mredrejo/status/1375462808389881866
+New preprint from the 
+@RnR_Lab
+ !!  In this work, we identify and characterize the single-stranded DNA binding protein (SSB) of one of our favorite viruses, the tectivirus Bam35. A great work of 
+@Analema93
+ and a great collaboration with 
+@DariusBio
+ (1/4)
+The Bam35 SSB is encoded by viral gene 2 and it turned out to be a highly specific SSB, unable to bind other nucleic acid substrates. Moreover, ssDNA binding is highly cooperative and results in (unspecific) stimulation of DNA replication. (2/4)
+Although diverse at the amino acid level, typical SSBs share a conserved structural domain, named OB-fold, present in all DNA binding proteins from all domains as well as DNA viruses. However, protein-primed viruses seemed an exception, as we didn't know any OB-fold SSB. (3/4)
+Based on sensitive database searches we found that B35SSB belongs to a novel and independent group of SSBs, along with other protein-primed viral genomes like (surprise!) Φ29 and close podoviruses. (4/4)
+BONUS TRACK: Structural predictions indicate that B35SSB contains a conserved domain resembling a divergent OB-fold, which would constitute the first occurrence of an OB-fold-like domain in a protein-primed genome.
+
+https://www.biorxiv.org/content/10.1101/2021.03.25.437074v1.full
+Unlimited cooperativity of Betatectivirus SSB, a novel DNA binding protein related to an atypical group of SSBs from protein-primed replicating bacterial viruses | bioRxiv
+
+Based on databases searches as well as phylogenetic and structural analyses, we showed that B35SSB belongs to a novel and independent group of SSBs. 
+
+As expected from such a diverse dataset of short sequences, phylogeny reconstruction not always yielded confident clades (Figure 6). 
+
+Figure 6.
+B35SSB and Φ29 related viruses belong to the same clade of SSBs from protein-primed genomes.
+Maximum-likelihood tree (left) generated using the trimmed multiple sequence alignment of B35SSB-related proteins (right) and visualized with the ggtree package for R software [50]. 
+Secondary structure prediction was obtained with the Jpred4 [51] and is indicated above the alignment, with the conserved C-terminal region (residues 76-167 in B35SSB) boxed.
+
+
+https://pubmed.ncbi.nlm.nih.gov/33430354/
+Review Cancers (Basel)
+. 2021 Jan 7;13(2):190. doi: 10.3390/cancers13020190.
+Cold-Shock Domains-Abundance, Structure, Properties, and Nucleic-Acid Binding
+Udo Heinemann 1, Yvette Roske 1
+https://www.mdpi.com/2072-6694/13/2/190
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/bin/cancers-13-00190-g001.jpg)
+Figure 1
+Sequence alignment of representative bacterial CSPs and CSDs from human proteins.
+*snip*
+The sequence motifs RNP1 ([YF]-G-F-I) and RNP2 ([YF]-[YF]-H) are associated with RNA binding and indicated according to Prosite [25].
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825780/bin/cancers-13-00190-g002.jpg)
+Figure 2
+Proteins with cold-shock domains. Domain annotations for one representative bacterial CSP and human CSD-containing proteins according to SMART [27].
+
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/33020264/
+Proc Natl Acad Sci U S A
+. 2020 Oct 20;117(42):26206-26217. doi: 10.1073/pnas.2000761117. Epub 2020 Oct 5.
+Phase separation by ssDNA binding protein controlled via protein-protein and protein-DNA interactions
+Gábor M Harami 1, Zoltán J Kovács 1, Rita Pancsa 2, János Pálinkás 3, Veronika Baráth 3, Krisztián Tárnok 4, András Málnási-Csizmadia 5, Mihály Kovács 1 5
+https://www.pnas.org/content/117/42/26206
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584906/
+
+
+
+
+2016
+https://hrcak.srce.hr/ojs/index.php/periodicum_biologorum/article/view/4847
+Variations in amino acid composition in bacterial single stranded DNA–binding proteins correlate with GC content | Periodicum Biologorum
+
+Figure 1. ML trees constructed with 199 sequences of 16S rRNA gene (A), and corresponding SSBs (B). Branches are coloured depending on the GC content of species (blue – low GC, green – medium GC and red – high GC). Nodes with aLRT values equal or greater than 0.9 are indi- cated by asterisks.
+
+
+
+
+https://www.springer.com/gp/book/9781627030311
+Single-Stranded DNA Binding Proteins - Methods and Protocols | James L. Keck | Springer
+2012
+
+
+https://pubmed.ncbi.nlm.nih.gov/22536367/
+PLoS One
+. 2012;7(4):e35285. doi: 10.1371/journal.pone.0035285. Epub 2012 Apr 19.
+Characterization of the single stranded DNA binding protein SsbB encoded in the Gonoccocal Genetic Island
+Samta Jain 1, Maria Zweig, Eveline Peeters, Katja Siewering, Kathleen T Hackett, Joseph P Dillard, Chris van der Does
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035285
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334931/
+Single stranded DNA binding proteins (SSBs) are highly conserved, essential proteins found in all kingdoms of life. These proteins bind to single-stranded DNA (ssDNA) with high affinity and low sequence specificity. They play a crucial role in processes involved in DNA metabolism like DNA repair, replication and recombination by modulating the functions of many DNA processing enzymes either by controlling the accessibility to ssDNA or via protein–protein interactions [1]. Several bacteria contain, next to the main SSB, a second SSB. 
+The second SSB can either be found on the chromosome or is located on a plasmid. The presence of a second chromosomal paralog is often related to natural competence [2], [3], [4]. Furthermore, nearly all conjugative plasmids also encode an SSB homologue. The exact function of these SSBs is still unclear; they seem not to be necessary for conjugal transfer of the plasmids, but might be involved in plasmid stability [5]. Remarkably, the SSB homologue VirE2 encoded on the Agrobacterium tumefaciens Ti plasmid is essential for infection of the host plant cells [6], [7]. VirE2 is transported via the Type IV secretion system (T4SS) on the Ti plasmid independent of the ssDNA [8]. In the recipient cell, it probably functions as a molecular motor facilitating the import of the Ti ssDNA [9], [10].
+
+Figure 1
+Unrooted phylogenetic tree of the ssDNA-binding proteins.
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/22073223/
+PLoS One
+. 2011;6(11):e26942. doi: 10.1371/journal.pone.0026942. Epub 2011 Nov 4.
+Phylogenetic and complementation analysis of a single-stranded DNA binding protein family from lactococcal phages indicates a non-bacterial origin
+Agnieszka K Szczepankowska 1, Eric Prestel, Mahendra Mariadassou, Jacek K Bardowski, Elena Bidnenko
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026942
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208561/
+For some phages, specific SSBs are involved in DNA replication and, in some cases are essential for phage development [20], [25]–[26]. Phylogenetic analysis of a number of bacterial and phage SSB proteins indicates that there have been frequent horizontal transfers from bacterial hosts to the genomes of their phages [27]. The bacterial origin of the phage ssb genes is easily recognized despite the high evolution rate of phages [24], [27]. Moreover, some phage SSBs are interchangeable with their bacterial analogs in vivo and in vitro [23], [28].
+
+
+https://pubmed.ncbi.nlm.nih.gov/20012581/
+Review Subcell Biochem
+. 2010;50:143-63. doi: 10.1007/978-90-481-3471-7_8.
+Eukaryotic single-stranded DNA binding proteins: central factors in genome stability
+Sandra Broderick 1, Kristina Rehmet, Claire Concannon, Heinz-Peter Nasheuer
+https://link.springer.com/chapter/10.1007%2F978-90-481-3471-7_8
+Mitochondrial SSBs (mtSSBs) have been found in all eukaryotes studied. mtSSBs are related to prokaryotic SSBs and essential to main the genome stability in eukaryotic mitochondria.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/12208948/
+J Virol
+. 2002 Oct;76(19):9695-701. doi: 10.1128/jvi.76.19.9695-9701.2002.
+Phylogenetic and functional analysis of the bacteriophage P1 single-stranded DNA-binding protein
+Jannick Dyrløv Bendtsen 1, Anders S Nilsson, Hansjörg Lehnherr
+https://jvi.asm.org/content/76/19/9695.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC136491/
+ABSTRACT
+Bacteriophage P1 encodes a single-stranded DNA-binding protein (SSB-P1), which shows 66% amino acid sequence identity to the SSB protein of the host bacterium Escherichia coli. 
+系統解析
+A phylogenetic analysis indicated that the P1 ssb gene coexists with its E. coli counterpart as an independent unit and does not represent a recent acquirement of the phage. The P1 and E. coli SSB proteins are fully functionally interchangeable. 
+
+RESULTS
+Phylogenetic analysis of ssb-P1.
+
+![](https://jvi.asm.org/content/jvi/76/19/9695/F1.medium.gif)
+FIG. 1.
+Phylogenetic tree. Nucleotide sequences of ssb genes were analyzed with the program PAUP∗, version 4.0 (Sinauer Associates). The numbers on the branches indicate bootstrap percentages of 100 replicates. Only groups compatible with a 50% majority rule consensus during the bootstrap procedure were included in the tree.
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/2013585/
+Comparative Study J Bacteriol
+. 1991 Apr;173(8):2720-3. doi: 10.1128/jb.173.8.2720-2723.1991.
+The single-stranded-DNA-binding protein encoded by the Escherichia coli F factor can complement a deletion of the chromosomal ssb gene
+R D Porter 1, S Black
+https://jb.asm.org/content/173/8/2720.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC207845/
+
+
+----------
+
+
+----------
+
+
+----------
+
+
+### Wang_2018
+
+https://pubmed.ncbi.nlm.nih.gov/29563494/
+Nat Commun
+. 2018 Mar 21;9(1):1179. doi: 10.1038/s41467-018-03205-z.
+The global distribution and spread of the mobilized colistin resistance gene mcr-1
+Ruobing Wang 1, Lucy van Dorp 2, Liam P Shaw 2, Phelim Bradley 3, Qi Wang 1, Xiaojuan Wang 1, Longyang Jin 1, Qing Zhang 4, Yuqing Liu 4, Adrien Rieux 5, Thamarai Dorai-Schneiders 6, Lucy Anne Weinert 7, Zamin Iqbal 3 8, Xavier Didelot 9, Hui Wang 10, Francois Balloux 11
+https://www.nature.com/articles/s41467-018-03205-z
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/
+
+Our analyses establish that all mcr-1 elements in circulation descend from the same initial mobilization of mcr-1 by an ISApl1 transposon in the mid 2000s (2002–2008; 95% highest posterior density), followed by a marked demographic expansion, which led to its current global distribution.
+
+Results
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/#Sec2title
+
+
+Fig. 1
+Overview of the mcr-1-positive isolates included. a Global map of mcr-1-positive isolates included colored by genus with the number and size of pies providing the sample size per location; b Map of novel Chinese isolates sequenced for this study; c Histogram of sampling dates (years) of the isolates. Maps were created using the R package rworldmap using the public domain Natural Earth data set
+
+
+Fig. 4
+Phylogeny of the mcr-1 composite transposon indicates a dominant sequence type with subsequent diversification. Midpoint-rooted maximum parsimony phylogeny based on the 3522 bp alignment of 457 sequences (recombinant regions removed). Size of points indicates the number of identical sequences, with a representative sequence for each shown next to each tip
+
+
+A Bayesian dating approach (BEAST) was applied to infer a timed phylogeny of the maximal alignable region of the mcr-1 carrying transposon (see Methods). Based on this 3522 site alignment we infer a common ancestor for 364 dated isolates in 2006 (Supplementary Fig. 3; 2002–2008 95% highest poster density (HPD) with a strict clock and coalescent model) with a mutation rate around 7.51 × 10−5 substitutions per site per year (Supplementary Table 1). There was no clear overall geographic clustering in the Maximum Clade Credibility (MCC) tree (Supplementary Figure 4).
+
+
+
+Fig. 5
+The distribution of plasmid types shown on the transposon phylogeny. Maximum parsimony tree (homoplastic sites removed, midpoint rooted, as in Fig. 4) based on the composite transposon alignment for 172 sequences containing a plasmid replicon on the same contig i.e. those with an assigned plasmid type (color). IncI2 and IncX4 are the most common plasmid types. An example sequence ID is shown for each unique sequence
+
+
+We applied BEAST to infer a timed phylogeny for each of these alignable regions after removal of SNPs showing evidence of recombination. For the IncI2 background we infer that a common ancestor to all 108 isolates existed in 2006 (1998–2010 95% CI relaxed exponential clock model) assuming a constant population size model (Supplementary Fig. 5). For the IncX4 backgrounds we dated the common ancestor of the eight isolates to 2011 (2010–2013 95% CI relaxed exponential clock model) assuming a constant population size model (Supplementary Fig. 6). Posterior density distributions of root dating under different population models are shown in Supplementary Figs. 7–8. The difference in dating inferred for these two plasmid backgrounds and the recent date obtained for IncX4 highlight the dynamic nature of the integration of the mcr-1 carrying transposon, even if in the IncX4 phylogeny isolates from East Asia and Europe and the Americas cluster together. The inferred mutation rates obtained for the IncI2 and IncX4 backgrounds consistently lie around 5–10 × 10−5 substitutions per site per year (Supplementary Table 1).
+
+
+Discussion
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/#Sec8title
+
+Our phylogenetic analyses point to a date for the insertion of mcr-1 into the gene transposon shared across our isolates in the mid 2000s (2002–2008 95% HPD). 
+
+Our estimates of the age of spread of the representative IncI2 and IncX4 plasmid backgrounds are more recent, dating to ~ 2008 and 2013, respectively, but are both consistent with the age of the transposon mobilization event. 
+
+
+Methods
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/#Sec9title
+
+Phylogenetic dating
+Given recombination can conceal the clonal phylogenetic signal we also applied ClonalFrameML52 to identify regions of high recombination in a subset of IncI2 and IncX4 plasmid background alignments. Where recombination hotspots were identified, they were removed from the alignment. In the IncI2 alignment, this resulted in removing 1281 positions. No regions of high recombination were detected in the IncX4 alignment. We applied root-to-tip correlations to test for a temporal signal in the data using TempEST55. There was a significantly positive slope for all three alignments (Supplementary Fig. 9–11).
+
+We applied BEAUTi and BEAST v2.4.756,57 to estimate a timed phylogeny from an alignment of IncI2 plasmids (7161 sites, 110 isolates) and IncX4 plasmids (34,761 sites, 8 isolates). 
+
+----------
+
+
+
+----------
+
+
+
+- [soil_microbiome](#soil_microbiome) 土壌微生物群集
+- [microbiome_modeling_simulation](#microbiome_modeling_simulation) マイクロバイオーム モデリング シミュレーション
+
+
+----------
+## soil_microbiome
+土壌微生物群集
+
+https://pubmed.ncbi.nlm.nih.gov/33997612/
+Access Microbiol
+. 2020 Nov 23;3(1):acmi000181. doi: 10.1099/acmi.0.000181. eCollection 2021.
+Antibiotic resistance levels in soils from urban and rural land uses in Great Britain
+Kieran Osbiston 1, Anne Oxbrough 1, Lorena Teresa Fernández-Martínez 1
+
+
+1:36 PM · Mar 13, 2021
+https://twitter.com/kztakemoto/status/1370594507457105921
+土壌細菌多様性と温暖化についての論文が出版されました。
+https://www.mdpi.com/1424-2818/13/3/120
+Diversity of Dominant Soil Bacteria Increases with Warming Velocity at the Global Scale
+
+2020/12/03
+https://www.youtube.com/watch?v=TNXLhaaMzBM
+How Microbiomes Can Help Us Deal with Climate Change | Steven Allison | TEDxUCIrvine
+The chemical balance of our planet depends on highly diverse and adaptable microbiomes that live in soils, oceans, and the air. Microbial ecologist Steven Allison explains the potential for these
+fascinating microbial communities to help combat climate change while sustaining agriculture and building healthy soils. 
+
+https://www.annualreviews.org/doi/full/10.1146/annurev-environ-012320-082720
+Soil Microbiomes Under Climate Change and Implications for Carbon Cycling | Annual Review of Environment and Resources
+Vol. 45:29-59 (Volume publication date October 2020)
+Dan Naylor,1 Natalie Sadler,1 Arunima Bhattacharjee,2 Emily B. Graham,1,3 Christopher R. Anderton,2 Ryan McClure,1 Mary Lipton,2 Kirsten S. Hofmockel,1,4 and Janet K. Jansson1
+
+NASA Video
+2020/05/17
+https://www.youtube.com/watch?v=Ff6SQecABTg
+Soil Microbiomes and Climate Change presented by Janet Jansson, PhD - Chief Scientist for Biology in the Biological Sciences Division, Pacific Northwest National Laboratory
+
+https://pubmed.ncbi.nlm.nih.gov/31586158/
+Review Nat Rev Microbiol
+. 2020 Jan;18(1):35-46. doi: 10.1038/s41579-019-0265-7. Epub 2019 Oct 4.
+Soil microbiomes and climate change
+https://www.nature.com/articles/s41579-019-0265-7
+Janet K Jansson 1, Kirsten S Hofmockel 2
+https://www.osti.gov/pages/biblio/1615017
+https://www.osti.gov/pages/servlets/purl/1615017
+
+2020/9/19
+http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1607-5.html
+人に話したくなる土壌微生物の世界 食と健康から洞窟、温泉、宇宙まで
+染谷孝［著］
+
+https://pubmed.ncbi.nlm.nih.gov/28824177/
+Review Nat Rev Microbiol
+. 2017 Oct;15(10):579-590. doi: 10.1038/nrmicro.2017.87. Epub 2017 Aug 21.
+Embracing the unknown: disentangling the complexities of the soil microbiome
+Noah Fierer 1 2
+Affiliations expand
+https://www.nature.com/articles/nrmicro.2017.87
+
+https://pubmed.ncbi.nlm.nih.gov/25861819/
+Genome Biol Evol
+. 2015 Apr 9;7(5):1380-9. doi: 10.1093/gbe/evv063.
+Prokaryotic nucleotide composition is shaped by both phylogeny and the environment
+Erin R Reichenberger 1, Gail Rosen 2, Uri Hershberg 3, Ruth Hershberg 4
+https://academic.oup.com/gbe/article/7/5/1380/603567
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4453058/
+We find environmentally driven differences in nucleotide content not only between highly diverged environments (e.g., soil, vs. aquatic vs. human gut) but also within a single type of environment. 
+
+https://pubmed.ncbi.nlm.nih.gov/23024607/
+Curr Genomics
+. 2012 Apr;13(2):153-62. doi: 10.2174/138920212799860698.
+Microbial lifestyle and genome signatures
+Chitra Dutta 1, Sandip Paul
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308326/
+The obligatory intracellular pathogens/symbionts and microorganisms surviving in nutrient-limiting environments are, in most cases, characterized by relatively small genomes of low G+C-content, apparently in attempt to reduce replication expenses [13, 14], while free-living organisms, especially of the ones surviving in the soil [6], usually possess much larger genomes of higher G+C-content.
+
+メタゲノムのGC含量の中央値は、農場の土壌サンプルで61%、海洋表層水サンプルで34%。
+コドン3文字目のGC含量の中央値は、農地の土壌で74%、海洋表層水で24%。
+https://pubmed.ncbi.nlm.nih.gov/16200051/
+Comparative Study EMBO Rep
+. 2005 Dec;6(12):1208-13. doi: 10.1038/sj.embor.7400538.
+Environments shape the nucleotide composition of genomes
+Konrad U Foerstner 1, Christian von Mering, Sean D Hooper, Peer Bork
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369203/
+- (Fig 1A). Surprisingly, the samples from farm soil and ocean surface water—both of which contain DNA from more than 1,000 diverse, non-abundant species (Venter et al, 2004; Tringe et al, 2005)—are very different, with the surface water sample having a GC-content median of around 34% and the soil sample around 61%.
+- We found that the third codon position is even more extreme with respect to GC distribution than the average of all three positions (Fig 2, the median in farm soil is 74%, versus 24% in the ocean surface water).
+
+
+----------
+## microbiome_modeling_simulation
+マイクロバイオーム モデリング シミュレーション
+
+https://pubmed.ncbi.nlm.nih.gov/33543271/
+Gigascience
+. 2021 Feb 5;10(2):giab005. doi: 10.1093/gigascience/giab005.
+MB-GAN: Microbiome Simulation via Generative Adversarial Network
+Ruichen Rong 1, Shuang Jiang 1 2, Lin Xu 1, Guanghua Xiao 1, Yang Xie 1, Dajiang J Liu 3, Qiwei Li 4, Xiaowei Zhan 1 5
+
+https://pubmed.ncbi.nlm.nih.gov/32127450/
+mBio
+. 2020 Mar 3;11(2):e02691-19. doi: 10.1128/mBio.02691-19.
+Modeling of the Coral Microbiome: the Influence of Temperature and Microbial Network
+Laís F O Lima 1 2, Maya Weissman 3, Micheal Reed 1, Bhavya Papudeshi 4, Amanda T Alker 1, Megan M Morris 1, Robert A Edwards 1 5, Samantha J de Putron 6, Naveen K Vaidya 3 5, Elizabeth A Dinsdale 7 5
+
+https://pubmed.ncbi.nlm.nih.gov/32023941/
+Review Microorganisms
+. 2020 Jan 31;8(2):197. doi: 10.3390/microorganisms8020197.
+Computational Modeling of the Human Microbiome
+Shomeek Chowdhury 1, Stephen S Fong 2
+
+https://pubmed.ncbi.nlm.nih.gov/30462168/
+Bioinformatics
+. 2019 Jul 1;35(13):2332-2334. doi: 10.1093/bioinformatics/bty941.
+The Microbiome Modeling Toolbox: from microbial interactions to personalized microbial communities
+Federico Baldini 1, Almut Heinken 1, Laurent Heirendt 1, Stefania Magnusdottir 1, Ronan M T Fleming 1 2, Ines Thiele 1
+
+https://pubmed.ncbi.nlm.nih.gov/31337891/
+Review Nat Microbiol
+. 2019 Aug;4(8):1253-1267. doi: 10.1038/s41564-019-0491-9. Epub 2019 Jul 23.
+Modelling approaches for studying the microbiome
+Manish Kumar 1 2, Boyang Ji 1, Karsten Zengler 2 3 4, Jens Nielsen 5 6
+
+https://pubmed.ncbi.nlm.nih.gov/30412640/
+PLoS One
+. 2018 Nov 9;13(11):e0207072. doi: 10.1371/journal.pone.0207072. eCollection 2018.
+GutLogo: Agent-based modeling framework to investigate spatial and temporal dynamics in the gut microbiome
+Charlie Lin 1, Joshua Culver 1, Bronson Weston 1, Evan Underhill 1, Jonathan Gorky 1, Prasad Dhurjati 1
+
+
+
+
+----------
+
+
+
+
+

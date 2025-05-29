@@ -1,0 +1,183 @@
+
+
+https://github.com/haruosuz/microbe/tree/master/references
+https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+
+# cd /Users/haruo/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My\ Drive/haruoszk/projects/microbe/
+
+#git pull origin master
+
+#FILE="references/microbe.news.md"
+#FILE="references/microbe.2019.md"
+#FILE="references/microbe.video.md"
+#FILE="references/microbe.virus.md"
+#FILE="references/microbe.resistance.md"
+#FILE="references/microbe.memo.md"
+#FILE="references/README.microbiome.md"
+FILE="references/microbe.COVID-19.md"
+FILE="references/microbe_ISS.md"
+FILE="references/README.bacteria.md"
+FILE="references/README.MoBE.md"
+FILE="references/microbe.urban.md"
+FILE="references/mbioinfo.2021.md"
+#gh-md-toc "${FILE}"
+#cat "${FILE}"
+git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+
+
+----------
+2022-11-20
+
+fatal: cannot lock ref 'HEAD': Unable to create '/Users/haruo/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe/.git/refs/heads/master.lock': File exists.
+
+mv .git/refs/heads/master.lock .
+
+git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+
+----------
+2022-09-27
+
+./.git/refs/remotes/origin/master.lock
+を移動した。
+
+https://zenn.dev/utah/articles/ace08f29fb61fc
+git checkout しようとしたら index.lock でエラーがでる
+
+エラーを見る限り、ディレクトリ配下の.git/index.lockが存在しているためのエラーのようなので、削除したところ無事事象は改善しました
+
+
+----------
+2022-09-25
+
+FILE="references/microbe.urban.md"
+cat "${FILE}"; git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+
+
+To github.com:haruosuz/microbe.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'github.com:haruosuz/microbe.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+https://qiita.com/Kei_4/items/01428c68b5d18424d23d
+git push -f origin master
+
+
+
+----------
+
+
+
+
+FILE="references/README.memo.md"
+#FILE="references/microbe.updates.md" # 2020-03-12
+#FILE="references/README.space.md" # 2020-10-15
+#FILE="references/microbe.space.md"
+git rm -f "${FILE}"; git commit -m "remove ${FILE}"; git push origin master
+
+
+
+
+----------
+2020-10-15
+
+Username for 'https://github.com': 
+Password for 'https://github.com': 
+
+https://qiita.com/pugiemonn/items/a804682db9ce9316756e
+GitHub へのアクセスで remote: Invalid username or password と言われたので、git remote set-url でリポジトリを指定した。 - Qiita
+
+
+git remote -v
+git remote set-url origin git@github.com:haruosuz/microbe.git
+git remote -v
+
+
+
+
+----------
+
+	cat README.microbe.md | tr '\015' '\012' > README.md; git add README.md; git commit -m 'update README.md'; git push origin master
+
+
+
+----------
+
+## GitHub
+
+### Creating a Shared Central Repository with GitHub
+[the Create a New Repository page](https://github.com/new)  
+microbe
+
+### Git Setup: Telling Git Who You Are
+
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin https://github.com/haruosuz/microbe
+    git push -u origin master
+
+----------
+
+
+
+
+From: "Cooper, Peter (NIH/NLM/NCBI) [E]" <cooper@ncbi.nlm.nih.gov>
+Subject: Re: Microbial Genomes Properties [Organism info]
+Date: July 16, 2013 at 5:26:54 GMT+9
+To: Haruo Suzuki <haruo@yamaguchi-u.ac.jp>
+Cc: "Cooper, Peter (NIH/NLM/NCBI) [E]" <cooper@ncbi.nlm.nih.gov>
+
+From: "F.Dini Andreote" <f.dini.andreote@rug.nl>
+Subject: Re: GOLD Metadata
+Date: September 1, 2012 at 20:25:30 GMT+9
+
+
+----------
+
+
+2007年3月5日
+https://www.excite.co.jp/News/bit/00091172786369.html
+米ドル紙幣の行方を追跡する 「Where’s George？」 - Excite Bit コネタ
+
+https://matome.naver.jp/odai/2141260925732438601
+女受けする趣味一覧の『紙幣追跡』が面白い件ｗｗ - NAVER まとめ
+http://www.msg-bill.com/msgbill/init.do
+MESSAGE IN A BILL 紙幣の通し番号を検索してください
+
+----------
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/23024607
+Curr Genomics. 2012 Apr;13(2):153-62.
+Microbial lifestyle and genome signatures.
+Dutta C1, Paul S.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308326/
+
+hexanucleotide [31]
+tetranucleotide [34]
+
+31. 
+https://www.ncbi.nlm.nih.gov/pubmed/18421372
+PLoS Comput Biol. 2008 Apr 18;4(4):e1000057. doi: 10.1371/journal.pcbi.1000057.
+Investigations of oligonucleotide usage variance within and between prokaryotes.
+Bohlin J1, Skjerve E, Ussery DW.
+
+34. 
+https://www.ncbi.nlm.nih.gov/pubmed/20333228
+Genome Biol Evol. 2010 Jan 25;2:117-31. doi: 10.1093/gbe/evq004.
+Distinguishing microbial genome fragments based on their composition: evolutionary and comparative genomic perspectives.
+Perry SC1, Beiko RG.
+
+
+----------
+
+
+
+
+

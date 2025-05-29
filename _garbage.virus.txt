@@ -1,0 +1,184 @@
+
+
+
+----------
+## rumour
+
+
+https://twitter.com/rikomrnk/status/1229782895901806597
+村中璃子 RIKO MURANAKA on Twitter: "新型コロナは遺伝子解析の結果、ラボで作られたものでは「ない」ことが分かってきました。論文がまもなく発表されます。 https://t.co/lAFp8BCAsj"
+12:01 AM · Feb 19, 2020
+
+
+https://twitter.com/AdamJKucharski/status/1229371111500062721
+"This analysis provides evidence that SARS-CoV-2 is not a laboratory construct nor a purposefully manipulated virus." Before you read any speculation about SARS-CoV-2 origins, read this post by some leading researchers in pathogen evolution/genomics
+8:44 PM · Feb 17, 2020
+
+
+https://twitter.com/arambaut/status/1229366869095800832
+I have just posted a pre-print of a review written by 
+@K_G_Andersen
+, 
+@edwardcholmes
+, Ian Lipkin & Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans.
+8:27 PM · Feb 17, 2020
+
+
+
+
+
+
+
+----------
+
+
+https://www.facebook.com/nakagawa.so/posts/10222259449700043
+Nakagawa So
+4 hrs · 
+日刊ゲンダイ誌に先日電話インタビューを受けたものが記事として公開されました。文字数の関係で細かい話ができていないので、ネコで新型コロナウイルスが「空気感染」する可能性と、ネコが新型コロナウイルスの中間宿主ではない可能性について、下に更に詳細記します。
+
+4月8日にオンライン公開された米国サイエンス誌に掲載された中国のハルビン獣医学研究所からの論文（https://science.sciencemag.org/…/early/2020/04/07/science.a…）では「空気感染」という言葉が確かに使われています。ただし、この実験では、高濃度の新型コロナウイルスを猫に噴霧して感染させた実験のため、そもそもの濃度が高かった可能性も他の研究者から指摘されています（https://www.nature.com/articles/d41586-020-00984-8）ので、「空気感染」はあくまでも実験室レベルでの話です。今後他の研究グループからの追試が待たれるところです。
+
+また、それではネコが原因で今回の新型コロナウイルスが広まったかもと考える人がいるかもしれません。プレプリント（査読前の論文）の報告ですが、武漢に生息する猫の抗体検査が大規模に調べた研究成果があります（https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1）。その結果、新型コロナウイルスの流行以後にサンプリングを行った猫には抗体があった、つまり猫の一部は新型コロナウイルスに感染していたと考えれれるが、それ以前の武漢で採取された猫の血液からは抗体は検出されませんでした。つまり、猫の集団中にもともとウイルスがあったわけではないと示唆されています。この結果から、猫が媒体となって新型コロナウイルスを人に感染させたのではなくて、人から猫に感染した可能性が高いと考えられます。
+
+
+----------
+pnas contributed network
+
+https://twitter.com/n0rr/status/1248477292533174276
+Contributed by 著者なPNAS並みのゴミ論文
+
+
+
+
+----------
+
+
+https://twitter.com/hashtag/西浦博?f=live
+北海道大学大学院 医学研究院 西浦博教授
+クラスター対策班でデータ分析を主導している専門家
+北海道大学の西浦博教授
+https://twitter.com/nishiurah/status/1245112903381864448
+この流行はWar-like（戦争のよう）と表現され、皆さん既に実感されつつあると思います。過去に自身でTweetしたのですが、この流行では、都会での密な接触や屋内活動、国際移動を伴う私たちのライフスタイルの見直しが迫られています。それに対峙する心構えをお伝えしたいです。2/7
+戦争状態になっても冷静でいられる気持ちの準備をして下さい。見たくない未来が待っているかも知れません。僕と僕の好きな若手たちが今までできたことは結果論として可能な限りの時間稼ぎ、というだけになるかも知れません。これまで日本で見られなかったレベルの流行に成り得ます。 4/7
+
+
+----------
+
+- [Nextstrain](https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain)
+
+![](https://pbs.twimg.com/media/ES--jykWkAANZCF?format=jpg&name=small)
+
+新型コロナウイルス拡散のゲノム解析. 状況報告2020-03-20
+
+## nextstrain
+
+https://twitter.com/yutakashino/status/1236181231684943872
+Yuta Kashino on Twitter: "Nextstrain / narratives / ncov / sit-rep / 2020-03-04 https://t.co/0qQRhkMxZg COVID-19が世界中で大変なことになってきましたが，イタリアのSARS-CoV-2株がどう感染していったかを分子系統樹の解析により解明していくこのNextstrainのナラティブは圧巻…" / Twitter
+3:45 PM · Mar 7, 2020
+
+https://twitter.com/TJO_datasci/status/1234684245538267137
+新型コロナウイルスのゲノム解析＆変異系統をまとめたサイトがあった。非常に分かりやすい。検体の採取された地名から検索することも可能。これを見ればどことどことの間で感染が広がったか、また市中感染があったかどうかもある程度推測できる 
+12:37 PM · Mar 3, 2020
+
+
+
+----------
+
+
+
+https://twitter.com/oohamazaki/status/1229607308549713921
+【御礼とシェアのお願い】 昨日リリースした都道府県別新型コロナウイルス感染症数マップ（ http://bit.ly/covid19jp )
+
+
+https://mainichi.jp/articles/20200214/k00/00m/040/374000c
+新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
+
+
+
+
+
+
+
+https://www.targma.jp/j-ron/2020/03/03/post719/
+『感染症もサッカーもゼロリスクを求めてはいけない』岩田健太郎教授に緊急取材、サッカー観戦の感染リスクとJリーグ再開の是非(前編) : J論プレミアム
+
+https://www.targma.jp/j-ron/2020/03/04/post727/
+「90分の試合でいろんな選手に感染する可能性は低い」岩田健太郎教授に緊急取材、サッカー観戦の感染リスクとJリーグ再開の是非(後編)【ほぼ24時間無料】 : J論プレミアム
+
+
+
+https://twitter.com/TJO_datasci/status/1235826294979325955
+Nextstrainの紹介がされた良記事
+4:15 PM · Mar 6, 2020
+https://twitter.com/TJO_datasci/status/1234684245538267137
+新型コロナウイルスのゲノム解析＆変異系統をまとめたサイトがあった。非常に分かりやすい。検体の採取された地名から検索することも可能。これを見ればどことどことの間で感染が広がったか、また市中感染があったかどうかもある程度推測できる https://nextstrain.org/ncov
+12:37 PM · Mar 3, 2020
+日本で解析されたウイルスの周辺系統がこちら。意外にも近隣の系統にUSで検出されたウイルスがあったりする
+米ワシントン州で解析されて「市中感染が起きている（同一の起源の株から枝分かれしているので変異が起きたという趣旨）」という推測がなされた辺りのデータ。良くみると似たような並列の関係のウイルスがオーストラリア、イングランドでも見られるような。。。
+
+
+
+https://twitter.com/Beer_yeast/status/1229327375936061440
+系統樹からどうウイルスが広がっていったのか可視化してる
+https://nextstrain.org/ncov
+5:51 PM · Feb 17, 2020
+
+
+これ配列だけでこの系統樹になりますか？
+No nucleotide mutationsが色々な枝にあるのですが。
+草
+@n0rr
+·
+Feb 17
+登録あるの割と短くて、公開されてるtreeにブートストラップ値がのってないのでこわいなと思いました
+
+
+
+
+
+----------
+
+https://twitter.com/smith796000/status/1235349699449647104
+上念　司 on Twitter: "テレビの中の人は池袋大谷クリニックとか上昌広とか岡田晴恵にテキトーなコメントさせちゃダメだよ。 厚労省がテレ朝のあの番組名指しでやんわり反論し始めました。これどんどんやった方がいいと思う。 ついでにBPOにも通報してくれ。 私も頑張って抗議電話かけよう。 https://t.co/kckMHVSU67" / Twitter
+8:41 AM · Mar 5, 2020
+https://twitter.com/MHLWitter/status/1235335031305928706
+【#新型コロナウイルス マスクの供給】
+3月4日午前8時からの「羽鳥慎一モーニングショー」の出演者から、「まずは医療機関に配らなければだめ。医療を守らなければ治療ができないから、医療機関、特に呼吸器関係をやっている人に重点的に配っていく 」とのコメントがありました。(1/3)
+厚生労働省では、感染症指定医療機関への医療用マスクの優先供給を行ったほか、都道府県の備蓄用マスクの活用や日本医師会や日本歯科医師会のルートを活用した優先配布の仕組みをお知らせしています。（2/3)
+最終的に全ての医療機関に十分なマスクが届くことが必要であり、引き続き、マスクの増産や全ての医療機関を対象とした優先供給を進めてまいります。(3/３)
+
+https://twitter.com/y_tambe/status/1233271239747063808
+Y Tambe on Twitter: "あの方は、だいたい調子が出てくると陰謀論を出してくるのが毎度のことなのです。なので「あ、またか。では解散」以上の感想はなし。 https://t.co/PVu4QEWeH4" / Twitter
+3:02 PM · Feb 28, 2020
+
+https://twitter.com/HattoriM/status/1233242963288838144
+HattoriM on Twitter: "デマです https://t.co/jGNoegmwtW" / Twitter
+1:10 PM · Feb 28, 2020
+
+ドラマ『ホット・ゾーン』に学ぶリスクとの向き合い方
+
+2019年10月15日（火）11時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
+岡田晴恵：訪日客急増の2020年､感染症は「今そこにある危機」になる可能性 | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02_2.php
+岡田晴恵
+医学博士。専門は感染免疫学、ウイルス学。ドイツマールブルク大学医学部ウイルス学研究所客員研究員、国立感染症研究所研究員を経て、現白鴎大学教育学部特任教授。著書は『なぜ感染症が人類最大の敵なのか？』（ベスト新書）、『エボラVS人類　終わりなき闘い』（PHP新書）など多数。『感染症カルタ～うつる病気の秘密～』（奥野かるた店）を制作したり、NHKラジオで今夏放送されたドラマ『室井滋の感染症劇場』（インターネットで聴取可能 https://www.nhk.or.jp/radio/anshin/kansensho/）の脚本と監修を務めるなど、感染症についての啓発活動を行っている。
+
+2019年10月8日（火）13時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone01.php
+モーリー･ロバートソン：ウイルス同様に｢偽情報も進化する時代｣に備えよ | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+
+
+
+
+
+
+
+
+
+----------
+
+
+

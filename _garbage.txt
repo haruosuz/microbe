@@ -1,0 +1,839 @@
+
+
+----------
+
+
+
+----------
+
+
+
+----------
+
+
+
+
+
+----------
+2024-04-26
+
+cd /Users/haruo/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My\ Drive/haruoszk/projects/microbe/
+
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $git pull origin master
+
+From github.com:haruosuz/microbe
+ * branch            master     -> FETCH_HEAD
+error: cannot lock ref 'refs/remotes/origin/master': Unable to create '/Users/haruo/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe/.git/refs/remotes/origin/master.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+ ! [new branch]      master     -> origin/master  (unable to update local ref)
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $
+
+
+mv .git/refs/remotes/origin/master.lock _box/
+
+git pull origin master
+
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $git pull origin master
+From github.com:haruosuz/microbe
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+There are no candidates for merging among the refs that you just fetched.
+Generally this means that you provided a wildcard refspec which had no
+matches on the remote end.
+
+
+
+FILE="references/mbioinfo.2021.md"
+git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+
+
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $FILE="references/mbioinfo.2021.md"
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+
+fatal: cannot lock ref 'HEAD': Unable to create '/Users/haruo/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe/.git/refs/heads/master.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:haruosuz/microbe.git'
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $
+
+
+mv .git/refs/heads/master.lock _box/
+
+
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $FILE="references/mbioinfo.2021.md"
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+
+[master (root-commit) 96af0d3] update references/mbioinfo.2021.md
+ Committer: Haruo Suzuki <haruo@MacBook-Pro-14-inch-2021.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 14 files changed, 13868 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 references/README.MoBE.md
+ create mode 100644 references/README.bacteria.md
+ create mode 100644 references/README.microbiome.md
+ create mode 100644 references/mbioinfo.2021.md
+ create mode 100644 references/microbe.2019.md
+ create mode 100644 references/microbe.COVID-19.md
+ create mode 100644 references/microbe.memo.md
+ create mode 100644 references/microbe.news.md
+ create mode 100644 references/microbe.resistance.md
+ create mode 100644 references/microbe.urban.md
+ create mode 100644 references/microbe.video.md
+ create mode 100644 references/microbe.virus.md
+ create mode 100644 references/microbe_ISS.md
+To github.com:haruosuz/microbe.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'github.com:haruosuz/microbe.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $
+
+
+
+この問題の解決方法は、いくつかの手順が必要です。
+
+1. ローカルの変更をリモートリポジトリにプッシュする前に、リモートリポジトリの変更を取り込む必要があります。これは、"non-fast-forward" エラーが発生する理由です。
+
+2. リモートリポジトリの変更を取り込むために、次のコマンドを使用します。
+
+   ```
+   git pull origin master
+   ```
+
+   これにより、ローカルの変更とリモートの変更がマージされます。
+
+3. マージが成功したら、ローカルの変更を再度プッシュします。
+
+   ```
+   git push origin master
+   ```
+
+これで、リモートリポジトリに変更をプッシュできるはずです。
+
+git pull origin master
+
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $git pull origin master
+From github.com:haruosuz/microbe
+ * branch            master     -> FETCH_HEAD
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: refusing to merge unrelated histories
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $
+
+`git pull`コマンドで`fatal: refusing to merge unrelated histories`というエラーが発生しました。これは、ローカルの履歴とリモートの履歴が関連性がないという意味です。この場合、通常は何らかの解決策を指定する必要があります。
+
+次のいずれかの方法でこのエラーを解決できます:
+
+1. `--allow-unrelated-histories`フラグを使用してマージします:
+
+   ```bash
+   git pull origin master --allow-unrelated-histories
+   ```
+
+   これにより、関連性のない履歴でもマージが許可されます。
+
+2. `pull.rebase`を設定して、リモートの履歴をローカルの履歴とリベースします:
+
+   ```bash
+   git config pull.rebase true
+   git pull origin master
+   ```
+
+   これにより、リベースされた履歴が取得されます。
+
+どちらの方法を選択するかは好みの問題ですが、通常は `--allow-unrelated-histories`を使用することが推奨されます。
+
+
+git pull origin master --allow-unrelated-histories
+
+
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $git pull origin master --allow-unrelated-histories
+From github.com:haruosuz/microbe
+ * branch            master     -> FETCH_HEAD
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+CONFLICT (add/add): Merge conflict in references/mbioinfo.2021.md
+Auto-merging references/mbioinfo.2021.md
+Automatic merge failed; fix conflicts and then commit the result.
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $
+
+
+
+
+FILE="references/mbioinfo.2021.md"
+git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+
+
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $FILE="references/mbioinfo.2021.md"
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $git add "${FILE}"; git commit -m "update ${FILE}"; git push origin master
+[master 892eaf0] update references/mbioinfo.2021.md
+ Committer: Haruo Suzuki <haruo@MacBook-Pro-14-inch-2021.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 2.79 KiB | 1.39 MiB/s, done.
+Total 8 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), completed with 2 local objects.
+To github.com:haruosuz/microbe.git
+   d7cc474..892eaf0  master -> master
+~/Library/CloudStorage/GoogleDrive-haruo@keio.jp/My Drive/haruoszk/projects/microbe $
+
+
+
+
+
+
+
+
+
+
+
+
+----------
+
+
+----------
+
+
+https://www.aqua-club.co.jp/products/mil-kin/
+バクテリア・セルフチェッカー『mil-kin（見る菌)』 – アクアシステム
+飲食店舗や食品工場や飲料・製薬工場の気になるところを、スマートフォンやタブレットを使い、リアルタイムに微生物の有無のチェックができる衛生管理のアイテムをご紹介。
+
+
+
+----------
+
+
+- [ofsf](#ofsf) 大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
+
+
+----------
+## ofsf
+
+- https://www.ofsf.or.jp/
+公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- https://www.ofsf.or.jp/en/
+Ohsumi Frontier Science Foundation
+
+
+
+
+- [infectious_disease](#infectious_disease) 感染症
+
+## infectious_disease
+感染症
+
+https://soniashah.com/pandemic-the-book/
+Pandemic – Sonia Shah
+
+
+
+
+
+
+人工環境の微生物群集とメンタルヘルス
+https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#mental-health
+
+
+
+MetaSUB国際コンソーシアム（都市マイクロバイオーム）の論文より
+
+https://www.biorxiv.org/content/10.1101/724526v5.full
+Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance | bioRxiv
+
+we created a global metagenomic and antimicrobial resistance (AMR) atlas of urban mass transit systems from 58 cities, spanning 3,741 samples and 4,424 taxonomically-defined microorganisms collected for three years.
+
+These data also show that AMR density across cities varies by several orders of magnitude with many AMRs present on plasmids with cosmopolitan distributions.
+
+
+2.2 Global Diversity Varies According to Covariates
+
+We identified covariates which influenced the taxonomic composition of our samples: city, population density, average temperature in June, region, elevation above sea-level, surface type, surface material, elevation above or below ground and proximity to the coast. The most important factor, which could explain 19% of the variation in isolation, was the city from which a sample was taken followed by region which explained 11%. The other four factors ranged from explaining 2% to 7% of the possible variation in taxonomy in isolation (Supp. Table S2).
+
+2.3 Microbial Signatures Reveal Urban Characteristics
+
+We sought to determine whether a samples taxonomy reflected the environment in which it was collected. To this end we trained a Random Forest Classifier (RFC) to predict a sample’s city of origin from its taxonomic profile. 
+
+微生物の分類学的組成からサンプルの由来する都市を機械学習（ランダムフォレスト）で予測。
+
+3 Discussion
+
+Unique taxonomic composition and association with covariates specific to the urban environment suggest that urban microbiomes should be treated as ecologically distinct from both surrounding soil microbiomes and human commensal microbiomes.
+
+- https://twitter.com/mason_lab/status/1158704680383524866
+- https://twitter.com/dcdanko/status/1158706320352120835
+論文の責任著者 Christopher Mason や 筆頭著者 David Danko のツイートで要約が述べられています。
+2015-2017年に58都市で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
+都市の微生物叢は、地理的に類似している。サンプルを採取地で区別できるが、サンプル間で共通の（core）微生物が存在。
+都市の微生物叢は、人間の皮膚や土壌の微生物叢とは明らかに似ていない。1万以上の新しいウイルスゲノムを同定。
+薬剤耐性（AMR）の世界的なマップが大幅に拡張された。AMRを配列データのみから予測するのが難しいことに注意。
+最後に、このデータにアクセスするための多くのツールと方法を紹介。
+
+
+----------
+
+
+
+# 2019-07-08 # git rm -f references/microbe.books.md; git commit -m 'remove references/microbe.books.md'; git push origin master
+
+
+
+
+
+----------
+
+
+
+
+
+- [Behzad H, Gojobori T, Mineta K. Genome Biol Evol. 2015 May 6;7(5):1216-26. "Challenges and opportunities of airborne metagenomics."](http://www.ncbi.nlm.nih.gov/pubmed/25953766)
+- [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
+- [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
+- [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
+- [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
+- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
+- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
+
+
+
+----------
+
+FILE="references/microbe.memo.md"
+gh-md-toc "${FILE}"
+
+## Table of Contents
+- [definition](#definition)
+- [asepsis](#asepsis) 無菌
+- [cell number](#cell-number)
+- [culture](#culture)
+- [featuring](#featuring)
+- [updates](#updates)
+[2019](#2019)
+[2018](#2018)
+[2017](#2017)
+[2016](#2016)
+- [prokaryote](#prokaryote)
+- [archaea](#archaea)
+- [products](#products)
+[jokin](#jokin)
+[aobiome](#aobiome)
+[varinos](#varinos)
+
+
+
+----------
+
+/Users/haruo/Google_Drive/haruoszk/projects/microbe/references/README.bacteria.md
+
+
+Geobacteraceae phylogeny
+![](https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F1471-2164-10-103/MediaObjects/12864_2008_Article_1987_Fig1_HTML.jpg)
+![](https://www.microbiologyresearch.org/docserver/ahah/fulltext/ijsem/54/5/IJE45259-1_thmb.gif)
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/bin/1471-2164-11-40-1.jpg)
+
+
+https://github.com/haruosuz/microbe/blob/master/references/README.bacteria.md#sinorhizobium-phylogeny
+
+Fig. 2.
+Phylogenetic trees based on six genes calculated using the ML method. 
+![http://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.64344-0.F2](http://ijs.microbiologyresearch.org/docserver/fulltext/ijsem/57/3/489fig2.gif)
+
+Fig. 3.
+Phylogenetic trees based on concatenated sequences of dnaK, glnA and thrC, calculated using NJ, MP and ML. 
+![http://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.64344-0.F3](http://ijs.microbiologyresearch.org/docserver/fulltext/ijsem/57/3/489fig3.gif)
+
+Fig. 4.
+Phylogenetic trees based on concatenated sequences of dnaK, glnA and thrC, gltA, recA and 16S rRNA genes calculated using NJ, MP and ML.
+![http://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.64344-0.F4](http://ijs.microbiologyresearch.org/docserver/fulltext/ijsem/57/3/489fig4.gif)
+
+
+
+the outgroup (Rhizobium leguminosarum bv. trifolii WSM1325).
+The tree was rooted by treating the R. leguminosarum strain as an outgroup
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053727/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053727/bin/gb-2013-14-2-r17-1.jpg)
+
+
+
+
+
+2015年9月
+http://www.nikkei-science.com/201509_046.html
+デング熱ストッパー | 日経サイエンス　
+自然界によく見られる細菌の助けを借りて，蚊によるデング熱の媒介を阻止する試みが始まっている。
+
+![](http://www.nikkei-science.com/wp-content/uploads/2015/07/97dcb51ba1ce46920d90238bf2990859.jpg)
+
+
+
+
+http://www.aist.go.jp/aist_j/press_release/pr2014/pr20140701/pr20140701.html
+産総研：トコジラミの生存を支える共生細菌ボルバキアのビタミンB7合成能力
+
+![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig1.jpg)
+![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig2.jpg)
+
+
+----------
+
+
+http://www.microbial-ecology.jp/?p=8410
+日本微生物生態学会 » ASME in 台湾 （5/11-13）のお知らせ
+なお参加登録するにあたって当学会事務局に「参加します」の一報をご氏名ご所属とともに頂ければ助かります。
+これは日本からの参加者の人数をおおよそ把握するためです。ご協力お願い致します。
+
+https://asme-tsme-2019.weebly.com/
+ASME & TSME meeting 2019
+​May 11-13, 2019 Tunghai University, Taiwan
+https://asme-tsme-2019.weebly.com/abstract-submission.html
+Please be noted that the submission deadline is 4/30/2019.
+
+https://meetings.cshl.edu/meetings.aspx?meet=BIOME&year=19
+Microbiome | CSHL
+July 18 - 21, 2019
+Abstract Deadline: May 3, 2019
+
+
+https://www.grc.org/ecological-and-evolutionary-genomics-grs-conference/2019/
+2019 Ecological and Evolutionary Genomics (GRS) Seminar GRC
+Genomic Changes Behind Adaptation and Ecosystem Functions
+July 13 - 14, 2019
+Applications for this meeting must be submitted by June 15, 2019.
+
+
+
+
+----------
+
+# microbe/references/README.MoBE.md
+
+![](http://si.wsj.net/public/resources/images/NA-CA854_MONEY_G_20140418181251.jpg)
+
+
+![https://twitter.com/DarwinBioprosp/status/734749760612077571](https://pbs.twimg.com/media/CjJbA2EWUAECWMZ.jpg)
+
+
+----------
+
+
+
+
+----------
+
+
+
+  - Shewanella sp. M-Br
+  - Shewanella_phylogeny 系統解析
+  - Shewanella_comparative_genomics 比較ゲノム
+  - Shewanella_space 宇宙
+
+----------
+
+https://twitter.com/Casasagi2107/status/1100201054031929345
+Casasagi on Twitter: "この30年来増えているPM2.5 と花粉症は無関係ではなく、PM2.5の粒子には黴菌やウイルスも付着していて、その放線菌割合比は6割。 「3都市のPM2．5から検出された浮遊微生物はプロテオバクテリア、フィルミクテス門、放線菌が全体の67．3％を占めた。」 https://t.co/YfyspHd06h"
+
+
+
+----------
+/Users/haruo/Google_Drive/projects/microbe/references/README.MoBE.md
+## space
+宇宙食への有効利用が期待されるAnabaena属の細菌
+
+
+```
+grep "Anabaena" overview.txt
+Anabaena	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	5.88674	2	-	3	11
+Anabaena cylindrica	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	7.06328	1	-	2
+Anabaena phage A-4L	Viruses	dsDNA viruses, no RNA stage	Podoviridae	0.04175	1	-	-	1
+
+$grep "Anabaena" prokaryotes.txt | cut -f16 | sort | uniq -c
+   1 Chromosome
+   3 Complete Genome
+   4 Contig
+   5 Scaffold
+
+$grep "Anabaena" viruses.txt 
+Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podoviridae	41.75	43.4	bacteria	 Unknown:NC_024358.1/KF356198.1	38	38	2013/07/18	2018/08/13	Complete Genome
+```
+
+
+
+----------
+
+https://wired.jp/2015/10/11/bacteria-clouds/
+人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
+```
+バクテリアや酵母、その細胞や細胞の一部からなる
+「雲（クラウド）」
+この雲を研究することで伝染病が拡散するのを追跡したり、警察が犯人を逮捕したりするのにも役立ちうる、
+わたしの中の微生物、わたしの外の微生物
+「マイクロバイオーム（microbiome）」
+この実験により初めて、マイクロバイオームの特異性が遺伝子レベルで明らかになった。この知見は、伝染病や犯罪法医学のような分野での研究の手助けとなるだろう。
+
+警察はマイクロバイオームに、別の使い道があると考えている。ギルバートがかねてより取り組んでいるのは、犯罪現場の調査官が微生物の残留を調査し、犯人を追い詰める手段として活用することだ。
+
+彼によると、人間は土や空気や口にする食べ物、あるいは体を洗ったり飲んだりする水から、微生物を取り込んでいるという。人によって異なる「微生物サイン」を犯罪現場と結びつける証拠として活用できたとして、もしそれらがアリバイとマッチしたら、冤罪の容疑も晴らせるようになるかもしれない。
+```
+
+----------
+
+
+臨床現場の表面に存在する微生物叢を他の建築環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
+https://www.nature.com/articles/s41467-019-08864-0
+Man-made microbial resistances in built environments | Nature Communications
+
+https://twitter.com/susanprescott88/status/1101464494151294977
+Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
+7:49 AM - 1 Mar 2019
+
+
+
+Here we compare the microbiota present on surfaces of clinical settings with other built environments. 
+
+
+Using state-of-the-art metagenomics approaches and genome and plasmid reconstruction, we show that increased confinement and cleaning is associated with a loss of microbial diversity and a shift from Gram-positive bacteria, such as Actinobacteria and Firmicutes, to Gram-negative such as Proteobacteria. 
+
+
+Our results highlight that the loss of microbial diversity correlates with an increase in resistance, and the need for implementing strategies to restore bacterial diversity in certain built environments.
+
+
+および特定の建築環境において細菌多様性を回復するための戦略を実行する必要性と相関することを強調している。
+
+
+
+https://ja.wikipedia.org/wiki/建造環境
+built environment
+構築環境；（自然に対して）人工的な環境
+
+
+https://dictionary.goo.ne.jp/word/en/built+environment/
+構築環境；（自然に対して）人工的な環境
+
+https://ejje.weblio.jp/content/Built+environment
+構築環境
+
+https://eow.alc.co.jp/search?q=built+environment
+構築環境
+設定環境
+建築環境
+
+https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes/transcript?language=ja#t-135172
+私たちが普段行いたがること - つまり外と遮断すること - は 機械式の換気によって実現できます 緑色の点は 外の空気を示していますが たくさんの種類の微生物がいることが わかります でも 機械式の換気をしている 青い点では それほど多様ではありません 多様性を欠くということは 必ずしも健康に良いことではありません 表のＹ軸を見て下さい 機械で換気された空気では 潜在的な病原菌や細菌と 遭遇する可能性が 外にいるよりも 高くなります
+
+
+オレゴン大学生物学・建築環境センターディレクターのジェシカ・グリーン
+https://wired.jp/special/2016/biology/ 「微生物から新しいデザインがはじまる」
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/ 「微生物によって建築のデザイン・プロセスを変えたい」
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja 「微生物を正しく取り除くために」
+
+
+
+オレゴン大学生物学・建築環境センターディレクターのジェシカ・グリーン
+https://wired.jp/special/2016/biology/ 「微生物から新しいデザインがはじまる」これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。未来のバイオは建築や都市デザインまでも変えてゆく。
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/ 「微生物によって建築のデザイン・プロセスを変えたい」
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja 「微生物を正しく取り除くために」
+
+
+
+----------
+
+04 MAY 2016
+http://www.alexandrinepress.co.uk/blogged-environment/extreme-built-environments
+Extreme Built Environments
+The International Space Station
+
+
+## 2018-09
+
+## 2018-08
+
+
+## 2018-07
+
+https://twitter.com/mike_schatz/status/1017507044230823936
+Registration is open for the Biological Data Science conference at @CSHL on Nov 7-10. Abstracts are due by Aug 18. Check out this awesome lineup of speakers and session chairs! #biodata18 @cshlmeetings @cncurtis @jtleek @BeEngelhardt https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=18
+4:32 PM - 12 Jul 2018
+
+![](https://pbs.twimg.com/media/Dh7nYN0W0AA18_X.jpg)
+
+
+----------
+
+http://www.plasmidbiologysociety.org/plasmid-biology-2018/
+https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
+Plasmid Biology 2018 in Seattle, August 5-9.
+
+----------
+## meetings
+
+http://www.plasmidbiologysociety.org/plasmid-biology-2018/
+Plasmid Biology 2018 | International Society for Plasmid Biology
+University of Washington campus, Seattle, USA
+Start Sunday, August 5 
+End Friday, August 10
+
+https://isme17.isme-microbes.org
+ISME17 Leipzig
+17th International Symposium on Microbial Ecology
+12 - 17 August 2018
+https://isme17.isme-microbes.org/node/285
+
+----------
+
+https://www.iscb.org/ismb2018
+ISMB 2018
+Chicago, United States
+July 6 - July 10
+
+ CAMDA Track at ISMB -- 07-08 July
+ ISMB 2018 -- 06-10 July
+
+http://meeting-jsme2018.com
+日本微生物生態学会 第32回大会
+7月10日(火) -- 7月14日(土)
+http://meeting-jsme2018.com/info.html
+2018年7月11日（水）～13日（金）
+沖縄コンベンションセンター
+2018年2月1日より受付を開始する予定です。
+
+http://meeting-jsme2018.com/symposium.html
+シンポジウム | 日本微生物生態学会 第32回大会
+シンポジウム１
+｢進化・群集生態学の新手法で切り拓く微生物研究のフロンティア」
+東樹宏和（京都大学）、岩崎渉（東京大学）
+
+----------
+
+## People
+
+- [People](#people)
+  - [Amachi Seigo](#amachi-seigo)
+
+### SCT
+
+https://www.jstage.jst.go.jp/article/chikyukagaku/47/4/47_KJ00009158964/_article/-char/ja/
+J-STAGEトップ/地球化学 / 47 巻 (2013) 4 号 / 書誌
+企画総説「地球化学の最前線」
+ヨウ素の地球化学と微生物 : ヨウ素の揮発,濃縮,酸化,還元,吸着,脱ハロゲン化反応を触媒するバクテリア
+天知 誠吾
+http://www.geochem.jp/journal_j/contents/pdf/47-4-209.pdf
+
+(図 3).これら細菌のゲノム中にお いても ioxA ~ ioxE の遺伝子群は保存されていたが,S. nassauensisにおいてはioxAとioxCしか存在しなかっ た.R. denitrificans と S. nassauensis を入手しヨウ素酸 化能の有無を確認したところ,いずれの細菌もヨウ素酸 化能を有することが明らかとなった.以上のことから, ヨウ素酸化細菌は海洋環境のみならず陸圏環境にも広く 分布すること,またヨウ素酸化活性には ioxA と ioxC の 存在が十分条件である可能性が示唆された.ioxA 遺伝 子を特異的に増幅するdegenerate primerの設計によ り,今後環境中の ioxA の多様性や存在量が明らかにな るだろう.
+
+
+
+Tsunogai and Sase(1969)は硝酸還元能を持ついく つかの海洋細菌にヨウ素酸の還元能があることを見出 した。
+
+以上のことか ら,SCT 株は硝酸還元細菌の1種ではあるが,そのヨ ウ素酸還元能は硝酸還元酵素によるものではなく,嫌 気条件かつヨウ素酸存在下で特異的に発現するヨウ素 酸還元酵素に由来すると考えられた。
+
+すなわち SCT 株は,ヨウ 素酸呼吸能を有する初めての細菌と考えられる。
+
+https://katosei.jsbba.or.jp/download_pdf.php?aid=64
+化学と生物 Vol. 51, No. 5, 2013
+微生物による無機ヨウ素化合物の酸化還元反応天知誠吾
+Pseudomonas sp. SCTによるヨウ素酸呼吸
+
+また,硝 酸還元細菌,鉄還元細菌,硫酸還元細菌などでもヨウ素 酸還元能が確認されている(36, 37).
+
+筆者らは,海洋環境からのヨウ素酸還元細菌の新たな 分離を試みた(38).
+
+図5■ Pseudomonas sp. SCT株のヨウ素酸呼吸時に働く推定呼吸鎖コンポーネント
+
+36) S. Tsunogai & T. Sase : Deep-Sea Res., 16, 489(1969).
+https://www.sciencedirect.com/science/article/pii/0011747169900370
+37) T. B. Councell, E. R. Landa & D. R. Lovley : Water, Air, and Soil Poll., 100, 99(1997).
+
+----------
+
+
+
+
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5411501/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5411501/bin/zam9991178220001.jpg)
+
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410850/figure/pgen-1002868-g001/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410850/bin/pgen.1002868.g001.jpg)
+
+
+----------
+
+2018 meeting | August 13th, 2018 (Monday) -- Thursday (16th) | Rio, Brazil
+
+
+https://microbiomeconference.com/speakers
+Microbiome Conference 2018 - Speakers
+April 18-20, 2018  |  Boston, MA USA
+
+http://www.giievent.jp/gel559996/
+Microbiome Futures
+-微生物叢研究の将来像-
+開催日：2018年5月23日
+開催地：米国、ニューヨーク、New York Academy of Medicine
+
+
+----------
+
+  - [Plasma](#plasma)
+
+### Plasma
+
+http://health.kirin.co.jp
+Lactococcus lactis subsp. lactis JCM 5805
+
+Lactococcus lactis strain Plasma（以下、プラズマ乳酸菌）はウイルス感染防御の主要な免疫細胞であるプラズマサイトイド樹状細胞（pDC）を直接活性化し、免疫増強効果を示すことで風邪・インフルエンザ様症状の発症を軽減することが報告されている。
+
+2017年9月1日
+https://jp.reuters.com/article/kirin-plasma-lactic-bacteria-idJPKCN1BC3YJ
+キリン、「プラズマ乳酸菌」事業を拡充　10年で230億円規模へ
+
+https://www.ncbi.nlm.nih.gov/pubmed/24239838
+Clin Immunol. 2013 Dec;149(3):509-18. doi: 10.1016/j.clim.2013.10.007. Epub 2013 Oct 25.
+Immunomodulatory effect of Lactococcus lactis JCM5805 on human plasmacytoid dendritic cells.
+
+Plasmacytoid dendritic cells (pDCs)
+
+----------
+
+https://www.youtube.com/watch?v=bP8s0MfVw5g
+映画『恋とボルバキア』(小野さやか監督)予告編 - YouTube
+
+http://koi-wol.com/about/
+作品解説｜映画『恋とボルバキア』公式サイト
+ボルバキア……宿主を性転換させる共生バクテリアの一種
+
+http://eiga.com/movie/87990/
+恋とボルバキア : 作品情報 - 映画.com
+タイトルの「ボルバキア」は宿主を性転換させる共生バクテリアの一種。
+
+http://forum-movie.net/sendai/movie/844
+作品紹介 ＜恋とボルバキア＞ ｜ フォーラム仙台 / チネ・ラヴィータ
+ボルバキア」とは、宿主を性転換させる共生バクテリアのこと。
+
+http://webneo.org/archives/44387
+【Review】 『恋とボルバキア』（小野 さやか監督）――性を通して生を知る　text 大田裕康 | neoneo web
+
+ボルバキアとは、共生バクテリアの一種で、これに感染した昆虫類は、オスからメスへ、もしくはメスからオスへと性を転換されるか、それに類した性の変異を余儀なくされるというものである。生物学者セス・ボーデンスタインは、ボルバキアを「性の操り人形師」と呼び、その多様な性の創造性に驚きを示している。
+
+----------
+
+https://sirabee.com/2018/03/29/20161560492/
+ブームの中で「注意喚起」も出た熟成肉　明治大学と微生物を研究した飲食店の挑戦 – しらべぇ ｜ 気になるアレを大調査ニュース！
+
+
+http://www.aeplan.co.jp/jsb2018/
+第91回日本細菌学会総会｜テーマ：細菌・真菌学研究の最前線／2018年3月27日（火）〜29日（木）／会場：福岡国際会議場／総会長：林哲也（九州大学大学院医学研究院 細菌学分野）
+
+
+
+http://www.jsbba.or.jp/2018/
+日本農芸化学会2018年度大会
+http://www.jsbba.or.jp/event/annual/
+2018年度大会（名古屋）
+会期 	2018年3月15日（木）～18日（日）
+会場 	
+3月15日（木）ウェスティンナゴヤキャッスル
+3月16日（金）～18日（日）名城大学
+
+http://www.hugo-international.org/hgm2018/jp/highlights
+Human Genome Meeting 2018
+PACIFICO Yokohama & RIKEN, Japan
+March 12 - 15, 2018
+
+
+http://sgmj2018.umin.jp
+第12回日本ゲノム微生物学会年会
+2018年3月5日(月)～7日（水）京都大学 桂キャンパス 船井哲良記念講堂
+[事前参加登録期間] 2017年12月6日(水) ～ 2018年2月9日(金) 17:00
+[演題募集期間] 2017年12月6日(水) ～ 2018年1月17日(水) 17:00
+
+
+
+----------
+
+https://www.oupjapan.co.jp/ja/products/detail/13433
+Processes in Microbial Ecology | Oxford University Press
+刊行日
+2012年02月
+
+https://www.oupjapan.co.jp/ja/content/contact-us
+お問い合わせ | Oxford University Press
+
+https://global.oup.com/ushe/product/processes-in-microbial-ecology-9780199586929?cc=jp&lang=en&
+Processes in Microbial Ecology - David L. Kirchman - Oxford University Press
+
+Also available as:
+
+Hardcover
+
+Ebook
+
+
+----------
+
+----------
+土と内臓　微生物がつくる世界
+
+![](https://images-na.ssl-images-amazon.com/images/I/51-Ia6Av8eL._SX341_BO1,204,203,200_.jpg)
+
+![](http://www.tsukiji-shokan.co.jp/mokuroku/hon-imgs/1524.jpg)
+
+
+----------
