@@ -21,6 +21,10 @@
 ----------
 
 ----------
+
+----------
+
+----------
 ## five-second rule
 5秒ルール
 
@@ -72,11 +76,6 @@ https://wired.jp/2016/09/13/five-second-rule/
 
 http://gigazine.net/news/20160912-five-second-rule/
 食べ物を落としてもすぐに食べればOKな「5秒ルール」に科学的根拠はあるのか？ - GIGAZINE
-
-https://www.ncbi.nlm.nih.gov/pubmed/27590818
-Appl Environ Microbiol. 2016 Oct 14;82(21):6490-6496. Print 2016 Nov 1.
-Longer Contact Times Increase Cross-Contamination of Enterobacter aerogenes from Surfaces to Food.
-Miranda RC1, Schaffner DW2.
 
 https://pubmed.ncbi.nlm.nih.gov/27590818/
 Appl Environ Microbiol
@@ -1804,9 +1803,6 @@ Shamarina D1, Stoyantcheva I1, Mason CE2,3,4, Bibby K5, Elhaik E6.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628477/
 The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.”
 
-
-
-
 ### 2017
 
 CAMDA - ISMB/ECCB 2017
@@ -1819,6 +1815,18 @@ Assessment of urban microbiome assemblies with the help of targeted mock communi
 https://www.youtube.com/watch?v=6lj2oN4BUls&list=PLmX8XnLr6zeE0UuZnqGDpl9DCnsJUr4a_&index=12
 Microbiome Diversity on Materials - Chandrima Bhattacharya
 
+### 2016-06-28
+ボストン
+https://github.com/haruosuz/metasub/tree/master/references#boston-subway-microbiome
+
+https://pubmed.ncbi.nlm.nih.gov/27822528/
+mSystems
+. 2016 Jun 28;1(3):e00018-16. doi: 10.1128/mSystems.00018-16. eCollection 2016 May-Jun.
+Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment
+Tiffany Hsu 1, Regina Joice 2, Jose Vallarino 2, Galeb Abu-Ali 2, Erica M Hartmann 3, Afrah Shafquat 2, Casey DuLong 2, Catherine Baranowski 2, Dirk Gevers 4, Jessica L Green 3, Xochitl C Morgan 1, John D Spengler 2, Curtis Huttenhower 1
+https://journals.asm.org/doi/10.1128/msystems.00018-16
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5069760/
+
 ### 2016-06-03
 
 https://pubmed.ncbi.nlm.nih.gov/27255532/
@@ -1829,12 +1837,17 @@ MetaSUB International Consortium
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4894504/
 
+### 2015-07-29_Afshinnekoo
+ニューヨーク
 
-### 2015-07-29
-### Afshinnekoo_2015
+https://github.com/haruosuz/metasub/tree/master/references#new-york-subway-microbiome
 
-https://github.com/haruosuz/metasub/tree/master/references
-https://github.com/haruosuz/metasub/blob/master/references/README.md#new-york-subway-microbiome
+https://pubmed.ncbi.nlm.nih.gov/27135689/
+Published Erratum Cell Syst
+. 2015 Jul 29;1(1):97-97.e3. doi: 10.1016/j.cels.2015.07.006. Epub 2015 Jul 29.
+Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics
+Ebrahim Afshinnekoo, Cem Meydan, Shanin Chowdhury, Dyala Jaroudi, Collin Boyer, Nick Bernstein, Julia M Maritz, Darryl Reeves, Jorge Gandara, Sagar Chhangawala, Sofia Ahsanuddin, Amber Simmons, Timothy Nessel, Bharathi Sundaresh, Elizabeth Pereira, Ellen Jorgensen, Sergios-Orestis Kolokotronis, Nell Kirchberger, Isaac Garcia, David Gandara, Sean Dhanraj, Tanzina Nawrin, Yogesh Saletore, Noah Alexander, Priyanka Vijay, Elizabeth M Hénaff, Paul Zumbo, Michael Walsh, Gregory D O'Mullan, Scott Tighe, Joel T Dudley, Anya Dunaif, Sean Ennis, Eoghan O'Halloran, Tiago R Magalhaes, Braden Boone, Angela L Jones, Theodore R Muth, Katie Schneider Paolantonio, Elizabeth Alter, Eric E Schadt, Jeanne Garbarino, Robert J Prill, Jane M Carlton, Shawn Levy, Christopher E Mason
+https://www.cell.com/cell-systems/fulltext/S2405-4712%2815%2900014-9
 
 https://pubmed.ncbi.nlm.nih.gov/26594662/
 Cell Syst
@@ -1842,9 +1855,8 @@ Cell Syst
 Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics
 Ebrahim Afshinnekoo 1, Cem Meydan 2, Shanin Chowdhury 3, Dyala Jaroudi 2, Collin Boyer 2, Nick Bernstein 2, Julia M Maritz 4, Darryl Reeves 5, Jorge Gandara 2, Sagar Chhangawala 2, Sofia Ahsanuddin 6, Amber Simmons 2, Timothy Nessel 7, Bharathi Sundaresh 7, Elizabeth Pereira 7, Ellen Jorgensen 8, Sergios-Orestis Kolokotronis 9, Nell Kirchberger 2, Isaac Garcia 2, David Gandara 2, Sean Dhanraj 10, Tanzina Nawrin 10, Yogesh Saletore 5, Noah Alexander 2, Priyanka Vijay 5, Elizabeth M Hénaff 2, Paul Zumbo 2, Michael Walsh 11, Gregory D O'Mullan 12, Scott Tighe 13, Joel T Dudley 14, Anya Dunaif 15, Sean Ennis 16, Eoghan O'Halloran 17, Tiago R Magalhaes 16, Braden Boone 18, Angela L Jones 18, Theodore R Muth 10, Katie Schneider Paolantonio 4, Elizabeth Alter 19, Eric E Schadt 14, Jeanne Garbarino 15, Robert J Prill 20, Jane M Carlton 4, Shawn Levy 18, Christopher E Mason 21
 https://www.cell.com/cell-systems/fulltext/S2405-4712(15)00002-2
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4651444/
-
-
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4651444/
+https://www.sciencedirect.com/science/article/pii/S2405471215000022
 
 
 July 31, 2015
@@ -1858,7 +1870,6 @@ FEBRUARY 10, 2015
 ED YONG
 https://www.nationalgeographic.com/science/article/theres-no-plague-on-the-nyc-subway-no-platypuses-either
 There’s No Plague on the NYC Subway. No Platypuses Either.
-
 
 ----------
 
