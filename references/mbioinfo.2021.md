@@ -23,6 +23,7 @@
 - [](#)
 - [monumentome](#monumentome)
 - [publication](#publication)
+- [five-second rule](#five-second-rule)
 - [](#)
 
 ----------
@@ -282,6 +283,7 @@ How concordance factors relate to each other and to bootstraps
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#jlsteenwyk
 
+### 2019-07-09
 https://pubmed.ncbi.nlm.nih.gov/31289177/
 mBio
 . 2019 Jul 9;10(4):e00925-19. doi: 10.1128/mBio.00925-19.
@@ -1590,10 +1592,97 @@ Haruo Suzuki 1, Masahiro Sota, Celeste J Brown, Eva M Top
 https://academic.oup.com/nar/article/36/22/e147/1196271
 https://pmc.ncbi.nlm.nih.gov/articles/PMC2602791/
 
+----------
+
+----------
+## five-second rule
+5秒ルール
+
+https://ja.wikipedia.org/wiki/5秒ルール
+
+2021.09.26
+https://gendai.media/articles/-/84268
+食べ物を落としたときの「3秒ルール」は科学的なのか？（村上 道夫,永井 孝志,小野 恭子,岸本 充生） | ブルーバックス | 講談社
+『基準値のからくり』5
+https://gendai.media/articles/-/84268?page=2
+
+
+2017-03-24 09:00:22
+https://ameblo.jp/hopenglishjp/entry-12256613022.html
+【外国人も知ってた】5秒ルール
+
+2016年11月2日
+https://www.newsweekjapan.jp/stories/world/2016/11/post-6166.php
+すぐに拾えばＯＫ？「５秒ルール」の真実
+The Truth of the Five-Second Rule
+細菌が最も付着しやすいのはステンレスの床、最も付着しにくいのはカーペットだった。また食べ物に含まれる水分が多いほど細菌の付着率も高くなり、スイカが最も多くの細菌を集めた。
+
+2016/09/25 19:00
+https://forbesjapan.com/articles/detail/13684
+床に落ちた食品の5秒ルールは「危険」、米研究結果　ある意味正しい面も
+https://forbesjapan.com/articles/detail/13684/2/1/1
+シャフナーによると、物の表面から食品への細菌の移行に最も大きく影響するのは水分だと考えられる。
+
+https://twitter.com/mason_lab/status/778277213724631041
+Christopher Mason on Twitter: "For anyone who's compared DNA yield from wet vs. dry swabs, here you go; At last, the demise of the 5-second rule: https://t.co/2jfanVLlDD"
+12:58 PM - 20 Sep 2016
+
+https://www.nytimes.com/2016/09/20/science/five-second-rule.html
+‘Five-Second Rule’ for Food on Floor Is Untrue, Study Finds
+
+The composition of the food and the surface on which it falls matter as much if not more than the length of time it remains on the floor, the study found. Watermelon, with its moisture, drew the highest rate of contamination and the gummy candy the least.
+
+食品が床に落ちてからの時間の長さだけでなく、食品の性質（水分量など）や床の種類の方が、汚染の度合いに大きな影響を与える。
+スイカのように水分が多い食品は、最も高い汚染率を示し、グミのような乾燥した食品は汚染率が最も低かった。
+
+この研究は、従来信じられてきた「5秒以内なら安全」という通説を科学的に否定している。
+
+2016.09.13 TUE 08:00
+https://wired.jp/2016/09/13/five-second-rule/
+落とした食べ物の「5秒ルール」はウソ：研究結果
+床に食べ物が落ちても5秒以内なら大丈夫？「5秒ルール」と呼ばれる通説には科学的に根拠がないことを、米ラトガース大学の研究チームが証明した。
+概して最も伝播率が高かったのは、タイルとステンレスだった。木材の伝播率は食品によって異なる一方、カーペットについては、その上に落ちた食べものへの細菌の伝播が最も起こりにくかった。
+表面が滑らかで水分を多く含むスイカでは、床から汚染を吸い上げる効果が最も大きかった。
+
+http://gigazine.net/news/20160912-five-second-rule/
+食べ物を落としてもすぐに食べればOKな「5秒ルール」に科学的根拠はあるのか？ - GIGAZINE
+
+https://pubmed.ncbi.nlm.nih.gov/27590818/
+Appl Environ Microbiol
+. 2016 Oct 14;82(21):6490-6496. doi: 10.1128/AEM.01838-16. Print 2016 Nov 1.
+Longer Contact Times Increase Cross-Contamination of Enterobacter aerogenes from Surfaces to Food
+Robyn C Miranda 1, Donald W Schaffner 2
+https://journals.asm.org/doi/10.1128/aem.01838-16
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5066366/
+
+ABSTRACT
+Bacterial cross-contamination from surfaces to food can contribute to foodborne disease. The cross-contamination rate of Enterobacter aerogenes on household surfaces was evaluated by using scenarios that differed by surface type, food type, contact time (<1, 5, 30, and 300 s), and inoculum matrix (tryptic soy broth or peptone buffer). The surfaces used were stainless steel, tile, wood, and carpet. The food types were watermelon, bread, bread with butter, and gummy candy. Surfaces (25 cm2) were spot inoculated with 1 ml of inoculum and allowed to dry for 5 h, yielding an approximate concentration of 107 CFU/surface. Foods (with a 16-cm2 contact area) were dropped onto the surfaces from a height of 12.5 cm and left to rest as appropriate. Posttransfer, surfaces and foods were placed in sterile filter bags and homogenized or massaged, diluted, and plated on tryptic soy agar. The transfer rate was quantified as the log percent transfer from the surface to the food. Contact time, food, and surface type all had highly significant effects (P < 0.000001) on the log percent transfer of bacteria. The inoculum matrix (tryptic soy broth or peptone buffer) also had a significant effect on transfer (P = 0.013), and most interaction terms were significant. More bacteria transferred to watermelon (∼0.2 to 97%) than to any other food, while the least bacteria transferred to gummy candy (∼0.1 to 62%). Transfer of bacteria to bread (∼0.02 to 94%) was similar to transfer of bacteria to bread with butter (∼0.02 to 82%), and these transfer rates under a given set of conditions were more variable than with watermelon and gummy candy.
+
+IMPORTANCE The popular notion of the “five-second rule” is that food dropped on the floor and left there for <5 s is “safe” because bacteria need time to transfer. The rule has been explored by a single study in the published literature and on at least two television shows. Results from two academic laboratories have been shared through press releases but remain unpublished. We explored this topic by using four different surfaces (stainless steel, ceramic tile, wood, and carpet), four different foods (watermelon, bread, bread with butter, and gummy candy), four different contact times (<1, 5, 30, and 300 s), and two bacterial preparation methods. Although we found that longer contact times result in more transfer, we also found that other factors, including the nature of the food and the surface, are of equal or greater importance. Some transfer takes place “instantaneously,” at times of <1 s, disproving the five-second rule.
+
+接触時間が長いほど、表面から食品への Enterobacter aerogenes の交差汚染が増加する
+
+要旨（ABSTRACT）
+表面から食品への細菌の交差汚染は、食中毒の原因となる可能性がある。本研究では、家庭内のさまざまな表面における Enterobacter aerogenes の交差汚染率を、表面の種類、食品の種類、接触時間（<1秒、5秒、30秒、300秒）、および接種液（トリプチックソイブロスまたはペプトン緩衝液）の違いによって評価した。
+使用した表面はステンレス、タイル、木材、カーペットの4種、食品はスイカ、パン、バター付きのパン、グミキャンディの4種である。各表面（25cm²）には1mlの接種液をスポット接種し、5時間乾燥させた（表面あたり約10⁷ CFUの濃度）。食品（接触面積16cm²）は高さ12.5cmから表面に落とし、設定した時間だけ接触させた。接触後、表面と食品はそれぞれ滅菌済みのフィルターバッグに入れて均質化またはもみほぐし、希釈後にトリプチックソイ寒天培地に塗布して菌数を測定した。
+菌の移行率は、「表面から食品への移行率の対数（log%）」として定量化した。その結果、接触時間、食品の種類、表面の種類は、いずれも菌の移行に非常に大きな影響を与えることが明らかになった（P < 0.000001）。接種液の種類（トリプチックソイブロスかペプトン緩衝液か）も有意な影響があり（P = 0.013）、ほとんどの交互作用も有意であった。
+食品の中では、スイカへの菌の移行率が最も高く（約0.2〜97%）、グミキャンディへの移行率が最も低かった（約0.1〜62%）。パン（約0.02〜94%）とバター付きパン（約0.02〜82%）への移行率は類似していたが、スイカやグミに比べてばらつきが大きかった。
+
+重要性（IMPORTANCE）
+一般的に知られる「5秒ルール」とは、床に落とした食べ物でも5秒以内なら「安全」とされる考え方であり、細菌が移動するのに時間がかかるという仮定に基づいている。しかし、このルールは、論文としては1件の研究と、2つのテレビ番組でしか取り上げられていない。2つの学術研究機関からのプレスリリースも存在するが、正式な論文発表はされていない。
+本研究では、4種の表面（ステンレス、タイル、木材、カーペット）、4種の食品（スイカ、パン、バター付きパン、グミキャンディ）、4段階の接触時間（<1秒、5秒、30秒、300秒）、2種の細菌懸濁液を用いて、包括的にこのテーマを検討した。その結果、接触時間が長いほど細菌の移行が多くなることが確認されたが、食品や表面の性質といった他の要因も同様かそれ以上に重要であることがわかった。また、1秒未満でも細菌は“瞬時に”移行することが確認され、5秒ルールは否定された。
+
+
+
+2014.03.14
+https://www.gizmodo.jp/2014/03/5_61.html
+｢落とした食べ物の5秒ルール｣の科学的根拠が実証される | ギズモード・ジャパン
+イギリスのバーミンガムにあるアストン大学の微生物学のアンソニー・ヒルトン教授率いる研究チーム
 
 ----------
 
 
-----------
+
+
 
 
