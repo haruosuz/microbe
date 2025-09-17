@@ -19,6 +19,131 @@
 
 ----------
 
+https://github.com/haruosuz/bioinfo/blob/main/2022/CaseStudy.md#2022-12-28
+
+https://www.ncbi.nlm.nih.gov/bioproject/PRJDB13760
+An umbrella project for MetaSUB
+
+https://www.ncbi.nlm.nih.gov/bioproject/PRJDB14136
+Urban microbiomes in Japan
+
+----------
+
+## 2025
+
+### 2025-08-29
+https://pubmed.ncbi.nlm.nih.gov/40883783/
+Microbiome
+. 2025 Aug 29;13(1):193. doi: 10.1186/s40168-025-02173-z.
+Global biogeography of airborne viruses in public transit systems and their host interactions
+Huaxin Lei 1, Shicong Du 1, Xinzhao Tong 1 2, Wing Lam Chan 1, Marcus H Y Leung 1, Kari O Bøifot 3 4, Daniela Bezdan 5, Daniel J Butler 5, David C Danko 5, David C Green 6 7, Mark T Hernandez 8, Frank J Kelly 6, Alexander G Lucaci 5, Cem Meydan 5, Marina Nieto-Caballero 8, Krista Ryon 5, Braden Tierney 5, Klas I Udekwu 9 10, Benjamin G Young 5, Christopher E Mason 11 12 13 14, Marius Dybwad 15 16, Patrick K H Lee 17 18
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02173-z
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12395665/
+Fig. 1.
+Permutational multivariate analyses of variance (PERMANOVA) and permutational multivariate analyses of dispersion (PERMDISP) were performed without considering the year in which the samples were collected.
+
+### 2025-04-21
+Posted April 21, 2025.
+doi: https://doi.org/10.1101/2025.04.21.649744
+Spatial and Temporal Patterns of Public Transit Aerobiomes
+https://www.biorxiv.org/content/10.1101/2025.04.21.649744v1.full
+Russell J. S. Orr, Ola Brynildsrud, Kari O. Bøifot, Jostein Gohli, Gunnar Skogan, Frank J. Kelly, Mark T. Hernandez, Klas Udekwu, Patrick K. H. Lee,  View ORCID ProfileChristopher E. Mason, Marius Dybwad
+
+Methods
+Air sampling
+Air samples were taken annually over a three-year period (2017-2019) from public transit hubs of six cities, in total 750 air samples (Table 1 & Table S1). For 2018 a total of 261 samples were collected and sequenced from six cities (Denver, Hong Kong, London, New York, Oslo, and Stockholm) and 80 localities. For 2019 a total of 239 samples were collected and sequenced from five cities (excluding Stockholm) and 71 localities. Further, we reanalysed previously published data for 250 samples, collected and sequenced using the same protocols, from public transit hubs of the same six cities and 76 localities from 2017 [33]. Negative (22) and positive (5) control samples were utilized for downstream contamination removal.
+
+### 2025-03-13
+Posted March 13, 2025.
+doi: https://doi.org/10.1101/2025.03.12.642787
+Microbial communities on station and train surfaces in Chennai Metro: Insights into urban transit microbiome | bioRxiv
+https://www.biorxiv.org/content/10.1101/2025.03.12.642787v1.full
+Vijaya Yuvaram Singh,  View ORCID ProfileVeerendra P. Gadekar, Srijith Sasikumar, R. M. Rajeeva Lokshanan,  View ORCID ProfileBharath Prithiviraj,  View ORCID ProfileHimanshu Sinha,  View ORCID ProfileKarthik Raman
+
+Figure 1:
+(A) Chennai Metro Line Map.
+
+Using the MetaSUB protocol [12], samples were collected with individually packaged Isohelix Buccal Mini Swabs (
+
+https://en.wikipedia.org/wiki/Chennai_Metro
+The Chennai Metro is a rapid transit system serving the city of Chennai, India.
+
+## 2024
+
+### 2024-11-12
+
+https://pubmed.ncbi.nlm.nih.gov/39532959/
+Sci Rep
+. 2024 Nov 12;14(1):27738. doi: 10.1038/s41598-024-79447-3.
+Detection and genetic characterization of multidrug-resistant staphylococci isolated from public areas in an international airport
+Dewa A P Rasmika Dewi 1 2, Hazim O Khalifa 3 4, Haque Khandar 5, Junzo Hisatsune 6, Shoko Kutuno 6, Liansheng Yu 6, Wataru Hayashi 6, Shizuo Kayama 6, Christopher E Mason 7 8, Motoyuki Sugai 5, Haruo Suzuki 9 10, Tetsuya Matsumoto 5
+https://www.nature.com/articles/s41598-024-79447-3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11557577/
+
+
+### 2024-06
+### 2024-03-12
+MetaSUB
+世界的な都市環境レジストームの景観と、地域の社会経済的・医療的地位との関連性
+https://pubmed.ncbi.nlm.nih.gov/38489008/
+Sci China Life Sci
+. 2024 Jun;67(6):1292-1301. doi: 10.1007/s11427-023-2504-1. Epub 2024 Mar 12.
+Landscape of global urban environmental resistome and its association with local socioeconomic and medical status
+Jun Wu 1, Yige Hu 1, Michael H Perlin 2, David Danko 3 4, Jun Lu 5, Manuela Oliveira 6 7 8, Johannes Werner 9, Maria M Zambrano 10, Maria A Sierra 3 4, Olayinka O Osuolale 11, Paweł Łabaj 12, Nicolás Rascovan 13, Nur Hazlin Hazrin-Chong 14, Soojin Jang 15, Haruo Suzuki 16, Marina Nieto-Caballero 17, Bharath Prithiviraj 18, Patrick K H Lee 19, Agnieszka Chmielarczyk 20, Anna Różańska 20, Yongxiang Zhao 21, Lan Wang 22, Christopher E Mason 23 24, Tieliu Shi 25 26
+https://link.springer.com/article/10.1007/s11427-023-2504-1
+The socioeconomic and medical indicators, including world development indicators, education statistics, and health nutrition and population statistics, were collected from the World Bank database (https://databank.worldbank.org/home.aspx).
+
+
+### 2022-11
+韓国ソウルのバス停 (n=55) と地下鉄の駅 (n=21) 
+https://pubmed.ncbi.nlm.nih.gov/36257123/
+Ecotoxicol Environ Saf
+. 2022 Nov;246:114176. doi: 10.1016/j.ecoenv.2022.114176. Epub 2022 Oct 17.
+Metagenomic characterization of bacterial community and antibiotic resistance genes found in the mass transit system in Seoul, South Korea
+Robin B Guevarra 1, Juchan Hwang 1, Hyunjung Lee 1, Hyung Jun Kim 1, Yunmi Lee 1, David Danko 2, Krista A Ryon 3, Benjamin Grady Young 2, Christopher E Mason 4, Soojin Jang 5
+https://www.sciencedirect.com/science/article/pii/S0147651322010168?via%3Dihub
+
+### 2022-10-20
+
+https://twitter.com/yurigravity/status/1588195221224947713
+yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/36299999/
+iScience
+. 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
+A history of the MetaSUB consortium: Tracking urban microbes around the globe
+Krista A Ryon 1 2, Braden T Tierney 1 2, Alina Frolova 3 4, Andre Kahles 5 6, Christelle Desnues 7, Christos Ouzounis 8, Cynthis Gibas 9, Daniela Bezdan 10 11 12, Youping Deng 13, Ding He 14, Emmanuel Dias-Neto 15, Eran Elhaik 16, Evan Afshin 17, George Grills 18, Gregorio Iraola 19, Haruo Suzuki 20, Johannes Werner 21, Klas Udekwu 22, Lynn Schriml 23, Malay Bhattacharyya 24, Manuela Oliveira 25, Maria Mercedes Zambrano 26, Nur Hazlin Hazrin-Chong 27, Olayinka Osuolale 28, Paweł P Łabaj 29, Prisca Tiasse 29, Sampath Rapuri 30, Silvia Borras 31, Sofya Pozdniakova 31, Tieliu Shi 32, Ugur Sezerman 33, Xavier Rodo 31, Zehra Hazal Sezer 34, Christopher E Mason 17 35
+https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589169/
+https://www.sciencedirect.com/science/article/pii/S2589004222012652
+
+
+### 2022-05-01
+未知の都市微生物種を地球規模でアノテーションすることで、新たな機能的多様性と地域環境との関連性が明らかになる
+https://pubmed.ncbi.nlm.nih.gov/34637759/
+Environ Res
+. 2022 May 1;207:112183. doi: 10.1016/j.envres.2021.112183. Epub 2021 Oct 9.
+Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association
+Jun Wu 1, David Danko 2, Ebrahim Afshinnekoo 2, Daniela Bezdan 2, Malay Bhattacharyya 3, Eduardo Castro-Nallar 4, Agnieszka Chmielarczyk 5, Nur Hazlin Hazrin-Chong 6, Youping Deng 7, Emmanuel Dias-Neto 8, Alina Frolova 9, Gabriella Mason-Buck 10, Gregorio Iraola 11, Soojin Jang 12, Paweł Łabaj 13, Patrick K H Lee 14, Marina Nieto-Caballero 15, Olayinka O Osuolale 16, Christos A Ouzounis 17, Michael H Perlin 18, Bharath Prithiviraj 19, Nicolás Rascovan 20, Anna Różańska 5, Lynn M Schriml 21, Torsten Semmler 22, Haruo Suzuki 23, Juan A Ugalde 24, Ben Young 2, Johannes Werner 25, Maria Mercedes Zambrano 26, Yongxiang Zhao 27, Christopher Mason 2, Tieliu Shi 28; MetaSUB Consortium
+https://www.sciencedirect.com/science/article/abs/pii/S0013935121014845
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----------
 ## kaken
 
@@ -97,63 +222,7 @@ https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19KK0263/
 日本の都市域（横浜市）と地方都市郊外（富山市）において，アンダーセンエアーサンプラーで9段階の粒径別捕集（分級範囲 0.43～11.0μm）した各大気試料を，高速シークエンサーでメタゲノム解析した結果を，原著論文として発表した (Tanaka et al., Sci. Rep., 2020, プレスリリース有り)。
 
 
-----------
-### 2024-11-12
 
-https://pubmed.ncbi.nlm.nih.gov/39532959/
-Sci Rep
-. 2024 Nov 12;14(1):27738. doi: 10.1038/s41598-024-79447-3.
-Detection and genetic characterization of multidrug-resistant staphylococci isolated from public areas in an international airport
-Dewa A P Rasmika Dewi 1 2, Hazim O Khalifa 3 4, Haque Khandar 5, Junzo Hisatsune 6, Shoko Kutuno 6, Liansheng Yu 6, Wataru Hayashi 6, Shizuo Kayama 6, Christopher E Mason 7 8, Motoyuki Sugai 5, Haruo Suzuki 9 10, Tetsuya Matsumoto 5
-https://www.nature.com/articles/s41598-024-79447-3
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11557577/
-
-
-### 2024-06
-### 2024-03-12
-MetaSUB
-世界的な都市環境レジストームの景観と、地域の社会経済的・医療的地位との関連性
-https://pubmed.ncbi.nlm.nih.gov/38489008/
-Sci China Life Sci
-. 2024 Jun;67(6):1292-1301. doi: 10.1007/s11427-023-2504-1. Epub 2024 Mar 12.
-Landscape of global urban environmental resistome and its association with local socioeconomic and medical status
-Jun Wu 1, Yige Hu 1, Michael H Perlin 2, David Danko 3 4, Jun Lu 5, Manuela Oliveira 6 7 8, Johannes Werner 9, Maria M Zambrano 10, Maria A Sierra 3 4, Olayinka O Osuolale 11, Paweł Łabaj 12, Nicolás Rascovan 13, Nur Hazlin Hazrin-Chong 14, Soojin Jang 15, Haruo Suzuki 16, Marina Nieto-Caballero 17, Bharath Prithiviraj 18, Patrick K H Lee 19, Agnieszka Chmielarczyk 20, Anna Różańska 20, Yongxiang Zhao 21, Lan Wang 22, Christopher E Mason 23 24, Tieliu Shi 25 26
-https://link.springer.com/article/10.1007/s11427-023-2504-1
-The socioeconomic and medical indicators, including world development indicators, education statistics, and health nutrition and population statistics, were collected from the World Bank database (https://databank.worldbank.org/home.aspx).
-
-
-### 2022-11
-韓国ソウルのバス停 (n=55) と地下鉄の駅 (n=21) 
-https://pubmed.ncbi.nlm.nih.gov/36257123/
-Ecotoxicol Environ Saf
-. 2022 Nov;246:114176. doi: 10.1016/j.ecoenv.2022.114176. Epub 2022 Oct 17.
-Metagenomic characterization of bacterial community and antibiotic resistance genes found in the mass transit system in Seoul, South Korea
-Robin B Guevarra 1, Juchan Hwang 1, Hyunjung Lee 1, Hyung Jun Kim 1, Yunmi Lee 1, David Danko 2, Krista A Ryon 3, Benjamin Grady Young 2, Christopher E Mason 4, Soojin Jang 5
-https://www.sciencedirect.com/science/article/pii/S0147651322010168?via%3Dihub
-
-### 2022-10-20
-
-https://twitter.com/yurigravity/status/1588195221224947713
-yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
-
-https://pubmed.ncbi.nlm.nih.gov/36299999/
-iScience
-. 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
-A history of the MetaSUB consortium: Tracking urban microbes around the globe
-Krista A Ryon 1 2, Braden T Tierney 1 2, Alina Frolova 3 4, Andre Kahles 5 6, Christelle Desnues 7, Christos Ouzounis 8, Cynthis Gibas 9, Daniela Bezdan 10 11 12, Youping Deng 13, Ding He 14, Emmanuel Dias-Neto 15, Eran Elhaik 16, Evan Afshin 17, George Grills 18, Gregorio Iraola 19, Haruo Suzuki 20, Johannes Werner 21, Klas Udekwu 22, Lynn Schriml 23, Malay Bhattacharyya 24, Manuela Oliveira 25, Maria Mercedes Zambrano 26, Nur Hazlin Hazrin-Chong 27, Olayinka Osuolale 28, Paweł P Łabaj 29, Prisca Tiasse 29, Sampath Rapuri 30, Silvia Borras 31, Sofya Pozdniakova 31, Tieliu Shi 32, Ugur Sezerman 33, Xavier Rodo 31, Zehra Hazal Sezer 34, Christopher E Mason 17 35
-https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589169/
-https://www.sciencedirect.com/science/article/pii/S2589004222012652
-
-
-### 2022-05-01
-未知の都市微生物種を地球規模でアノテーションすることで、新たな機能的多様性と地域環境との関連性が明らかになる
-https://pubmed.ncbi.nlm.nih.gov/34637759/
-Environ Res
-. 2022 May 1;207:112183. doi: 10.1016/j.envres.2021.112183. Epub 2021 Oct 9.
-Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association
-Jun Wu 1, David Danko 2, Ebrahim Afshinnekoo 2, Daniela Bezdan 2, Malay Bhattacharyya 3, Eduardo Castro-Nallar 4, Agnieszka Chmielarczyk 5, Nur Hazlin Hazrin-Chong 6, Youping Deng 7, Emmanuel Dias-Neto 8, Alina Frolova 9, Gabriella Mason-Buck 10, Gregorio Iraola 11, Soojin Jang 12, Paweł Łabaj 13, Patrick K H Lee 14, Marina Nieto-Caballero 15, Olayinka O Osuolale 16, Christos A Ouzounis 17, Michael H Perlin 18, Bharath Prithiviraj 19, Nicolás Rascovan 20, Anna Różańska 5, Lynn M Schriml 21, Torsten Semmler 22, Haruo Suzuki 23, Juan A Ugalde 24, Ben Young 2, Johannes Werner 25, Maria Mercedes Zambrano 26, Yongxiang Zhao 27, Christopher Mason 2, Tieliu Shi 28; MetaSUB Consortium
-https://www.sciencedirect.com/science/article/abs/pii/S0013935121014845
 
 ----------
 
@@ -192,9 +261,6 @@ Microbiology of the Built Environment
 7:00 AM · Aug 2, 2019
 https://twitter.com/NatureJapan/status/1157048360349495296
 Nature Japan on Twitter: "Scientific Reports ゲスト・エディター・コレクション -「建造環境における微生物」に関する投稿論文を募集。建物、輸送車両、水処理施設、建築設備など、建造環境とインフラストラクチャーで見られる微生物のあらゆる側面に関する研究を歓迎します。投稿は2019年9月末まで。https://t.co/w6noTLDWyG https://t.co/dD5JMFHO1U" / Twitter
-
-
-
 
 
 
@@ -304,6 +370,9 @@ https://twitter.com/endBooks/status/385905594026033153
 7:13 PM - 3 Oct 2013
 
 ----------
+
+
+
 
 ----------
 ## updates
@@ -1816,6 +1885,10 @@ https://twitter.com/Yodosha_EM/status/567945623116210176
 羊土社 実験医学 on Twitter: "【 #実験医学NHPD 】都市微生物叢研究PathoMap（鈴木治夫先生）→ https://t.co/PQUy4SSB2E"
 2:16 AM - 18 Feb 2015
 https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
+
+
+
+
 
 
 
