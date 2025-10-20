@@ -1299,6 +1299,30 @@ Microbes as Enemies and Allies in the World of Art Conservation
 お金 お札 ATM
 Jane M Carlton
 
+2025/10/10
+https://www.youtube.com/watch?v=nJHGpOK7vEs
+あなたのお金、本当はどれくらい汚い？
+くつ王アカデミア 感染症解説チャンネル Kutsuo ID Academia
+元の論文
+
+### 2023-12-15
+
+https://pubmed.ncbi.nlm.nih.gov/38100621/
+Review J Med Virol
+. 2023 Dec;95(12):e29312. doi: 10.1002/jmv.29312.
+Stability of pathogens on banknotes and coins: A narrative review
+Toni Luise Meister 1, Lisa Kirchhoff 2, Yannick Brüggemann 1, Daniel Todt 1 3, Joerg Steinmann 2 4, Eike Steinmann 1
+https://onlinelibrary.wiley.com/doi/10.1002/jmv.29312
+
+### 2014-02-26
+
+https://pubmed.ncbi.nlm.nih.gov/24571076/
+Review Future Microbiol
+. 2014;9(2):249-61. doi: 10.2217/fmb.13.161.
+Paper money and coins as potential vectors of transmissible disease
+Emmanouil Angelakis 1, Esam I Azhar, Fehmida Bibi, Muhammad Yasir, Ahmed K Al-Ghamdi, Ahmad M Ashshi, Adel G Elshemi, Didier Raoult
+https://www.tandfonline.com/doi/10.2217/fmb.13.161
+
 ### money.jp
 
 2016/02/02
@@ -1443,15 +1467,6 @@ https://www.genomeweb.com/scan/week-plos-31
 This Week in PLOS: Jun 8, 2015
 In PLOS One, researchers from India use shotgun metagenomic sequencing to look at the microbes found on paper currency in that country. By sequencing DNA from bills deemed most and least circulated from Reserve Bank of India data, the team detected sequences coinciding with dozens of antibiotic resistance genes, as well as sequences believed to represent pathogenic and cellulose degrading organisms. "Our analysis suggests a significant diversity in the microbial population on paper currency notes," study authors write, "and presence of antibiotic resistance genes."
 
-### 2014-02-26
-
-https://pubmed.ncbi.nlm.nih.gov/24571076/
-Review Future Microbiol
-. 2014;9(2):249-61. doi: 10.2217/fmb.13.161.
-Paper money and coins as potential vectors of transmissible disease
-Emmanouil Angelakis 1, Esam I Azhar, Fehmida Bibi, Muhammad Yasir, Ahmed K Al-Ghamdi, Ahmad M Ashshi, Adel G Elshemi, Didier Raoult
-https://www.futuremedicine.com/doi/10.2217/fmb.13.161
-26 Feb 2014
 
 ### 2013-08-28
 
