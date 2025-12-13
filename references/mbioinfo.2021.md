@@ -1003,6 +1003,44 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
 
 ### Acinetobacter
 
+### root
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+
+https://pubmed.ncbi.nlm.nih.gov/30337588/
+Sci Rep
+. 2018 Oct 18;8(1):15346. doi: 10.1038/s41598-018-33800-5.
+Genomic analysis of Acinetobacter baumannii prophages reveals remarkable diversity and suggests profound impact on bacterial virulence and fitness
+Ana Rita Costa 1, Rodrigo Monteiro 1, Joana Azeredo 2
+https://www.nature.com/articles/s41598-018-33800-5
+tree rooted using Acinetobacter baumannii plasmid pNaval18-231 as the outgroup
+
+
+https://pubmed.ncbi.nlm.nih.gov/26462752/
+Sci Rep
+. 2015 Oct 14:5:15188. doi: 10.1038/srep15188.
+Phylogenetic and genomic diversity in isolates from the globally distributed Acinetobacter baumannii ST25 lineage
+Jason W Sahl 1 2, Mariateresa Del Franco 3, Spyros Pournaras 4, Rebecca E Colman 1, Nabil Karah 5, Lenie Dijkshoorn 6, Raffaele Zarrilli 3
+https://www.nature.com/articles/srep15188
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4604477/
+
+Figure 3. A core genome single nucleotide polymorphism (SNP) phylogeny of 597 A. baumannii genomes.
+The phylogeny was rooted by first including an outgroup from A. nosocomialis, then re-running the analysis with only A. baumannii and rooting on the most basal genome from the original analysis.
+
+Figure 4. A core genome single nucleotide polymorphism (SNP) phylogeny of ST25 genomes.
+The tree was rooted according to the most basal genome isolated from the global phylogeny (Fig. 3).
+
+
+https://pubmed.ncbi.nlm.nih.gov/21788470/
+Antimicrob Agents Chemother
+. 2011 Oct;55(10):4506-12. doi: 10.1128/AAC.01134-10. Epub 2011 Jul 25.
+Genomic analysis of the multidrug-resistant Acinetobacter baumannii strain MDR-ZJ06 widely spread in China
+Hua Zhou 1, Tongwu Zhang, Dongliang Yu, Borui Pi, Qing Yang, Jianying Zhou, Songnian Hu, Yunsong Yu
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3187012/
+Fig. 1.
+Phylogenetic analyses of Acinetobacter baumannii isolates.
+The genome of Acinetobacter baylyi ADP1 was used as the outgroup to root the tree.
+
+
 ### 2022-01-17
 
 https://pubmed.ncbi.nlm.nih.gov/34839707/
@@ -1041,7 +1079,6 @@ What makes a megaplasmid.
 (c) Acinetobacter megaplasmids, global distribution, local adaptation: pR4WN-1BD1 (285 kb) and relatives
 
 A role for local adaptation in shaping plasmid accessory gene content was discernible in these data, as plasmids from similar geographical locations had similar accessory genes, even if they were not closely related [27]. Increased sampling of non-clinical sites may be necessary to reveal the full megaplasmid picture in Acinetobacter, as an analysis of Acinetobacter plasmids from hospitals and soil/water suggested that larger plasmids were obtained from environmental samples [141].
-
 
 ### 2021-09-21
 
