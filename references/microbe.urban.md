@@ -10,12 +10,13 @@
 - [urban agriculture](#urban-agriculture)
 - [MetaSUB](#metasub)
 - [people](#people)
-  - [kato](#kato) 加藤 信介
-  - [yanagi](#yanagi) 柳 宇
-  - [jessica_green](#jessica_green)
-  - [aki.sinkkonen](#aki.sinkkonen) Aki Sinkkonen
-  - [gking](#gking) Gary M. King
+[kato](#kato) 加藤 信介
+[yanagi](#yanagi) 柳 宇
+[jessica_green](#jessica_green)
+[aki.sinkkonen](#aki.sinkkonen) Aki Sinkkonen
+[gking](#gking) Gary M. King
 - [kaken](#kaken)
+- [mass_gathering](#mass_gathering)
 
 ----------
 
@@ -26,6 +27,40 @@ An umbrella project for MetaSUB
 
 https://www.ncbi.nlm.nih.gov/bioproject/PRJDB14136
 Urban microbiomes in Japan
+
+
+
+----------
+
+
+----------
+## mass_gathering
+
+https://ja.wikipedia.org/wiki/大人数の集会
+大人数の集会（おおにんずうのしゅうかい、英: mass gathering）
+
+en:Mass gathering medicineは、大人数の集会における健康リスクに焦点を当てる医学の新たな領域である[3]。
+https://en.wikipedia.org/wiki/Mass_gathering_medicine
+
+https://www.shionogi.com/jp/ja/sustainability/informations-for-id/msg_navi.html
+国際ボランティアのためのマスギャザリング感染症ナビ｜塩野義製薬
+
+https://id-info.jihs.go.jp/relevant/massgathering/020/12450-expo2025ra.html
+2025年日本国際博覧会（大阪・関西万博）に向けての感染症リスク評価｜国立健康危機管理研究機構 感染症情報提供サイト
+令和6年（2024年）1月9日
+（掲載日：2024年1月9日）
+
+https://id-info.jihs.go.jp/niid/ja/iasr-topic/11330-509t.html
+IASR 43(7), 2022【特集】マスギャザリングイベント(東京2020大会)と感染症対策｜国立健康危機管理研究機構 感染症情報提供サイト
+(IASR Vol. 43 p153-154: 2022年7月号)
+
+https://www.jmedj.co.jp/blogs/product/product_4589
+マスギャザリングと救急医療体制 – 日本医事新報社
+登録日： 2015.05.09 最終更新日： 2025.09.20
+高橋耕平 （横浜南共済病院救急科部長）
+マスギャザリング（mass gathering）とは，日本集団災害医学会では「一定期間，限定された地域において，同一目的で集合した多人数の集団」と定義されている。
+
+
 
 ----------
 
@@ -81,6 +116,16 @@ https://www.nature.com/articles/s41598-024-79447-3
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11557577/
 
 
+### 2024-08
+
+https://www.cell.com/trends/biotechnology/abstract/S0167-7799(24)00005-2
+Trends Biotechnol
+. 2024 Aug;42(8):942-945. doi: 10.1016/j.tibtech.2024.01.005. Epub 2024 Feb 16.
+Probiotic Cities: microbiome-integrated design for healthy urban ecosystems
+Jake M Robinson 1, Martin F Breed 2, Richard Beckett 3
+https://www.sciencedirect.com/science/article/pii/S0167779924000052
+
+
 ### 2024-06
 ### 2024-03-12
 MetaSUB
@@ -126,22 +171,8 @@ Environ Res
 Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association
 Jun Wu 1, David Danko 2, Ebrahim Afshinnekoo 2, Daniela Bezdan 2, Malay Bhattacharyya 3, Eduardo Castro-Nallar 4, Agnieszka Chmielarczyk 5, Nur Hazlin Hazrin-Chong 6, Youping Deng 7, Emmanuel Dias-Neto 8, Alina Frolova 9, Gabriella Mason-Buck 10, Gregorio Iraola 11, Soojin Jang 12, Paweł Łabaj 13, Patrick K H Lee 14, Marina Nieto-Caballero 15, Olayinka O Osuolale 16, Christos A Ouzounis 17, Michael H Perlin 18, Bharath Prithiviraj 19, Nicolás Rascovan 20, Anna Różańska 5, Lynn M Schriml 21, Torsten Semmler 22, Haruo Suzuki 23, Juan A Ugalde 24, Ben Young 2, Johannes Werner 25, Maria Mercedes Zambrano 26, Yongxiang Zhao 27, Christopher Mason 2, Tieliu Shi 28; MetaSUB Consortium
 https://www.sciencedirect.com/science/article/abs/pii/S0013935121014845
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_hal_primary_oai_HAL_hal_03700633v1
+Elsevier ScienceDirect Journals Complete
 
 
 ----------
@@ -220,6 +251,11 @@ https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19KK0263/
 研究期間 (年度)	2019-10-07 – 2023-03-31
 
 日本の都市域（横浜市）と地方都市郊外（富山市）において，アンダーセンエアーサンプラーで9段階の粒径別捕集（分級範囲 0.43～11.0μm）した各大気試料を，高速シークエンサーでメタゲノム解析した結果を，原著論文として発表した (Tanaka et al., Sci. Rep., 2020, プレスリリース有り)。
+
+
+
+
+----------
 
 
 
@@ -379,6 +415,17 @@ https://twitter.com/endBooks/status/385905594026033153
 
 https://twitter.com/search?q=bacteria%20urbanization
 
+----------
+
+## 2025-03-08
+
+https://pubmed.ncbi.nlm.nih.gov/40225043/
+Curr Res Microb Sci
+. 2025 Mar 8:8:100374. doi: 10.1016/j.crmicr.2025.100374. eCollection 2025.
+Bacterial diversity and biomarkers screening of station and carriage surface in Shanghai metro system, China
+Lijun Zhang 1 2, Xiaojing Li 1 2, Lisha Shi 1 2, Yi Zheng 3, Yichen Ding 1 2, Tao Yuan 4, Shuangqing Hu 5, Jian Chen 1 2, Ping Xiao 1 2
+https://www.sciencedirect.com/science/article/pii/S2666517425000367
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11992389/
 
 ----------
 
@@ -402,6 +449,13 @@ The concentration of O3 was relatively high in Japan (median: 41.58; Q1-Q3: 34.7
 
 ----------
 
+### 2023-01-08
+https://www.mdpi.com/2073-4433/14/1/140
+Investigation of Surface Bacterial Diversities and Compositions in the Global Subway Facilities
+Atmosphere 2023, 14(1), 140; https://doi.org/10.3390/atmos14010140
+This study tries to explore surface bacterial communities by using swabs collected from four global subway facilities, such as Busan, Boston, Mexico City, and Moscow using 16S rRNA gene amplicon sequencing. 
+
+
 ### 2023-01
 
 https://pubmed.ncbi.nlm.nih.gov/37059877/
@@ -417,7 +471,7 @@ Environ Microbiome
 Holobiont Urbanism: sampling urban beehives reveals cities' metagenomes
 Elizabeth Hénaff 1 2, Devora Najjar 3, Miguel Perez 3, Regina Flores 4, Christopher Woebken 5, Christopher E Mason 6 7 8, Kevin Slavin 3
 https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00467-z
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10060141/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10060141/
 
 2:57 AM · Mar 31, 2023
 https://twitter.com/MicrobiomeJ/status/1641499976424386560
@@ -1305,7 +1359,6 @@ https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
 This Startup Uses Dust to Fight Sweatshops - leapsmag
 Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
 
-
 ### phylagen
 
 https://twitter.com/phylagen
@@ -1594,20 +1647,51 @@ http://metasub.org/projects/
 METAAIR: AIR SAMPLING
 The MetaAIR project (Metagenomics of the Air) is an ongoing project with aims to conduct metagenomic analysis on aerosol samples globally. Currently MetAIR works in conjunction with Global City Sampling Day to collect air samples on an annual basis in cities around the world.
 
+https://www.ncbi.nlm.nih.gov/bioproject/PRJDB13760
+An umbrella project for MetaSUB
+
+PRJNA1129830	SRA or Trace	MetaAir: Public transport air microbiome 2018	MetaAir: Public transport air microbiome 2018 (MetaSUB)
+
+PRJNA1132165	SRA or Trace	MetaAir: Public transport air microbiome 2019	MetaAir: Public transport air microbiome 2019 (MetaSUB)
+
+PRJNA561080	Shotgun metagenomic sequencing of subway and urban air samples: gCSD17	Shotgun metagenomic sequencing of subway and urban air samples: gCSD17 (Metagenomics & Metadesign...)
+
+### 2025-08-29
+https://pubmed.ncbi.nlm.nih.gov/40883783/
+Microbiome
+. 2025 Aug 29;13(1):193. doi: 10.1186/s40168-025-02173-z.
+Global biogeography of airborne viruses in public transit systems and their host interactions
+Huaxin Lei 1, Shicong Du 1, Xinzhao Tong 1 2, Wing Lam Chan 1, Marcus H Y Leung 1, Kari O Bøifot 3 4, Daniela Bezdan 5, Daniel J Butler 5, David C Danko 5, David C Green 6 7, Mark T Hernandez 8, Frank J Kelly 6, Alexander G Lucaci 5, Cem Meydan 5, Marina Nieto-Caballero 8, Krista Ryon 5, Braden Tierney 5, Klas I Udekwu 9 10, Benjamin G Young 5, Christopher E Mason 11 12 13 14, Marius Dybwad 15 16, Patrick K H Lee 17 18
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02173-z
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12395665/
+Data availability
+The raw DNA-sequencing data used in this study have been deposited in the NCBI Sequence Read Archive under BioProject accession numbers PRJNA1129830 (https://dataview.ncbi.nlm.nih.gov/object/PRJNA1129830?reviewer=1g7d3ssamqkhspagcpf2cenq6t) and PRJNA1132165 (https://dataview.ncbi.nlm.nih.gov/object/PRJNA1132165?reviewer=uu8vu4rqqn6vlfp122spfju3g0). The viral genome sequences are available at https://figshare.com/articles/dataset/5346_highquality_airborne_virus/27628491. The supporting code can be found at the following GitHub page: https://github.com/HuaxinLEI-CityU/Global-Built-Environments-Airborne-Viromes.
+
+### 2021-04-21
+https://www.biorxiv.org/content/10.1101/2025.04.21.649744v1.full
+Spatial and Temporal Patterns of Public Transit Aerobiomes
+Russell J. S. Orr, Ola Brynildsrud, Kari O. Bøifot, Jostein Gohli, Gunnar Skogan, Frank J. Kelly, Mark T. Hernandez, Klas Udekwu, Patrick K. H. Lee,  View ORCID ProfileChristopher E. Mason, Marius Dybwad
+doi: https://doi.org/10.1101/2025.04.21.649744
+Raw reads for 2017, 2018 and 2019 are available through the respective NCBI Bioprojects PRJNA561080, PRJNA1129830 and PRJNA1132165.
+
 ### 2021-05-26
-### Leung_2021-05-26
-
-10:58 AM · May 27, 2021
-https://twitter.com/mason_lab/status/1397733964266315780
-Chris Mason on Twitter: "Then Marius Dybwad and Patrick Lee lead the matching collections of the air microbiome from some of the same cities at the same time, which also mapped microbes and AMR genes around the world: https://t.co/a81voonXMO /14" / Twitter
-
 https://pubmed.ncbi.nlm.nih.gov/34039416/
 Microbiome
 . 2021 May 26;9(1):112. doi: 10.1186/s40168-021-01044-7.
 Characterization of the public transit air microbiome and resistome reveals geographical specificity
 M H Y Leung # 1, X Tong # 1, K O Bøifot # 2 3, D Bezdan 4, D J Butler 4, D C Danko 4, J Gohli 2, D C Green 3, M T Hernandez 5, F J Kelly 3, S Levy 6, G Mason-Buck 3, M Nieto-Caballero 5, D Syndercombe-Court 3, K Udekwu 7, B G Young 4, C E Mason 8 9 10 11, M Dybwad 12 13, P K H Lee 14
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01044-7
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8157753/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8157753/
+Results
+Overall community overview of the public transit air microbiome
+A total of 468 species-level taxa were identified in the public transit networks. As expected, the majority of the community were assigned bacteria (average relative abundance of the entire dataset (96.5%), followed by virus (3.21%), fungi (0.19%), and archaea (0.043%) (Fig. 1a). 
+
+The raw sequence data has been deposited in the NCBI Sequence Read Archive (SRA) under Bioproject ID# PRJNA561080
+
+10:58 AM · May 27, 2021
+https://twitter.com/mason_lab/status/1397733964266315780
+Chris Mason on Twitter: "Then Marius Dybwad and Patrick Lee lead the matching collections of the air microbiome from some of the same cities at the same time, which also mapped microbes and AMR genes around the world: https://t.co/a81voonXMO /14" / Twitter
+
 
 ### Bøifot_2020
 
@@ -1666,7 +1750,6 @@ Faith's phylogenetic diversity [FPD], UniFrac
 https://twitter.com/GMFHx/status/1412156842940289032
 GutMicrobiota Health on Twitter: "Urbanization has been associated with health issues. New findings reveal that each city has its own fingerprint of bacteria and viruses with antibiotic-resistance genes encoding proteins that help bacteria fight off antimicrobial compounds https://t.co/iMPOv4D3R1 https://t.co/nLULfe5yTj" / Twitter
 
-### Danko_2021
 ### 2021-06-24
 https://pubmed.ncbi.nlm.nih.gov/34043940/
 Cell
@@ -1675,8 +1758,11 @@ A global metagenomic map of urban microbiomes and antimicrobial resistance
 David Danko 1, Daniela Bezdan 2,
 International MetaSUB Consortium
 https://www.sciencedirect.com/science/article/pii/S0092867421005857?via%3Dihub
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238498/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8238498/
 https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
+
+We then examined the assembled contigs for viruses using Joint Genome Institute’s (JGI’s) uncultivated viral genomes (UViGs) mapping method (Paez-Espino et al., 2019). 
+
 
 2021年6月5日
 https://univ-journal.jp/98443/
@@ -1711,13 +1797,14 @@ May. 26, 2021 , 8:00 PM
 
 ### metasub_2020
 
+### 2020-06-08
 https://pubmed.ncbi.nlm.nih.gov/32514171/
 Nat Med
 . 2020 Jun;26(6):941-951. doi: 10.1038/s41591-020-0894-4. Epub 2020 Jun 8.
 Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment
 Kern Rei Chng # 1, Chenhao Li # 1, Denis Bertrand # 1, Amanda Hui Qi Ng 1, Junmei Samantha Kwah 1, Hwee Meng Low 1, Chengxuan Tong 1, Maanasa Natrajan 1, Michael Hongjie Zhang 1, Licheng Xu 2, Karrie Kwan Ki Ko 3 4 5, Eliza Xin Pei Ho 1, Tamar V Av-Shalom 1, Jeanette Woon Pei Teo 6, Chiea Chuen Khor 1, MetaSUB Consortium; Swaine L Chen 1, Christopher E Mason 7, Oon Tek Ng 8 9 10, Kalisvar Marimuthu 8 9 11, Brenda Ang 8 9, Niranjan Nagarajan 12 13
 https://www.nature.com/articles/s41591-020-0894-4
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303012/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7303012/
 Although disinfection is key to infection control, the colonization patterns and resistomes of hospital-environment microbes remain underexplored. We report the first extensive genomic characterization of microbiomes, pathogens and antibiotic resistance cassettes in a tertiary-care hospital, from repeated sampling (up to 1.5 years apart) of 179 sites associated with 45 beds. 
 
 
@@ -1827,7 +1914,7 @@ MetaSUB International Consortium
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4894504/
 
-### 2015-07-29_Afshinnekoo
+### 2015-07-29
 ニューヨーク
 
 https://github.com/haruosuz/metasub/tree/master/references#new-york-subway-microbiome
@@ -1847,6 +1934,7 @@ Ebrahim Afshinnekoo 1, Cem Meydan 2, Shanin Chowdhury 3, Dyala Jaroudi 2, Collin
 https://www.cell.com/cell-systems/fulltext/S2405-4712(15)00002-2
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4651444/
 https://www.sciencedirect.com/science/article/pii/S2405471215000022
+The largest assigned category was for cellular organisms (48%), with most of these coming from bacteria (46.9% of all reads), followed by relatively small subsets of reads matching eukaryotes (0.8%), viruses (0.03%), archaea (0.003%), and plasmids (0.001%).
 
 
 July 31, 2015
@@ -1887,6 +1975,19 @@ https://twitter.com/Yodosha_EM/status/567945623116210176
 https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
 
 
+
+
+
+----------
+
+
+
+4:08 PM · Dec 6, 2019
+https://x.com/jiamao0106/status/1202847142827573248
+ただのチンパンジー on X: 
+建物とかの微生物解析、コントロール的状況が用意できる条件で、結局assembly 段階か disturbance 後のsuccession とかに価値が出てくるだろうし、あと微生物が強く関連していると考えられる状況下をフィールドにする必要あって、かなり植物以上に闇雲なサンプリングできないなって思いました(今更)
+というか、病院みたいな明らかにマイクロバイオームが重要な働きをするって分かっている環境なら別だけど、微生物が影響し得るって何かしらの仮説を示すダイナミクスすら提示されてない条件下で研究始めるの本当に良くないですね(ただの自分への戒め)
+いやまあ、よく都市であり得る病原菌に対していわゆる「強い」微生物をpriority effect として導入するならコンテクストとしては筋が行くけど、いやまあそれでもコントロール実験が前提だよなって話なんだよなぁ
 
 
 
