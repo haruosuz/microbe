@@ -9,14 +9,16 @@
 - [migi](#migi) microbiome-inspired green infrastructure (MIGI) | microbiome rewilding
 - [urban agriculture](#urban-agriculture)
 - [MetaSUB](#metasub)
+[MetaCoV](#metacov)
+[MetaAIR](#metaair)
+- [kaken](#kaken)
+- [mass_gathering](#mass_gathering)
 - [people](#people)
 [kato](#kato) 加藤 信介
 [yanagi](#yanagi) 柳 宇
 [jessica_green](#jessica_green)
 [aki.sinkkonen](#aki.sinkkonen) Aki Sinkkonen
 [gking](#gking) Gary M. King
-- [kaken](#kaken)
-- [mass_gathering](#mass_gathering)
 
 ----------
 
