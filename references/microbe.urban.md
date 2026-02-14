@@ -68,6 +68,29 @@ https://www.jmedj.co.jp/blogs/product/product_4589
 
 ## 2025
 
+### 2025-11-04
+中国・北京の地下鉄15駅の換気システム（エアフィルター）から採取
+https://pubmed.ncbi.nlm.nih.gov/40996265/
+Microbiol Spectr
+. 2025 Nov 4;13(11):e0162625. doi: 10.1128/spectrum.01626-25. Epub 2025 Sep 25.
+Dynamic airborne mycobiome in the metropolitan city transit system is driven by seasonality and station type
+Xin Zhou # 1, Da Li # 1 2, Xiao-Wei Lu 1 2, Clement K M Tsui 3 4 5, Supawadee Ingsriswang 6, Jun-Min Liang 1, Lei Cai 1
+https://journals.asm.org/doi/10.1128/spectrum.01626-25
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12584724/
+
+An international consortium, MetaSUB, has collected samples from urban transport systems, including subways and buses in 60 cities worldwide to investigate the density, types, and dynamics of urban metagenomes (3).
+
+MATERIALS AND METHODS
+Sample collection
+Air samples were collected monthly from October 2021 to September 2022 from the air filters of the ventilation systems at 15 stations (Fig. 1a). 
+
+Fig 1.
+(a) Beijing subway line map with 15 different stations and three different station types marked in the map. IHS, intercity hub stations (green circles); SUS, suburban stations (purple triangles); UHS, urban hub stations (blue squares). 
+
+RESULTS
+
+Factors affecting fungal communities of subway stations
+
 ### 2025-08-29
 https://pubmed.ncbi.nlm.nih.gov/40883783/
 Microbiome
@@ -78,17 +101,6 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02173-z
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12395665/
 Fig. 1.
 Permutational multivariate analyses of variance (PERMANOVA) and permutational multivariate analyses of dispersion (PERMDISP) were performed without considering the year in which the samples were collected.
-
-### 2025-04-21
-Posted April 21, 2025.
-doi: https://doi.org/10.1101/2025.04.21.649744
-Spatial and Temporal Patterns of Public Transit Aerobiomes
-https://www.biorxiv.org/content/10.1101/2025.04.21.649744v1.full
-Russell J. S. Orr, Ola Brynildsrud, Kari O. Bøifot, Jostein Gohli, Gunnar Skogan, Frank J. Kelly, Mark T. Hernandez, Klas Udekwu, Patrick K. H. Lee,  View ORCID ProfileChristopher E. Mason, Marius Dybwad
-
-Methods
-Air sampling
-Air samples were taken annually over a three-year period (2017-2019) from public transit hubs of six cities, in total 750 air samples (Table 1 & Table S1). For 2018 a total of 261 samples were collected and sequenced from six cities (Denver, Hong Kong, London, New York, Oslo, and Stockholm) and 80 localities. For 2019 a total of 239 samples were collected and sequenced from five cities (excluding Stockholm) and 71 localities. Further, we reanalysed previously published data for 250 samples, collected and sequenced using the same protocols, from public transit hubs of the same six cities and 76 localities from 2017 [33]. Negative (22) and positive (5) control samples were utilized for downstream contamination removal.
 
 ### 2025-03-13
 Posted March 13, 2025.
@@ -118,16 +130,6 @@ https://www.nature.com/articles/s41598-024-79447-3
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11557577/
 
 
-### 2024-08
-
-https://www.cell.com/trends/biotechnology/abstract/S0167-7799(24)00005-2
-Trends Biotechnol
-. 2024 Aug;42(8):942-945. doi: 10.1016/j.tibtech.2024.01.005. Epub 2024 Feb 16.
-Probiotic Cities: microbiome-integrated design for healthy urban ecosystems
-Jake M Robinson 1, Martin F Breed 2, Richard Beckett 3
-https://www.sciencedirect.com/science/article/pii/S0167779924000052
-
-
 ### 2024-06
 ### 2024-03-12
 MetaSUB
@@ -151,10 +153,6 @@ Robin B Guevarra 1, Juchan Hwang 1, Hyunjung Lee 1, Hyung Jun Kim 1, Yunmi Lee 1
 https://www.sciencedirect.com/science/article/pii/S0147651322010168?via%3Dihub
 
 ### 2022-10-20
-
-https://twitter.com/yurigravity/status/1588195221224947713
-yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
-
 https://pubmed.ncbi.nlm.nih.gov/36299999/
 iScience
 . 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
@@ -164,6 +162,8 @@ https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589169/
 https://www.sciencedirect.com/science/article/pii/S2589004222012652
 
+https://twitter.com/yurigravity/status/1588195221224947713
+yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
 
 ### 2022-05-01
 未知の都市微生物種を地球規模でアノテーションすることで、新たな機能的多様性と地域環境との関連性が明らかになる
@@ -439,7 +439,6 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11992389/
 ## 2023
 
 ### 2023-12-07
-
 https://pubmed.ncbi.nlm.nih.gov/38062054/
 NPJ Biofilms Microbiomes
 . 2023 Dec 7;9(1):94. doi: 10.1038/s41522-023-00459-4.
@@ -532,6 +531,7 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9715416/
 Montevideo is the capital city of Uruguay,
 
+In November 2017, twenty four environmental water samples were collected as previously described [11]. 
 
 ### 2022-11-22
 Perspective
@@ -590,6 +590,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8876034/
 ----------
 
 ### 2021-11-02
+桟橋
 https://pubmed.ncbi.nlm.nih.gov/34724986/
 Microbiome
 . 2021 Nov 2;9(1):213. doi: 10.1186/s40168-021-01166-y.
@@ -597,12 +598,12 @@ M﻿etagenomic insights into the microbial communities of inert and oligotrophic
 Xinzhao Tong 1, Marcus H Y Leung 1, Zhiyong Shen 1, Justin Y Y Lee 1, Christopher E Mason 2 3 4 5, Patrick K H Lee 6 7
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01166-y
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8562002/
+Source tracking of surface metagenomes
+The fast expectation-maximization microbial source tracking (FEAST) algorithm [81] was used to track the sources of microbial populations detected on the pier surfaces. To reflect local microbiome sources, 12 marine sediment samples collected near Hong Kong [82] and 20 skin samples of Chinese women [83] were used as the representative microbial sources. Other types of microbial sources were not considered owing to the lack of available local metagenomics data. Sequence processing, quality control, and taxonomic annotation of the source metagenomes were the same as the surface samples. FEAST was performed based on the species-level microbial taxa table using the R package “FEAST” (v1.0.1) with default parameters.
 
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA722771/
 Hong Kong pier surface metagenomes
 This study aims to understand the taxonomic composition and functional features of pier surface microbiomes along the costal line of Hong Kong.
-
-
 
 
 ### 2021-09-28
@@ -1136,6 +1137,7 @@ DarwinBioprospecting on Twitter: "Bacteria from the built environment: the inner
 ### 2016-06
 
 ボストン
+2016-06-28
 https://pubmed.ncbi.nlm.nih.gov/27822528/
 mSystems
 . 2016 Jun 28;1(3):e00018-16. doi: 10.1128/mSystems.00018-16. eCollection 2016 May-Jun.
@@ -1144,21 +1146,24 @@ Tiffany Hsu 1, Regina Joice 2, Jose Vallarino 2, Galeb Abu-Ali 2, Erica M Hartma
 https://journals.asm.org/doi/full/10.1128/msystems.00018-16
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5069760/
 
-
-### 2016-04
-### Chase_2016
+### 2016-04-19
+```
+対象都市（3都市）
+- サンディエゴ（アメリカ・カリフォルニア州）：乾燥した地中海性気候
+- フラッグスタッフ（アメリカ・アリゾナ州）：半乾燥気候
+- トロント（カナダ・オンタリオ州）：湿潤大陸性気候
+```
+https://pubmed.ncbi.nlm.nih.gov/27822521/
+mSystems
+. 2016 Apr 19;1(2):e00022-16. doi: 10.1128/mSystems.00022-16. eCollection 2016 Mar-Apr.
+Geography and Location Are the Primary Drivers of Office Microbiome Composition
+John Chase 1, Jennifer Fouquier 2, Mahnaz Zare 3, Derek L Sonderegger 4, Rob Knight 5, Scott T Kelley 2, Jeffrey Siegel 6, J Gregory Caporaso 1
+https://journals.asm.org/doi/10.1128/msystems.00022-16
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5069741/
 
 APRIL 20, 2016
 https://www.smithsonianmag.com/smart-news/every-city-has-unique-microbial-fingerprint-180958842/
 Every City Has a Unique Microbial “Fingerprint” | Smart News | Smithsonian Magazine
-
-https://pubmed.ncbi.nlm.nih.gov/27822521/
-mSystems
-. 2016 Apr 19;1(2):e00022-16. doi: 10.1128/mSystems.00022-16. eCollection Mar-Apr 2016.
-Geography and Location Are the Primary Drivers of Office Microbiome Composition
-John Chase 1, Jennifer Fouquier 2, Mahnaz Zare 3, Derek L Sonderegger 4, Rob Knight 5, Scott T Kelley 2, Jeffrey Siegel 6, J Gregory Caporaso 1
-https://journals.asm.org/doi/10.1128/mSystems.00022-16
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5069741/
 
 ### 2015
 
@@ -1339,16 +1344,16 @@ https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
 ### jessica_green
 
 ### 2012-08
-
-### Kembel_2012
-
 https://pubmed.ncbi.nlm.nih.gov/22278670/
 ISME J
 . 2012 Aug;6(8):1469-79. doi: 10.1038/ismej.2011.211. Epub 2012 Jan 26.
 Architectural design influences the diversity and structure of the built environment microbiome
 Steven W Kembel 1, Evan Jones, Jeff Kline, Dale Northcutt, Jason Stenson, Ann M Womack, Brendan Jm Bohannan, G Z Brown, Jessica L Green
-https://www.nature.com/articles/ismej2011211
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3400407/
+https://academic.oup.com/ismej/article/6/8/1469/7587766?login=false
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3400407/
+Environmental measurements
+During each sampling period, environmental conditions, including air temperature, relative humidity, absolute humidity and air flow rate, were measured using TSI Inc. (Shoreview, MN, USA) VelociCalc multi-function ventilation meters (Series 9555 with probe 964) placed at the patient bed and in air supply in patient rooms, and Davis Instruments (Hayward, CA, USA) Vantage Pro2 meters placed adjacent to BioSamplers (SKC Inc., Eight Four, PA, USA) outdoors.
+
 
 ### phylagen
 
@@ -1514,6 +1519,15 @@ I am curious – do they discuss at all how they define urban? I have been wonde
 ## migi
 microbiome-inspired green infrastructure (MIGI) 
 
+### 2024-08
+https://pubmed.ncbi.nlm.nih.gov/38368168/
+Trends Biotechnol
+. 2024 Aug;42(8):942-945. doi: 10.1016/j.tibtech.2024.01.005. Epub 2024 Feb 16.
+Probiotic Cities: microbiome-integrated design for healthy urban ecosystems
+Jake M Robinson 1, Martin F Breed 2, Richard Beckett 3
+https://www.sciencedirect.com/science/article/pii/S0167779924000052
+https://www.cell.com/trends/biotechnology/abstract/S0167-7799(24)00005-2
+
 ### 2020-12-01
 Review
 https://pubmed.ncbi.nlm.nih.gov/32402413/
@@ -1525,7 +1539,6 @@ https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30114-1
 https://www.sciencedirect.com/science/article/abs/pii/S0167779920301141
 
 ### 2020-04-12
-### Mills_2020-04-12
 RESEARCH ARTICLE
 https://onlinelibrary.wiley.com/doi/10.1111/rec.13175
 Revegetation of urban green space rewilds soil microbiotas with implications for human health and urban design - Mills - 2020 - Restoration Ecology - Wiley Online Library
@@ -1537,7 +1550,6 @@ Microbiome rewilding: Biodiverse urban green spaces strengthen human immune syst
 by University of Adelaide
 
 ### 2020-03-11
-### Robinson_2020-03-11
 PERSPECTIVE
 https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10082
 Rekindling old friendships in new landscapes: The environment–microbiome–health axis in the realms of landscape research - Robinson - 2020 - People and Nature - Wiley Online Library
@@ -1545,7 +1557,6 @@ Jake M. Robinson, Anna Jorgensen
 First published: 11 March 2020 https://doi.org/10.1002/pan3.10082Citations: 11
 
 ### 2019-03-26
-### Mills_2019-03-26
 PERSPECTIVE article
 https://pubmed.ncbi.nlm.nih.gov/30972043/
 Front Microbiol
@@ -1553,17 +1564,15 @@ Front Microbiol
 Relating Urban Biodiversity to Human Health With the 'Holobiont' Concept
 Jacob G Mills 1, Justin D Brookes 1, Nicholas J C Gellie 1, Craig Liddicoat 1, Andrew J Lowe 1, Harrison R Sydnor 1, Torsten Thomas 2, Philip Weinstein 1, Laura S Weyrich 3, Martin F Breed 1
 https://www.frontiersin.org/articles/10.3389/fmicb.2019.00550/full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444116/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6444116/
 
 ### 2018-11-16
-### Robinson_2018-11-16
 Perspective
 https://www.mdpi.com/2078-1547/9/2/40
 Walking Ecosystems in Microbiome-Inspired Green Infrastructure: An Ecological Perspective on Enhancing Personal and Planetary Health
 by Jake M. Robinson 1,2,3,4,*ORCID,Jacob G. Mills 4,5ORCID andMartin F. Breed 4,5
 
 ### 2017-10-11
-### Mills_2017-10-11
 OPINION ARTICLE
 https://onlinelibrary.wiley.com/doi/10.1111/rec.12610
 Urban habitat restoration provides a human health benefit through microbiome rewilding: the Microbiome Rewilding Hypothesis - Mills - 2017 - Restoration Ecology - Wiley Online Library
@@ -1658,6 +1667,27 @@ PRJNA1132165	SRA or Trace	MetaAir: Public transport air microbiome 2019	MetaAir:
 
 PRJNA561080	Shotgun metagenomic sequencing of subway and urban air samples: gCSD17	Shotgun metagenomic sequencing of subway and urban air samples: gCSD17 (Metagenomics & Metadesign...)
 
+### 2026-01-19
+```
+対象都市（6都市）
+- デンバー (Denver / アメリカ)
+- 香港 (Hong Kong)
+- ロンドン (London / イギリス)
+- ニューヨーク (New York / アメリカ)
+- オスロ (Oslo / ノルウェー)
+- ストックホルム (Stockholm / スウェーデン)
+※2019年の調査のみ、ストックホルムを除く5都市で実施
+```
+https://pubmed.ncbi.nlm.nih.gov/41555453/
+Microbiome
+. 2026 Jan 19;14(1):64. doi: 10.1186/s40168-025-02303-7.
+Spatial and temporal patterns of public transit aerobiomes
+Russell J S Orr # 1, Ola Brynildsrud # 2 3, Kari O Bøifot 2 4, Jostein Gohli 2 5, Gunnar Skogan 2, Frank J Kelly 6, Mark T Hernandez 7, Klas Udekwu 8 9, Patrick K H Lee 10, Christopher E Mason 11, Marius Dybwad 2 4
+https://link.springer.com/article/10.1186/s40168-025-02303-7
+Methods
+Air sampling
+Air samples were taken interannually during summer months over 3 years (2017–2019) from public transit hubs of six cities, in total 750 air samples (Table 1 and Table S1). For 2018, a total of 261 samples were collected from six cities (Denver, Hong Kong, London, New York, Oslo and Stockholm) and 80 localities. For 2019, a total of 239 samples were collected from five cities (excluding Stockholm) and 71 localities. Further, we reanalysed previously published data for 250 samples, collected and processed using the same protocols, from public transit hubs of the same six cities and 76 localities from 2017 [33]. Negative (22) and positive (5) control samples were utilized for downstream contamination removal.
+
 ### 2025-08-29
 https://pubmed.ncbi.nlm.nih.gov/40883783/
 Microbiome
@@ -1668,13 +1698,6 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02173-z
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12395665/
 Data availability
 The raw DNA-sequencing data used in this study have been deposited in the NCBI Sequence Read Archive under BioProject accession numbers PRJNA1129830 (https://dataview.ncbi.nlm.nih.gov/object/PRJNA1129830?reviewer=1g7d3ssamqkhspagcpf2cenq6t) and PRJNA1132165 (https://dataview.ncbi.nlm.nih.gov/object/PRJNA1132165?reviewer=uu8vu4rqqn6vlfp122spfju3g0). The viral genome sequences are available at https://figshare.com/articles/dataset/5346_highquality_airborne_virus/27628491. The supporting code can be found at the following GitHub page: https://github.com/HuaxinLEI-CityU/Global-Built-Environments-Airborne-Viromes.
-
-### 2021-04-21
-https://www.biorxiv.org/content/10.1101/2025.04.21.649744v1.full
-Spatial and Temporal Patterns of Public Transit Aerobiomes
-Russell J. S. Orr, Ola Brynildsrud, Kari O. Bøifot, Jostein Gohli, Gunnar Skogan, Frank J. Kelly, Mark T. Hernandez, Klas Udekwu, Patrick K. H. Lee,  View ORCID ProfileChristopher E. Mason, Marius Dybwad
-doi: https://doi.org/10.1101/2025.04.21.649744
-Raw reads for 2017, 2018 and 2019 are available through the respective NCBI Bioprojects PRJNA561080, PRJNA1129830 and PRJNA1132165.
 
 ### 2021-05-26
 https://pubmed.ncbi.nlm.nih.gov/34039416/
@@ -1719,7 +1742,6 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC6924074/
 Surface samples were collected for three surface types at each station: kiosks, railings, and benches. 
 
 ### 2021-11-16
-
 https://pubmed.ncbi.nlm.nih.gov/34738808/
 Meta-Analysis Environ Sci Technol
 . 2021 Nov 16;55(22):15051-15062. doi: 10.1021/acs.est.1c03941. Epub 2021 Nov 5.
@@ -1728,7 +1750,7 @@ You Zhou 1, Marcus H Y Leung 1, Xinzhao Tong 1, Justin Y Y Lee 1, Patrick K H Le
 https://pubs.acs.org/doi/10.1021/acs.est.1c03941
 16S rRNA gene sequences
 UniFrac
-https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_webofscience_primary_000721255600009CitationCount
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_2636665497
 American Chemical Society Journals
 
 ### 2014-11
@@ -1746,7 +1768,7 @@ Faith's phylogenetic diversity [FPD], UniFrac
 
 ----------
 
-### metasub_2021
+### Cell2021
 
 6:10 AM · Jul 6, 2021
 https://twitter.com/GMFHx/status/1412156842940289032
@@ -1764,7 +1786,6 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8238498/
 https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
 
 We then examined the assembled contigs for viruses using Joint Genome Institute’s (JGI’s) uncultivated viral genomes (UViGs) mapping method (Paez-Espino et al., 2019). 
-
 
 2021年6月5日
 https://univ-journal.jp/98443/
@@ -1928,6 +1949,7 @@ Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenom
 Ebrahim Afshinnekoo, Cem Meydan, Shanin Chowdhury, Dyala Jaroudi, Collin Boyer, Nick Bernstein, Julia M Maritz, Darryl Reeves, Jorge Gandara, Sagar Chhangawala, Sofia Ahsanuddin, Amber Simmons, Timothy Nessel, Bharathi Sundaresh, Elizabeth Pereira, Ellen Jorgensen, Sergios-Orestis Kolokotronis, Nell Kirchberger, Isaac Garcia, David Gandara, Sean Dhanraj, Tanzina Nawrin, Yogesh Saletore, Noah Alexander, Priyanka Vijay, Elizabeth M Hénaff, Paul Zumbo, Michael Walsh, Gregory D O'Mullan, Scott Tighe, Joel T Dudley, Anya Dunaif, Sean Ennis, Eoghan O'Halloran, Tiago R Magalhaes, Braden Boone, Angela L Jones, Theodore R Muth, Katie Schneider Paolantonio, Elizabeth Alter, Eric E Schadt, Jeanne Garbarino, Robert J Prill, Jane M Carlton, Shawn Levy, Christopher E Mason
 https://www.cell.com/cell-systems/fulltext/S2405-4712%2815%2900014-9
 
+2015-07-29
 https://pubmed.ncbi.nlm.nih.gov/26594662/
 Cell Syst
 . 2015 Jul 29;1(1):72-87. doi: 10.1016/j.cels.2015.01.001. Epub 2015 Mar 3.
