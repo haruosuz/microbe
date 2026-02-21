@@ -1055,9 +1055,138 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
 
 ### Acinetobacter
 
-### root
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+### 2026-02-18
+Front. Microbiol., 18 February 2026
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1730485/full
+Frontiers | Whole-genome sequencing identifies persistent transmission of a high-risk ST2 Acinetobacter baumannii clone in a Guangzhou Hospital
 
+Figure 1
+The first two digits of the strain name indicate the year of isolation; for example, strain 1710_338 was isolated in 2017.
+
+### 2026-01-20
+Posted January 20, 2026.
+https://www.biorxiv.org/content/10.64898/2026.01.20.700532v1.full
+Historical isolates provide insights into the evolution of Acinetobacter baumannii international clone 2 and its resistome | bioRxiv
+
+This article is a preprint and has not been certified by peer review [what does this mean?].
+
+Figure 4.
+Proportion of IC2 isolates containing ARGs over time.
+
+To further investigate potential groups within IC2, an IC2 phylogeny was created from a recombination-free alignment and rooted with ATCC 19606 as an outgroup (see Methods). Root-to-tip analysis gave an R2 value of 0.14, which was insufficient for dating. 
+
+Figure 5.
+IC2 phylogeny highlighting groups.
+The phylogeny was created using Gubbins and outgroup rooted as described in Methods. 
+
+Figure 6.
+Cumulative number of IC2 group isolates over time.
+
+Methods
+
+Core genome phylogeny
+Panaroo v1.5.2 (48) was run on GFF3 files output by Bakta to create a core genome alignment with MAFFT (49) as the aligner and core genome threshold of 1. IQtree v2.4.0 (50) was run on this alignment with the substitution model determined using ModelFinder (51). The core genome phylogeny was rooted with an Acinetobacter nosocomialis outgroup (GenBank accession no. CP157432.1).
+
+Recombination-free IC2 phylogeny
+Whole genome alignment of chromosome sequences was performed using ska2 v0.4.0 (57) against a recent ST2 isolate (GenBank accession no. CP181411.1). Gubbins v3.4 (58) 
+
+Temporal and other statistical analysis
+Gene enrichment/depletion was determined based on ARG annotations produced by RGI with Fisher’s exact test using Scipy v1.13.1 (61). Root-to-tip analysis was performed using BactDating v1.1.3 (62) in R v4.3.1. 
+
+### 2025-12-22
+https://pubmed.ncbi.nlm.nih.gov/41430092/
+Sci Rep
+. 2025 Dec 22;15(1):45076. doi: 10.1038/s41598-025-31214-8.
+Epidemiology and molecular typing of multidrug resistant Acinetobacter baumannii burn wound isolates from six Chinese provinces
+Shaojin Pan 1 2, Kui Liu 3, Yujiao Huang 1, Yali Gong 4, Jing Wang 4, Zeyuan Lei 5, Zichen Yang 6 7
+https://www.nature.com/articles/s41598-025-31214-8
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12749299/
+
+### 2025-09-17
+https://pubmed.ncbi.nlm.nih.gov/40961326/
+Microb Genom
+. 2025 Sep;11(9):001500. doi: 10.1099/mgen.0.001500.
+Dominance of high-risk clones ST2 and ST571 and the diversity of resistance islands in clinical Acinetobacter baumannii isolates from Hanoi, Vietnam
+Minh Ngoc Nghiem 1, Dung Phuong Bui 2, Van Thi Thu Ha 3, Hop Thi Tran 1, Diem Thi Nguyen 1, Thuy Thi Bich Vo 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001500#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12444785/
+
+### 2025-09-03
+https://pubmed.ncbi.nlm.nih.gov/40711465/
+Review Antimicrob Agents Chemother
+. 2025 Sep 3;69(9):e0080125. doi: 10.1128/aac.00801-25. Epub 2025 Jul 25.
+Acinetobacter baumannii: much more than a human pathogen
+Santiago Castillo-Ramírez 1, Alejandro Aguilar-Vera 1, Ayush Kumar # 2, Benjamin Evans # 3 4
+https://journals.asm.org/doi/10.1128/aac.00801-25
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12406671/
+
+### 2025-04-14
+https://pubmed.ncbi.nlm.nih.gov/40229304/
+Nat Commun
+. 2025 Apr 14;16(1):3536. doi: 10.1038/s41467-025-58772-9.
+Genomic epidemiology and phylodynamics of Acinetobacter baumannii bloodstream isolates in China
+Qixia Luo # 1, Mengru Chang # 2, Ping Lu # 1, Qian Guo # 2, Xiaoqing Jiang 2, Tingting Xiao 1, Haoyu Zhang 2, Yingying Ma 1, Yan Zhang 2, Wei Yu 1, Erjia Zhang 1, Yunbo Chen 1, Ping Shen 1, Jinru Ji 1, Chaoqun Ying 1, Zhiying Liu 1; BRICS Working Group; Huaiqiu Zhu 3, Yonghong Xiao 4
+
+https://www.nature.com/articles/s41467-025-58772-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11997098/
+
+ST208 was disseminated through multiple interprovincial transmission events
+|
+Fig. 10. ST208 was disseminated through multiple interprovincial transmission events.
+|
+The common ancestor of ST191 dates to approximately 1995 [95% Highest Posterior Density (HPD), 1991–1999) and originated in ZJ.
+|
+(Fig. 10a, d). The common ancestor of ST195 dates to 1996 (95% HPD 1992-2000), when it originated from ZJ. ST195 initially emerged in ZJ and subsequently diverged into two major clades.
+|
+The initial introduction of ST208 occurred in AH in 1987 (95% HPD 1982-1992), followed by its spread to Yunnan (Fig.S17). As a result, varying degrees of ST208 epidemics were observed in most regions of China (Fig. 10c, Fig. S17). BEAST analysis predicted a total of 69 transmission events between provinces, including 36 major transmission events. These transmission events involved 21 provinces, with AH being the most frequent origin and destination for transmission (Fig. 10c, d).
+
+Methods
+
+Variation analysis and recombination detection
+|
+Gubbins (version 2.4.1)58 for recombination identification
+
+Phylogenetic analysis
+|
+We constructed a maximum likelihood phylogenetic tree using non-recombinant SNP sequences of 234 strains of ST208, and the Bayesian binary Markov chain Monte Carlo (BMM) method in RASP (Version 4.0)65 was used to analyze the status of KL in the ST208 phylogenetic tree. 
+
+Phylogeographic analysis
+We next conducted discrete trait phylogeographic inference for the ST195, ST208, and ST191 isolates via their nonrecombinant core SNP alignment via BEAST (version 2.7.4)66. BEAST priors were introduced with BEAUti (version 2.7.5)66, 
+
+65.Yu, Y., Blair, C. & He, X. RASP 4: ancestral state reconstruction tool for multiple genes and characters. Mol. Biol. Evol.37, 604–606 (2020). [DOI] [PubMed] [Google Scholar]
+
+
+### 2025-02-05
+https://pubmed.ncbi.nlm.nih.gov/39908088/
+Microb Genom
+. 2025 Feb;11(2):001345. doi: 10.1099/mgen.0.001345.
+Whole-genome sequencing of Acinetobacter baumannii clinical isolates from a tertiary hospital in Terengganu, Malaysia (2011-2020), revealed the predominance of the Global Clone 2 lineage
+Nurul Saidah Din 1, Farahiyah Mohd Rani 1, Ahmed Ghazi Alattraqchi 1, Salwani Ismail 1, Nor Iza A Rahman 1, David W Cleary 2 3, Stuart C Clarke 1 4 5 6 7, Chew Chieng Yeo 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001345#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11798184/
+
+### 2024-12-25
+https://pubmed.ncbi.nlm.nih.gov/39831164/
+Heliyon
+. 2024 Dec 25;11(1):e41487. doi: 10.1016/j.heliyon.2024.e41487. eCollection 2025 Jan 15.
+Epidemiological and genomic analysis of Acinetobacter baumannii strains from retailed raw meat
+Leila Hamze 1, Raquel Garcia-Fierro 1, Antoine Drapeau 1, Pauline François 1, Andrea Endimiani 2, Jean-Yves Madec 1, Marisa Haenni 1, Vincent Perreten 3, Agnese Lupo 1
+https://www.sciencedirect.com/science/article/pii/S2405844024175184
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11742621/
+https://www.sciencedirect.com/science/article/pii/S2405844024175184
+
+### 2025-02
+https://pubmed.ncbi.nlm.nih.gov/39908088/
+Microb Genom
+. 2025 Feb;11(2):001345. doi: 10.1099/mgen.0.001345.
+Whole-genome sequencing of Acinetobacter baumannii clinical isolates from a tertiary hospital in Terengganu, Malaysia (2011-2020), revealed the predominance of the Global Clone 2 lineage
+Nurul Saidah Din 1, Farahiyah Mohd Rani 1, Ahmed Ghazi Alattraqchi 1, Salwani Ismail 1, Nor Iza A Rahman 1, David W Cleary 2 3, Stuart C Clarke 1 4 5 6 7, Chew Chieng Yeo 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001345#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11798184/
+
+### 
+
+### 2018-10-18
 https://pubmed.ncbi.nlm.nih.gov/30337588/
 Sci Rep
 . 2018 Oct 18;8(1):15346. doi: 10.1038/s41598-018-33800-5.
@@ -1066,7 +1195,7 @@ Ana Rita Costa 1, Rodrigo Monteiro 1, Joana Azeredo 2
 https://www.nature.com/articles/s41598-018-33800-5
 tree rooted using Acinetobacter baumannii plasmid pNaval18-231 as the outgroup
 
-
+### 2015-10-14
 https://pubmed.ncbi.nlm.nih.gov/26462752/
 Sci Rep
 . 2015 Oct 14:5:15188. doi: 10.1038/srep15188.
@@ -1081,7 +1210,7 @@ The phylogeny was rooted by first including an outgroup from A. nosocomialis, th
 Figure 4. A core genome single nucleotide polymorphism (SNP) phylogeny of ST25 genomes.
 The tree was rooted according to the most basal genome isolated from the global phylogeny (Fig. 3).
 
-
+### 2011-10
 https://pubmed.ncbi.nlm.nih.gov/21788470/
 Antimicrob Agents Chemother
 . 2011 Oct;55(10):4506-12. doi: 10.1128/AAC.01134-10. Epub 2011 Jul 25.
@@ -1091,7 +1220,6 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC3187012/
 Fig. 1.
 Phylogenetic analyses of Acinetobacter baumannii isolates.
 The genome of Acinetobacter baylyi ADP1 was used as the outgroup to root the tree.
-
 
 ### 2022-01-17
 
