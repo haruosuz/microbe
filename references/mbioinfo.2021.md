@@ -22,7 +22,7 @@
 - [MRSA](#mrsa)
 - [](#)
 - [monumentome](#monumentome)
-- [publication](#publication)
+- [my_publication](#my_publication)
 - [five-second rule](#five-second-rule)
 - [](#)
 
@@ -544,7 +544,7 @@ Virus Evol
 Exploring the temporal structure of heterochronous sequences using TempEst (formerly Path-O-Gen)
 Andrew Rambaut 1, Tommy T Lam 2, Luiz Max Carvalho 3, Oliver G Pybus 4
 https://academic.oup.com/ve/article-lookup/doi/10.1093/ve/vew007
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4989882/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4989882/
 
 root-to-tip
 
@@ -558,89 +558,141 @@ iScience
 Helicobacter pylori genomes reveal Paleolithic human migration to the east end of Asia
 Rumiko Suzuki 1, Naruya Saitou 2, Osamu Matsuari 3, Seiji Shiota 4, Takashi Matsumoto 1, Junko Akada 1, Nagisa Kinjo 5, Fukunori Kinjo 6, Kuniko Teruya 7, Makiko Shimoji 7, Akino Shiroma 7, Mototsugu Kato 8, Kazuhito Satou 7, Takashi Hirano 7, Masahiro Asaka 9, Kirill Kryukov 2, Yoshan Moodley 10, Yoshio Yamaoka 1 11
 https://www.cell.com/iscience/fulltext/S2589-0042(22)00748-9
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9204748/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9204748/
 Estimation of the divergence dates
 Based on the populations defined by fineSTRUCTURE, we selected representative strains to estimate divergence dates. We detected recombination signals by using the 4-gamete test and eliminated recombinant regions. Then, we constructed a Bayesian tree using BEAST2 (Bouckaert et al., 2014) and estimated the divergence dates. The divergence date of hspOkinawa was estimated around 20 thousand years ago (kya), and that of the cluster including hpRyukyu and Afghanistan-Nepal strains was estimated around 45 kya (Figure 2).
 
 ### 2021-03-30
-### Yahara_2021
-
-4:37 AM · Apr 5, 2021
-https://twitter.com/KojiYahara/status/1378793886336778240
-Koji Yahara on Twitter: "Our new paper on emergence and evolution of antimicrobial resistance genes and mutations in N. gonorrhoeae is out in Genome Medicine https://t.co/X2BhtHRYx3 (1/8)" / Twitter
-
 https://pubmed.ncbi.nlm.nih.gov/33785063/
 Genome Med
 . 2021 Mar 30;13(1):51. doi: 10.1186/s13073-021-00860-8.
 Emergence and evolution of antimicrobial resistance genes and mutations in Neisseria gonorrhoeae
 Koji Yahara 1, Kevin C Ma 2, Tatum D Mortimer 2, Ken Shimuta 3 4, Shu-Ichi Nakayama 4, Aki Hirabayashi 3, Masato Suzuki 3, Michio Jinnai 5, Hitomi Ohya 5, Toshiro Kuroki 5 6, Yuko Watanabe 5, Mitsuru Yasuda 7, Takashi Deguchi 8, Vegard Eldholm 9, Odile B Harrison 10, Martin C J Maiden 10, Yonatan H Grad 2, Makoto Ohnishi 11
 https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00860-8
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8008663/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8008663/
+
+
+Background
+|
 Here, we obtained complete, closed, genome sequences of three Japanese ST-1901 N. gonorrhoeae isolates harboring penA-34 from 2005 and reconstructed a dated phylogeny based on core-genome alignment of 1075 genome sequences from isolates sampled from 35 countries. 
 
-![](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8008663/bin/13073_2021_860_Fig1_HTML.jpg)
+Methods
+Detailed descriptions of the methods used, including genome assembly, and construction of the clonal time-resolved phylogeny, followed by inference of the recombination events, and the associated results are provided in Additional file 1.
+
+Bioinformatic analyses
+|
+The clonal phylogeny of ST-1901-associated and ST-7363-associated core-genome groups with branch lengths corrected to account for homologous recombination were inferred using the standard model of ClonalFrameML [30], followed by BactDating [31].
 
 Fig. 1
 Whole genome sequence dated phylogeny, antimicrobial resistance, and genetic polymorphisms in the ST-1901-associated core-genome group. Left: A clonal dated phylogeny with corrected branch lengths to account for homologous recombination. 
 
-### Yahara_2018
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8008663/#MOESM1
+Supplementary Information
+13073_2021_860_MOESM1_ESM.docx (45.2KB, docx)
+Additional file 1. Supplementary Methods and Results.
+https://pmc.ncbi.nlm.nih.gov/articles/instance/8008663/bin/13073_2021_860_MOESM1_ESM.docx
+Supplementary Methods
+|
+Construction of the clonal time-resolved phylogeny of ST-1901-associated and ST-7363-associated core-genome groups
+|
+ClonalFrameML
+TempEst
+BactDating
 
+
+4:37 AM · Apr 5, 2021
+https://twitter.com/KojiYahara/status/1378793886336778240
+Koji Yahara on Twitter: "Our new paper on emergence and evolution of antimicrobial resistance genes and mutations in N. gonorrhoeae is out in Genome Medicine https://t.co/X2BhtHRYx3 (1/8)" / Twitter
+
+### 2018-08
 https://pubmed.ncbi.nlm.nih.gov/30063202/
 Microb Genom
 . 2018 Aug;4(8):e000205. doi: 10.1099/mgen.0.000205. Epub 2018 Jul 31.
 Genomic surveillance of Neisseria gonorrhoeae to investigate the distribution and evolution of antimicrobial-resistance determinants and lineages
 Koji Yahara 1, Shu-Ichi Nakayama 2, Ken Shimuta 2, Ken-Ichi Lee 2, Masatomo Morita 2, Takuya Kawahata 3, Toshiro Kuroki 4 5, Yuko Watanabe 4, Hitomi Ohya 4, Mitsuru Yasuda 6, Takashi Deguchi 6, Xavier Didelot 7, Makoto Ohnishi 2 1
 https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000205#tab2
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6159555/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6159555/
 
+Methods
+
+Construction of time-resolved phylogeny of the two major lineages
+|
 In order to demonstrate that the data of the lineages have temporal signal, we plotted the sampling year versus root-to-tips correlation using TempEst [45] (Fig. S2). We also performed the date randomization tests using the ‘roottotip’ function of BactDating [46] and confirmed that the temporal signal is significant in both ST7363- and ST1901-associated lineages (P=0.018 and P <10−5). Using the maximum-likelihood tree as a starting tree, we applied the standard model of ClonalFrameML to each linage and inferred individual recombination events imported from outside the lineage. We excluded all recombined sequences from the whole-genome alignment, and then extracted 1079 and 3255 core biallelic SNPs for the ST7363- and ST1901-associated lineages. We then constructed a time-resolved phylogeny using the SNPs and beast version 1.10.0 [47], for which we specified the GTR +G4 model of DNA substitution with estimation of the shape parameter of the gamma distribution. 
 
-- TempEst
-- BactDating
-- ClonalFrameML
-- beast 
-
-![](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6159555/bin/mgen-5-205-g003.jpg)
+TempEst
+BactDating
+ClonalFrameML
+beast 
 
 Fig. 3.
 Time-resolved phylogeny and penA polymorphisms. 
 
 Plasmid-encoded resistance
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6159555/#sec18
+Supplementary Data
+Supplementary File 1
+Click here for additional data file. (550.4KB, pdf)
+https://pmc.ncbi.nlm.nih.gov/articles/instance/6159555/bin/mgen-5-205-s001.pdf
+Figure S2. Regressions of sampling time versus root-to-tip genetic distance. (a) ST7363
+and its single locus variants. (a) ST7363 and its single locus variants. (b)
+ST1901-associated lineage. 
+
+
+
+
+
 https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+
+
 ## Francois Balloux
 
 ### 2022-03-03
-
 https://pubmed.ncbi.nlm.nih.gov/35241674/
 Nat Commun
 . 2022 Mar 3;13(1):1131. doi: 10.1038/s41467-022-28819-2.
 Role of mobile genetic elements in the global dissemination of the carbapenem resistance gene blaNDM
 Mislav Acman 1, Ruobing Wang 2, Lucy van Dorp 3, Liam P Shaw 4, Qi Wang 2, Nina Luhmann 5, Yuyao Yin 2, Shijun Sun 2, Hongbin Chen 2, Hui Wang 2, Francois Balloux 3
 https://www.nature.com/articles/s41467-022-28819-2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8894482/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8894482/
 
 ### 2018-03-21
-
 https://pubmed.ncbi.nlm.nih.gov/29563494/
 Nat Commun
 . 2018 Mar 21;9(1):1179. doi: 10.1038/s41467-018-03205-z.
 The global distribution and spread of the mobilized colistin resistance gene mcr-1
 Ruobing Wang 1, Lucy van Dorp 2, Liam P Shaw 2, Phelim Bradley 3, Qi Wang 1, Xiaojuan Wang 1, Longyang Jin 1, Qing Zhang 4, Yuqing Liu 4, Adrien Rieux 5, Thamarai Dorai-Schneiders 6, Lucy Anne Weinert 7, Zamin Iqbal 3 8, Xavier Didelot 9, Hui Wang 10, Francois Balloux 11
 https://www.nature.com/articles/s41467-018-03205-z
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5862964/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5862964/
 
-### Lam_2018
 ### 2018-07-13
-
 https://pubmed.ncbi.nlm.nih.gov/30006589/
 Nat Commun
 . 2018 Jul 13;9(1):2703. doi: 10.1038/s41467-018-05114-7.
 Population genomics of hypervirulent Klebsiella pneumoniae clonal-group 23 reveals early emergence and rapid global dissemination
 Margaret M C Lam 1, Kelly L Wyres 1, Sebastian Duchêne 1, Ryan R Wick 1, Louise M Judd 1, Yunn-Hwen Gan 2, Chu-Han Hoh 2, Sophia Archuleta 3, James S Molton 3, Shirin Kalimuddin 4, Tse Hsien Koh 5, Virginie Passet 6, Sylvain Brisse 6, Kathryn E Holt 7 8
 https://www.nature.com/articles/s41467-018-05114-7
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6045662/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6045662/
 We detected a strong temporal signal in the CG23 genome alignment (see Supplementary Fig. 2a-c, Supplementary Methods), sufficient to estimate evolutionary rates and dates for the most recent common ancestors (MRCAs) of key CG23 lineages with BEAST (best-fitting Bayesian model was the UCLD constant model, see Supplementary Methods). The mean evolutionary rate for CG23 was estimated to be 3.40 × 10−7 substitutions site−1 year−1 (95% HPD; 2.43 × 10−7–4.38 × 10−7). The MRCAs for the entire CG23 population, CG23-I and equine sublineage nested within CG23-I were estimated to be 1878 (95% HPD; 1827–1915), 1928 (95% HPD; 1908–1953) and 1972 (95% HPD, 1961–1975), respectively.
+
+Electronic supplementary material
+Supplementary Information (6.1MB, pdf)
+https://pmc.ncbi.nlm.nih.gov/articles/instance/6045662/bin/41467_2018_5114_MOESM1_ESM.pdf
+
+Supplementary Figure 2. Evidence for temporal signal with agreement of dating
+methods and models
+a) Correlation between root-to-tip distance (ML phylogeny) and year of isolate collection. b)
+Substitution rate estimates generated by the LSD least squares method with the correct isolate
+collection dates (black) and randomised dates (red, n = 100 tests). c) Posterior distributions
+for substitution rate estimates generated by the Bayesian method implemented in BEAST
+with the correct isolate collection dates (black) and randomised dates (red, n = 20 tests). 
+
+Supplementary Methods
+
+Bayesian molecular clock analyses
+We first used TempEst 8 to investigate the relationship between root-to-tip distances in the
+ML tree and year of isolation. We then used two different methods to infer the evolutionary
+rate and timescale. 
 
 ----------
 
@@ -1573,79 +1625,6 @@ Figure 3. A type V SCCmec has been maintained since the 1980s, with occasional r
 
 ----------
 
-## robust
-ロバスト
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/#Sec10
-Comparative genomics of Bacteria commonly identified in the built environment
-
-Robustness and limitations
-
-It is important to note that the results remained similar when different data sets were compared (Additional file 1: Table S9). We tested the robustness to the composition of the genome data set by testing different subsets of bacteria (e.g., phyla of Proteobacteria, Firmicutes, and Actinobacteria), and also by randomly selecting one representative for species that have multiple strains sequenced. Of the four genomic features (genome size, GC content, GCSI, and S value), only the S value showed consistent results and tended to be higher in the “Common BE genera” compared to the “Others.”
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2608848/
-Comparison of Correspondence Analysis Methods for Synonymous Codon Usage in Bacteria
-It is important to note that these results remained similar when all complete bacterial genomic sequences available from the NCBI repository on August 2008 were included (data not shown). Similar results were obtained when only long sequences with >300 codons were used (data not shown). We also verified the consistency of the results when using detection thresholds below |r| = 0.70 (data not shown). Thus we conclude that WCA is more effective than the other three methods in generating axes that correspond to variation in synonymous codon usage, regardless of the data sets and statistical criteria used.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
-Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
-We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
-
-----------
-# publication
-
-2023-06
-https://pubmed.ncbi.nlm.nih.gov/37341708/
-Microb Genom
-. 2023 Jun;9(6):mgen001043. doi: 10.1099/mgen.0.001043.
-Transconjugant range of PromA plasmids in microbial communities is predicted by sequence similarity with the bacterial host chromosome
-Maho Tokuda 1, Masahiro Yuki 2, Moriya Ohkuma 2, Kazuhide Kimbara 1, Haruo Suzuki 3, Masaki Shintani 1 2 4
-https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001043#tab2
-https://pmc.ncbi.nlm.nih.gov/articles/PMC10327500/
-The R code used for analysis and figure generation is accessible at Github (https://github.com/tokudamaho/Tokuda_et_al._PromA_plasmid).
-
-2020-06-09
-https://pubmed.ncbi.nlm.nih.gov/32582111/
-Front Microbiol
-. 2020 Jun 9;11:1187. doi: 10.3389/fmicb.2020.01187. eCollection 2020.
-Determination of Plasmid pSN1216-29 Host Range and the Similarity in Oligonucleotide Composition Between Plasmid and Host Chromosomes
-Maho Tokuda 1, Haruo Suzuki 2 3, Kosuke Yanagiya 1, Masahiro Yuki 4, Kengo Inoue 5, Moriya Ohkuma 4, Kazuhide Kimbara 1, Masaki Shintani 1 4 6
-https://www.frontiersin.org/articles/10.3389/fmicb.2020.01187/full
-https://pmc.ncbi.nlm.nih.gov/articles/PMC7296055/
-
-2018-12-15
-https://pubmed.ncbi.nlm.nih.gov/30619542/
-Review Comput Struct Biotechnol J
-. 2018 Dec 15:17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
-Reconsidering plasmid maintenance factors for computational plasmid design
-Hirokazu Yano 1, Masaki Shintani 2 3, Masaru Tomita 4 5, Haruo Suzuki 4 5, Taku Oshima 6
-https://pmc.ncbi.nlm.nih.gov/articles/PMC6312765/
-2.3. Constraints in the Genome
-Bioinformatics analysis revealed constraints in plasmids with respect to size, sequence composition (G + C content, oligonucleotide composition, and codon usage), and gene direction. These features may be a result of plasmid-host co-evolution, which can stabilize plasmids in host cell populations. It is important to note that the sequence composition can vary among genes/segments within a plasmid/genome [23,92,93].
-2.3.1. Size Constraint
-2.3.2. G + C Content
-2.3.3. Oligonucleotide Composition
-2.3.4. Codon Usage
-2.3.5. Gene Direction
-
-2010-09-27
-https://pubmed.ncbi.nlm.nih.gov/20851899/
-J Bacteriol
-. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
-Predicting plasmid promiscuity based on genomic signature
-Haruo Suzuki 1, Hirokazu Yano, Celeste J Brown, Eva M Top
-https://jb.asm.org/content/192/22/6045.long
-https://pmc.ncbi.nlm.nih.gov/articles/PMC2976448/
-
-2008-10-25
-https://pubmed.ncbi.nlm.nih.gov/18953039/
-Comparative Study Nucleic Acids Res
-. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
-Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
-Haruo Suzuki 1, Masahiro Sota, Celeste J Brown, Eva M Top
-https://academic.oup.com/nar/article/36/22/e147/1196271
-https://pmc.ncbi.nlm.nih.gov/articles/PMC2602791/
-
-----------
-
 ----------
 ## five-second rule
 5秒ルール
@@ -1732,6 +1711,318 @@ https://www.gizmodo.jp/2014/03/5_61.html
 イギリスのバーミンガムにあるアストン大学の微生物学のアンソニー・ヒルトン教授率いる研究チーム
 
 ----------
+
+
+
+
+
+
+
+
+
+
+
+
+----------
+
+## robust
+ロバスト
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/#Sec10
+Comparative genomics of Bacteria commonly identified in the built environment
+
+Robustness and limitations
+
+It is important to note that the results remained similar when different data sets were compared (Additional file 1: Table S9). We tested the robustness to the composition of the genome data set by testing different subsets of bacteria (e.g., phyla of Proteobacteria, Firmicutes, and Actinobacteria), and also by randomly selecting one representative for species that have multiple strains sequenced. Of the four genomic features (genome size, GC content, GCSI, and S value), only the S value showed consistent results and tended to be higher in the “Common BE genera” compared to the “Others.”
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2608848/
+Comparison of Correspondence Analysis Methods for Synonymous Codon Usage in Bacteria
+It is important to note that these results remained similar when all complete bacterial genomic sequences available from the NCBI repository on August 2008 were included (data not shown). Similar results were obtained when only long sequences with >300 codons were used (data not shown). We also verified the consistency of the results when using detection thresholds below |r| = 0.70 (data not shown). Thus we conclude that WCA is more effective than the other three methods in generating axes that correspond to variation in synonymous codon usage, regardless of the data sets and statistical criteria used.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
+Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
+We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
+
+----------
+# my_publication
+
+2023-06
+https://pubmed.ncbi.nlm.nih.gov/37341708/
+Microb Genom
+. 2023 Jun;9(6):mgen001043. doi: 10.1099/mgen.0.001043.
+Transconjugant range of PromA plasmids in microbial communities is predicted by sequence similarity with the bacterial host chromosome
+Maho Tokuda 1, Masahiro Yuki 2, Moriya Ohkuma 2, Kazuhide Kimbara 1, Haruo Suzuki 3, Masaki Shintani 1 2 4
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001043#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10327500/
+The R code used for analysis and figure generation is accessible at Github (https://github.com/tokudamaho/Tokuda_et_al._PromA_plasmid).
+
+2020-06-09
+https://pubmed.ncbi.nlm.nih.gov/32582111/
+Front Microbiol
+. 2020 Jun 9;11:1187. doi: 10.3389/fmicb.2020.01187. eCollection 2020.
+Determination of Plasmid pSN1216-29 Host Range and the Similarity in Oligonucleotide Composition Between Plasmid and Host Chromosomes
+Maho Tokuda 1, Haruo Suzuki 2 3, Kosuke Yanagiya 1, Masahiro Yuki 4, Kengo Inoue 5, Moriya Ohkuma 4, Kazuhide Kimbara 1, Masaki Shintani 1 4 6
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.01187/full
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7296055/
+
+2018-12-15
+https://pubmed.ncbi.nlm.nih.gov/30619542/
+Review Comput Struct Biotechnol J
+. 2018 Dec 15:17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
+Reconsidering plasmid maintenance factors for computational plasmid design
+Hirokazu Yano 1, Masaki Shintani 2 3, Masaru Tomita 4 5, Haruo Suzuki 4 5, Taku Oshima 6
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6312765/
+2.3. Constraints in the Genome
+Bioinformatics analysis revealed constraints in plasmids with respect to size, sequence composition (G + C content, oligonucleotide composition, and codon usage), and gene direction. These features may be a result of plasmid-host co-evolution, which can stabilize plasmids in host cell populations. It is important to note that the sequence composition can vary among genes/segments within a plasmid/genome [23,92,93].
+2.3.1. Size Constraint
+2.3.2. G + C Content
+2.3.3. Oligonucleotide Composition
+2.3.4. Codon Usage
+2.3.5. Gene Direction
+
+2010-09-27
+https://pubmed.ncbi.nlm.nih.gov/20851899/
+J Bacteriol
+. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
+Predicting plasmid promiscuity based on genomic signature
+Haruo Suzuki 1, Hirokazu Yano, Celeste J Brown, Eva M Top
+https://jb.asm.org/content/192/22/6045.long
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2976448/
+
+2008-10-25
+https://pubmed.ncbi.nlm.nih.gov/18953039/
+Comparative Study Nucleic Acids Res
+. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
+Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
+Haruo Suzuki 1, Masahiro Sota, Celeste J Brown, Eva M Top
+https://academic.oup.com/nar/article/36/22/e147/1196271
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2602791/
+
+----------
+
+## codon_usage
+
+----------
+2019-01-28
+https://pubmed.ncbi.nlm.nih.gov/30691394/
+Comparative Study BMC Genomics
+. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment
+Nancy Merino 1 2, Shu Zhang 3 4, Masaru Tomita 5 6, Haruo Suzuki 7 8
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6350394/
+Strength of selected codon usage bias (S value)
+
+----------
+2016-05-19
+https://pubmed.ncbi.nlm.nih.gov/27196606/
+PLoS One
+. 2016 May 19;11(5):e0154306. doi: 10.1371/journal.pone.0154306. eCollection 2016.
+Codon Adaptation of Plastid Genes
+Haruo Suzuki 1, Brian R Morton 2
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154306
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4873144/
+
+----------
+2015-10-07
+https://pubmed.ncbi.nlm.nih.gov/26341535/
+FEBS Lett
+. 2015 Oct 7;589(20 Pt B):3113-8. doi: 10.1016/j.febslet.2015.08.033. Epub 2015 Sep 1.
+Analysis of amino acid and codon usage in Paramecium bursaria
+Hideo Dohra 1, Masahiro Fujishima 2, Haruo Suzuki 3
+https://febs.onlinelibrary.wiley.com/doi/full/10.1016/j.febslet.2015.08.033
+
+----------
+2008-10-21
+https://pubmed.ncbi.nlm.nih.gov/18940873/
+Comparative Study DNA Res
+. 2008 Dec;15(6):357-65. doi: 10.1093/dnares/dsn028. Epub 2008 Oct 21.
+Comparison of correspondence analysis methods for synonymous codon usage in bacteria
+Haruo Suzuki 1, Celeste J Brown, Larry J Forney, Eva M Top
+https://academic.oup.com/dnaresearch/article/15/6/357/513030
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2608848/
+
+----------
+2008
+https://www.g-language.org/data/gaou/doc/GGG-1-2008proof.pdf
+http://www.globalsciencebooks.info/Online/GSBOnline/images/0812/GGG_2(1)/GGG_2(1)1-13o.pdf
+Arakawa K, Suzuki H, Tomita M. Computational genome analysis using the G-language system. Genes Genomes Genomics. 2008;2:1–13.
+
+----------
+2007-07-25
+https://pubmed.ncbi.nlm.nih.gov/18350114/
+EURASIP J Bioinform Syst Biol
+. 2007;2007(1):61374. doi: 10.1155/2007/61374.
+Variation in the correlation of G + C composition with synonymous codon usage bias among bacteria
+Haruo Suzuki 1, Rintaro Saito, Masaru Tomita
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3171346/
+https://link.springer.com/article/10.1155/2007/61374
+
+https://www.iab.keio.ac.jp/research/highlight/papers/200904131400.html
+コドンバイアスに及ぼすG+C含量バイアスの寄与度を定量化 - 論文ハイライト - 研究ハイライト - 研究紹介 - 慶應義塾大学先端生命科学研究所
+
+----------
+2005-11-21
+https://pubmed.ncbi.nlm.nih.gov/16289058/
+FEBS Lett
+. 2005 Nov 21;579(28):6499-504. doi: 10.1016/j.febslet.2005.10.032. Epub 2005 Nov 2.
+A problem in multivariate analysis of codon usage data and a possible solution
+Haruo Suzuki 1, Rintaro Saito, Masaru Tomita
+https://febs.onlinelibrary.wiley.com/doi/10.1016/j.febslet.2005.10.032
+
+----------
+2005-08
+https://pubmed.ncbi.nlm.nih.gov/16487083/
+Genomics Proteomics Bioinformatics
+. 2005 Aug;3(3):179-88. doi: 10.1016/s1672-0229(05)03023-8.
+A comprehensive software suite for the analysis of cDNAs
+Kazuharu Arakawa 1, Haruo Suzuki, Kosuke Fujishima, Kenji Fujimoto, Sho Ueda, Motomu Matsui, Masaru Tomita
+https://academic.oup.com/gpb/article/3/3/179/7210640?login=false
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5172547/
+https://www.sciencedirect.com/science/article/pii/S1672022905030238?via%3Dihub
+
+----------
+2004-06-23
+https://pubmed.ncbi.nlm.nih.gov/15194186/
+Comparative Study Gene
+. 2004 Jun 23:335:19-23. doi: 10.1016/j.gene.2004.03.001.
+The 'weighted sum of relative entropy': a new index for synonymous codon usage bias
+Haruo Suzuki 1, Rintaro Saito, Masaru Tomita
+https://www.sciencedirect.com/science/article/abs/pii/S0378111904001477?via%3Dihub
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_72017855
+Elsevier ScienceDirect Journals Complete
+
+----------
+
+## comparative_genomics
+
+----------
+2024-11-12
+https://pubmed.ncbi.nlm.nih.gov/39532959/
+Sci Rep
+. 2024 Nov 12;14(1):27738. doi: 10.1038/s41598-024-79447-3.
+Detection and genetic characterization of multidrug-resistant staphylococci isolated from public areas in an international airport
+Dewa A P Rasmika Dewi 1 2, Hazim O Khalifa 3 4, Haque Khandar 5, Junzo Hisatsune 6, Shoko Kutuno 6, Liansheng Yu 6, Wataru Hayashi 6, Shizuo Kayama 6, Christopher E Mason 7 8, Motoyuki Sugai 5, Haruo Suzuki 9 10, Tetsuya Matsumoto 5
+https://www.nature.com/articles/s41598-024-79447-3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11557577/
+
+For phylogenetic analysis, the assembly accessions for GenBank and RefSeq assemblies of reference and representative prokaryotic genomes were retrieved from the NCBI genome list. 
+
+The pangenome workflow of the Bactopia v3 was used for genome annotation, pangenome analysis, and core-genome phylogenetic tree inference (
+
+----------
+2019-05-07
+https://pubmed.ncbi.nlm.nih.gov/30910818/
+G3 (Bethesda)
+. 2019 May 7;9(5):1321-1329. doi: 10.1534/g3.118.200978.
+Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation
+Masafumi Harada 1 2, Kohei Ito 1 2, Nobuyoshi Nakajima 3, Shigeki Yamamura 3 4, Masaru Tomita 1 2, Haruo Suzuki 5 2, Seigo Amachi 6
+https://academic.oup.com/g3journal/article/9/5/1321/6026415
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6505155/
+
+----------
+2019-01-28
+https://pubmed.ncbi.nlm.nih.gov/30691394/
+Comparative Study BMC Genomics
+. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment
+Nancy Merino 1 2, Shu Zhang 3 4, Masaru Tomita 5 6, Haruo Suzuki 7 8
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6350394/
+
+----------
+2017-11-29
+https://pubmed.ncbi.nlm.nih.gov/29213333/
+Case Reports Gut Pathog
+. 2017 Nov 29;9:70. doi: 10.1186/s13099-017-0219-4. eCollection 2017.
+Comparative genomic analysis of Clostridium difficile ribotype 027 strains including the newly sequenced strain NCKUH-21 isolated from a patient in Taiwan
+Haruo Suzuki 1 2, Masaru Tomita 1 2, Pei-Jane Tsai 3, Wen-Chien Ko 4, Yuan-Pin Hung 5 6, I-Hsiu Huang 7, Jenn-Wei Chen 7
+https://gutpathogens.biomedcentral.com/articles/10.1186/s13099-017-0219-4
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5708112/
+
+----------
+2017-11-16
+https://pubmed.ncbi.nlm.nih.gov/29632552/
+Evol Appl
+. 2017 Nov 16;11(3):312-324. doi: 10.1111/eva.12555. eCollection 2018 Mar.
+Focusing the diversity of Gardnerella vaginalis through the lens of ecotypes
+Omar E Cornejo 1, Roxana J Hickey 2 3 4, Haruo Suzuki 5, Larry J Forney 2 3
+https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12555
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5881158/
+
+----------
+2015-06-10
+https://pubmed.ncbi.nlm.nih.gov/26059449/
+Comparative Study BMC Genomics
+. 2015 Jun 10;16(1):448. doi: 10.1186/s12864-015-1663-5.
+Comparative genomic and phenomic analysis of Clostridium difficile and Clostridium sordellii, two related pathogens with differing host tissue preference
+Joy Scaria 1 2, Haruo Suzuki 3 4, Christopher P Ptak 5, Jenn-Wei Chen 6, Yongzhang Zhu 7 8, Xiao-Kui Guo 9, Yung-Fu Chang 10
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1663-5
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4462011/
+
+----------
+2014-10-01
+https://pubmed.ncbi.nlm.nih.gov/25115770/
+Comparative Study FEMS Microbiol Lett
+. 2014 Oct;359(1):16-8. doi: 10.1111/1574-6968.12577.
+Draft genome sequences of three Holospora species (Holospora obtusa, Holospora undulata, and Holospora elegans), endonuclear symbiotic bacteria of the ciliate Paramecium caudatum
+Hideo Dohra, Kenya Tanaka, Tomohiro Suzuki, Masahiro Fujishima, Haruo Suzuki
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_1733546869
+
+Oxford University Press Journals All Titles (1996-Current)
+
+Wiley Online Library Free Content
+
+Wiley Online Library Journals
+
+----------
+2014-01-31
+https://pubmed.ncbi.nlm.nih.gov/24488312/
+Comparative Study J Bacteriol
+. 2014 Apr;196(7):1458-70. doi: 10.1128/JB.01439-13. Epub 2014 Jan 31.
+Comparative functional genomics of Lactobacillus spp. reveals possible mechanisms for specialization of vaginal lactobacilli to their environment
+Helena Mendes-Soares 1, Haruo Suzuki, Roxana J Hickey, Larry J Forney
+https://journals.asm.org/doi/10.1128/JB.01439-13
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3993339/
+
+----------
+2012-01-24
+https://pubmed.ncbi.nlm.nih.gov/22272658/
+BMC Genomics
+. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
+Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae
+Haruo Suzuki 1, Tristan Lefébure, Paulina Pavinski Bitar, Michael J Stanhope
+https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-38
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3317825/
+
+----------
+2011-01-31
+https://pubmed.ncbi.nlm.nih.gov/21282711/
+Comparative Study Genome Biol Evol
+. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
+Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution
+Haruo Suzuki 1, Tristan Lefébure, Melissa Jane Hubisz, Paulina Pavinski Bitar, Ping Lang, Adam Siepel, Michael J Stanhope
+https://academic.oup.com/gbe/article/doi/10.1093/gbe/evr006/576019
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3056289/
+
+----------
+
+
+
+
+
+----------
+
+
+
+
+
+----------
+
+
+
+
+
+
 
 
 
