@@ -17,13 +17,18 @@
 - [plasmid](#plasmid) プラスミド
 - [CRISPR](#crispr)
 - [phenotype](#phenotype)
-- [recombination](#recombination)
 - [money](#money) お金 お札 ATM
-- [MRSA](#mrsa)
+- [five-second rule](#five-second-rule)
 - [](#)
 - [monumentome](#monumentome)
 - [my_publication](#my_publication)
-- [five-second rule](#five-second-rule)
+- [](#)
+- [recombination](#recombination)
+- [](#)
+- [Acinetobacter](#acinetobacter)
+- [Staphylococcus](#staphylococcus)
+- [MRSA](#mrsa)
+- [](#)
 - [](#)
 
 ----------
@@ -152,65 +157,485 @@ https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
 導入した植物の葉面や土壌などメタゲノム解析
 
+
+
+
+
+
+
+
 ----------
-## MAGUK
-membrane-associated guanylate kinases
+## MRSA
 
-https://en.wikipedia.org/wiki/Membrane-associated_guanylate_kinase
+https://ja.wikipedia.org/wiki/メチシリン耐性黄色ブドウ球菌
+methicillin-resistant Staphylococcus aureus
 
-https://ebi.ac.uk/interpro/entry/panther/PTHR23122/taxonomy/uniprot/#sunburst
-MEMBRANE-ASSOCIATED GUANYLATE KINASE MAGUK (PTHR23122) - PANTHER entry - InterPro
+2024年3月26日
+https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/related-articles-529/12583-529r07.html
+国内外の家畜関連MRSA（LA-MRSA）の状況について
+医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
 
-https://en.wikipedia.org/wiki/Guanylate_kinase
-In prokaryotes (such as Escherichia coli), lower eukaryotes (such as yeast) and in vertebrates, GK is a highly conserved monomeric protein of about 200 amino acids. GK has been shown to be structurally similar to protein A57R (or SalG2R) from various strains of Vaccinia virus.[2][3][4] Systems biology analyses carried out by the team of Andreas Dräger also identified a pivotal role of this enzyme in the replication of SARS-CoV-2 within the human airways.[5][6][7]
+https://x.com/H_Nakaminami
+中南 秀将 (@H_Nakaminami) / X
 
-https://pubmed.ncbi.nlm.nih.gov/20359327/
-BMC Evol Biol
-. 2010 Apr 1;10:93. doi: 10.1186/1471-2148-10-93.
-Evolution of the MAGUK protein gene family in premetazoan lineages
-Alex de Mendoza 1, Hiroshi Suga, Iñaki Ruiz-Trillo
-https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-93
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859873/
+https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_article/-char/ja/
+総説
+本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
+中南 秀将
+https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_pdf/-char/ja
+2022年7月6日
+http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
+日本環境感染学会：
+─総説─
+本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
+中南　秀将
+http://www.kankyokansen.org/journal/full/03705/037050164.pdf
+一般的に，CA-MRSA の方が HA-MRSAよりも増殖速度が速い２０）
+20）Okuma K, 
 
-The MAGUK family have been divided into different classes or groups, according to phylogenetic position and protein domain architecture (see for example [2] and [10], and Figure ​Figure11 for our own MAGUK classification). These MAGUKs classes are known as calcium/calmodulin-dependent proteins kinase (CASK), palmitoylated membrane protein (MPP), zona occludens (ZO), caspase recruitment domain family (CARMA), Disc Large Homolog (DLG), Calcium channel β subunit (CACNB), and membrane-associated guanylate kinase with an inverted repeat (MAGI). All classes contain the following: one or several PDZ domains (except CACNB), a catalytically inactive guanylate kinase (GUK) domain with homology to yeast guanylate kinase and a Src Homology 3 (SH3) domain (except for MAGI) (Figure ​(Figure1).1).
+2002-11
+https://pubmed.ncbi.nlm.nih.gov/12409412/
+J Clin Microbiol
+. 2002 Nov;40(11):4289-94. doi: 10.1128/JCM.40.11.4289-4294.2002.
+Dissemination of new methicillin-resistant Staphylococcus aureus clones in the community
+Keiko Okuma 1, Kozue Iwakawa, John D Turnidge, Warren B Grubb, Jan M Bell, Frances G O'Brien, Geoffrey W Coombs, John W Pearman, Fred C Tenover, Maria Kapi, Chuntima Tiensasitorn, Teruyo Ito, Keiichi Hiramatsu
+https://pmc.ncbi.nlm.nih.gov/articles/PMC139674/
+TABLE 1.
+Genotyping and antibiogram of tested MRSA strains
+|
+Doubling time (min)h
+|
+hDoubling time during exponential growth phase (optical density of 0.05 to ∼1.0 at 660 nm) measured by using TN-2612 (Advantec Toyo Kaisha, Ltd., Tokyo, Japan) as previously described (8).
+|
+C-MRSA/NORSA strains grew significantly faster than H-MRSA strains: the mean doubling times (8) of the former group of strains were 28.79 ± 7.09 and 28.24 ± 2.48 min, respectively, whereas that for the latter was 38.81 ± 7.01 min (see Table 1). The difference was statistically significant (P value of <0.0001 by t test). This high growth rate may be a prerequisite in the absence of antibiotics for C-MRSA to achieve successful colonization of humans by outcompeting the numerous bacterial species in the environment.
+
+
+https://pubmed.ncbi.nlm.nih.gov/35762208/
+Elife
+. 2022 Jun 28:11:e74819. doi: 10.7554/eLife.74819.
+Stable antibiotic resistance and rapid human adaptation in livestock-associated MRSA
+Marta Matuszewska # 1, Gemma G R Murray # 1, Xiaoliang Ba 1, Rhiannon Wood 1, Mark A Holmes 1, Lucy A Weinert 1
+https://elifesciences.org/articles/74819
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9239682/
+Figure 3. A type V SCCmec has been maintained since the 1980s, with occasional replacements.
+(c) Well-supported clades and SCCmec type are annotated on the CC398 phylogeny in external rings.
+
+----------
+## Staphylococcus
+
+https://xavierdidelot.github.io/BactDating/articles/Staph.html
+Application of BactDating on S. aureus ST239 • BactDating
+
+### 2026-01-20
+https://pubmed.ncbi.nlm.nih.gov/40990499/
+mSystems
+. 2026 Jan 20;11(1):e0084825. doi: 10.1128/msystems.00848-25. Epub 2025 Sep 24.
+Clade-specific adaptation and global spread of Staphylococcus aureus ST188 with emergence of a multidrug-resistant MRSA sublineage
+Deru Lei # 1, Xu Dong # 2, Ting Yang 1, Ye Jin 3 4, Wangxiao Zhou 1
+https://journals.asm.org/doi/10.1128/msystems.00848-25
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12817943/
+
+MATERIALS AND METHODS
+Collection of bacterial isolates
+
+In total, 808 ST188 isolates collected from 24 countries across five continents between 2004 and 2023 were included in this study (Table S1).
+
+Phylogenetic analysis and Bayesian evolutionary analysis
+Core genome alignment of the 808 ST188 isolates was performed against the reference genome M2024 (GenBank accession no. CP195249.1) using Snippy v4.6.0 (https://github.com/tseemann/snippy). Recombinant regions were identified and removed using Gubbins v2.4.1 (20) prior to phylogenetic analysis. A maximum likelihood phylogenetic tree was constructed with RAxML v8.2.12 (21)  under the GTRGAMMAX model with 1,000 bootstrap replicates. The genome of S. aureus MW2 (ST1, accession no. NC_003923) was used as an outgroup. Temporal phylogenetic reconstruction was conducted using BactDating v1.1 (22) under the mixedcarc model with 200 million MCMC iterations.
+
+RESULTS
+Geographic distribution and evolutionary trajectory of the S. aureus ST188 isolates
+
+Fig 1.
+(B) Temporal and geographic distribution of ST188 isolates from 2004 to 2023. 
+
+Phylogenomic analysis based on 36,472 non-recombinant core SNPs indicated that the most recent common ancestor of all ST188 isolates emerged around 1954 (95% highest posterior density: 1945–1962; Fig. S2), subsequently diverging shortly thereafter into seven major phylogenetic clades (I–VII), with estimated divergence times ranging from 1958 to 1977 (Fig. 2A; Fig. S2). 
+
+Notably, apart from three ST188 MRSA isolates scattered across the phylogenetic tree, the majority of MRSA isolates clustered distinctly in clade VI, likely due to a single introduction event of SCCmec IVa around 1996, forming a unique MRSA subclade (Fig. 2A; Fig. S2 ).
+
+Fig 2.
+Phylogenetic analysis of 808 ST188 isolates.
+
+DISCUSSION
+
+Previous reports have identified ST188 as a predominant MSSA lineage in China, with sporadic MRSA documented in clinical settings (13, 30). However, the evolutionary origins and genomic adaptations of these MRSA derivatives have not been systematically characterized. In this study, time-calibrated phylogenomic reconstruction indicated that the ST188 MRSA isolates emerged predominantly as a single sublineage within clade VI around 1996. 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12817943/#SuF1
+Supplemental Figures. msystems.00848-25-s0001.pdf.
+Figures S1-S7.
+msystems.00848-25-s0001.pdf (8.4MB, pdf)
+https://pmc.ncbi.nlm.nih.gov/articles/instance/12817943/bin/msystems.00848-25-s0001.pdf
+Figure S2. A dated genome-wide SNP phylogeny of ST188 isolates. The divergence
+time and 95% HPD intervals of main clades are shown at the respective nodes. 
+
+### 
+
+
+
+### 
+
+
+
+### 2024-07-10
+https://pubmed.ncbi.nlm.nih.gov/38729368/
+Sci Total Environ
+. 2024 Jul 10:933:173027. doi: 10.1016/j.scitotenv.2024.173027. Epub 2024 May 9.
+Genomic epidemiology of Staphylococcus aureus from the Iberian Peninsula highlights the expansion of livestock associated-CC398 towards wildlife
+Beatriz Ramos 1, Mónica V Cunha 2
+https://www.sciencedirect.com/science/article/pii/S0048969724031747
+
+2. Methods
+
+2.4. Phylodynamic analysis of the complete dataset
+
+The ML tree was re-rooted using the ape R package (Paradis and Schliep, 2019) and then subjected to temporal signal assessment by submitting it to the BactDating R package, along with the corresponding sampling dates (Didelot et al., 2018). A root-to-tip linear regression was conducted to evaluate the temporal signal using the roototip function. Subsequently, both the ML tree and sampling dates were submitted to the bactdate function with one million Markov Chain Monte Carlo (MCMC) iterations. The additive uncorrelated relaxed clock (ARC) model was used as
+
+3. Results
+
+3.3. Phylodynamic inference of S. aureus from the Iberian Peninsula suggests widespread circulation among humans before host jumps
+The temporal signal of the whole dataset (450 genomes) was evaluated by root-to-tip linear regression analysis for the complete dataset before Bayesian phylodynamic analyses. Root-to-tip analysis for this broader and diverse dataset pointed out a weak temporal signal (r2 = 0.21, p-value <1 × 10−4). The Bayesian analysis was thus performed with BactDating and assuming the ARC model in response to a dataset that might encompass epidemiologically unrelated strains. This model assumes independent mutation rates in each branch and includes the additivity property, which can better resolve dating when considering many short-duration branches due to very large sample sizes. The main estimated evolutionary parameters indicated a clock rate of 2.87 × 10−7 substitutions per site per year [95 % highest posterior density (HPD) interval, 2.51 × 10−7 - 3.21 × 10−7 substitutions per site per year], which represents an evolutionary rate of 0.82 substitutions per year (95 % HPD interval, 0.71–0.92 substitutions per year), and the time to the most recent common ancestor (tMRCA) was estimated approximately 4000 years before present (Fig. 4).
+
+Fig. 4. Maximum credibility tree of S. aureus isolates (1990 to 2022 dataset) estimated under a model of asymmetric host species transitions. A total of 450 draft genomes were analysed using BactDating applying a GTR substitution model together with ARC model. Discrete ancestral trait mapping was performed for host category using SIMMAP. The CC398 is highlighted in the right to left panels as the single cluster with origin in livestock. Branches are colour coded according to host category and tips according to host species. In the horizontal axis, time is represented as years before 2022.
+
+----------
+## Acinetobacter
+
+### 2026-02-18
+Front. Microbiol., 18 February 2026
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1730485/full
+Frontiers | Whole-genome sequencing identifies persistent transmission of a high-risk ST2 Acinetobacter baumannii clone in a Guangzhou Hospital
 
 Figure 1
-Domain architectures of the different MAGUK classes.
+The first two digits of the strain name indicate the year of isolation; for example, strain 1710_338 was isolated in 2017.
 
-Figure 2
-Unrooted phylogenetic tree of GUK domain sequences. 
+### 2026-01-20
+Posted January 20, 2026.
+https://www.biorxiv.org/content/10.64898/2026.01.20.700532v1.full
+Historical isolates provide insights into the evolution of Acinetobacter baumannii international clone 2 and its resistome
+ View ORCID ProfileMatthew Neil,  View ORCID ProfileFrédéric Grenier,  View ORCID ProfileNancy Allard,  View ORCID ProfileGemma C. Langridge,  View ORCID ProfileSantiago Castillo-Ramírez,  View ORCID ProfileLouis-Patrick Haraoui,  View ORCID ProfileBenjamin A. Evans
+doi: https://doi.org/10.64898/2026.01.20.700532
+This article is a preprint and has not been certified by peer review [what does this mean?].
+
+Figure 4.
+Proportion of IC2 isolates containing ARGs over time.
+
+To further investigate potential groups within IC2, an IC2 phylogeny was created from a recombination-free alignment and rooted with ATCC 19606 as an outgroup (see Methods). Root-to-tip analysis gave an R2 value of 0.14, which was insufficient for dating. 
+
+Figure 5.
+IC2 phylogeny highlighting groups.
+The phylogeny was created using Gubbins and outgroup rooted as described in Methods. 
+
+Figure 6.
+Cumulative number of IC2 group isolates over time.
+
+Methods
+
+Core genome phylogeny
+Panaroo v1.5.2 (48) was run on GFF3 files output by Bakta to create a core genome alignment with MAFFT (49) as the aligner and core genome threshold of 1. IQtree v2.4.0 (50) was run on this alignment with the substitution model determined using ModelFinder (51). The core genome phylogeny was rooted with an Acinetobacter nosocomialis outgroup (GenBank accession no. CP157432.1).
+
+Recombination-free IC2 phylogeny
+Whole genome alignment of chromosome sequences was performed using ska2 v0.4.0 (57) against a recent ST2 isolate (GenBank accession no. CP181411.1). Gubbins v3.4 (58) 
+
+Temporal and other statistical analysis
+Gene enrichment/depletion was determined based on ARG annotations produced by RGI with Fisher’s exact test using Scipy v1.13.1 (61). Root-to-tip analysis was performed using BactDating v1.1.3 (62) in R v4.3.1. 
+
+### 2025-12-22
+https://pubmed.ncbi.nlm.nih.gov/41430092/
+Sci Rep
+. 2025 Dec 22;15(1):45076. doi: 10.1038/s41598-025-31214-8.
+Epidemiology and molecular typing of multidrug resistant Acinetobacter baumannii burn wound isolates from six Chinese provinces
+Shaojin Pan 1 2, Kui Liu 3, Yujiao Huang 1, Yali Gong 4, Jing Wang 4, Zeyuan Lei 5, Zichen Yang 6 7
+https://www.nature.com/articles/s41598-025-31214-8
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12749299/
+
+### 2025-11-28
+https://pubmed.ncbi.nlm.nih.gov/41313692/
+Microb Genom
+. 2025 Nov;11(11):001572. doi: 10.1099/mgen.0.001572.
+Global emergence of Acinetobacter baumannii International Clone 12 predominantly found in the Middle East
+Nabil Karah 1, Nathan Faille 2, Nancy Allard 2 3, Frédéric Grenier 4, Antoine Abou-Fayad 5, Paul G Higgins 6 7, Leena Al-Hassan 8, Benjamin A Evans 9, Laurent Poirel 10, Rémy A Bonnin 11, Anette M Hammerum 12, Frank Hansen 12, Rayane Rafei 13, Monzer Hamze 13, Xavier Didelot 14, Santiago Castillo-Ramírez 15, Simon Lévesque 16 2, Sébastien Rodrigue 4, Bernt Eric Uhlin 1, Louis-Patrick Haraoui 17 2 3
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001572#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12662599/
+
+Data analysis and bioinformatics
+|
+Subsequently, this output underwent processing through Gubbins 3.0.0, with the parameter –bootstrap 100, to identify recombination events [60].
+
+Phylogeny and molecular dating analysis
+|
+For temporal analysis, the resultant tree was analysed using the BactDating R package, running for a million iterations [62]. Five A. baumannii IC2 strains were used as outgroups for the phylogeny (SAMN02603140, SAMN10716696, SAMEA104305264, SAMN02581277 and SAMN13066390).
+
+### 2025-09-17
+https://pubmed.ncbi.nlm.nih.gov/40961326/
+Microb Genom
+. 2025 Sep;11(9):001500. doi: 10.1099/mgen.0.001500.
+Dominance of high-risk clones ST2 and ST571 and the diversity of resistance islands in clinical Acinetobacter baumannii isolates from Hanoi, Vietnam
+Minh Ngoc Nghiem 1, Dung Phuong Bui 2, Van Thi Thu Ha 3, Hop Thi Tran 1, Diem Thi Nguyen 1, Thuy Thi Bich Vo 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001500#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12444785/
+
+### 2025-09-03
+https://pubmed.ncbi.nlm.nih.gov/40711465/
+Review Antimicrob Agents Chemother
+. 2025 Sep 3;69(9):e0080125. doi: 10.1128/aac.00801-25. Epub 2025 Jul 25.
+Acinetobacter baumannii: much more than a human pathogen
+Santiago Castillo-Ramírez 1, Alejandro Aguilar-Vera 1, Ayush Kumar # 2, Benjamin Evans # 3 4
+https://journals.asm.org/doi/10.1128/aac.00801-25
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12406671/
+
+### 2025-07-09
+https://pubmed.ncbi.nlm.nih.gov/40629400/
+Antimicrob Resist Infect Control
+. 2025 Jul 9;14(1):84. doi: 10.1186/s13756-025-01605-7.
+Diversity versus clonality in carbapenem-resistant A. baumannii: a two-year surveillance study in four intensive care units at a large teaching hospital in Rome, Italy
+Mariateresa Ceparano # 1, Valerio Capitani # 1, Giuseppe Migliara 2, Silvia Rondón 1, Valentina Baccolini 1, Alessandra Carattoli 3, Paolo Villari 1, Carolina Marzuillo 1
+https://link.springer.com/article/10.1186/s13756-025-01605-7
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12239275/
+
+Methods
+Settings
+
+Fig. 1.
+Epidemiologic investigation of A. baumannii infections using PFGE analysis. 
+
+The study included 57 isolates previously analysed in an earlier investigation [17], obtained from COVID-19 patients during the first year of the pandemic. The investigation was subsequently expanded to include isolates from non-COVID-19 patients, and the study period was extended through January 2022.
+
+Genomic and phylogenetic analyses and epidemiologic investigation enhancement
+|
+Gubbins version 3.3.5 [46] was then utilised to identify and remove recombination regions and to build a refined phylogenetic tree.
+|
+BactDating version 1.1 [50] was used to estimate the separation date of each branch of the phylogenetic tree and, together with iTOL v6 [51], to modify the phylogenetic tree obtained with Gubbins, considering the sample isolation dates.
+
+Fig. 2.
+Phylogenetic tree of the 26 Acinetobacter baumannii strain. Isolates were analyzed according to on core single nucleotide polymorphisms (SNPs), generated using iTOL v.6 from the BactDating output tree. Branches terminate at the sample isolation date.
+
+Overall, the time-scaled phylogenetic tree shown in Fig. 2 suggests that the predicted divergence dates for Outbreak 2, Cluster 1, and almost all ST208/A isolates (except for 328Ab-A10, 289Ab-A10, and 11Ab-A4) occurred since 2020. These dates are consistent with in-hospital or intra-ward evolution. In contrast, the remaining isolates are more likely to have been introduced from external sources since their introduction date is well before 2020.
+
+Fig. 4.
+WGS-enhanced epidemiologic investigation.
+
+
+17.Ceparano M, Baccolini V, Migliara G, Isonne C, Renzi E, Tufi D et al. Acinetobacter baumannii isolates from COVID-19 patients in a hospital intensive care unit: molecular typing and risk factors. Microorganisms. 2022;10(4). [DOI] [PMC free article] [PubMed]
+https://pubmed.ncbi.nlm.nih.gov/35456774/
+
+### 2025-04-14
+https://pubmed.ncbi.nlm.nih.gov/40229304/
+Nat Commun
+. 2025 Apr 14;16(1):3536. doi: 10.1038/s41467-025-58772-9.
+Genomic epidemiology and phylodynamics of Acinetobacter baumannii bloodstream isolates in China
+Qixia Luo # 1, Mengru Chang # 2, Ping Lu # 1, Qian Guo # 2, Xiaoqing Jiang 2, Tingting Xiao 1, Haoyu Zhang 2, Yingying Ma 1, Yan Zhang 2, Wei Yu 1, Erjia Zhang 1, Yunbo Chen 1, Ping Shen 1, Jinru Ji 1, Chaoqun Ying 1, Zhiying Liu 1; BRICS Working Group; Huaiqiu Zhu 3, Yonghong Xiao 4
+
+https://www.nature.com/articles/s41467-025-58772-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11997098/
+
+ST208 was disseminated through multiple interprovincial transmission events
+|
+Fig. 10. ST208 was disseminated through multiple interprovincial transmission events.
+|
+The common ancestor of ST191 dates to approximately 1995 [95% Highest Posterior Density (HPD), 1991–1999) and originated in ZJ.
+|
+(Fig. 10a, d). The common ancestor of ST195 dates to 1996 (95% HPD 1992-2000), when it originated from ZJ. ST195 initially emerged in ZJ and subsequently diverged into two major clades.
+|
+The initial introduction of ST208 occurred in AH in 1987 (95% HPD 1982-1992), followed by its spread to Yunnan (Fig.S17). As a result, varying degrees of ST208 epidemics were observed in most regions of China (Fig. 10c, Fig. S17). BEAST analysis predicted a total of 69 transmission events between provinces, including 36 major transmission events. These transmission events involved 21 provinces, with AH being the most frequent origin and destination for transmission (Fig. 10c, d).
+
+Methods
+
+Variation analysis and recombination detection
+|
+Gubbins (version 2.4.1)58 for recombination identification
+
+Phylogenetic analysis
+|
+We constructed a maximum likelihood phylogenetic tree using non-recombinant SNP sequences of 234 strains of ST208, and the Bayesian binary Markov chain Monte Carlo (BMM) method in RASP (Version 4.0)65 was used to analyze the status of KL in the ST208 phylogenetic tree. 
+
+Phylogeographic analysis
+We next conducted discrete trait phylogeographic inference for the ST195, ST208, and ST191 isolates via their nonrecombinant core SNP alignment via BEAST (version 2.7.4)66. BEAST priors were introduced with BEAUti (version 2.7.5)66, 
+
+65.Yu, Y., Blair, C. & He, X. RASP 4: ancestral state reconstruction tool for multiple genes and characters. Mol. Biol. Evol.37, 604–606 (2020). [DOI] [PubMed] [Google Scholar]
+
+### 2025-03-21
+https://pubmed.ncbi.nlm.nih.gov/40118837/
+Nat Commun
+. 2025 Mar 21;16(1):2787. doi: 10.1038/s41467-025-58106-9.
+Emergence and global spread of a dominant multidrug-resistant clade within Acinetobacter baumannii
+Shengkai Li # 1 2, Guilai Jiang # 1 3, Shengke Wang # 2, Min Wang # 4, Yilei Wu # 1 5, Jinzhi Zhang 6, Xiao Liu 1 3, Ling Zhong 1, Min Zhou 7, Shichang Xie 1 8, Yi Ren 8, Ping He 7, Yongliang Lou 9, Heng Li 10 11, Jimei Du 12, Zhemin Zhou 13 14 15 16
+https://www.nature.com/articles/s41467-025-58106-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11928498/
+We observed the rise and global spread of a previously unrecognized Clade 2.5.6, which emerged in East Asia in 2006. 
+
+In this study, authors conduct a genomic analysis of 15,000 Acinetobacter baumannii isolates, revealing a dominant multidrug-resistant super-lineage (accounting for approximately 70% global isolates), with Clade 2.5.6 emerging in East Asia in 2006.
+
+Results
+
+Fig. 3. The phylogeny and spatiotemporal dynamics of ESL genomes.
+c The estimated effective population sizes of the IC2 and all of its Clusters. The dashed line in 2006 shows the year of emergence for Clade 2.5.6. 
+
+Global transmission of IC2 and the emergence of Clade 2.5.6
+
+To further validate our analysis, we conducted additional analyses using BactDating and BEAST2, each with five distinct models, on the IC2 lineage (Supplementary Fig. 5a, b). All results exhibited high consistency with those from TreeTime. Specifically, the tMRCAs averaged 1935 (1908–1953) for BactDating and 1944 (1925–1961) for BEAST2 (Supplementary Fig. 5c). Similarly, all runs consistently placed the origin of Clade 2.5.6 around 2006 (CI 2002–2008) (Supplementary Fig. 5d), corroborating the recent emergence of this clade.
+
+Discussion
+
+We also compared three TreeTime results with those from BactDating and BEAST2 runs. All eleven runs generated comparable estimates of the tMRCA for both IC2 and the clade 2.5.6, demonstrating the robustness of the analysis. Notably, we incorporated recombinant events in BactDating analysis, which did not significantly change the date estimates. However, the three pipelines differed in their efficiencies. The TreeTime handles ~8000 IC2 genomes in 30 min. In contrast, it took 1–3 months and 6–10 months for BactDating and BEAST2 on the same dataset, respectively. Thus, we decided to use the TreeTime result, which offers a promising solution for other, large-scale population genetic analyses.
+
+
+Methods
+Genomes and representative sequences
+A total of 6208 assemblies of A. baumannii were retrieved from the RefSeq database in Aug. 2022.
+
+Phylogeographical inference for IC2
+
+Additionally, we ran BactDating and BEAST2 on the IC2 lineage. Specifically, BactDating incorporated recombinant events in date estimates by loading clonalframeML results using the loadCFML() function. We ran BactDating with alternative models of “arc”, “carc”, “negbin”, “mixedgamma”, and “relaxedgamma”, and ran BEAST2 with a “GTR” substitution model and alternative clock models of “Relaxed LogNormal”, “Relaxed Exponential”, “Relax Uniform”, “Strict Clock”, and “Random Local Clock”. For each run, the chain length was set to 1e12 or when the ESS exceeded 200 (Supplementary Fig. 5). The BactDating runs finished in 1–3 months, whereas the BEAST2 runs lasted for 6–10 months.
+
+
+### 2025-02-05
+https://pubmed.ncbi.nlm.nih.gov/39908088/
+Microb Genom
+. 2025 Feb;11(2):001345. doi: 10.1099/mgen.0.001345.
+Whole-genome sequencing of Acinetobacter baumannii clinical isolates from a tertiary hospital in Terengganu, Malaysia (2011-2020), revealed the predominance of the Global Clone 2 lineage
+Nurul Saidah Din 1, Farahiyah Mohd Rani 1, Ahmed Ghazi Alattraqchi 1, Salwani Ismail 1, Nor Iza A Rahman 1, David W Cleary 2 3, Stuart C Clarke 1 4 5 6 7, Chew Chieng Yeo 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001345#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11798184/
+
+### 2024-12-25
+https://pubmed.ncbi.nlm.nih.gov/39831164/
+Heliyon
+. 2024 Dec 25;11(1):e41487. doi: 10.1016/j.heliyon.2024.e41487. eCollection 2025 Jan 15.
+Epidemiological and genomic analysis of Acinetobacter baumannii strains from retailed raw meat
+Leila Hamze 1, Raquel Garcia-Fierro 1, Antoine Drapeau 1, Pauline François 1, Andrea Endimiani 2, Jean-Yves Madec 1, Marisa Haenni 1, Vincent Perreten 3, Agnese Lupo 1
+https://www.sciencedirect.com/science/article/pii/S2405844024175184
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11742621/
+https://www.sciencedirect.com/science/article/pii/S2405844024175184
+
+
+
+### 
+
+### 2018-10-18
+https://pubmed.ncbi.nlm.nih.gov/30337588/
+Sci Rep
+. 2018 Oct 18;8(1):15346. doi: 10.1038/s41598-018-33800-5.
+Genomic analysis of Acinetobacter baumannii prophages reveals remarkable diversity and suggests profound impact on bacterial virulence and fitness
+Ana Rita Costa 1, Rodrigo Monteiro 1, Joana Azeredo 2
+https://www.nature.com/articles/s41598-018-33800-5
+tree rooted using Acinetobacter baumannii plasmid pNaval18-231 as the outgroup
+
+### 2015-10-14
+https://pubmed.ncbi.nlm.nih.gov/26462752/
+Sci Rep
+. 2015 Oct 14:5:15188. doi: 10.1038/srep15188.
+Phylogenetic and genomic diversity in isolates from the globally distributed Acinetobacter baumannii ST25 lineage
+Jason W Sahl 1 2, Mariateresa Del Franco 3, Spyros Pournaras 4, Rebecca E Colman 1, Nabil Karah 5, Lenie Dijkshoorn 6, Raffaele Zarrilli 3
+https://www.nature.com/articles/srep15188
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4604477/
+
+Figure 3. A core genome single nucleotide polymorphism (SNP) phylogeny of 597 A. baumannii genomes.
+The phylogeny was rooted by first including an outgroup from A. nosocomialis, then re-running the analysis with only A. baumannii and rooting on the most basal genome from the original analysis.
+
+Figure 4. A core genome single nucleotide polymorphism (SNP) phylogeny of ST25 genomes.
+The tree was rooted according to the most basal genome isolated from the global phylogeny (Fig. 3).
+
+### 2011-10
+https://pubmed.ncbi.nlm.nih.gov/21788470/
+Antimicrob Agents Chemother
+. 2011 Oct;55(10):4506-12. doi: 10.1128/AAC.01134-10. Epub 2011 Jul 25.
+Genomic analysis of the multidrug-resistant Acinetobacter baumannii strain MDR-ZJ06 widely spread in China
+Hua Zhou 1, Tongwu Zhang, Dongliang Yu, Borui Pi, Qing Yang, Jianying Zhou, Songnian Hu, Yunsong Yu
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3187012/
+Fig. 1.
+Phylogenetic analyses of Acinetobacter baumannii isolates.
+The genome of Acinetobacter baylyi ADP1 was used as the outgroup to root the tree.
+
+### 2022-01-17
+
+https://pubmed.ncbi.nlm.nih.gov/34839707/
+Philos Trans R Soc Lond B Biol Sci
+. 2022 Jan 17;377(1842):20200472. doi: 10.1098/rstb.2020.0472. Epub 2021 Nov 29.
+What makes a megaplasmid?
+James P J Hall 1, João Botelho 2 3, Adrian Cazares 4 5, David A Baltrus 6
+https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0472
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8628078/
+
+1. Megaplasmids: very large plasmids
+
+Figure 1.
+Percentage of plasmid publications containing the term ‘megaplasmid’.
+
+The recent availability of long-read single-molecule sequencing technologies, such as the PacBio SMRT protocol and Nanopore devices, enables megaplasmids to be unambiguously resolved [25–27], and with this increased detection rate, recent years have seen a steep increase in the proportion of plasmid publications containing the term ‘megaplasmid’ (figure 1).
+
+2. How big is a megaplasmid?
+
+Figure 2.
+Plasmid size distributions for families with greater than 100 plasmids in the COMPASS database [13].
+
+In the next sections, we discuss these features of megaplasmids—their size, genetics, and gene content—that explain their evolutionary and ecological role (figure 3).
+
+Figure 3.
+What makes a megaplasmid. 
+
+3. Why are megaplasmids bigger?
+
+4. Are megaplasmids just chromids-in-training?
+
+5. Plasmid plasticity promotes megaplasmid emergence
+
+6. Boxes: megaplasmids to watch
+
+(c) Acinetobacter megaplasmids, global distribution, local adaptation: pR4WN-1BD1 (285 kb) and relatives
+
+A role for local adaptation in shaping plasmid accessory gene content was discernible in these data, as plasmids from similar geographical locations had similar accessory genes, even if they were not closely related [27]. Increased sampling of non-clinical sites may be necessary to reveal the full megaplasmid picture in Acinetobacter, as an analysis of Acinetobacter plasmids from hospitals and soil/water suggested that larger plasmids were obtained from environmental samples [141].
+
+### 2021-09-21
+
+https://pubmed.ncbi.nlm.nih.gov/34621254/
+Front Microbiol
+. 2021 Sep 21:12:728644. doi: 10.3389/fmicb.2021.728644. eCollection 2021.
+Ubiquitous Conjugative Mega-Plasmids of Acinetobacter Species and Their Role in Horizontal Transfer of Multi-Drug Resistance
+Sofia Mindlin 1, Olga Maslova 1, Alexey Beletsky 2, Varvara Nurmukanova 1, Zhiyong Zong 3, Andrey Mardanov 2, Mayya Petrova 1
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.728644/full
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8490738/
+
+### 2020-12-02_Front_Microbiol
+
+https://colil.dbcls.jp/browse/papers/33343549/1/100/year
+  is cited by the following papers.
+合計: 14, 
+
+What makes a megaplasmid?
+
+Ubiquitous Conjugative Mega-Plasmids of Acinetobacter Species and Their Role in Horizontal Transfer of Multi-Drug Resistance.
+
+https://pubmed.ncbi.nlm.nih.gov/33343549/
+Front Microbiol
+. 2020 Dec 2;11:605952. doi: 10.3389/fmicb.2020.605952. eCollection 2020.
+A Novel Family of Acinetobacter Mega-Plasmids Are Disseminating Multi-Drug Resistance Across the Globe While Acquiring Location-Specific Accessory Genes
+Timothy M Ghaly 1, Ian T Paulsen 2 3, Ammara Sajjad 1, Sasha G Tetu 2 3, Michael R Gillings 1 3
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.605952/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/
+
+Materials and Methods
+
+Plasmid Pan‐ and Core-Genome Analyses
+Gene and protein sequences for all 21 plasmids were predicted using Prokka v1.13 (parameters: -- kingdom Bacteria). Plasmid pan‐ and core-genome analyses were carried out using Perl scripts available in the GET_HOMOLOGUES v20092018 software package (
+
+Phylogenetic Analysis
+The evolutionary relationship between plasmids was inferred from the plasmid core-genome. Appropriate phylogenetic loci were identified using the GET_PHYLOMARKERS software package (Vinuesa et al., 2018) with default parameters. The GET_PHYLOMARKERS uses the single-copy plasmid core-genome clusters identified by GET_HOMOLOGUES and removes recombinant sequences as well as loci that produce outlier phylogenies. 
 
 Figure 3
-Phylogeny of SH3+GUK domain sequences.
+Plasmid core-genome phylogram and accessory genome dendrogram. (left) A maximum-likelihood tree showing the inferred plasmid phylogeny based on the plasmid core-genome and (right) a maximum-likelihood tree based on the presence and absence of all 1,262 accessory genes in the plasmid pangenome. 
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig3/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g003.jpg)
 
 Figure 4
-Protein domain architectures for the Capsaspora and Monosiga MAGUK and MAGUK-like homologs, except for MAGI.
+A co-phylogeny linking the host strain (left) and plasmid (right) phylogenies.
 
-Figure 5
-Distribution of MAGUKs in opisthokonts. 
-
-https://pubmed.ncbi.nlm.nih.gov/35659305/
-Microbiome
-. 2022 Jun 4;10(1):84. doi: 10.1186/s40168-022-01274-3.
-Ecogenomics sheds light on diverse lifestyle strategies in freshwater CPR
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01274-3
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9166423/
-Moreover, inosine monophosphate (IMP) can be synthesized from phosphoribosyl diphosphate by Gracilibacteria, Microgenomatia, and Paceibacteria. Further processing of IMP to ATP occurs in ABY1, Gracilibacteria, Microgenomatia, and Paceibacteria, but the synthesis of GTP is not completely encoded in Microgenomatia which lack guanylate kinase. 
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig4/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g004.jpg)
 
 
-https://pubmed.ncbi.nlm.nih.gov/19732467/
-BMC Evol Biol
-. 2009 Sep 7;9:222. doi: 10.1186/1471-2148-9-222.
-FoxO gene family evolution in vertebrates
-Minghui Wang 1, Xiangzhe Zhang, Hongbo Zhao, Qishan Wang, Yuchun Pan
-https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-9-222
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746812/
-https://link.springer.com/article/10.1186/1471-2148-9-222
-Synonymous codon usage analyses
 
-Estimation of substitution rates and testing natural selection
 
-the ratio of the nonsynonymous (dN) to synonymous substitution rates (dS), ω = dN/dS
+
+
 
 ----------
 ## recombination
@@ -512,13 +937,77 @@ David Moi 1 2 3, Laurent Kilchoer 1 2 3, Pablo S Aguilar 4 5, Christophe Dessimo
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007553
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7423146/
 
+
+
+----------
+## MAGUK
+membrane-associated guanylate kinases
+
+https://en.wikipedia.org/wiki/Membrane-associated_guanylate_kinase
+
+https://ebi.ac.uk/interpro/entry/panther/PTHR23122/taxonomy/uniprot/#sunburst
+MEMBRANE-ASSOCIATED GUANYLATE KINASE MAGUK (PTHR23122) - PANTHER entry - InterPro
+
+https://en.wikipedia.org/wiki/Guanylate_kinase
+In prokaryotes (such as Escherichia coli), lower eukaryotes (such as yeast) and in vertebrates, GK is a highly conserved monomeric protein of about 200 amino acids. GK has been shown to be structurally similar to protein A57R (or SalG2R) from various strains of Vaccinia virus.[2][3][4] Systems biology analyses carried out by the team of Andreas Dräger also identified a pivotal role of this enzyme in the replication of SARS-CoV-2 within the human airways.[5][6][7]
+
+https://pubmed.ncbi.nlm.nih.gov/20359327/
+BMC Evol Biol
+. 2010 Apr 1;10:93. doi: 10.1186/1471-2148-10-93.
+Evolution of the MAGUK protein gene family in premetazoan lineages
+Alex de Mendoza 1, Hiroshi Suga, Iñaki Ruiz-Trillo
+https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-93
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859873/
+
+The MAGUK family have been divided into different classes or groups, according to phylogenetic position and protein domain architecture (see for example [2] and [10], and Figure ​Figure11 for our own MAGUK classification). These MAGUKs classes are known as calcium/calmodulin-dependent proteins kinase (CASK), palmitoylated membrane protein (MPP), zona occludens (ZO), caspase recruitment domain family (CARMA), Disc Large Homolog (DLG), Calcium channel β subunit (CACNB), and membrane-associated guanylate kinase with an inverted repeat (MAGI). All classes contain the following: one or several PDZ domains (except CACNB), a catalytically inactive guanylate kinase (GUK) domain with homology to yeast guanylate kinase and a Src Homology 3 (SH3) domain (except for MAGI) (Figure ​(Figure1).1).
+
+Figure 1
+Domain architectures of the different MAGUK classes.
+
+Figure 2
+Unrooted phylogenetic tree of GUK domain sequences. 
+
+Figure 3
+Phylogeny of SH3+GUK domain sequences.
+
+Figure 4
+Protein domain architectures for the Capsaspora and Monosiga MAGUK and MAGUK-like homologs, except for MAGI.
+
+Figure 5
+Distribution of MAGUKs in opisthokonts. 
+
+https://pubmed.ncbi.nlm.nih.gov/35659305/
+Microbiome
+. 2022 Jun 4;10(1):84. doi: 10.1186/s40168-022-01274-3.
+Ecogenomics sheds light on diverse lifestyle strategies in freshwater CPR
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01274-3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9166423/
+Moreover, inosine monophosphate (IMP) can be synthesized from phosphoribosyl diphosphate by Gracilibacteria, Microgenomatia, and Paceibacteria. Further processing of IMP to ATP occurs in ABY1, Gracilibacteria, Microgenomatia, and Paceibacteria, but the synthesis of GTP is not completely encoded in Microgenomatia which lack guanylate kinase. 
+
+
+https://pubmed.ncbi.nlm.nih.gov/19732467/
+BMC Evol Biol
+. 2009 Sep 7;9:222. doi: 10.1186/1471-2148-9-222.
+FoxO gene family evolution in vertebrates
+Minghui Wang 1, Xiangzhe Zhang, Hongbo Zhao, Qishan Wang, Yuchun Pan
+https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-9-222
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746812/
+https://link.springer.com/article/10.1186/1471-2148-9-222
+Synonymous codon usage analyses
+
+Estimation of substitution rates and testing natural selection
+
+the ratio of the nonsynonymous (dN) to synonymous substitution rates (dS), ω = dN/dS
+
+
+
+
+
 ----------
 ## date
 分岐年代推定
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#divergence-time
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#timetree
 
 IQ-TREE
 http://www.iqtree.org/doc/Dating
@@ -526,6 +1015,24 @@ Phylogenetic Dating
 
 BactDating
 https://github.com/haruosuz/r4bioinfo/blob/master/R_tree/README.md#bactdating
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#timetree
+
+
+### 2018-01-08
+https://pubmed.ncbi.nlm.nih.gov/29340210/
+Virus Evol
+. 2018 Jan 8;4(1):vex042. doi: 10.1093/ve/vex042. eCollection 2018 Jan.
+TreeTime: Maximum-likelihood phylodynamic analysis
+Pavel Sagulenko 1, Vadim Puller 1 2 3, Richard A Neher 1 2 3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5758920/
+
+2.9 Availability
+TreeTime is published under an MIT license and available at github.com/neherlab/treetime. Data and scripts necessary used to validate TreeTime are available at github.com/neherlab/treetime_validation. TreeTime can be used via a web interface at treetime.ch.
+
+https://github.com/neherlab/treetime
+TreeTime: maximum likelihood dating and ancestral sequence inference
+
 
 ### TempEst
 
@@ -1051,261 +1558,6 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
 
-----------
-
-### Acinetobacter
-
-### 2026-02-18
-Front. Microbiol., 18 February 2026
-https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1730485/full
-Frontiers | Whole-genome sequencing identifies persistent transmission of a high-risk ST2 Acinetobacter baumannii clone in a Guangzhou Hospital
-
-Figure 1
-The first two digits of the strain name indicate the year of isolation; for example, strain 1710_338 was isolated in 2017.
-
-### 2026-01-20
-Posted January 20, 2026.
-https://www.biorxiv.org/content/10.64898/2026.01.20.700532v1.full
-Historical isolates provide insights into the evolution of Acinetobacter baumannii international clone 2 and its resistome | bioRxiv
-
-This article is a preprint and has not been certified by peer review [what does this mean?].
-
-Figure 4.
-Proportion of IC2 isolates containing ARGs over time.
-
-To further investigate potential groups within IC2, an IC2 phylogeny was created from a recombination-free alignment and rooted with ATCC 19606 as an outgroup (see Methods). Root-to-tip analysis gave an R2 value of 0.14, which was insufficient for dating. 
-
-Figure 5.
-IC2 phylogeny highlighting groups.
-The phylogeny was created using Gubbins and outgroup rooted as described in Methods. 
-
-Figure 6.
-Cumulative number of IC2 group isolates over time.
-
-Methods
-
-Core genome phylogeny
-Panaroo v1.5.2 (48) was run on GFF3 files output by Bakta to create a core genome alignment with MAFFT (49) as the aligner and core genome threshold of 1. IQtree v2.4.0 (50) was run on this alignment with the substitution model determined using ModelFinder (51). The core genome phylogeny was rooted with an Acinetobacter nosocomialis outgroup (GenBank accession no. CP157432.1).
-
-Recombination-free IC2 phylogeny
-Whole genome alignment of chromosome sequences was performed using ska2 v0.4.0 (57) against a recent ST2 isolate (GenBank accession no. CP181411.1). Gubbins v3.4 (58) 
-
-Temporal and other statistical analysis
-Gene enrichment/depletion was determined based on ARG annotations produced by RGI with Fisher’s exact test using Scipy v1.13.1 (61). Root-to-tip analysis was performed using BactDating v1.1.3 (62) in R v4.3.1. 
-
-### 2025-12-22
-https://pubmed.ncbi.nlm.nih.gov/41430092/
-Sci Rep
-. 2025 Dec 22;15(1):45076. doi: 10.1038/s41598-025-31214-8.
-Epidemiology and molecular typing of multidrug resistant Acinetobacter baumannii burn wound isolates from six Chinese provinces
-Shaojin Pan 1 2, Kui Liu 3, Yujiao Huang 1, Yali Gong 4, Jing Wang 4, Zeyuan Lei 5, Zichen Yang 6 7
-https://www.nature.com/articles/s41598-025-31214-8
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12749299/
-
-### 2025-09-17
-https://pubmed.ncbi.nlm.nih.gov/40961326/
-Microb Genom
-. 2025 Sep;11(9):001500. doi: 10.1099/mgen.0.001500.
-Dominance of high-risk clones ST2 and ST571 and the diversity of resistance islands in clinical Acinetobacter baumannii isolates from Hanoi, Vietnam
-Minh Ngoc Nghiem 1, Dung Phuong Bui 2, Van Thi Thu Ha 3, Hop Thi Tran 1, Diem Thi Nguyen 1, Thuy Thi Bich Vo 1
-https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001500#tab2
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12444785/
-
-### 2025-09-03
-https://pubmed.ncbi.nlm.nih.gov/40711465/
-Review Antimicrob Agents Chemother
-. 2025 Sep 3;69(9):e0080125. doi: 10.1128/aac.00801-25. Epub 2025 Jul 25.
-Acinetobacter baumannii: much more than a human pathogen
-Santiago Castillo-Ramírez 1, Alejandro Aguilar-Vera 1, Ayush Kumar # 2, Benjamin Evans # 3 4
-https://journals.asm.org/doi/10.1128/aac.00801-25
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12406671/
-
-### 2025-04-14
-https://pubmed.ncbi.nlm.nih.gov/40229304/
-Nat Commun
-. 2025 Apr 14;16(1):3536. doi: 10.1038/s41467-025-58772-9.
-Genomic epidemiology and phylodynamics of Acinetobacter baumannii bloodstream isolates in China
-Qixia Luo # 1, Mengru Chang # 2, Ping Lu # 1, Qian Guo # 2, Xiaoqing Jiang 2, Tingting Xiao 1, Haoyu Zhang 2, Yingying Ma 1, Yan Zhang 2, Wei Yu 1, Erjia Zhang 1, Yunbo Chen 1, Ping Shen 1, Jinru Ji 1, Chaoqun Ying 1, Zhiying Liu 1; BRICS Working Group; Huaiqiu Zhu 3, Yonghong Xiao 4
-
-https://www.nature.com/articles/s41467-025-58772-9
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11997098/
-
-ST208 was disseminated through multiple interprovincial transmission events
-|
-Fig. 10. ST208 was disseminated through multiple interprovincial transmission events.
-|
-The common ancestor of ST191 dates to approximately 1995 [95% Highest Posterior Density (HPD), 1991–1999) and originated in ZJ.
-|
-(Fig. 10a, d). The common ancestor of ST195 dates to 1996 (95% HPD 1992-2000), when it originated from ZJ. ST195 initially emerged in ZJ and subsequently diverged into two major clades.
-|
-The initial introduction of ST208 occurred in AH in 1987 (95% HPD 1982-1992), followed by its spread to Yunnan (Fig.S17). As a result, varying degrees of ST208 epidemics were observed in most regions of China (Fig. 10c, Fig. S17). BEAST analysis predicted a total of 69 transmission events between provinces, including 36 major transmission events. These transmission events involved 21 provinces, with AH being the most frequent origin and destination for transmission (Fig. 10c, d).
-
-Methods
-
-Variation analysis and recombination detection
-|
-Gubbins (version 2.4.1)58 for recombination identification
-
-Phylogenetic analysis
-|
-We constructed a maximum likelihood phylogenetic tree using non-recombinant SNP sequences of 234 strains of ST208, and the Bayesian binary Markov chain Monte Carlo (BMM) method in RASP (Version 4.0)65 was used to analyze the status of KL in the ST208 phylogenetic tree. 
-
-Phylogeographic analysis
-We next conducted discrete trait phylogeographic inference for the ST195, ST208, and ST191 isolates via their nonrecombinant core SNP alignment via BEAST (version 2.7.4)66. BEAST priors were introduced with BEAUti (version 2.7.5)66, 
-
-65.Yu, Y., Blair, C. & He, X. RASP 4: ancestral state reconstruction tool for multiple genes and characters. Mol. Biol. Evol.37, 604–606 (2020). [DOI] [PubMed] [Google Scholar]
-
-
-### 2025-02-05
-https://pubmed.ncbi.nlm.nih.gov/39908088/
-Microb Genom
-. 2025 Feb;11(2):001345. doi: 10.1099/mgen.0.001345.
-Whole-genome sequencing of Acinetobacter baumannii clinical isolates from a tertiary hospital in Terengganu, Malaysia (2011-2020), revealed the predominance of the Global Clone 2 lineage
-Nurul Saidah Din 1, Farahiyah Mohd Rani 1, Ahmed Ghazi Alattraqchi 1, Salwani Ismail 1, Nor Iza A Rahman 1, David W Cleary 2 3, Stuart C Clarke 1 4 5 6 7, Chew Chieng Yeo 1
-https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001345#tab2
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11798184/
-
-### 2024-12-25
-https://pubmed.ncbi.nlm.nih.gov/39831164/
-Heliyon
-. 2024 Dec 25;11(1):e41487. doi: 10.1016/j.heliyon.2024.e41487. eCollection 2025 Jan 15.
-Epidemiological and genomic analysis of Acinetobacter baumannii strains from retailed raw meat
-Leila Hamze 1, Raquel Garcia-Fierro 1, Antoine Drapeau 1, Pauline François 1, Andrea Endimiani 2, Jean-Yves Madec 1, Marisa Haenni 1, Vincent Perreten 3, Agnese Lupo 1
-https://www.sciencedirect.com/science/article/pii/S2405844024175184
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11742621/
-https://www.sciencedirect.com/science/article/pii/S2405844024175184
-
-### 2025-02
-https://pubmed.ncbi.nlm.nih.gov/39908088/
-Microb Genom
-. 2025 Feb;11(2):001345. doi: 10.1099/mgen.0.001345.
-Whole-genome sequencing of Acinetobacter baumannii clinical isolates from a tertiary hospital in Terengganu, Malaysia (2011-2020), revealed the predominance of the Global Clone 2 lineage
-Nurul Saidah Din 1, Farahiyah Mohd Rani 1, Ahmed Ghazi Alattraqchi 1, Salwani Ismail 1, Nor Iza A Rahman 1, David W Cleary 2 3, Stuart C Clarke 1 4 5 6 7, Chew Chieng Yeo 1
-https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001345#tab2
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11798184/
-
-### 
-
-### 2018-10-18
-https://pubmed.ncbi.nlm.nih.gov/30337588/
-Sci Rep
-. 2018 Oct 18;8(1):15346. doi: 10.1038/s41598-018-33800-5.
-Genomic analysis of Acinetobacter baumannii prophages reveals remarkable diversity and suggests profound impact on bacterial virulence and fitness
-Ana Rita Costa 1, Rodrigo Monteiro 1, Joana Azeredo 2
-https://www.nature.com/articles/s41598-018-33800-5
-tree rooted using Acinetobacter baumannii plasmid pNaval18-231 as the outgroup
-
-### 2015-10-14
-https://pubmed.ncbi.nlm.nih.gov/26462752/
-Sci Rep
-. 2015 Oct 14:5:15188. doi: 10.1038/srep15188.
-Phylogenetic and genomic diversity in isolates from the globally distributed Acinetobacter baumannii ST25 lineage
-Jason W Sahl 1 2, Mariateresa Del Franco 3, Spyros Pournaras 4, Rebecca E Colman 1, Nabil Karah 5, Lenie Dijkshoorn 6, Raffaele Zarrilli 3
-https://www.nature.com/articles/srep15188
-https://pmc.ncbi.nlm.nih.gov/articles/PMC4604477/
-
-Figure 3. A core genome single nucleotide polymorphism (SNP) phylogeny of 597 A. baumannii genomes.
-The phylogeny was rooted by first including an outgroup from A. nosocomialis, then re-running the analysis with only A. baumannii and rooting on the most basal genome from the original analysis.
-
-Figure 4. A core genome single nucleotide polymorphism (SNP) phylogeny of ST25 genomes.
-The tree was rooted according to the most basal genome isolated from the global phylogeny (Fig. 3).
-
-### 2011-10
-https://pubmed.ncbi.nlm.nih.gov/21788470/
-Antimicrob Agents Chemother
-. 2011 Oct;55(10):4506-12. doi: 10.1128/AAC.01134-10. Epub 2011 Jul 25.
-Genomic analysis of the multidrug-resistant Acinetobacter baumannii strain MDR-ZJ06 widely spread in China
-Hua Zhou 1, Tongwu Zhang, Dongliang Yu, Borui Pi, Qing Yang, Jianying Zhou, Songnian Hu, Yunsong Yu
-https://pmc.ncbi.nlm.nih.gov/articles/PMC3187012/
-Fig. 1.
-Phylogenetic analyses of Acinetobacter baumannii isolates.
-The genome of Acinetobacter baylyi ADP1 was used as the outgroup to root the tree.
-
-### 2022-01-17
-
-https://pubmed.ncbi.nlm.nih.gov/34839707/
-Philos Trans R Soc Lond B Biol Sci
-. 2022 Jan 17;377(1842):20200472. doi: 10.1098/rstb.2020.0472. Epub 2021 Nov 29.
-What makes a megaplasmid?
-James P J Hall 1, João Botelho 2 3, Adrian Cazares 4 5, David A Baltrus 6
-https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0472
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8628078/
-
-1. Megaplasmids: very large plasmids
-
-Figure 1.
-Percentage of plasmid publications containing the term ‘megaplasmid’.
-
-The recent availability of long-read single-molecule sequencing technologies, such as the PacBio SMRT protocol and Nanopore devices, enables megaplasmids to be unambiguously resolved [25–27], and with this increased detection rate, recent years have seen a steep increase in the proportion of plasmid publications containing the term ‘megaplasmid’ (figure 1).
-
-2. How big is a megaplasmid?
-
-Figure 2.
-Plasmid size distributions for families with greater than 100 plasmids in the COMPASS database [13].
-
-In the next sections, we discuss these features of megaplasmids—their size, genetics, and gene content—that explain their evolutionary and ecological role (figure 3).
-
-Figure 3.
-What makes a megaplasmid. 
-
-3. Why are megaplasmids bigger?
-
-4. Are megaplasmids just chromids-in-training?
-
-5. Plasmid plasticity promotes megaplasmid emergence
-
-6. Boxes: megaplasmids to watch
-
-(c) Acinetobacter megaplasmids, global distribution, local adaptation: pR4WN-1BD1 (285 kb) and relatives
-
-A role for local adaptation in shaping plasmid accessory gene content was discernible in these data, as plasmids from similar geographical locations had similar accessory genes, even if they were not closely related [27]. Increased sampling of non-clinical sites may be necessary to reveal the full megaplasmid picture in Acinetobacter, as an analysis of Acinetobacter plasmids from hospitals and soil/water suggested that larger plasmids were obtained from environmental samples [141].
-
-### 2021-09-21
-
-https://pubmed.ncbi.nlm.nih.gov/34621254/
-Front Microbiol
-. 2021 Sep 21:12:728644. doi: 10.3389/fmicb.2021.728644. eCollection 2021.
-Ubiquitous Conjugative Mega-Plasmids of Acinetobacter Species and Their Role in Horizontal Transfer of Multi-Drug Resistance
-Sofia Mindlin 1, Olga Maslova 1, Alexey Beletsky 2, Varvara Nurmukanova 1, Zhiyong Zong 3, Andrey Mardanov 2, Mayya Petrova 1
-https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.728644/full
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8490738/
-
-### 2020-12-02_Front_Microbiol
-
-https://colil.dbcls.jp/browse/papers/33343549/1/100/year
-  is cited by the following papers.
-合計: 14, 
-
-What makes a megaplasmid?
-
-Ubiquitous Conjugative Mega-Plasmids of Acinetobacter Species and Their Role in Horizontal Transfer of Multi-Drug Resistance.
-
-https://pubmed.ncbi.nlm.nih.gov/33343549/
-Front Microbiol
-. 2020 Dec 2;11:605952. doi: 10.3389/fmicb.2020.605952. eCollection 2020.
-A Novel Family of Acinetobacter Mega-Plasmids Are Disseminating Multi-Drug Resistance Across the Globe While Acquiring Location-Specific Accessory Genes
-Timothy M Ghaly 1, Ian T Paulsen 2 3, Ammara Sajjad 1, Sasha G Tetu 2 3, Michael R Gillings 1 3
-https://www.frontiersin.org/articles/10.3389/fmicb.2020.605952/full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/
-
-Materials and Methods
-
-Plasmid Pan‐ and Core-Genome Analyses
-Gene and protein sequences for all 21 plasmids were predicted using Prokka v1.13 (parameters: -- kingdom Bacteria). Plasmid pan‐ and core-genome analyses were carried out using Perl scripts available in the GET_HOMOLOGUES v20092018 software package (
-
-Phylogenetic Analysis
-The evolutionary relationship between plasmids was inferred from the plasmid core-genome. Appropriate phylogenetic loci were identified using the GET_PHYLOMARKERS software package (Vinuesa et al., 2018) with default parameters. The GET_PHYLOMARKERS uses the single-copy plasmid core-genome clusters identified by GET_HOMOLOGUES and removes recombinant sequences as well as loci that produce outlier phylogenies. 
-
-Figure 3
-Plasmid core-genome phylogram and accessory genome dendrogram. (left) A maximum-likelihood tree showing the inferred plasmid phylogeny based on the plasmid core-genome and (right) a maximum-likelihood tree based on the presence and absence of all 1,262 accessory genes in the plasmid pangenome. 
-
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig3/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g003.jpg)
-
-Figure 4
-A co-phylogeny linking the host strain (left) and plasmid (right) phylogenies.
-
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig4/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g004.jpg)
-
 
 ----------
 ## CRISPR
@@ -1671,7 +1923,6 @@ https://www.dailysunny.com/2016/11/21/nynews161121-2/
 菌まみれのＡＴＭ ２年の調査で数十種類を検出 | DAILYSUN NEW YORK
 
 ### 2015-06-08
-
 https://pubmed.ncbi.nlm.nih.gov/26035208/
 PLoS One
 . 2015 Jun 2;10(6):e0128711. doi: 10.1371/journal.pone.0128711. eCollection 2015.
@@ -1684,9 +1935,7 @@ https://www.genomeweb.com/scan/week-plos-31
 This Week in PLOS: Jun 8, 2015
 In PLOS One, researchers from India use shotgun metagenomic sequencing to look at the microbes found on paper currency in that country. By sequencing DNA from bills deemed most and least circulated from Reserve Bank of India data, the team detected sequences coinciding with dozens of antibiotic resistance genes, as well as sequences believed to represent pathogenic and cellulose degrading organisms. "Our analysis suggests a significant diversity in the microbial population on paper currency notes," study authors write, "and presence of antibiotic resistance genes."
 
-
 ### 2013-08-28
-
 https://pubmed.ncbi.nlm.nih.gov/23985137/
 Antimicrob Resist Infect Control
 . 2013 Aug 28;2(1):22. doi: 10.1186/2047-2994-2-22.
@@ -1695,63 +1944,6 @@ Habip Gedik 1, Timothy A Voss, Andreas Voss
 https://aricjournal.biomedcentral.com/articles/10.1186/2047-2994-2-22
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3765964/
 Euro, US Dollar, Canadian Dollar, Croatian Luna, Romanian Leu (RON), Moroccan Dirham, and Indian Rupee banknotes were included into the first part of the study. Cultures of the Romanian Leu yielded all 3 multi-drug resistant pathogens; MRSA, VRE and ESBL-producing E. coli. 
-
-----------
-## MRSA
-
-https://ja.wikipedia.org/wiki/メチシリン耐性黄色ブドウ球菌
-methicillin-resistant Staphylococcus aureus
-
-2024年3月26日
-https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/related-articles-529/12583-529r07.html
-国内外の家畜関連MRSA（LA-MRSA）の状況について
-医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
-
-https://x.com/H_Nakaminami
-中南 秀将 (@H_Nakaminami) / X
-
-https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_article/-char/ja/
-総説
-本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
-中南 秀将
-https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_pdf/-char/ja
-2022年7月6日
-http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
-日本環境感染学会：
-─総説─
-本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
-中南　秀将
-http://www.kankyokansen.org/journal/full/03705/037050164.pdf
-一般的に，CA-MRSA の方が HA-MRSAよりも増殖速度が速い２０）
-20）Okuma K, 
-https://pubmed.ncbi.nlm.nih.gov/12409412/
-J Clin Microbiol
-. 2002 Nov;40(11):4289-94. doi: 10.1128/JCM.40.11.4289-4294.2002.
-Dissemination of new methicillin-resistant Staphylococcus aureus clones in the community
-Keiko Okuma 1, Kozue Iwakawa, John D Turnidge, Warren B Grubb, Jan M Bell, Frances G O'Brien, Geoffrey W Coombs, John W Pearman, Fred C Tenover, Maria Kapi, Chuntima Tiensasitorn, Teruyo Ito, Keiichi Hiramatsu
-https://pmc.ncbi.nlm.nih.gov/articles/PMC139674/
-TABLE 1.
-Genotyping and antibiogram of tested MRSA strains
-|
-Doubling time (min)h
-|
-hDoubling time during exponential growth phase (optical density of 0.05 to ∼1.0 at 660 nm) measured by using TN-2612 (Advantec Toyo Kaisha, Ltd., Tokyo, Japan) as previously described (8).
-|
-C-MRSA/NORSA strains grew significantly faster than H-MRSA strains: the mean doubling times (8) of the former group of strains were 28.79 ± 7.09 and 28.24 ± 2.48 min, respectively, whereas that for the latter was 38.81 ± 7.01 min (see Table 1). The difference was statistically significant (P value of <0.0001 by t test). This high growth rate may be a prerequisite in the absence of antibiotics for C-MRSA to achieve successful colonization of humans by outcompeting the numerous bacterial species in the environment.
-
-
-
-https://pubmed.ncbi.nlm.nih.gov/35762208/
-Elife
-. 2022 Jun 28:11:e74819. doi: 10.7554/eLife.74819.
-Stable antibiotic resistance and rapid human adaptation in livestock-associated MRSA
-Marta Matuszewska # 1, Gemma G R Murray # 1, Xiaoliang Ba 1, Rhiannon Wood 1, Mark A Holmes 1, Lucy A Weinert 1
-https://elifesciences.org/articles/74819
-https://pmc.ncbi.nlm.nih.gov/articles/PMC9239682/
-Figure 3. A type V SCCmec has been maintained since the 1980s, with occasional replacements.
-(c) Well-supported clades and SCCmec type are annotated on the CC398 phylogeny in external rings.
-
-----------
 
 ----------
 ## five-second rule
