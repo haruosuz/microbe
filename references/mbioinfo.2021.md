@@ -157,146 +157,6 @@ https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
 導入した植物の葉面や土壌などメタゲノム解析
 
-
-
-
-
-
-
-
-----------
-## MRSA
-
-https://ja.wikipedia.org/wiki/メチシリン耐性黄色ブドウ球菌
-methicillin-resistant Staphylococcus aureus
-
-2024年3月26日
-https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/related-articles-529/12583-529r07.html
-国内外の家畜関連MRSA（LA-MRSA）の状況について
-医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
-
-https://x.com/H_Nakaminami
-中南 秀将 (@H_Nakaminami) / X
-
-https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_article/-char/ja/
-総説
-本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
-中南 秀将
-https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_pdf/-char/ja
-2022年7月6日
-http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
-日本環境感染学会：
-─総説─
-本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
-中南　秀将
-http://www.kankyokansen.org/journal/full/03705/037050164.pdf
-一般的に，CA-MRSA の方が HA-MRSAよりも増殖速度が速い２０）
-20）Okuma K, 
-
-2002-11
-https://pubmed.ncbi.nlm.nih.gov/12409412/
-J Clin Microbiol
-. 2002 Nov;40(11):4289-94. doi: 10.1128/JCM.40.11.4289-4294.2002.
-Dissemination of new methicillin-resistant Staphylococcus aureus clones in the community
-Keiko Okuma 1, Kozue Iwakawa, John D Turnidge, Warren B Grubb, Jan M Bell, Frances G O'Brien, Geoffrey W Coombs, John W Pearman, Fred C Tenover, Maria Kapi, Chuntima Tiensasitorn, Teruyo Ito, Keiichi Hiramatsu
-https://pmc.ncbi.nlm.nih.gov/articles/PMC139674/
-TABLE 1.
-Genotyping and antibiogram of tested MRSA strains
-|
-Doubling time (min)h
-|
-hDoubling time during exponential growth phase (optical density of 0.05 to ∼1.0 at 660 nm) measured by using TN-2612 (Advantec Toyo Kaisha, Ltd., Tokyo, Japan) as previously described (8).
-|
-C-MRSA/NORSA strains grew significantly faster than H-MRSA strains: the mean doubling times (8) of the former group of strains were 28.79 ± 7.09 and 28.24 ± 2.48 min, respectively, whereas that for the latter was 38.81 ± 7.01 min (see Table 1). The difference was statistically significant (P value of <0.0001 by t test). This high growth rate may be a prerequisite in the absence of antibiotics for C-MRSA to achieve successful colonization of humans by outcompeting the numerous bacterial species in the environment.
-
-
-https://pubmed.ncbi.nlm.nih.gov/35762208/
-Elife
-. 2022 Jun 28:11:e74819. doi: 10.7554/eLife.74819.
-Stable antibiotic resistance and rapid human adaptation in livestock-associated MRSA
-Marta Matuszewska # 1, Gemma G R Murray # 1, Xiaoliang Ba 1, Rhiannon Wood 1, Mark A Holmes 1, Lucy A Weinert 1
-https://elifesciences.org/articles/74819
-https://pmc.ncbi.nlm.nih.gov/articles/PMC9239682/
-Figure 3. A type V SCCmec has been maintained since the 1980s, with occasional replacements.
-(c) Well-supported clades and SCCmec type are annotated on the CC398 phylogeny in external rings.
-
-----------
-## Staphylococcus
-
-https://xavierdidelot.github.io/BactDating/articles/Staph.html
-Application of BactDating on S. aureus ST239 • BactDating
-
-### 2026-01-20
-https://pubmed.ncbi.nlm.nih.gov/40990499/
-mSystems
-. 2026 Jan 20;11(1):e0084825. doi: 10.1128/msystems.00848-25. Epub 2025 Sep 24.
-Clade-specific adaptation and global spread of Staphylococcus aureus ST188 with emergence of a multidrug-resistant MRSA sublineage
-Deru Lei # 1, Xu Dong # 2, Ting Yang 1, Ye Jin 3 4, Wangxiao Zhou 1
-https://journals.asm.org/doi/10.1128/msystems.00848-25
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12817943/
-
-MATERIALS AND METHODS
-Collection of bacterial isolates
-
-In total, 808 ST188 isolates collected from 24 countries across five continents between 2004 and 2023 were included in this study (Table S1).
-
-Phylogenetic analysis and Bayesian evolutionary analysis
-Core genome alignment of the 808 ST188 isolates was performed against the reference genome M2024 (GenBank accession no. CP195249.1) using Snippy v4.6.0 (https://github.com/tseemann/snippy). Recombinant regions were identified and removed using Gubbins v2.4.1 (20) prior to phylogenetic analysis. A maximum likelihood phylogenetic tree was constructed with RAxML v8.2.12 (21)  under the GTRGAMMAX model with 1,000 bootstrap replicates. The genome of S. aureus MW2 (ST1, accession no. NC_003923) was used as an outgroup. Temporal phylogenetic reconstruction was conducted using BactDating v1.1 (22) under the mixedcarc model with 200 million MCMC iterations.
-
-RESULTS
-Geographic distribution and evolutionary trajectory of the S. aureus ST188 isolates
-
-Fig 1.
-(B) Temporal and geographic distribution of ST188 isolates from 2004 to 2023. 
-
-Phylogenomic analysis based on 36,472 non-recombinant core SNPs indicated that the most recent common ancestor of all ST188 isolates emerged around 1954 (95% highest posterior density: 1945–1962; Fig. S2), subsequently diverging shortly thereafter into seven major phylogenetic clades (I–VII), with estimated divergence times ranging from 1958 to 1977 (Fig. 2A; Fig. S2). 
-
-Notably, apart from three ST188 MRSA isolates scattered across the phylogenetic tree, the majority of MRSA isolates clustered distinctly in clade VI, likely due to a single introduction event of SCCmec IVa around 1996, forming a unique MRSA subclade (Fig. 2A; Fig. S2 ).
-
-Fig 2.
-Phylogenetic analysis of 808 ST188 isolates.
-
-DISCUSSION
-
-Previous reports have identified ST188 as a predominant MSSA lineage in China, with sporadic MRSA documented in clinical settings (13, 30). However, the evolutionary origins and genomic adaptations of these MRSA derivatives have not been systematically characterized. In this study, time-calibrated phylogenomic reconstruction indicated that the ST188 MRSA isolates emerged predominantly as a single sublineage within clade VI around 1996. 
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12817943/#SuF1
-Supplemental Figures. msystems.00848-25-s0001.pdf.
-Figures S1-S7.
-msystems.00848-25-s0001.pdf (8.4MB, pdf)
-https://pmc.ncbi.nlm.nih.gov/articles/instance/12817943/bin/msystems.00848-25-s0001.pdf
-Figure S2. A dated genome-wide SNP phylogeny of ST188 isolates. The divergence
-time and 95% HPD intervals of main clades are shown at the respective nodes. 
-
-### 
-
-
-
-### 
-
-
-
-### 2024-07-10
-https://pubmed.ncbi.nlm.nih.gov/38729368/
-Sci Total Environ
-. 2024 Jul 10:933:173027. doi: 10.1016/j.scitotenv.2024.173027. Epub 2024 May 9.
-Genomic epidemiology of Staphylococcus aureus from the Iberian Peninsula highlights the expansion of livestock associated-CC398 towards wildlife
-Beatriz Ramos 1, Mónica V Cunha 2
-https://www.sciencedirect.com/science/article/pii/S0048969724031747
-
-2. Methods
-
-2.4. Phylodynamic analysis of the complete dataset
-
-The ML tree was re-rooted using the ape R package (Paradis and Schliep, 2019) and then subjected to temporal signal assessment by submitting it to the BactDating R package, along with the corresponding sampling dates (Didelot et al., 2018). A root-to-tip linear regression was conducted to evaluate the temporal signal using the roototip function. Subsequently, both the ML tree and sampling dates were submitted to the bactdate function with one million Markov Chain Monte Carlo (MCMC) iterations. The additive uncorrelated relaxed clock (ARC) model was used as
-
-3. Results
-
-3.3. Phylodynamic inference of S. aureus from the Iberian Peninsula suggests widespread circulation among humans before host jumps
-The temporal signal of the whole dataset (450 genomes) was evaluated by root-to-tip linear regression analysis for the complete dataset before Bayesian phylodynamic analyses. Root-to-tip analysis for this broader and diverse dataset pointed out a weak temporal signal (r2 = 0.21, p-value <1 × 10−4). The Bayesian analysis was thus performed with BactDating and assuming the ARC model in response to a dataset that might encompass epidemiologically unrelated strains. This model assumes independent mutation rates in each branch and includes the additivity property, which can better resolve dating when considering many short-duration branches due to very large sample sizes. The main estimated evolutionary parameters indicated a clock rate of 2.87 × 10−7 substitutions per site per year [95 % highest posterior density (HPD) interval, 2.51 × 10−7 - 3.21 × 10−7 substitutions per site per year], which represents an evolutionary rate of 0.82 substitutions per year (95 % HPD interval, 0.71–0.92 substitutions per year), and the time to the most recent common ancestor (tMRCA) was estimated approximately 4000 years before present (Fig. 4).
-
-Fig. 4. Maximum credibility tree of S. aureus isolates (1990 to 2022 dataset) estimated under a model of asymmetric host species transitions. A total of 450 draft genomes were analysed using BactDating applying a GTR substitution model together with ARC model. Discrete ancestral trait mapping was performed for host category using SIMMAP. The CC398 is highlighted in the right to left panels as the single cluster with origin in livestock. Branches are colour coded according to host category and tips according to host species. In the horizontal axis, time is represented as years before 2022.
-
 ----------
 ## Acinetobacter
 
@@ -507,8 +367,6 @@ https://www.sciencedirect.com/science/article/pii/S2405844024175184
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11742621/
 https://www.sciencedirect.com/science/article/pii/S2405844024175184
 
-
-
 ### 
 
 ### 2018-10-18
@@ -631,11 +489,161 @@ A co-phylogeny linking the host strain (left) and plasmid (right) phylogenies.
 
 ![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/figure/fig4/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/bin/fmicb-11-605952-g004.jpg)
 
+----------
+## Staphylococcus
+
+https://xavierdidelot.github.io/BactDating/articles/Staph.html
+Application of BactDating on S. aureus ST239 • BactDating
+
+### 2026-01-20
+https://pubmed.ncbi.nlm.nih.gov/40990499/
+mSystems
+. 2026 Jan 20;11(1):e0084825. doi: 10.1128/msystems.00848-25. Epub 2025 Sep 24.
+Clade-specific adaptation and global spread of Staphylococcus aureus ST188 with emergence of a multidrug-resistant MRSA sublineage
+Deru Lei # 1, Xu Dong # 2, Ting Yang 1, Ye Jin 3 4, Wangxiao Zhou 1
+https://journals.asm.org/doi/10.1128/msystems.00848-25
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12817943/
+
+MATERIALS AND METHODS
+Collection of bacterial isolates
+
+In total, 808 ST188 isolates collected from 24 countries across five continents between 2004 and 2023 were included in this study (Table S1).
+
+Phylogenetic analysis and Bayesian evolutionary analysis
+Core genome alignment of the 808 ST188 isolates was performed against the reference genome M2024 (GenBank accession no. CP195249.1) using Snippy v4.6.0 (https://github.com/tseemann/snippy). Recombinant regions were identified and removed using Gubbins v2.4.1 (20) prior to phylogenetic analysis. A maximum likelihood phylogenetic tree was constructed with RAxML v8.2.12 (21)  under the GTRGAMMAX model with 1,000 bootstrap replicates. The genome of S. aureus MW2 (ST1, accession no. NC_003923) was used as an outgroup. Temporal phylogenetic reconstruction was conducted using BactDating v1.1 (22) under the mixedcarc model with 200 million MCMC iterations.
+
+RESULTS
+Geographic distribution and evolutionary trajectory of the S. aureus ST188 isolates
+
+Fig 1.
+(B) Temporal and geographic distribution of ST188 isolates from 2004 to 2023. 
+
+Phylogenomic analysis based on 36,472 non-recombinant core SNPs indicated that the most recent common ancestor of all ST188 isolates emerged around 1954 (95% highest posterior density: 1945–1962; Fig. S2), subsequently diverging shortly thereafter into seven major phylogenetic clades (I–VII), with estimated divergence times ranging from 1958 to 1977 (Fig. 2A; Fig. S2). 
+
+Notably, apart from three ST188 MRSA isolates scattered across the phylogenetic tree, the majority of MRSA isolates clustered distinctly in clade VI, likely due to a single introduction event of SCCmec IVa around 1996, forming a unique MRSA subclade (Fig. 2A; Fig. S2 ).
+
+Fig 2.
+Phylogenetic analysis of 808 ST188 isolates.
+
+DISCUSSION
+
+Previous reports have identified ST188 as a predominant MSSA lineage in China, with sporadic MRSA documented in clinical settings (13, 30). However, the evolutionary origins and genomic adaptations of these MRSA derivatives have not been systematically characterized. In this study, time-calibrated phylogenomic reconstruction indicated that the ST188 MRSA isolates emerged predominantly as a single sublineage within clade VI around 1996. 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12817943/#SuF1
+Supplemental Figures. msystems.00848-25-s0001.pdf.
+Figures S1-S7.
+msystems.00848-25-s0001.pdf (8.4MB, pdf)
+https://pmc.ncbi.nlm.nih.gov/articles/instance/12817943/bin/msystems.00848-25-s0001.pdf
+Figure S2. A dated genome-wide SNP phylogeny of ST188 isolates. The divergence
+time and 95% HPD intervals of main clades are shown at the respective nodes. 
+
+### 2024-07-10
+https://pubmed.ncbi.nlm.nih.gov/38729368/
+Sci Total Environ
+. 2024 Jul 10:933:173027. doi: 10.1016/j.scitotenv.2024.173027. Epub 2024 May 9.
+Genomic epidemiology of Staphylococcus aureus from the Iberian Peninsula highlights the expansion of livestock associated-CC398 towards wildlife
+Beatriz Ramos 1, Mónica V Cunha 2
+https://www.sciencedirect.com/science/article/pii/S0048969724031747
+
+2. Methods
+
+2.4. Phylodynamic analysis of the complete dataset
+
+The ML tree was re-rooted using the ape R package (Paradis and Schliep, 2019) and then subjected to temporal signal assessment by submitting it to the BactDating R package, along with the corresponding sampling dates (Didelot et al., 2018). A root-to-tip linear regression was conducted to evaluate the temporal signal using the roototip function. Subsequently, both the ML tree and sampling dates were submitted to the bactdate function with one million Markov Chain Monte Carlo (MCMC) iterations. The additive uncorrelated relaxed clock (ARC) model was used as
+
+3. Results
+
+3.3. Phylodynamic inference of S. aureus from the Iberian Peninsula suggests widespread circulation among humans before host jumps
+The temporal signal of the whole dataset (450 genomes) was evaluated by root-to-tip linear regression analysis for the complete dataset before Bayesian phylodynamic analyses. Root-to-tip analysis for this broader and diverse dataset pointed out a weak temporal signal (r2 = 0.21, p-value <1 × 10−4). The Bayesian analysis was thus performed with BactDating and assuming the ARC model in response to a dataset that might encompass epidemiologically unrelated strains. This model assumes independent mutation rates in each branch and includes the additivity property, which can better resolve dating when considering many short-duration branches due to very large sample sizes. The main estimated evolutionary parameters indicated a clock rate of 2.87 × 10−7 substitutions per site per year [95 % highest posterior density (HPD) interval, 2.51 × 10−7 - 3.21 × 10−7 substitutions per site per year], which represents an evolutionary rate of 0.82 substitutions per year (95 % HPD interval, 0.71–0.92 substitutions per year), and the time to the most recent common ancestor (tMRCA) was estimated approximately 4000 years before present (Fig. 4).
+
+Fig. 4. Maximum credibility tree of S. aureus isolates (1990 to 2022 dataset) estimated under a model of asymmetric host species transitions. A total of 450 draft genomes were analysed using BactDating applying a GTR substitution model together with ARC model. Discrete ancestral trait mapping was performed for host category using SIMMAP. The CC398 is highlighted in the right to left panels as the single cluster with origin in livestock. Branches are colour coded according to host category and tips according to host species. In the horizontal axis, time is represented as years before 2022.
+
+### 2024-09-18
+https://pubmed.ncbi.nlm.nih.gov/39294434/
+Commun Biol
+. 2024 Sep 18;7(1):1171. doi: 10.1038/s42003-024-06883-2.
+Simple and accurate genomic classification model for distinguishing between human and pig Staphylococcus aureus
+Huiliu Zhou 1, Wenyin Du 1, Dejia Ouyang 1, Yuehe Li 1, Yajie Gong 1, Zhenjiang Yao 1, Minghao Zhong 2, Xinguang Zhong 3, Xiaohua Ye 4
+https://www.nature.com/articles/s42003-024-06883-2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11410946/
+
+We performed the Bayesian evolutionary analysis to estimate the node dates of S. aureus using BactDating (v.1.1.1; https://xavierdidelot.github.io/BactDating/), a tool used to perform Bayesian dating of a bacterial phylogenetic tree. 
+
+Fig. 5. Time-based tree of ST5 isolates.
+
+Fig. 6. Time-based tree of ST398 isolates.
+
+The characteristics of each isolate are shown on the right (host, spa types and presence of host-associated k-mers).
+
+### 2024-05-07
+
+https://pubmed.ncbi.nlm.nih.gov/38725655/
+NPJ Antimicrob Resist
+. 2024;2(1):14. doi: 10.1038/s44259-024-00032-9. Epub 2024 May 7.
+Demographic fluctuations in bloodstream Staphylococcus aureus lineages configure the mobile gene pool and antimicrobial resistance
+Stephanie S R Souza 1, Joshua T Smith 2 3, Michael M Marcovici 1, Elissa M Eckhardt 4, Nicole B Hansel 4, Isabella W Martin 4, Cheryl P Andam 1
+https://www.nature.com/articles/s44259-024-00032-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11076216/
+
+Using Bactdating29, we observed a positive relationship between dates of isolation and root-to-tip distances (ST5: R2 = 0.17, p < 1.00 × 10-4 and ST8: R2 = 0.16, p < 1.00 × 10-4), indicating a strong molecular clock signal (Supplementary Fig. 5a, b). The Deviance Information Criterion (DIC) values obtained comparing the original result of Bactdating with ten randomized runs confirmed the significance of the temporal signal (Supplementary Fig. 6 and Supplementary Tables 6, 8). Given the strong temporal structure for both STs, we then performed a dated coalescent phylogenetic analysis (Fig. 4a, b and Supplementary Fig. 5c, d). We estimated that the time to the most recent common ancestor (tMRCA) of ST5 was ~1937 (95% highest posterior density (HPD) intervals: 1909–1956), while the tMRCA of ST8 was ~1886 (95% HPD intervals: 1863–1906).
+
+Fig. 4. Molecular dating of ST5 and ST8.
+
+----------
+## MRSA
+
+https://ja.wikipedia.org/wiki/メチシリン耐性黄色ブドウ球菌
+methicillin-resistant Staphylococcus aureus
+
+2024年3月26日
+https://www.niid.go.jp/niid/ja/typhi-m/iasr-reference/2637-related-articles/related-articles-529/12583-529r07.html
+国内外の家畜関連MRSA（LA-MRSA）の状況について
+医療関連型メチシリン耐性黄色ブドウ球菌（healthcare-associated methicillin-resistant Staphylococcus aureus: HA-MRSA）, 市中獲得型MRSA（community-acquired MRSA: CA-MRSA）とは, 遺伝子的性状などが異なるMRSAが分離され, 家畜関連MRSA（livestock-associated MRSA: LA-MRSA）
+
+https://x.com/H_Nakaminami
+中南 秀将 (@H_Nakaminami) / X
+
+https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_article/-char/ja/
+総説
+本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
+中南 秀将
+https://www.jstage.jst.go.jp/article/jsei/37/5/37_164/_pdf/-char/ja
+2022年7月6日
+http://journal.kyorin.co.jp/journal/kankyokansen/detail_j.php?-DB=kankyokansen&-recid=330&-action=browse
+日本環境感染学会：
+─総説─
+本邦におけるメチシリン耐性黄色ブドウ球菌（MRSA）の流行型の変化
+中南　秀将
+http://www.kankyokansen.org/journal/full/03705/037050164.pdf
+一般的に，CA-MRSA の方が HA-MRSAよりも増殖速度が速い２０）
+20）Okuma K, 
+
+2002-11
+https://pubmed.ncbi.nlm.nih.gov/12409412/
+J Clin Microbiol
+. 2002 Nov;40(11):4289-94. doi: 10.1128/JCM.40.11.4289-4294.2002.
+Dissemination of new methicillin-resistant Staphylococcus aureus clones in the community
+Keiko Okuma 1, Kozue Iwakawa, John D Turnidge, Warren B Grubb, Jan M Bell, Frances G O'Brien, Geoffrey W Coombs, John W Pearman, Fred C Tenover, Maria Kapi, Chuntima Tiensasitorn, Teruyo Ito, Keiichi Hiramatsu
+https://pmc.ncbi.nlm.nih.gov/articles/PMC139674/
+TABLE 1.
+Genotyping and antibiogram of tested MRSA strains
+|
+Doubling time (min)h
+|
+hDoubling time during exponential growth phase (optical density of 0.05 to ∼1.0 at 660 nm) measured by using TN-2612 (Advantec Toyo Kaisha, Ltd., Tokyo, Japan) as previously described (8).
+|
+C-MRSA/NORSA strains grew significantly faster than H-MRSA strains: the mean doubling times (8) of the former group of strains were 28.79 ± 7.09 and 28.24 ± 2.48 min, respectively, whereas that for the latter was 38.81 ± 7.01 min (see Table 1). The difference was statistically significant (P value of <0.0001 by t test). This high growth rate may be a prerequisite in the absence of antibiotics for C-MRSA to achieve successful colonization of humans by outcompeting the numerous bacterial species in the environment.
 
 
-
-
-
+https://pubmed.ncbi.nlm.nih.gov/35762208/
+Elife
+. 2022 Jun 28:11:e74819. doi: 10.7554/eLife.74819.
+Stable antibiotic resistance and rapid human adaptation in livestock-associated MRSA
+Marta Matuszewska # 1, Gemma G R Murray # 1, Xiaoliang Ba 1, Rhiannon Wood 1, Mark A Holmes 1, Lucy A Weinert 1
+https://elifesciences.org/articles/74819
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9239682/
+Figure 3. A type V SCCmec has been maintained since the 1980s, with occasional replacements.
+(c) Well-supported clades and SCCmec type are annotated on the CC398 phylogeny in external rings.
 
 ----------
 ## recombination
