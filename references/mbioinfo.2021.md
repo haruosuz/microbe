@@ -12,9 +12,7 @@
   - [jlsteenwyk](#jlsteenwyk)
 - [phylogenetic_profiling](#phylogenetic_profiling)
 - [date](#date) Phylogenetic Dating 分岐年代推定
-- [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
-- [AMR](#amr) 薬剤耐性
-- [plasmid](#plasmid) プラスミド
+
 - [CRISPR](#crispr)
 - [phenotype](#phenotype)
 - [money](#money) お金 お札 ATM
@@ -25,14 +23,18 @@
 - [](#)
 - [recombination](#recombination)
 - [](#)
+- [plasmid](#plasmid) プラスミド
+- [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
+- [AMR](#amr) 薬剤耐性
+- [ESKAPEE](#eskapee)
 - [Acinetobacter](#acinetobacter)
 - [Staphylococcus](#staphylococcus)
 - [MRSA](#mrsa)
 - [](#)
-- [](#)
 
 ----------
 ## 
+
 
 ----------
 ## unclassified
@@ -156,6 +158,382 @@ batch effect
 https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
 導入した植物の葉面や土壌などメタゲノム解析
+
+
+
+
+
+
+
+
+
+
+
+----------
+## plasmid
+プラスミド
+
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmids.tools.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+- https://www.ofsf.or.jp/
+公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
+- https://www.ofsf.or.jp/en/
+Ohsumi Frontier Science Foundation
+
+### 2021
+
+- http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
+Plasmids Around the Globe 2021 | International Society for Plasmid Biology
+
+### Kirstahler_2021
+
+https://pubmed.ncbi.nlm.nih.gov/34061588/
+mSystems
+. 2021 May 26;e0028321. doi: 10.1128/mSystems.00283-21. Online ahead of print.
+A Peek into the Plasmidome of Global Sewage
+Philipp Kirstahler 1, Frederik Teudt 1, Saria Otani 1, Frank M Aarestrup 1, Sünje Johanna Pamp 1
+
+https://journals.asm.org/doi/10.1128/mSystems.00283-21
+To distinguish between potential plasmid and nonplasmid contigs, we used a scheme described previously (21). The scheme contains Pfam identifiers highly specific for plasmids and viruses. Proteins with a plasmid replication initiator protein Rep_3 (PF01051) domain (n = 24,824) were investigated further, together with the full set of reference Rep_3 domain proteins (n = 1,637) downloaded from Pfam (version 33.1). The two data sets were combined and Rep_3 domain proteins with a length of <40 amino acid residues were discarded, resulting in a data set of 16,930 Rep_3 (PF01051) domain proteins. The protein sequences were aligned using MAFFT (version 7.221) as part of the Galaxy platform (46, 47). A phylogenetic tree was then built using FastTree (version 2.1.10) (48) and visualized using FigTree (version 1.4.4) (https://github.com/rambaut/figtree/releases).
+
+5:47 PM · May 27, 2021
+https://twitter.com/SJPamp/status/1397836852036620288
+Sünje J. Pamp 🦠🧬🔬🌍 on Twitter: "NEW paper! Our recent study on plasmids &amp; antimicrobial resistance using @nanopore sequencing of sewage samples from around the globe🌎 is published now in @mSystems! 👉https://t.co/z2tv2PcrPf 🦠🧬" / Twitter
+
+### Yang_2021
+
+https://pubmed.ncbi.nlm.nih.gov/33721023/
+Nucleic Acids Res
+. 2021 Apr 19;49(7):3981-3996. doi: 10.1093/nar/gkab149.
+A ProQ/FinO family protein involved in plasmid copy number control favours fitness of bacteria carrying mcr-1-bearing IncI2 plasmids
+Jun Yang 1 2, Hai-Hong Wang 2 3, Yaoyao Lu 1 2, Ling-Xian Yi 1 2, Yinyue Deng 4, Luchao Lv 1 2, Vincent Burrus 5, Jian-Hua Liu 1 2
+https://academic.oup.com/nar/article/49/7/3981/6171297
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8053102/
+A putative ProQ/FinO family protein encoded by the IncI2 plasmid, designated as PcnR (plasmid copy number repressor), balances the mcr-1 expression and bacteria fitness by repressing the plasmid copy number.
+
+Previous studies showed that plasmid-encoded specific regulators, such as H-NS or PsiB, alleviate the plasmid cost by controlling the expression of certain genes carried by the plasmid or host bacteria (12,30). 
+
+### Wegrzyn_2021
+
+https://pubmed.ncbi.nlm.nih.gov/33660784/
+Nucleic Acids Res
+. 2021 Apr 6;49(6):3394-3408. doi: 10.1093/nar/gkab113.
+Defining a novel domain that provides an essential contribution to site-specific interaction of Rep protein with DNA
+Katarzyna Wegrzyn 1, Elzbieta Zabrocka 1, Katarzyna Bury 1, Bartlomiej Tomiczek 1, Milosz Wieczor 2, Jacek Czub 2, Urszula Uciechowska 1, María Moreno-Del Alamo 3, Urszula Walkow 1, Igor Grochowina 1, Rafal Dutkiewicz 1, Janusz M Bujnicki 4 5, Rafael Giraldo 3, Igor Konieczny 1
+https://academic.oup.com/nar/article/49/6/3394/6154473
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034659/
+The phylogenetic analysis revealed that the composition of this unique domain is typical within the described TrfA-like protein family. 
+
+INTRODUCTION
+The binding of proteins to nucleic acids is often accomplished via specific motifs. Many of these motifs (e.g. helix-turn-helix (HTH), zinc finger, leucine zipper) are present within protein domains that are directly engaged in interaction with nucleic acids (1). In proteins that initiate DNA replication, usually the HTH motif and its variant, the winged HTH (WH) motif, are present within the domain responsible for DNA binding.
+
+Phylogenetic analysis and determination of sequence divergence
+
+RESULTS
+
+Interestingly, in some Rep proteins, we identified a short hydrophobic region located before the WH1 domain. This region shares a degree of similarity with a sequence within the N-terminal TrfA region (Figure ​(Figure1).1). We thus asked how the TrfA-like proteins are related to other replication initiators. To answer this question, we performed phylogenetic analysis of the representative DNA replication initiators using the maximum likelihood method (ML) (Supplementary Figure S1). Our ML analysis of the WH domains revealed a close monophyletic relationship among all TrfA-like proteins containing extended N-termini. Moreover, the phylogenetic analysis indicated that the TrfA-like proteins are most closely related to RepC, an IncQ-type replication protein C (51,52), and belong to a common protein family together with other plasmid replication initiation factors (Supplementary Figures S1, S2). 
+
+### WASPS
+https://archaea.i2bc.paris-saclay.fr/wasps/
+
+https://pubmed.ncbi.nlm.nih.gov/31589313/
+Bioinformatics
+. 2020 Mar 1;36(5):1629-1631. doi: 10.1093/bioinformatics/btz745.
+WASPS: web-assisted symbolic plasmid synteny server
+Catherine Badel 1, Violette Da Cunha 1, Ryan Catchpole 1, Patrick Forterre 1 2, Jacques Oberto 1
+https://academic.oup.com/bioinformatics/article/36/5/1629/5582648
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7703779/
+
+### pMCR_1511
+
+https://pubmed.ncbi.nlm.nih.gov/27895009/
+Antimicrob Agents Chemother
+. 2017 Jan 24;61(2):e02229-16. doi: 10.1128/AAC.02229-16. Print 2017 Feb.
+IncP Plasmid Carrying Colistin Resistance Gene mcr-1 in Klebsiella pneumoniae from Hospital Sewage
+Feifei Zhao 1 2, Yu Feng 1 2, Xiaoju Lü 1 2, Alan McNally 3, Zhiyong Zong 4 2 5
+https://aac.asm.org/content/61/2/e02229-16.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/
+
+FIG 2
+Genetic context of mcr-1 on pMCR_1511.
+
+![](https://aac.asm.org/content/aac/61/2/e02229-16/F2.medium.gif)
+
+The backbone of pMCR_1511 was highly similar (99% identity) to that of plasmid pHNFP671 (GenBank accession number KP324830), which was an IncP plasmid in E. coli isolate FP671 from Guangzhou, China but did not carry mcr-1. 
+
+The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under accession number KX377410.
+
+- https://www.ncbi.nlm.nih.gov/nuccore/KP324830
+- https://www.ncbi.nlm.nih.gov/nuccore/KX377410
+
+### pAKD4
+
+https://pubmed.ncbi.nlm.nih.gov/20018208/
+Comparative Study Plasmid
+. 2010 Mar;63(2):98-107. doi: 10.1016/j.plasmid.2009.11.005. Epub 2009 Dec 16.
+Comparative genomics of pAKD4, the prototype IncP-1delta plasmid with a complete backbone
+Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste J Brown, Eva M Top
+https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/figure/F1/
+
+Figure 1
+Genetic map of pAKD4. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/figure/F2/
+
+Figure 2
+Alignment of the IncP-1δ plasmids showing their evolutionary relationship. 
+
+The 3′-end of the ssb gene, which is usually found upstream of trfA in most IncP-1 plasmids, is also missing in these plasmids. This gene codes for a single strand DNA-binding protein, which helps in DNA replication, recombination and repair. TrfA1 and Ssb proteins play a crucial role in plasmid replication in some bacterial hosts such as P. aeruginosa and may not be needed in some others such as P. putida and E. coli [32]. Therefore we postulate that IncP-1δ plasmids co-evolved with hosts that do not require TrfA1 and Ssb proteins and thereby contracted their host range. Further research is needed to test this hypothesis.
+
+The complete sequence of pAKD4 has been deposited in the GenBank database under the accession number GQ983559.
+
+- https://www.ncbi.nlm.nih.gov/nuccore/GQ983559
+
+### Yano_2018_csbj
+
+https://www.sciencedirect.com/science/article/pii/S2001037018301685
+Reconsidering plasmid maintenance factors for computational plasmid design - ScienceDirect
+
+Table 1
+Lists of plasmids in different incompatibility groups.
+
+IncY	P1 (Escherichia virus)	AF234172 (phage P1 mod749::IS5 c1–100)	RepA
+
+
+Fig. 2. Replication module. (A) Replication module of IncP-1 plasmids. Ssb encodes a single-strand DNA binding protein.
+
+2.3.2. G + C Content
+
+Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes. 
+ The G + C contents of plasmids tend to be lower than (and are correlated with) those of the host chromosomes.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
+
+
+----------
+## niid
+
+- https://www.niid.go.jp/niid/en/
+National Institute of Infectious Diseases
+- https://www.niid.go.jp/niid/ja/
+国立感染症研究所
+- https://researchmap.jp/read0133866?lang=en
+Masato SUZUKI
+- https://twitter.com/KojiYahara
+Group Leader @ National Institute of Infectious Diseases.  AMR surveillance, biomedical informatics, microbial genomics, evolution, epidemiology.
+
+----------
+## AMR
+Antimicrobial Resistance
+薬剤耐性
+
+- https://twitter.com/AntibioticResis
+- https://wwwnc.cdc.gov/eid/spotlight/antimicrobial-resistance
+- 
+- https://ja.wikipedia.org/wiki/抗生物質
+- https://ja.wikipedia.org/wiki/コリスチン
+- https://en.wikipedia.org/wiki/Colistin
+- https://ja.wikipedia.org/wiki/カルバペネム系抗生物質
+- https://ja.wikipedia.org/wiki/薬剤耐性
+- https://ja.wikipedia.org/wiki/カルバペネム耐性腸内細菌
+- https://en.wikipedia.org/wiki/Carbapenem-resistant_enterobacteriaceae (CRE)
+- https://ja.wikipedia.org/wiki/Β-ラクタマーゼ
+- https://en.wikipedia.org/wiki/Beta-lactamase
+- https://www.kegg.jp/kegg/annotation/br01553.html
+KEGG Antimicrobial Resistance: beta-Lactamase Genes
+
+### who
+
+https://pubmed.ncbi.nlm.nih.gov/40245910/
+Lancet Infect Dis
+. 2025 Apr 11:S1473-3099(25)00118-5. doi: 10.1016/S1473-3099(25)00118-5. Online ahead of print.
+The WHO Bacterial Priority Pathogens List 2024: a prioritisation study to guide research, development, and public health strategies against antimicrobial resistance
+; WHO Bacterial Priority Pathogens List Advisory Group
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(25)00118-5/fulltext
+
+https://www.mhlw.go.jp/content/10906000/001309717.pdf
+WHO Bacterial Priority Pathogens List 2024概要
+
+2024年05月20日
+https://japan-who.or.jp/news-releases/2405-40/
+薬剤耐性菌のリストを更新 | 公益社団法人 日本ＷＨＯ協会
+詳細はWHOのウエブサイトをご覧ください。
+17 May 2024 
+https://www.who.int/news/item/17-05-2024-who-updates-list-of-drug-resistant-bacteria-most-threatening-to-human-health
+updated Bacterial Priority Pathogens List (BPPL) 2024
+17 May 2024
+https://www.who.int/publications/i/item/9789240093461
+
+### 2022-02-16
+### Waddington_2022
+
+12:36 AM · Feb 17, 2022
+https://twitter.com/Baker_Lab_Cam/status/1493972456465444871
+Stephen Baker on Twitter: "New review out today. I think illumina sequencing didn’t exist when we started it, so been updated a few times. Glad it saw the light of day. Big up to waddo, christine B @meganecarey @EllenHigginson @vbalaji7 @GenomeMedicine https://t.co/EN1JqRPNk6" / Twitter
+
+
+https://pubmed.ncbi.nlm.nih.gov/35172877/
+Review Genome Med
+. 2022 Feb 16;14(1):15. doi: 10.1186/s13073-022-01020-2.
+Exploiting genomics to mitigate the public health impact of antimicrobial resistance
+Claire Waddington 1 2, Megan E Carey 1 2, Christine J Boinett 3, Ellen Higginson 1 2, Balaji Veeraraghavan 4, Stephen Baker 5 6
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01020-2
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/
+
+Table 1
+Use cases for whole-genome sequencing (WGS) in mitigating the public health impact of antimicrobial resistance (AMR)
+
+Use case 7: Investigating colistin resistance detected in commensal E. coli in food stock animals in China [23]
+
+
+AMR surveillance
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/#Sec2title
+
+International surveillance
+
+National surveillance
+
+The routine inclusion of WGS into national surveillance can also be used to evaluate the risk from emerging AMR threats, such as transferable colistin resistance [70]. Phenotypic colistin resistance testing is not routinely performed and therefore is not readily detectable without WGS [70]. Routine WGS of GNB in the UK generated a substantial data resource over time, which was mined to determine the extent of the spread of plasmid-encoded colistin resistance after it emerged as an AMR threat [70]. Although colistin resistance can be detected in organisms from a range of environments, this retrospective study found that it remained uncommon in the UK, leading to the monitoring of colistin prescribing in a bid to minimise any potential selective pressure within the UK.
+
+Local surveillance
+
+Community surveillance and outbreak investigation
+
+Understanding the drivers of AMR
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/#Sec7title
+
+AMR and ‘One Health’
+
+A WGS-based investigation of commensal E. coli isolates in livestock in China after a rapid increase of colistin resistance, for example, showed that this increase was due to the emergence of a plasmid associated colistin resistance gene in E. coli, designated MCR-1, and led to international efforts to control the dissemination of MCR-1 via food supply networks [23].
+
+
+Limitations, challenges, and future directions
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/#Sec11title
+
+Technical limitations
+
+Highly transmissible MGEs (such as plasmids) facilitate non-mutational AMR gene acquisition by HGT and are highly implicated in AMR dissemination [135]. 
+
+Additionally, AMR genes are commonly associated with long, repetitive insertion sequences, and short-read sequencing techniques cannot resolve if these are carried on a plasmid or chromosomally located [38, 54, 140, 141]. Most outbreak investigations have largely assumed the relative conservation of plasmid structures over the limited time period of an outbreak and the extent to which HGT events contribute to outbreaks of AMR is not fully understood [54]. However, 
+
+### 2021-05-10
+### Shawa_2021
+
+9:37 AM · May 18, 2021
+https://twitter.com/hornistyf/status/1394452147090059267
+Y. Furuta on Twitter: "学生の論文が出ました。 ザンビアで分離された薬剤耐性腸内細菌科細菌のゲノム解析を行い、複数の株で薬剤耐性遺伝子を含む領域(最長41 kb)がプラスミドから染色体に移っていることを確認しました。 
+https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-00941-8
+Novel chromosomal insertions of ISEcp1-blaCTX-M-15 and diverse antimicrobial resistance genes in Zambian clinical isolates of Enterobacter cloacae and Escherichia coli
+
+https://pubmed.ncbi.nlm.nih.gov/33971966/
+Antimicrob Resist Infect Control
+. 2021 May 10;10(1):79. doi: 10.1186/s13756-021-00941-8.
+Novel chromosomal insertions of ISEcp1-bla CTX-M-15 and diverse antimicrobial resistance genes in Zambian clinical isolates of Enterobacter cloacae and Escherichia coli
+Misheck Shawa 1, Yoshikazu Furuta 1, Gillan Mulenga 2, Maron Mubanga 3, Evans Mulenga 3, Tuvshinzaya Zorigt 1, Christone Kaile 2, Manyando Simbotwe 4, Atmika Paudel 1, Bernard Hang'ombe 3, Hideaki Higashi 5
+https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-00941-8
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8111917/
+
+### 2021-04
+
+https://pubmed.ncbi.nlm.nih.gov/33655229/
+Lancet Microbe
+. 2021 Apr;2(4):e135-e136. doi: 10.1016/S2666-5247(21)00039-2. Epub 2021 Feb 24.
+COVID-19 drug practices risk antimicrobial resistance evolution
+Ebrahim Afshinnekoo 1 2, Chandrima Bhattacharya 1 2, Ana Burguete-García 3, Eduardo Castro-Nallar 4, Youping Deng 5, Christelle Desnues 6, Emmanuel Dias-Neto 7, Eran Elhaik 8, Gregorio Iraola 9, Soojin Jang 10, Paweł P Łabaj 11, Christopher E Mason 1 2 12, Niranjan Nagarajan 13, Michael Poulsen 14, Bharath Prithiviraj 15, Rania Siam 16 17, Tieliu Shi 18, Haruo Suzuki 19, Johannes Werner 20, Maria Mercedes Zambrano 21, Malay Bhattacharyya 22, MetaSUB Consortium
+https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00039-2/fulltext
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
+
+
+### 2021-04-06
+
+https://pubmed.ncbi.nlm.nih.gov/32249837/
+Sci Rep
+. 2020 Apr 6;10(1):5970. doi: 10.1038/s41598-020-63167-5.
+Massive analysis of 64,628 bacterial genomes to decipher water reservoir and origin of mobile colistin resistance genes: is there another role for these enzymes?
+Mariem Ben Khedher 1, Sophie Alexandra Baron 1 2, Toilhata Riziki 1, Raymond Ruimy 3, Didier Raoult 1 2, Seydina M Diene 4 5, Jean-Marc Rolain 6 7
+https://www.nature.com/articles/s41598-020-63167-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7136264/
+The colistin resistance mechanism also involves genes encoding phosphoethanolamine transferase (PET) and/or glycosyltransferase proteins that are essential for membrane phospholipid biosynthesis and appear extremely ubiquitous due to their presence in all areas of life including bacteria, archaea and eukaryotes (plants, arthropods)12–14. 
+
+Results
+Homologous sequences of mobile colistin resistance genes in available database
+As a starting point, the first MCR-1.1 protein described (NG_050417) was used as query in a BlastP analysis against the NCBI database to fish out a total of 13’658 protein hits with aa identity ranged from 30% to 100% and alignment ≥30% (Fig. 1A). Results include all MCR-variants (from MCR-2 to MCR-9) with aa identity ranged from 30.82% with MCR-4.1 to 82.66% with MCR-6.1 (Fig. 1B). 
+
+Methods
+Looking for homologous MCR-1 sequences from the NCBI database
+Reference sequence of MCR-1 (AKF16168.1) was used as query for BlastP analysis against the NCBI database using as threshold e-value 10e-5. All homologous sequence with identity ≥30% and alignment ≥30% were kept for further analysis. Protein alignments were performed using Mafft tool (https://mafft.cbrc.jp/alignment/software/) and phylogenetic trees were inferred using neighbor-joining method in FastTree program (http://www.microbesonline.org/fasttree/) and visualized with FigTree v1.4.2 (http://tree.bio.ed.ac.uk/software/figtree/), 
+
+
+https://pubmed.ncbi.nlm.nih.gov/29773743/
+Review Science
+. 2018 May 18;360(6390):733-738. doi: 10.1126/science.aar3777.
+Genomic insights into the emergence and spread of antimicrobial-resistant bacterial pathogens
+Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
+https://science.sciencemag.org/content/360/6390/733.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
+
+- https://twitter.com/DrKatHolt
+Kat Holt (@DrKatHolt) / Twitter
+Puzzle solver, bacterial genome wrangler, antibiotic resistance fighter. Prof at Monash Uni & London School of Hygiene and Tropical Medicine. BSc, MEpi, PhD.
+
+https://pubmed.ncbi.nlm.nih.gov/28233789/
+Sci Rep
+. 2017 Feb 24;7:43232. doi: 10.1038/srep43232.
+In silico serine β-lactamases analysis reveals a huge potential resistome in environmental and pathogenic species
+Christian Brandt 1 2, Sascha D Braun 2 3, Claudi
+https://www.nature.com/articles/srep43232
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5324141/
+
+### Pal_2015
+
+https://pubmed.ncbi.nlm.nih.gov/26576951/
+BMC Genomics
+. 2015 Nov 17;16:964. doi: 10.1186/s12864-015-2153-5.
+Co-occurrence of resistance genes to antibiotics, biocides and metals reveals novel insights into their co-selection potential
+Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 3
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
+
+----------
+## ESKAPEE
+https://en.wikipedia.org/wiki/ESKAPE
+
+### 2025-07-30
+https://pubmed.ncbi.nlm.nih.gov/40739039/
+Nat Microbiol
+. 2025 Aug;10(8):1854-1867. doi: 10.1038/s41564-025-02059-8. Epub 2025 Jul 30.
+The food-associated resistome is shaped by processing and production environments
+Narciso M Quijada # 1 2 3, José F Cobo-Díaz # 4, Vincenzo Valentino # 5, Coral Barcenilla 4, Francesca De Filippis 5 6, Raul Cabrera-Rubio 7 8, Niccolò Carlino 9, Federica Pinto 9, Monika Dzieciol 2, Inés Calvete-Torre 10 11, Carlos Sabater 10 11, Francesco Rubino 12 13, Stephen Knobloch 14, Sigurlaug Skirnisdottir 14, Lorena Ruiz 10 11, Mercedes López 4, Miguel Prieto 4, Viggó Thór Marteinsson 14 15, Abelardo Margolles 10 11, Nicola Segata 9, Paul D Cotter 7 16, Martin Wagner 1 2, Danilo Ercolini 5 6, Avelino Alvarez-Ordóñez 17
+https://www.nature.com/articles/s41564-025-02059-8
+Published: 30 July 2025
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12313530/
+Abstract
+Food production systems may act as transmission routes for antimicrobial-resistant (AMR) bacteria and AMR genes (AMRGs) to humans.
+
+Staphylococcus, particularly the human-associated opportunistic pathogen Staphylococcus aureus, showed the greatest number of AMRG-carrying contigs (22.7% and 8.3%, respectively, of all AMRG-carrying contigs). This species belongs to the clinically relevant ESKAPEE group, which overall accounted for 18.9% of all AMRG-carrying contigs (Fig. 3 and Supplementary Table 2). Other ESKAPEE members, including Acinetobacter baumannii (2.3%), Enterococcus faecium (2.3%), Escherichia coli (2.3%), Klebsiella pneumoniae (1.4%) and Pseudomonas aeruginosa (1.1%), were also among the 20 main AMRG carriers.
+
+### 2024-10-18
+総説
+https://pubmed.ncbi.nlm.nih.gov/39458393/
+Review Microorganisms. 2024 Oct 18;12(10):2084.
+Overview of Antimicrobial Resistant ESKAPEE Pathogens in Food Sources and Their Implications from a One Health Perspective
+https://www.mdpi.com/2076-2607/12/10/2084
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11510272/
+Antimicrobial resistance is an increasing societal burden worldwide, with ESKAPEE (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, Enterobacter species and Escherichia coli) pathogens overwhelming the healthcare sectors and more recently becoming predominantly a concern for their persistence in food and food industries, including agricultural settings and animal husbandry environments. 
+
+Table 1. Multidrug resistance profiles of ESKAPEE pathogens highlight studies in which these profiles have been associated with certain foods.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11510272/table/microorganisms-12-02084-t001/
+
+Organism Target | Food Contamination
+
+S. aureus | Cheese, dairy products, raw meat, frozen meat, RTE meat
+
+A. baumannii | Fruits and vegetables, raw milk, meat products
 
 ----------
 ## Acinetobacter
@@ -1238,334 +1616,6 @@ Fig. 3
 Timescale of the introduction of ZIKV to the Americas.
 There are two published hypotheses for how ZIKV came to be introduced into Brazil, during (i) the 2014 World Cup soccer tournament (Jun 12th - Jul 13th) (29) or (ii) the Va’a canoe event held in Rio de Janeiro between 12-17 Aug 2014 (34). Alternatively, introduction could have occurred during (iii) the 2013 Confederations Cup soccer tournament (15th–30th Jun 2013). Events (ii) and (iii) notably included competitors from French Polynesia. Our results suggest that the introduction of ZIKV to the Americas predated events (i) and (ii). Although the molecular clock dates are more consistent with the Confederations cup, that event ended before ZIKV cases were first reported in French Polynesia (4). Consequently, we believe that large-scale patterns in human mobility will provide more useful and testable hypotheses about viral introduction and emergence (33, 35, 36) than ad hoc hypotheses focused on specific events.
 
-----------
-## niid
-
-- https://www.niid.go.jp/niid/en/
-National Institute of Infectious Diseases
-- https://www.niid.go.jp/niid/ja/
-国立感染症研究所
-- https://researchmap.jp/read0133866?lang=en
-Masato SUZUKI
-- https://twitter.com/KojiYahara
-Group Leader @ National Institute of Infectious Diseases.  AMR surveillance, biomedical informatics, microbial genomics, evolution, epidemiology.
-
-----------
-## AMR
-Antimicrobial Resistance
-薬剤耐性
-
-- https://twitter.com/AntibioticResis
-- https://wwwnc.cdc.gov/eid/spotlight/antimicrobial-resistance
-- 
-- https://ja.wikipedia.org/wiki/抗生物質
-- https://ja.wikipedia.org/wiki/コリスチン
-- https://en.wikipedia.org/wiki/Colistin
-- https://ja.wikipedia.org/wiki/カルバペネム系抗生物質
-- https://ja.wikipedia.org/wiki/薬剤耐性
-- https://ja.wikipedia.org/wiki/カルバペネム耐性腸内細菌
-- https://en.wikipedia.org/wiki/Carbapenem-resistant_enterobacteriaceae (CRE)
-- https://ja.wikipedia.org/wiki/Β-ラクタマーゼ
-- https://en.wikipedia.org/wiki/Beta-lactamase
-- https://www.kegg.jp/kegg/annotation/br01553.html
-KEGG Antimicrobial Resistance: beta-Lactamase Genes
-
-### who
-
-https://pubmed.ncbi.nlm.nih.gov/40245910/
-Lancet Infect Dis
-. 2025 Apr 11:S1473-3099(25)00118-5. doi: 10.1016/S1473-3099(25)00118-5. Online ahead of print.
-The WHO Bacterial Priority Pathogens List 2024: a prioritisation study to guide research, development, and public health strategies against antimicrobial resistance
-; WHO Bacterial Priority Pathogens List Advisory Group
-https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(25)00118-5/fulltext
-
-https://www.mhlw.go.jp/content/10906000/001309717.pdf
-WHO Bacterial Priority Pathogens List 2024概要
-
-2024年05月20日
-https://japan-who.or.jp/news-releases/2405-40/
-薬剤耐性菌のリストを更新 | 公益社団法人 日本ＷＨＯ協会
-詳細はWHOのウエブサイトをご覧ください。
-17 May 2024 
-https://www.who.int/news/item/17-05-2024-who-updates-list-of-drug-resistant-bacteria-most-threatening-to-human-health
-updated Bacterial Priority Pathogens List (BPPL) 2024
-17 May 2024
-https://www.who.int/publications/i/item/9789240093461
-
-### 2022-02-16
-### Waddington_2022
-
-12:36 AM · Feb 17, 2022
-https://twitter.com/Baker_Lab_Cam/status/1493972456465444871
-Stephen Baker on Twitter: "New review out today. I think illumina sequencing didn’t exist when we started it, so been updated a few times. Glad it saw the light of day. Big up to waddo, christine B @meganecarey @EllenHigginson @vbalaji7 @GenomeMedicine https://t.co/EN1JqRPNk6" / Twitter
-
-
-https://pubmed.ncbi.nlm.nih.gov/35172877/
-Review Genome Med
-. 2022 Feb 16;14(1):15. doi: 10.1186/s13073-022-01020-2.
-Exploiting genomics to mitigate the public health impact of antimicrobial resistance
-Claire Waddington 1 2, Megan E Carey 1 2, Christine J Boinett 3, Ellen Higginson 1 2, Balaji Veeraraghavan 4, Stephen Baker 5 6
-https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01020-2
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/
-
-Table 1
-Use cases for whole-genome sequencing (WGS) in mitigating the public health impact of antimicrobial resistance (AMR)
-
-Use case 7: Investigating colistin resistance detected in commensal E. coli in food stock animals in China [23]
-
-
-AMR surveillance
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/#Sec2title
-
-International surveillance
-
-National surveillance
-
-The routine inclusion of WGS into national surveillance can also be used to evaluate the risk from emerging AMR threats, such as transferable colistin resistance [70]. Phenotypic colistin resistance testing is not routinely performed and therefore is not readily detectable without WGS [70]. Routine WGS of GNB in the UK generated a substantial data resource over time, which was mined to determine the extent of the spread of plasmid-encoded colistin resistance after it emerged as an AMR threat [70]. Although colistin resistance can be detected in organisms from a range of environments, this retrospective study found that it remained uncommon in the UK, leading to the monitoring of colistin prescribing in a bid to minimise any potential selective pressure within the UK.
-
-Local surveillance
-
-Community surveillance and outbreak investigation
-
-Understanding the drivers of AMR
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/#Sec7title
-
-AMR and ‘One Health’
-
-A WGS-based investigation of commensal E. coli isolates in livestock in China after a rapid increase of colistin resistance, for example, showed that this increase was due to the emergence of a plasmid associated colistin resistance gene in E. coli, designated MCR-1, and led to international efforts to control the dissemination of MCR-1 via food supply networks [23].
-
-
-Limitations, challenges, and future directions
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8849018/#Sec11title
-
-Technical limitations
-
-Highly transmissible MGEs (such as plasmids) facilitate non-mutational AMR gene acquisition by HGT and are highly implicated in AMR dissemination [135]. 
-
-Additionally, AMR genes are commonly associated with long, repetitive insertion sequences, and short-read sequencing techniques cannot resolve if these are carried on a plasmid or chromosomally located [38, 54, 140, 141]. Most outbreak investigations have largely assumed the relative conservation of plasmid structures over the limited time period of an outbreak and the extent to which HGT events contribute to outbreaks of AMR is not fully understood [54]. However, 
-
-### 2021-05-10
-### Shawa_2021
-
-9:37 AM · May 18, 2021
-https://twitter.com/hornistyf/status/1394452147090059267
-Y. Furuta on Twitter: "学生の論文が出ました。 ザンビアで分離された薬剤耐性腸内細菌科細菌のゲノム解析を行い、複数の株で薬剤耐性遺伝子を含む領域(最長41 kb)がプラスミドから染色体に移っていることを確認しました。 
-https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-00941-8
-Novel chromosomal insertions of ISEcp1-blaCTX-M-15 and diverse antimicrobial resistance genes in Zambian clinical isolates of Enterobacter cloacae and Escherichia coli
-
-https://pubmed.ncbi.nlm.nih.gov/33971966/
-Antimicrob Resist Infect Control
-. 2021 May 10;10(1):79. doi: 10.1186/s13756-021-00941-8.
-Novel chromosomal insertions of ISEcp1-bla CTX-M-15 and diverse antimicrobial resistance genes in Zambian clinical isolates of Enterobacter cloacae and Escherichia coli
-Misheck Shawa 1, Yoshikazu Furuta 1, Gillan Mulenga 2, Maron Mubanga 3, Evans Mulenga 3, Tuvshinzaya Zorigt 1, Christone Kaile 2, Manyando Simbotwe 4, Atmika Paudel 1, Bernard Hang'ombe 3, Hideaki Higashi 5
-https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-00941-8
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8111917/
-
-### 2021-04
-
-https://pubmed.ncbi.nlm.nih.gov/33655229/
-Lancet Microbe
-. 2021 Apr;2(4):e135-e136. doi: 10.1016/S2666-5247(21)00039-2. Epub 2021 Feb 24.
-COVID-19 drug practices risk antimicrobial resistance evolution
-Ebrahim Afshinnekoo 1 2, Chandrima Bhattacharya 1 2, Ana Burguete-García 3, Eduardo Castro-Nallar 4, Youping Deng 5, Christelle Desnues 6, Emmanuel Dias-Neto 7, Eran Elhaik 8, Gregorio Iraola 9, Soojin Jang 10, Paweł P Łabaj 11, Christopher E Mason 1 2 12, Niranjan Nagarajan 13, Michael Poulsen 14, Bharath Prithiviraj 15, Rania Siam 16 17, Tieliu Shi 18, Haruo Suzuki 19, Johannes Werner 20, Maria Mercedes Zambrano 21, Malay Bhattacharyya 22, MetaSUB Consortium
-https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00039-2/fulltext
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7906697/
-
-
-### 2021-04-06
-
-https://pubmed.ncbi.nlm.nih.gov/32249837/
-Sci Rep
-. 2020 Apr 6;10(1):5970. doi: 10.1038/s41598-020-63167-5.
-Massive analysis of 64,628 bacterial genomes to decipher water reservoir and origin of mobile colistin resistance genes: is there another role for these enzymes?
-Mariem Ben Khedher 1, Sophie Alexandra Baron 1 2, Toilhata Riziki 1, Raymond Ruimy 3, Didier Raoult 1 2, Seydina M Diene 4 5, Jean-Marc Rolain 6 7
-https://www.nature.com/articles/s41598-020-63167-5
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7136264/
-The colistin resistance mechanism also involves genes encoding phosphoethanolamine transferase (PET) and/or glycosyltransferase proteins that are essential for membrane phospholipid biosynthesis and appear extremely ubiquitous due to their presence in all areas of life including bacteria, archaea and eukaryotes (plants, arthropods)12–14. 
-
-Results
-Homologous sequences of mobile colistin resistance genes in available database
-As a starting point, the first MCR-1.1 protein described (NG_050417) was used as query in a BlastP analysis against the NCBI database to fish out a total of 13’658 protein hits with aa identity ranged from 30% to 100% and alignment ≥30% (Fig. 1A). Results include all MCR-variants (from MCR-2 to MCR-9) with aa identity ranged from 30.82% with MCR-4.1 to 82.66% with MCR-6.1 (Fig. 1B). 
-
-Methods
-Looking for homologous MCR-1 sequences from the NCBI database
-Reference sequence of MCR-1 (AKF16168.1) was used as query for BlastP analysis against the NCBI database using as threshold e-value 10e-5. All homologous sequence with identity ≥30% and alignment ≥30% were kept for further analysis. Protein alignments were performed using Mafft tool (https://mafft.cbrc.jp/alignment/software/) and phylogenetic trees were inferred using neighbor-joining method in FastTree program (http://www.microbesonline.org/fasttree/) and visualized with FigTree v1.4.2 (http://tree.bio.ed.ac.uk/software/figtree/), 
-
-
-https://pubmed.ncbi.nlm.nih.gov/29773743/
-Review Science
-. 2018 May 18;360(6390):733-738. doi: 10.1126/science.aar3777.
-Genomic insights into the emergence and spread of antimicrobial-resistant bacterial pathogens
-Stephen Baker 1 2 3, Nicholas Thomson 4 5, François-Xavier Weill 6, Kathryn E Holt 5 7
-https://science.sciencemag.org/content/360/6390/733.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510332/
-
-- https://twitter.com/DrKatHolt
-Kat Holt (@DrKatHolt) / Twitter
-Puzzle solver, bacterial genome wrangler, antibiotic resistance fighter. Prof at Monash Uni & London School of Hygiene and Tropical Medicine. BSc, MEpi, PhD.
-
-https://pubmed.ncbi.nlm.nih.gov/28233789/
-Sci Rep
-. 2017 Feb 24;7:43232. doi: 10.1038/srep43232.
-In silico serine β-lactamases analysis reveals a huge potential resistome in environmental and pathogenic species
-Christian Brandt 1 2, Sascha D Braun 2 3, Claudi
-https://www.nature.com/articles/srep43232
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5324141/
-
-### Pal_2015
-
-https://pubmed.ncbi.nlm.nih.gov/26576951/
-BMC Genomics
-. 2015 Nov 17;16:964. doi: 10.1186/s12864-015-2153-5.
-Co-occurrence of resistance genes to antibiotics, biocides and metals reveals novel insights into their co-selection potential
-Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 3
-https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
-
-----------
-## plasmid
-プラスミド
-
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmids.tools.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-- https://www.ofsf.or.jp/
-公益財団法人　大隅基礎科学創成財団｜Ohsumi Frontier Science Foundation
-- https://www.ofsf.or.jp/en/
-Ohsumi Frontier Science Foundation
-
-### 2021
-
-- http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/
-Plasmids Around the Globe 2021 | International Society for Plasmid Biology
-
-### Kirstahler_2021
-
-https://pubmed.ncbi.nlm.nih.gov/34061588/
-mSystems
-. 2021 May 26;e0028321. doi: 10.1128/mSystems.00283-21. Online ahead of print.
-A Peek into the Plasmidome of Global Sewage
-Philipp Kirstahler 1, Frederik Teudt 1, Saria Otani 1, Frank M Aarestrup 1, Sünje Johanna Pamp 1
-
-https://journals.asm.org/doi/10.1128/mSystems.00283-21
-To distinguish between potential plasmid and nonplasmid contigs, we used a scheme described previously (21). The scheme contains Pfam identifiers highly specific for plasmids and viruses. Proteins with a plasmid replication initiator protein Rep_3 (PF01051) domain (n = 24,824) were investigated further, together with the full set of reference Rep_3 domain proteins (n = 1,637) downloaded from Pfam (version 33.1). The two data sets were combined and Rep_3 domain proteins with a length of <40 amino acid residues were discarded, resulting in a data set of 16,930 Rep_3 (PF01051) domain proteins. The protein sequences were aligned using MAFFT (version 7.221) as part of the Galaxy platform (46, 47). A phylogenetic tree was then built using FastTree (version 2.1.10) (48) and visualized using FigTree (version 1.4.4) (https://github.com/rambaut/figtree/releases).
-
-5:47 PM · May 27, 2021
-https://twitter.com/SJPamp/status/1397836852036620288
-Sünje J. Pamp 🦠🧬🔬🌍 on Twitter: "NEW paper! Our recent study on plasmids &amp; antimicrobial resistance using @nanopore sequencing of sewage samples from around the globe🌎 is published now in @mSystems! 👉https://t.co/z2tv2PcrPf 🦠🧬" / Twitter
-
-### Yang_2021
-
-https://pubmed.ncbi.nlm.nih.gov/33721023/
-Nucleic Acids Res
-. 2021 Apr 19;49(7):3981-3996. doi: 10.1093/nar/gkab149.
-A ProQ/FinO family protein involved in plasmid copy number control favours fitness of bacteria carrying mcr-1-bearing IncI2 plasmids
-Jun Yang 1 2, Hai-Hong Wang 2 3, Yaoyao Lu 1 2, Ling-Xian Yi 1 2, Yinyue Deng 4, Luchao Lv 1 2, Vincent Burrus 5, Jian-Hua Liu 1 2
-https://academic.oup.com/nar/article/49/7/3981/6171297
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8053102/
-A putative ProQ/FinO family protein encoded by the IncI2 plasmid, designated as PcnR (plasmid copy number repressor), balances the mcr-1 expression and bacteria fitness by repressing the plasmid copy number.
-
-Previous studies showed that plasmid-encoded specific regulators, such as H-NS or PsiB, alleviate the plasmid cost by controlling the expression of certain genes carried by the plasmid or host bacteria (12,30). 
-
-### Wegrzyn_2021
-
-https://pubmed.ncbi.nlm.nih.gov/33660784/
-Nucleic Acids Res
-. 2021 Apr 6;49(6):3394-3408. doi: 10.1093/nar/gkab113.
-Defining a novel domain that provides an essential contribution to site-specific interaction of Rep protein with DNA
-Katarzyna Wegrzyn 1, Elzbieta Zabrocka 1, Katarzyna Bury 1, Bartlomiej Tomiczek 1, Milosz Wieczor 2, Jacek Czub 2, Urszula Uciechowska 1, María Moreno-Del Alamo 3, Urszula Walkow 1, Igor Grochowina 1, Rafal Dutkiewicz 1, Janusz M Bujnicki 4 5, Rafael Giraldo 3, Igor Konieczny 1
-https://academic.oup.com/nar/article/49/6/3394/6154473
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034659/
-The phylogenetic analysis revealed that the composition of this unique domain is typical within the described TrfA-like protein family. 
-
-INTRODUCTION
-The binding of proteins to nucleic acids is often accomplished via specific motifs. Many of these motifs (e.g. helix-turn-helix (HTH), zinc finger, leucine zipper) are present within protein domains that are directly engaged in interaction with nucleic acids (1). In proteins that initiate DNA replication, usually the HTH motif and its variant, the winged HTH (WH) motif, are present within the domain responsible for DNA binding.
-
-Phylogenetic analysis and determination of sequence divergence
-
-RESULTS
-
-Interestingly, in some Rep proteins, we identified a short hydrophobic region located before the WH1 domain. This region shares a degree of similarity with a sequence within the N-terminal TrfA region (Figure ​(Figure1).1). We thus asked how the TrfA-like proteins are related to other replication initiators. To answer this question, we performed phylogenetic analysis of the representative DNA replication initiators using the maximum likelihood method (ML) (Supplementary Figure S1). Our ML analysis of the WH domains revealed a close monophyletic relationship among all TrfA-like proteins containing extended N-termini. Moreover, the phylogenetic analysis indicated that the TrfA-like proteins are most closely related to RepC, an IncQ-type replication protein C (51,52), and belong to a common protein family together with other plasmid replication initiation factors (Supplementary Figures S1, S2). 
-
-### WASPS
-https://archaea.i2bc.paris-saclay.fr/wasps/
-
-https://pubmed.ncbi.nlm.nih.gov/31589313/
-Bioinformatics
-. 2020 Mar 1;36(5):1629-1631. doi: 10.1093/bioinformatics/btz745.
-WASPS: web-assisted symbolic plasmid synteny server
-Catherine Badel 1, Violette Da Cunha 1, Ryan Catchpole 1, Patrick Forterre 1 2, Jacques Oberto 1
-https://academic.oup.com/bioinformatics/article/36/5/1629/5582648
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7703779/
-
-### pMCR_1511
-
-https://pubmed.ncbi.nlm.nih.gov/27895009/
-Antimicrob Agents Chemother
-. 2017 Jan 24;61(2):e02229-16. doi: 10.1128/AAC.02229-16. Print 2017 Feb.
-IncP Plasmid Carrying Colistin Resistance Gene mcr-1 in Klebsiella pneumoniae from Hospital Sewage
-Feifei Zhao 1 2, Yu Feng 1 2, Xiaoju Lü 1 2, Alan McNally 3, Zhiyong Zong 4 2 5
-https://aac.asm.org/content/61/2/e02229-16.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/
-
-FIG 2
-Genetic context of mcr-1 on pMCR_1511.
-
-![](https://aac.asm.org/content/aac/61/2/e02229-16/F2.medium.gif)
-
-The backbone of pMCR_1511 was highly similar (99% identity) to that of plasmid pHNFP671 (GenBank accession number KP324830), which was an IncP plasmid in E. coli isolate FP671 from Guangzhou, China but did not carry mcr-1. 
-
-The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under accession number KX377410.
-
-- https://www.ncbi.nlm.nih.gov/nuccore/KP324830
-- https://www.ncbi.nlm.nih.gov/nuccore/KX377410
-
-### pAKD4
-
-https://pubmed.ncbi.nlm.nih.gov/20018208/
-Comparative Study Plasmid
-. 2010 Mar;63(2):98-107. doi: 10.1016/j.plasmid.2009.11.005. Epub 2009 Dec 16.
-Comparative genomics of pAKD4, the prototype IncP-1delta plasmid with a complete backbone
-Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste J Brown, Eva M Top
-https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/figure/F1/
-
-Figure 1
-Genetic map of pAKD4. 
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/figure/F2/
-
-Figure 2
-Alignment of the IncP-1δ plasmids showing their evolutionary relationship. 
-
-The 3′-end of the ssb gene, which is usually found upstream of trfA in most IncP-1 plasmids, is also missing in these plasmids. This gene codes for a single strand DNA-binding protein, which helps in DNA replication, recombination and repair. TrfA1 and Ssb proteins play a crucial role in plasmid replication in some bacterial hosts such as P. aeruginosa and may not be needed in some others such as P. putida and E. coli [32]. Therefore we postulate that IncP-1δ plasmids co-evolved with hosts that do not require TrfA1 and Ssb proteins and thereby contracted their host range. Further research is needed to test this hypothesis.
-
-The complete sequence of pAKD4 has been deposited in the GenBank database under the accession number GQ983559.
-
-- https://www.ncbi.nlm.nih.gov/nuccore/GQ983559
-
-### Yano_2018_csbj
-
-https://www.sciencedirect.com/science/article/pii/S2001037018301685
-Reconsidering plasmid maintenance factors for computational plasmid design - ScienceDirect
-
-Table 1
-Lists of plasmids in different incompatibility groups.
-
-IncY	P1 (Escherichia virus)	AF234172 (phage P1 mod749::IS5 c1–100)	RepA
-
-
-Fig. 2. Replication module. (A) Replication module of IncP-1 plasmids. Ssb encodes a single-strand DNA binding protein.
-
-2.3.2. G + C Content
-
-Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes. 
- The G + C contents of plasmids tend to be lower than (and are correlated with) those of the host chromosomes.
-
-![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
 
 
 ----------
@@ -2015,24 +2065,7 @@ Robyn C Miranda 1, Donald W Schaffner 2
 https://journals.asm.org/doi/10.1128/aem.01838-16
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5066366/
 
-ABSTRACT
-Bacterial cross-contamination from surfaces to food can contribute to foodborne disease. The cross-contamination rate of Enterobacter aerogenes on household surfaces was evaluated by using scenarios that differed by surface type, food type, contact time (<1, 5, 30, and 300 s), and inoculum matrix (tryptic soy broth or peptone buffer). The surfaces used were stainless steel, tile, wood, and carpet. The food types were watermelon, bread, bread with butter, and gummy candy. Surfaces (25 cm2) were spot inoculated with 1 ml of inoculum and allowed to dry for 5 h, yielding an approximate concentration of 107 CFU/surface. Foods (with a 16-cm2 contact area) were dropped onto the surfaces from a height of 12.5 cm and left to rest as appropriate. Posttransfer, surfaces and foods were placed in sterile filter bags and homogenized or massaged, diluted, and plated on tryptic soy agar. The transfer rate was quantified as the log percent transfer from the surface to the food. Contact time, food, and surface type all had highly significant effects (P < 0.000001) on the log percent transfer of bacteria. The inoculum matrix (tryptic soy broth or peptone buffer) also had a significant effect on transfer (P = 0.013), and most interaction terms were significant. More bacteria transferred to watermelon (∼0.2 to 97%) than to any other food, while the least bacteria transferred to gummy candy (∼0.1 to 62%). Transfer of bacteria to bread (∼0.02 to 94%) was similar to transfer of bacteria to bread with butter (∼0.02 to 82%), and these transfer rates under a given set of conditions were more variable than with watermelon and gummy candy.
-
-IMPORTANCE The popular notion of the “five-second rule” is that food dropped on the floor and left there for <5 s is “safe” because bacteria need time to transfer. The rule has been explored by a single study in the published literature and on at least two television shows. Results from two academic laboratories have been shared through press releases but remain unpublished. We explored this topic by using four different surfaces (stainless steel, ceramic tile, wood, and carpet), four different foods (watermelon, bread, bread with butter, and gummy candy), four different contact times (<1, 5, 30, and 300 s), and two bacterial preparation methods. Although we found that longer contact times result in more transfer, we also found that other factors, including the nature of the food and the surface, are of equal or greater importance. Some transfer takes place “instantaneously,” at times of <1 s, disproving the five-second rule.
-
 接触時間が長いほど、表面から食品への Enterobacter aerogenes の交差汚染が増加する
-
-要旨（ABSTRACT）
-表面から食品への細菌の交差汚染は、食中毒の原因となる可能性がある。本研究では、家庭内のさまざまな表面における Enterobacter aerogenes の交差汚染率を、表面の種類、食品の種類、接触時間（<1秒、5秒、30秒、300秒）、および接種液（トリプチックソイブロスまたはペプトン緩衝液）の違いによって評価した。
-使用した表面はステンレス、タイル、木材、カーペットの4種、食品はスイカ、パン、バター付きのパン、グミキャンディの4種である。各表面（25cm²）には1mlの接種液をスポット接種し、5時間乾燥させた（表面あたり約10⁷ CFUの濃度）。食品（接触面積16cm²）は高さ12.5cmから表面に落とし、設定した時間だけ接触させた。接触後、表面と食品はそれぞれ滅菌済みのフィルターバッグに入れて均質化またはもみほぐし、希釈後にトリプチックソイ寒天培地に塗布して菌数を測定した。
-菌の移行率は、「表面から食品への移行率の対数（log%）」として定量化した。その結果、接触時間、食品の種類、表面の種類は、いずれも菌の移行に非常に大きな影響を与えることが明らかになった（P < 0.000001）。接種液の種類（トリプチックソイブロスかペプトン緩衝液か）も有意な影響があり（P = 0.013）、ほとんどの交互作用も有意であった。
-食品の中では、スイカへの菌の移行率が最も高く（約0.2〜97%）、グミキャンディへの移行率が最も低かった（約0.1〜62%）。パン（約0.02〜94%）とバター付きパン（約0.02〜82%）への移行率は類似していたが、スイカやグミに比べてばらつきが大きかった。
-
-重要性（IMPORTANCE）
-一般的に知られる「5秒ルール」とは、床に落とした食べ物でも5秒以内なら「安全」とされる考え方であり、細菌が移動するのに時間がかかるという仮定に基づいている。しかし、このルールは、論文としては1件の研究と、2つのテレビ番組でしか取り上げられていない。2つの学術研究機関からのプレスリリースも存在するが、正式な論文発表はされていない。
-本研究では、4種の表面（ステンレス、タイル、木材、カーペット）、4種の食品（スイカ、パン、バター付きパン、グミキャンディ）、4段階の接触時間（<1秒、5秒、30秒、300秒）、2種の細菌懸濁液を用いて、包括的にこのテーマを検討した。その結果、接触時間が長いほど細菌の移行が多くなることが確認されたが、食品や表面の性質といった他の要因も同様かそれ以上に重要であることがわかった。また、1秒未満でも細菌は“瞬時に”移行することが確認され、5秒ルールは否定された。
-
-
 
 2014.03.14
 https://www.gizmodo.jp/2014/03/5_61.html
@@ -2040,16 +2073,6 @@ https://www.gizmodo.jp/2014/03/5_61.html
 イギリスのバーミンガムにあるアストン大学の微生物学のアンソニー・ヒルトン教授率いる研究チーム
 
 ----------
-
-
-
-
-
-
-
-
-
-
 
 
 ----------
@@ -2139,6 +2162,14 @@ Nancy Merino 1 2, Shu Zhang 3 4, Masaru Tomita 5 6, Haruo Suzuki 7 8
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6350394/
 Strength of selected codon usage bias (S value)
+
+From the 54 publications used in this study, many of the “Common BE genera” (Table 1) were identified around the world (Additional file 2: Figure S1). For example, Acinetobacter was found in five countries, spanning eight different climates, and in the ISS.
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6350394/#Tab1
+Table 1.
+Bacterial Genera
+Acinetobacter
+Staphylococcus
 
 ----------
 2016-05-19
