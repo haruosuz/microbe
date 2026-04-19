@@ -66,6 +66,24 @@ https://www.jmedj.co.jp/blogs/product/product_4589
 
 ----------
 
+## 2026-04-15
+https://www.nature.com/articles/s41893-026-01801-2
+nature  nature sustainability  articles  article
+Article
+Published: 15 April 2026
+The linkage between microbial community dynamics and urbanization age
+Yinghui Jia, Jun Wu, Xun Shi, Jia Tao, Christopher E. Mason, Anne Vernez Moudon, Zhiqiang Wu, Yu Ye, Yuxi Cai, Wenyao Sun, Tieliu Shi & Lan Wang 
+Nature Sustainability (2026)Cite this article
+
+Cite this article
+Jia, Y., Wu, J., Shi, X. et al. The linkage between microbial community dynamics and urbanization age. Nat Sustain (2026). https://doi.org/10.1038/s41893-026-01801-2
+
+Access to this article via Keio University is not available.
+
+
+----------
+
+
 ## 2025
 
 ### 2025-11-04
@@ -445,7 +463,7 @@ NPJ Biofilms Microbiomes
 Environmental determinants and demographic influences on global urban microbiomes, antimicrobial resistance and pathogenicity
 Yang Chen # 1, Xi Fu # 2, Zheyuan Ou 1, Jiang Li 1, Simiao Lin 1, Yaoxuan Wu 1, Xuwei Wang 1, Yiqun Deng 3, Yu Sun 4
 https://www.nature.com/articles/s41522-023-00459-4
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10703778/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10703778
 The concentration of O3 was relatively high in Japan (median: 41.58; Q1-Q3: 34.79, 45.6), particularly in Tokyo (48.52 ppbv), Sendai (48.22 ppbv), Yamaguchi (47.56 ppbv), and Fukuoka (47.16 ppbv).
 
 ----------
@@ -1779,8 +1797,7 @@ https://pubmed.ncbi.nlm.nih.gov/34043940/
 Cell
 . 2021 Jun 24;184(13):3376-3393.e17. doi: 10.1016/j.cell.2021.05.002. Epub 2021 May 26.
 A global metagenomic map of urban microbiomes and antimicrobial resistance
-David Danko 1, Daniela Bezdan 2,
-International MetaSUB Consortium
+David Danko 1, Daniela Bezdan 2, Evan E Afshin 1, Sofia Ahsanuddin 3, Chandrima Bhattacharya 1, Daniel J Butler 1, Kern Rei Chng 4, Daisy Donnellan 1, Jochen Hecht 5, Katelyn Jackson 1, Katerina Kuchin 1, Mikhail Karasikov 6, Abigail Lyons 1, Lauren Mak 1, Dmitry Meleshko 1, Harun Mustafa 6, Beth Mutai 7, Russell Y Neches 8, Amanda Ng 4, Olga Nikolayeva 9, Tatyana Nikolayeva 9, Eileen Png 4, Krista A Ryon 1, Jorge L Sanchez 1, Heba Shaaban 1, Maria A Sierra 1, Dominique Thomas 1, Ben Young 1, Omar O Abudayyeh 10, Josue Alicea 1, Malay Bhattacharyya 11, Ran Blekhman 12, Eduardo Castro-Nallar 13, Ana M Cañas 1, Aspassia D Chatziefthimiou 1, Robert W Crawford 14, Francesca De Filippis 15, Youping Deng 16, Christelle Desnues 17, Emmanuel Dias-Neto 18, Marius Dybwad 19, Eran Elhaik 20, Danilo Ercolini 15, Alina Frolova 21, Dennis Gankin 10, Jonathan S Gootenberg 10, Alexandra B Graf 22, David C Green 23, Iman Hajirasouliha 1, Jaden J A Hastings 1, Mark Hernandez 24, Gregorio Iraola 25, Soojin Jang 26, Andre Kahles 27, Frank J Kelly 23, Kaymisha Knights 1, Nikos C Kyrpides 8, Paweł P Łabaj 28, Patrick K H Lee 29, Marcus H Y Leung 29, Per O Ljungdahl 30, Gabriella Mason-Buck 23, Ken McGrath 31, Cem Meydan 1, Emmanuel F Mongodin 32, Milton Ozorio Moraes 33, Niranjan Nagarajan 4, Marina Nieto-Caballero 24, Houtan Noushmehr 34, Manuela Oliveira 35, Stephan Ossowski 36, Olayinka O Osuolale 37, Orhan Özcan 38, David Paez-Espino 8, Nicolás Rascovan 39, Hugues Richard 40, Gunnar Rätsch 6, Lynn M Schriml 32, Torsten Semmler 41, Osman U Sezerman 38, Leming Shi 42, Tieliu Shi 43, Rania Siam 44, Le Huu Song 45, Haruo Suzuki 46, Denise Syndercombe Court 23, Scott W Tighe 47, Xinzhao Tong 29, Klas I Udekwu 48, Juan A Ugalde 49, Brandon Valentine 1, Dimitar I Vassilev 50, Elena M Vayndorf 51, Thirumalaisamy P Velavan 52, Jun Wu 43, María M Zambrano 53, Jifeng Zhu 1, Sibo Zhu 54, Christopher E Mason 55; International MetaSUB Consortium
 https://www.sciencedirect.com/science/article/pii/S0092867421005857?via%3Dihub
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8238498/
 https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7
