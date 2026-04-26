@@ -1797,28 +1797,111 @@ CRISPR-Cas9の構造と機能
 ## monumentome
 記念碑マイクロバイオーム
 
-### 2023-09-22
+http://metasub.org/projects/
 
+Monumentome
+
+MONUMENTOME: MONUMENT AND LANDMARK SAMPLING
+The Monumentome project launched with aims to collect samples from the world’s greatest monuments. Primarily to provide the first catalog of microorganisms on monuments around the world, information that can be used by authorities in conserving the monuments.
+
+2018 – Present
+
+### 2023-09-22
 https://pubmed.ncbi.nlm.nih.gov/37808297/
 Front Microbiol
 . 2023 Sep 22:14:1253371. doi: 10.3389/fmicb.2023.1253371. eCollection 2023.
 The microbial biodiversity at the archeological site of Tel Megiddo (Israel)
 Yali Zhang 1, S Emil Ruff 2, Nikolay Oskolkov 3, Braden T Tierney 4, Krista Ryon 4, David Danko 4, Christopher E Mason 5 6 7 8, Eran Elhaik 1
 https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1253371/full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10559971/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10559971/
 Data availability statement
 The data presented in the study are deposited in the GeoSeeq.com repository, accession name: Monumentome Project available at: https://portal.geoseeq.com/sample-groups/0c919d45-410e-4edc-8d0b-1529f6516726.
 
+### 2022-10-20
+https://pubmed.ncbi.nlm.nih.gov/36299999/
+iScience
+. 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
+A history of the MetaSUB consortium: Tracking urban microbes around the globe
+Krista A Ryon 1 2, Braden T Tierney 1 2, Alina Frolova 3 4, Andre Kahles 5 6, Christelle Desnues 7, Christos Ouzounis 8, Cynthis Gibas 9, Daniela Bezdan 10 11 12, Youping Deng 13, Ding He 14, Emmanuel Dias-Neto 15, Eran Elhaik 16, Evan Afshin 17, George Grills 18, Gregorio Iraola 19, Haruo Suzuki 20, Johannes Werner 21, Klas Udekwu 22, Lynn Schriml 23, Malay Bhattacharyya 24, Manuela Oliveira 25, Maria Mercedes Zambrano 26, Nur Hazlin Hazrin-Chong 27, Olayinka Osuolale 28, Paweł P Łabaj 29, Prisca Tiasse 29, Sampath Rapuri 30, Silvia Borras 31, Sofya Pozdniakova 31, Tieliu Shi 32, Ugur Sezerman 33, Xavier Rodo 31, Zehra Hazal Sezer 34, Christopher E Mason 17 35
+https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9589169/
+https://www.sciencedirect.com/science/article/pii/S2589004222012652
+
+Beyond cities: Wastewater, hospitals, and monuments
+
+We also have Monumentome project, where samples are collected from monuments and landmarks, which can detail the causes of their degradation. We have already collected samples from 21 monuments and landmarks from 12 different cities, including surface samples from the ancient cities of Tel Megiddo in northern Israel, which follows some of the protocols we developed when doing metagenomics on the Dead Sea Scrolls (Anava et al., 2020). 
+
+Ouzounis
+As Chris points out, MetaSUB was the launchpad project for many new, exciting activities. We are particularly thrilled with Monumentome, which has value for us as a community in a country with vast cultural heritage and unknown parameters about the preservation and restoration of ancient monuments and other artifacts. A new era for Archaeology in general and Conservation Science, in particular, is emerging with the study of microbiomes of cultural landmarks.
+
+### 2020-11-16
+https://www.mdpi.com/2076-3417/10/22/8099
+A Review on Sampling Techniques and Analytical Methods for Microbiota of Cultural Properties and Historical Architecture
+
+Sterflinger, K.; Pinar, G. Microbial deterioration of cultural heritage and works of art—Tilting at windmills? Appl. Microbiol. Biotechnol. 2013, 97, 9637–9646. [Google Scholar] [CrossRef]
+
+### 2018
+https://academic.oup.com/book/26784
+```
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/gqkps8/alma9926457313604034
+Processes in microbial ecology / David L. Kirchman.
+Kirchman, David L., author.
+Second edition.
+Oxford : Oxford University Press, [ 2018]
+2018
+
+Oxford Scholarship Online Complete
+```
+13 Introduction to geomicrobiology
+
+Box 13.3 Microbes and monuments
+Microbes colonize minerals regardless of whether the mineral is part of a rock in nature or of a structure built by humans. When the latter, microbes contribute to the deterioration of stone monuments, statues, and buildings, threatening archaeological and historic sites (Gadd, 2017). Less visible but perhaps even more important is the effect of microbes on concrete underground. Concrete sewer pipes are attacked by acids and hydrogen sulfide produced by sulfate-reducing bacteria. Oxidation of hydrogen sulfide by other microbes leads to ­ sulfuric acid production and further corrosion of underground concrete.
+
+### asm monument
+https://asm.org/search?q=monument
+
+### 2022-11-18
+https://asm.org/articles/2022/november/stone-surface-biofilms-the-good,-the-bad-and-the-i
+Stone Surface Biofilms: The Good, the Bad and the In Between
+
+Tejaswini Petkar
+
+Published: Nov. 18, 2022
 
 ### 2021-12-08
-
-Dec. 8, 2021
-AUTHOR: MADELINE BARRON, PH.D.
-https://asm.org/Articles/2021/December/Microbes-as-Enemies-and-Allies-in-the-World-of-Art
+https://asm.org/articles/2021/december/microbes-as-enemies-and-allies-in-the-world-of-art
 Microbes as Enemies and Allies in the World of Art Conservation
 
-----------
+Madeline Barron, Ph.D.
 
+Published: Dec. 8, 2021
+
+Art is an inherent part of human civilization. Artistic relics, from stone monuments to monumental paintings, offer important glimpses into the lives of those who lived before. 
+
+Microbes As Art Destroyers: Biodeterioration
+Biodeterioration is a process whereby microbial metabolism triggers undesirable changes in the properties of a material object. In the art world, such changes can be aesthetic (e.g., discoloration of pigments on a painting) or structural (e.g., degradation of stone monuments or paint bubbling on murals). 
+
+### 2022-09-19
+https://asm.org/articles/2022/september/metro-microbes-microbiomes-of-public-transit-urban
+Metro Microbes: Microbiomes of Public Transit & Urban Spaces
+
+Christy Clutter, Ph.D.
+
+Published: Sept. 19, 2022
+
+Work by the MetaSUB Consortium was presented at the ASM Microbe 2022 Conference, during the session entitled, “Metros to Monuments: Microbiomes of Built Environment Surfaces."
+
+### 2021-08-05
+https://asm.org/Articles/2021/August/How-Urban-Microbiomes-Contribute-to-the-Ecology-of
+How Urban Microbiomes Contribute to the Ecology of City Life
+
+Madeline Barron, Ph.D.
+
+Published: Aug. 5, 2021
+
+Better insight into structural and functional attributes of communities inhabiting the 'built' environment may promote the application of microbiological methods for preserving city architecture, including valuable fixtures like monuments.
+
+----------
 ## money
 お金 お札 ATM
 Jane M Carlton
