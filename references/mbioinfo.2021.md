@@ -1842,7 +1842,7 @@ Sterflinger, K.; Pinar, G. Microbial deterioration of cultural heritage and work
 
 ### 2018
 https://academic.oup.com/book/26784
-```
+
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/gqkps8/alma9926457313604034
 Processes in microbial ecology / David L. Kirchman.
 Kirchman, David L., author.
@@ -1851,7 +1851,7 @@ Oxford : Oxford University Press, [ 2018]
 2018
 
 Oxford Scholarship Online Complete
-```
+
 13 Introduction to geomicrobiology
 
 Box 13.3 Microbes and monuments
