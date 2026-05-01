@@ -17,19 +17,20 @@
 - [recombination](#recombination)
 - [](#)
 - [plasmid](#plasmid) プラスミド
-- [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
-- [AMR](#amr) 薬剤耐性
-- [ESKAPEE](#eskapee)
-- [Acinetobacter](#acinetobacter)
-- [Staphylococcus](#staphylococcus)
-- [MRSA](#mrsa)
 - [](#)
 - [monumentome](#monumentome) 記念碑マイクロバイオーム
 - [money](#money) お金 お札 ATM
 - [five-second rule](#five-second-rule) 5秒ルール
-- [](#)
 - [robust](#robust) ロバスト
 - [my_publication](#my_publication)
+- [](#)
+- [niid](#niid) National Institute of Infectious Diseases 国立感染症研究所
+- [AMR](#amr) 薬剤耐性
+- [food](#food) 食品
+- [ESKAPEE](#eskapee)
+- [Acinetobacter](#acinetobacter)
+- [Staphylococcus](#staphylococcus)
+- [MRSA](#mrsa)
 
 ----------
 ## 
@@ -497,6 +498,53 @@ Co-occurrence of resistance genes to antibiotics, biocides and metals reveals no
 Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 3
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
+
+----------
+## food
+
+### 2026-03-27
+Walsh, L.H., Soni, V., Ancla, J. et al. Mining of food metagenomes reveals an unexplored diversity of dsDNA bacteriophages. npj Biofilms Microbiomes (2026). https://doi.org/10.1038/s41522-026-00941-9
+https://www.nature.com/articles/s41522-026-00941-9
+Published: 27 March 2026
+Nicola Segata
+https://github.com/LiamHWalsh/Food-DNA-Viral-Genome-Collection-FVGC
+
+### 2025-08
+Edoardo Pasolli, Danilo Ercolini,
+The hidden diversity of food microbiomes,
+Current Opinion in Food Science,
+Volume 64,
+2025,
+101318,
+ISSN 2214-7993,
+https://doi.org/10.1016/j.cofs.2025.101318.
+https://www.sciencedirect.com/science/article/pii/S2214799325000487
+Volume 64, August 2025, 101318
+Review
+
+### 2024-11-01
+https://pubmed.ncbi.nlm.nih.gov/41676126/
+IMetaOmics
+. 2024 Nov 1;1(2):e40. doi: 10.1002/imo2.40. eCollection 2024 Dec.
+FoodMicroDB: A microbiome database for composition and time-series research in food
+Yahui Li 1, Hujie Lyu 2, Haifei Yang 1 3, Zhicheng Ju 4, Chuang Ma 5, Huiyu Hou 1, Yao Wang 1, Yuanping Zhou 1 6, Yunyun Gao 1, Junbo Yang 1, Shanshan Xu 7, Defeng Bai 1, Hao Luo 1, Salsabeel Yousuf 1, Tianyuan Zhang 1, Jiani Xun 1, Meiyin Zeng 1, Heyuan Qi 8, Tong Chen 9, Yong-Xin Liu 1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12806411/
+https://www.bic.ac.cn/FoodMicro/
+
+### 2024-10-03
+https://pubmed.ncbi.nlm.nih.gov/39214080/
+Cell
+. 2024 Oct 3;187(20):5775-5795.e15. doi: 10.1016/j.cell.2024.07.039. Epub 2024 Aug 29.
+Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome
+Niccolò Carlino 1, 
+, Nicola Segata 19, Edoardo Pasolli 9
+Collaborators
+MASTER EU Consortium:
+https://www.cell.com/cell/fulltext/S0092-8674(24)00833-X
+2024/10/22
+https://www.youtube.com/watch?v=0SgmzOCGjX0
+Niccolò Carlino - Unexplored microbial diversity from 2,500 food metagenomes | S04 MVIF31
+Microbiome Virtual International Forum
 
 ----------
 ## ESKAPEE
