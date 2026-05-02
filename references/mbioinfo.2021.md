@@ -510,17 +510,21 @@ Nicola Segata
 https://github.com/LiamHWalsh/Food-DNA-Viral-Genome-Collection-FVGC
 
 ### 2025-08
-Edoardo Pasolli, Danilo Ercolini,
-The hidden diversity of food microbiomes,
-Current Opinion in Food Science,
-Volume 64,
-2025,
-101318,
-ISSN 2214-7993,
-https://doi.org/10.1016/j.cofs.2025.101318.
+総説
 https://www.sciencedirect.com/science/article/pii/S2214799325000487
+Current Opinion in Food Science
 Volume 64, August 2025, 101318
+Current Opinion in Food Science
 Review
+The hidden diversity of food microbiomes
+Edoardo Pasolli 1 2
+, Danilo Ercolini 1 2
+
+Table 1. Overview of shotgun metagenomic studies investigating food microbiomes. Only studies with accessible raw data are provided.
+
+Study name	Food type	#samples	DOI
+
+More efforts have been already conducted on amplicon data, and remarkably cases are represented by the FoodMicrobionet [22] and FoodMicroDB [23] resources, which aggregated thousands of samples along with metadata information. In the metagenomic context, along with broader initiatives that span multiple environments (e.g. the MGnify resource [24]), only more recently attempts have been devoted specifically to food metagenomes, such as the curatedFoodMetagenomicData (cFMD) [25] and Microbial Food DataBase [26] resources.
 
 ### 2024-11-01
 https://pubmed.ncbi.nlm.nih.gov/41676126/
@@ -541,10 +545,18 @@ Niccolò Carlino 1,
 Collaborators
 MASTER EU Consortium:
 https://www.cell.com/cell/fulltext/S0092-8674(24)00833-X
+Figure 1 curatedFoodMetagenomicData (cFMD) provides >2,500 food metagenomes with standardized metadata and processed data
+https://github.com/SegataLab/cFMD
 2024/10/22
 https://www.youtube.com/watch?v=0SgmzOCGjX0
 Niccolò Carlino - Unexplored microbial diversity from 2,500 food metagenomes | S04 MVIF31
 Microbiome Virtual International Forum
+
+### 2024-03-29
+https://www.biorxiv.org/content/10.1101/2024.03.29.587370v1
+MiFoDB, a workflow for microbial food metagenomic characterization, enables high-resolution analysis of fermented food microbial dynamics
+doi: https://doi.org/10.1101/2024.03.29.587370
+This article is a preprint and has not been certified by peer review [what does this mean?].
 
 ----------
 ## ESKAPEE
