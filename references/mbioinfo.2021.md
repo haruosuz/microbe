@@ -520,6 +520,8 @@ The hidden diversity of food microbiomes
 Edoardo Pasolli 1 2
 , Danilo Ercolini 1 2
 
+Understanding the interactions among strains within food matrices is important for both food quality and safety. To this regard, several aspects such as production of secondary metabolites, horizontal gene transfer [6], and antimicrobial resistance (AMR) dynamics [7] deserve further investigations.
+
 Table 1. Overview of shotgun metagenomic studies investigating food microbiomes. Only studies with accessible raw data are provided.
 
 Study name	Food type	#samples	DOI
