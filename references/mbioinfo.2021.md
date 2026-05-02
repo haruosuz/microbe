@@ -528,15 +528,6 @@ Study name	Food type	#samples	DOI
 
 More efforts have been already conducted on amplicon data, and remarkably cases are represented by the FoodMicrobionet [22] and FoodMicroDB [23] resources, which aggregated thousands of samples along with metadata information. In the metagenomic context, along with broader initiatives that span multiple environments (e.g. the MGnify resource [24]), only more recently attempts have been devoted specifically to food metagenomes, such as the curatedFoodMetagenomicData (cFMD) [25] and Microbial Food DataBase [26] resources.
 
-### 2024-11-01
-https://pubmed.ncbi.nlm.nih.gov/41676126/
-IMetaOmics
-. 2024 Nov 1;1(2):e40. doi: 10.1002/imo2.40. eCollection 2024 Dec.
-FoodMicroDB: A microbiome database for composition and time-series research in food
-Yahui Li 1, Hujie Lyu 2, Haifei Yang 1 3, Zhicheng Ju 4, Chuang Ma 5, Huiyu Hou 1, Yao Wang 1, Yuanping Zhou 1 6, Yunyun Gao 1, Junbo Yang 1, Shanshan Xu 7, Defeng Bai 1, Hao Luo 1, Salsabeel Yousuf 1, Tianyuan Zhang 1, Jiani Xun 1, Meiyin Zeng 1, Heyuan Qi 8, Tong Chen 9, Yong-Xin Liu 1
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12806411/
-https://www.bic.ac.cn/FoodMicro/
-
 ### 2024-10-03
 https://pubmed.ncbi.nlm.nih.gov/39214080/
 Cell
@@ -559,6 +550,27 @@ https://www.biorxiv.org/content/10.1101/2024.03.29.587370v1
 MiFoDB, a workflow for microbial food metagenomic characterization, enables high-resolution analysis of fermented food microbial dynamics
 doi: https://doi.org/10.1101/2024.03.29.587370
 This article is a preprint and has not been certified by peer review [what does this mean?].
+
+### 2024-11-01
+https://pubmed.ncbi.nlm.nih.gov/41676126/
+IMetaOmics
+. 2024 Nov 1;1(2):e40. doi: 10.1002/imo2.40. eCollection 2024 Dec.
+FoodMicroDB: A microbiome database for composition and time-series research in food
+Yahui Li 1, Hujie Lyu 2, Haifei Yang 1 3, Zhicheng Ju 4, Chuang Ma 5, Huiyu Hou 1, Yao Wang 1, Yuanping Zhou 1 6, Yunyun Gao 1, Junbo Yang 1, Shanshan Xu 7, Defeng Bai 1, Hao Luo 1, Salsabeel Yousuf 1, Tianyuan Zhang 1, Jiani Xun 1, Meiyin Zeng 1, Heyuan Qi 8, Tong Chen 9, Yong-Xin Liu 1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12806411/
+FoodMicroDB aggregates 6358 amplicon data from 108 meta‐taxonomic projects covering 62 foods, and harbors 4710 taxa of bacteria, archaea, and fungi.
+https://www.bic.ac.cn/FoodMicro/
+
+### 2024-05-28
+https://pubmed.ncbi.nlm.nih.gov/38890917/
+Foods
+. 2024 May 28;13(11):1689. doi: 10.3390/foods13111689.
+A Comprehensive View of Food Microbiota: Introducing FoodMicrobionet v5
+Eugenio Parente 1, Annamaria Ricciardi 1
+https://www.mdpi.com/2304-8158/13/11/1689
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11171936/
+Amplicon-targeted
+https://github.com/ep142/FoodMicrobionet
 
 ----------
 ## ESKAPEE
