@@ -28,6 +28,7 @@
 - [AMR](#amr) 薬剤耐性
 - [food](#food) 食品
 - [ESKAPEE](#eskapee)
+- [E.coli](#e.coli)
 - [Acinetobacter](#acinetobacter)
 - [Staphylococcus](#staphylococcus)
 - [MRSA](#mrsa)
@@ -35,6 +36,11 @@
 ----------
 ## 
 
+https://github.com/haruosuz/introBI/tree/main/2026-04
+バイオインフォマティクスのデータサイエンス / DATA SCIENCE FOR BIOINFORMATICS [DS2]
+
+https://github.com/haruosuz/DS4GD/tree/master/2026-04
+生命動態のデータサイエンス / DATA SCIENCE FOR GENOME DYNAMICS [DS2]
 
 ----------
 ## unclassified
@@ -158,15 +164,6 @@ batch effect
 https://bio.nikkeibp.co.jp/atcl/news/p1/20/03/18/06702/
 トヨタとPBS、遺伝研、バイオフィリックデザインの大気菌叢変化の要因推定：
 導入した植物の葉面や土壌などメタゲノム解析
-
-
-
-
-
-
-
-
-
 
 
 ----------
@@ -314,6 +311,61 @@ Fig. 5. Plot of G + C contents of 209 plasmids and their host chromosomes.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037018301685-gr5.jpg)
 
+
+----------
+## AI4Microb
+
+### asm
+https://journals.asm.org/ai-microbiology-collection
+ASM Journals AI in Microbiology Article Collection
+
+https://journals.asm.org/doi/10.1128/jmbe.00082-25
+A case study of ChatGPT-assisted building of a microbiome-based machine learning model for biologists | Journal of Microbiology & Biology Education
+Tips and Tools
+11 September 2025
+
+https://journals.asm.org/doi/10.1128/jmbe.00127-24
+Beyond boundaries: exploring a generative artificial intelligence assignment in graduate, online science courses | Journal of Microbiology & Biology Education
+Curriculum
+4 November 2024
+
+https://journals.asm.org/doi/10.1128/jcm.00689-24
+Editor's Pick
+Bacteriology
+Research Article
+17 October 2024
+GPT-4-based AI agents—the new expert system for detection of antimicrobial resistance mechanisms? | Journal of Clinical Microbiology
+
+### 2026-02-26
+https://pubmed.ncbi.nlm.nih.gov/41747166/
+MMWR Morb Mortal Wkly Rep
+. 2026 Feb 26;75(7):93-97. doi: 10.15585/mmwr.mm7507a1.
+Multicounty Outbreak of Salmonella Agbeni Linked to Ice in a Cooler at a County Fair - Illinois, August 2024
+Katherine E Houser 1
+https://www.cdc.gov/mmwr/volumes/75/wr/mm7507a1.htm?s_cid=mm7507a1_w
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12944811/
+A generative artificial intelligence tool (ChatGPT 4.0, OpenAI; 2024) was used to assist with hypothesis generation during the investigation, supplementing traditional epidemiologic methods and contributing to identification of a shared, nonfood vehicle of transmission. 
+
+### 2026-02-18
+https://pubmed.ncbi.nlm.nih.gov/41713400/
+Review Cell Syst
+. 2026 Feb 18;17(2):101531. doi: 10.1016/j.cels.2026.101531.
+Artificial intelligence for microbiology and microbiome research
+Xu-Wen Wang 1, Tong Wang 2, Yang-Yu Liu 3
+https://arxiv.org/abs/2411.01098
+
+### 2023-11-15
+https://pubmed.ncbi.nlm.nih.gov/37968359/
+Review Nat Rev Microbiol
+. 2024 Apr;22(4):191-205. doi: 10.1038/s41579-023-00984-1. Epub 2023 Nov 15.
+Machine learning for microbiologists
+Francesco Asnicar # 1, Andrew Maltez Thomas # 1, Andrea Passerini 2, Levi Waldron 3 4, Nicola Segata 5 6
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11980903/
+https://www.nature.com/articles/s41579-023-00984-1
+Published: 15 November 2023
+You have full access to this article via Keio University.
+Download PDF
+s41579-023-00984-1.pdf
 
 ----------
 ## niid
@@ -607,6 +659,38 @@ Organism Target | Food Contamination
 S. aureus | Cheese, dairy products, raw meat, frozen meat, RTE meat
 
 A. baumannii | Fruits and vegetables, raw milk, meat products
+
+P. aeruginosa | Milk and dairy products, fruits and vegetables, cold chain meat products
+
+E. coli	| Animal origin foods, lettuce
+
+----------
+## E.coli
+
+https://www.nature.com/subjects/escherichia-coli
+Escherichia coli - Latest research and news | Nature
+
+### 2024-06-08
+Posted June 08, 2024.
+The Pangenome of Escherichia coli
+doi: https://doi.org/10.1101/2024.06.07.598014
+
+### 2020-08-21
+https://pubmed.ncbi.nlm.nih.gov/32826992/
+Review Nat Rev Microbiol
+. 2021 Jan;19(1):37-54. doi: 10.1038/s41579-020-0416-x. Epub 2020 Aug 21.
+The population genetics of pathogenic Escherichia coli
+Erick Denamur 1 2 3, Olivier Clermont 4 5, Stéphane Bonacorsi 4 6 7, David Gordon 8
+https://www.nature.com/articles/s41579-020-0416-x
+Published: 21 August 2020
+
+
+Microcosm: E. coli and the New Science of Life is a 2008 book by science writer Carl Zimmer. 
+https://en.wikipedia.org/wiki/Microcosm:_E._coli_and_the_New_Science_of_Life
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2586741/
+https://book.asahi.com/article/11647929
+大腸菌 進化のカギを握るミクロな生命体
+
 
 ----------
 ## Acinetobacter
