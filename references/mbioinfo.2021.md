@@ -28,7 +28,7 @@
 - [AMR](#amr) 薬剤耐性
 - [food](#food) 食品
 - [ESKAPEE](#eskapee)
-- [E.coli](#e.coli)
+- [E.coli](#ecoli)
 - [Acinetobacter](#acinetobacter)
 - [Staphylococcus](#staphylococcus)
 - [MRSA](#mrsa)
