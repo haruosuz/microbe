@@ -674,6 +674,7 @@ Escherichia coli - Latest research and news | Nature
 Posted June 08, 2024.
 The Pangenome of Escherichia coli
 doi: https://doi.org/10.1101/2024.06.07.598014
+https://www.biorxiv.org/content/10.1101/2024.06.07.598014v1
 
 ### 2020-08-21
 https://pubmed.ncbi.nlm.nih.gov/32826992/
@@ -684,13 +685,60 @@ Erick Denamur 1 2 3, Olivier Clermont 4 5, Stéphane Bonacorsi 4 6 7, David Gord
 https://www.nature.com/articles/s41579-020-0416-x
 Published: 21 August 2020
 
+### 2014-11
+https://pubmed.ncbi.nlm.nih.gov/25230163/
+Comparative Study Inflamm Bowel Dis
+. 2014 Nov;20(11):1919-32. doi: 10.1097/MIB.0000000000000183.
+Inflammation-associated adherent-invasive Escherichia coli are enriched in pathways for use of propanediol and iron and M-cell translocation
+Belgin Dogan 1, Haruo Suzuki, Deepali Herlekar, R Balfour Sartor, Barry J Campbell, Carol L Roberts, Katrina Stewart, Ellen J Scherl, Yasemin Araz, Paulina P Bitar, Tristan Lefébure, Brendan Chandler, Ynte H Schukken, Michael J Stanhope, Kenneth W Simpson
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/10luq08/cdi_pubmed_primary_25230163
+Oxford University Press Journals All Titles
+ibd1919.pdf
 
+### 2013-01-22
+https://pubmed.ncbi.nlm.nih.gov/23341549/
+Comparative Study mBio
+. 2013 Jan 22;4(1):e00452-12. doi: 10.1128/mBio.00452-12.
+Comparative genomics of recent Shiga toxin-producing Escherichia coli O104:H4: short-term evolution of an emerging pathogen
+Yonatan H Grad 1, Paul Godfrey, Gustavo C Cerquiera, Patricia Mariani-Kurkdjian, Malika Gouali, Edouard Bingen, Terrence P Shea, Brian J Haas, Allison Griggs, Sarah Young, Qiandong Zeng, Marc Lipsitch, Matthew K Waldor, François-Xavier Weill, Jennifer R Wortman, William P Hanage
+https://journals.asm.org/doi/10.1128/mbio.00452-12
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3551546/
+
+### 2012-02-21
+https://pubmed.ncbi.nlm.nih.gov/22315421/
+Proc Natl Acad Sci U S A
+. 2012 Feb 21;109(8):3065-70. doi: 10.1073/pnas.1121491109. Epub 2012 Feb 6.
+Genomic epidemiology of the Escherichia coli O104:H4 outbreaks in Europe, 2011
+Yonatan H Grad 1, Marc Lipsitch, Michael Feldgarden, Harindra M Arachchi, Gustavo C Cerqueira, Michael Fitzgerald, Paul Godfrey, Brian J Haas, Cheryl I Murphy, Carsten Russ, Sean Sykes, Bruce J Walker, Jennifer R Wortman, Sarah Young, Qiandong Zeng, Amr Abouelleil, James Bochicchio, Sara Chauvin, Timothy Desmet, Sharvari Gujja, Caryn McCowan, Anna Montmayeur, Scott Steelman, Jakob Frimodt-Møller, Andreas M Petersen, Carsten Struve, Karen A Krogfelt, Edouard Bingen, François-Xavier Weill, Eric S Lander, Chad Nusbaum, Bruce W Birren, Deborah T Hung, William P Hanage
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3286951/
+
+### 2011
+https://www.jstage.jst.go.jp/article/jsb/66/2/66_2_175/_article/-char/ja/
+平成23年黒屋奨学賞受賞論文
+腸管出血性大腸菌と腸管病原性大腸菌のゲノム解読と病原性進化メカニズムの解明
+小椋 義俊
+https://www.jstage.jst.go.jp/article/jsb/66/2/66_2_175/_pdf/-char/ja
+
+### 2009-10-20
+https://pubmed.ncbi.nlm.nih.gov/19815525/
+Comparative Study Proc Natl Acad Sci U S A
+. 2009 Oct 20;106(42):17939-44. doi: 10.1073/pnas.0903585106. Epub 2009 Oct 6.
+Comparative genomics reveal the mechanism of the parallel evolution of O157 and non-O157 enterohemorrhagic Escherichia coli
+Yoshitoshi Ogura 1, Tadasuke Ooka, Atsushi Iguchi, Hidehiro Toh, Md Asadulghani, Kenshiro Oshima, Toshio Kodama, Hiroyuki Abe, Keisuke Nakayama, Ken Kurokawa, Toru Tobe, Masahira Hattori, Tetsuya Hayashi
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2764950/
+|
+The gene contents of the 4 EHECs do not follow the phylogenetic relationships of the strains, and they share virulence genes for Shiga toxins and many other factors. 
+|
+Fig. 3.
+Genome-wide phylogenetic analysis and whole gene repertoire comparison of the EHECs and other fully sequenced E. coli/Shigella strains. (A) The neighbor-joining tree constructed by using the concatenated nucleotide sequences of 345 orthologous CDS groups from the 25 sequenced strains. 
+(B) The hierarchical clustering tree that was constructed based on a gene repertoire comparison of the 25 strains. The entire gene repertoire of the 25 strains is represented by 12,940 CDS groups that were defined based on the results of an all-to-all BLASTP analysis of CDSs from the 25 strains.
+
+### 2008
 Microcosm: E. coli and the New Science of Life is a 2008 book by science writer Carl Zimmer. 
 https://en.wikipedia.org/wiki/Microcosm:_E._coli_and_the_New_Science_of_Life
 https://pmc.ncbi.nlm.nih.gov/articles/PMC2586741/
 https://book.asahi.com/article/11647929
 大腸菌 進化のカギを握るミクロな生命体
-
 
 ----------
 ## Acinetobacter
