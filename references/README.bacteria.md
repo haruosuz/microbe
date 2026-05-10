@@ -49,7 +49,6 @@ vaginal microbiota
 - [people](#people)
   - [amachi](#amachi) Amachi Seigo
   - [Gilmore](#gilmore) Michael S. Gilmore
-  - [Ogura](#ogura) Yoshitoshi Ogura
 - [excerpt](#excerpt) 抜粋［引用］
 
 ----------
@@ -2837,21 +2836,6 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 
 ----------
 
-### Ogura
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#escherichia-coli
-
-https://pubmed.ncbi.nlm.nih.gov/19815525/
-Comparative Study Proc Natl Acad Sci U S A
-. 2009 Oct 20;106(42):17939-44. doi: 10.1073/pnas.0903585106. Epub 2009 Oct 6.
-Comparative genomics reveal the mechanism of the parallel evolution of O157 and non-O157 enterohemorrhagic Escherichia coli
-Yoshitoshi Ogura 1, Tadasuke Ooka, Atsushi Iguchi, Hidehiro Toh, Md Asadulghani, Kenshiro Oshima, Toshio Kodama, Hiroyuki Abe, Keisuke Nakayama, Ken Kurokawa, Toru Tobe, Masahira Hattori, Tetsuya Hayashi
-https://pmc.ncbi.nlm.nih.gov/articles/PMC2764950/
-Fig. 3.
-Genome-wide phylogenetic analysis and whole gene repertoire comparison of the EHECs and other fully sequenced E. coli/Shigella strains. (A) The neighbor-joining tree constructed by using the concatenated nucleotide sequences of 345 orthologous CDS groups from the 25 sequenced strains. 
-(B) The hierarchical clustering tree that was constructed based on a gene repertoire comparison of the 25 strains. The entire gene repertoire of the 25 strains is represented by 12,940 CDS groups that were defined based on the results of an all-to-all BLASTP analysis of CDSs from the 25 strains.
-
-
 ----------
 ### Gilmore
 Michael S. Gilmore
@@ -3031,7 +3015,7 @@ BMC Genomics
 Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae
 Haruo Suzuki 1, Tristan Lefébure, Paulina Pavinski Bitar, Michael J Stanhope
 https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-38
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3317825/
 
 Results and discussion
 Genomic features
