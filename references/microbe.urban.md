@@ -109,17 +109,6 @@ RESULTS
 
 Factors affecting fungal communities of subway stations
 
-### 2025-08-29
-https://pubmed.ncbi.nlm.nih.gov/40883783/
-Microbiome
-. 2025 Aug 29;13(1):193. doi: 10.1186/s40168-025-02173-z.
-Global biogeography of airborne viruses in public transit systems and their host interactions
-Huaxin Lei 1, Shicong Du 1, Xinzhao Tong 1 2, Wing Lam Chan 1, Marcus H Y Leung 1, Kari O Bøifot 3 4, Daniela Bezdan 5, Daniel J Butler 5, David C Danko 5, David C Green 6 7, Mark T Hernandez 8, Frank J Kelly 6, Alexander G Lucaci 5, Cem Meydan 5, Marina Nieto-Caballero 8, Krista Ryon 5, Braden Tierney 5, Klas I Udekwu 9 10, Benjamin G Young 5, Christopher E Mason 11 12 13 14, Marius Dybwad 15 16, Patrick K H Lee 17 18
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02173-z
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12395665/
-Fig. 1.
-Permutational multivariate analyses of variance (PERMANOVA) and permutational multivariate analyses of dispersion (PERMDISP) were performed without considering the year in which the samples were collected.
-
 ### 2025-03-13
 Posted March 13, 2025.
 doi: https://doi.org/10.1101/2025.03.12.642787
@@ -1733,6 +1722,15 @@ Global biogeography of airborne viruses in public transit systems and their host
 Huaxin Lei 1, Shicong Du 1, Xinzhao Tong 1 2, Wing Lam Chan 1, Marcus H Y Leung 1, Kari O Bøifot 3 4, Daniela Bezdan 5, Daniel J Butler 5, David C Danko 5, David C Green 6 7, Mark T Hernandez 8, Frank J Kelly 6, Alexander G Lucaci 5, Cem Meydan 5, Marina Nieto-Caballero 8, Krista Ryon 5, Braden Tierney 5, Klas I Udekwu 9 10, Benjamin G Young 5, Christopher E Mason 11 12 13 14, Marius Dybwad 15 16, Patrick K H Lee 17 18
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02173-z
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12395665/
+
+Fig. 1.
+Bioinformatics workflow and biogeography of viral operational taxonomic units (vOTUs) in air samples from built environments in global cities. A Bioinformatics workflow for viral bin identification used in this study.
+
+E Principal coordinate analysis of the Bray–Curtis dissimilarity matrix for the samples from the cities over a two-year period. Points are colored by city and shaped by year. Permutational multivariate analyses of variance (PERMANOVA) and permutational multivariate analyses of dispersion (PERMDISP) were performed without considering the year in which the samples were collected. The ellipses show the multivariate normal distribution at a 90% confidence interval for samples from each city. NS: not statistically significant
+
+Reconstruction of metagenome assembled genomes and coverage estimation
+Metagenome -assembled genomes (MAGs) in each sample were reconstructed using the binning module in MetaWRAP (v1.3.2) with the options “–metabat2 –maxbin2 –concoct” and then further refined using the binning-refinement module in MetaWRAP (v1.3.2).
+
 Data availability
 The raw DNA-sequencing data used in this study have been deposited in the NCBI Sequence Read Archive under BioProject accession numbers PRJNA1129830 (https://dataview.ncbi.nlm.nih.gov/object/PRJNA1129830?reviewer=1g7d3ssamqkhspagcpf2cenq6t) and PRJNA1132165 (https://dataview.ncbi.nlm.nih.gov/object/PRJNA1132165?reviewer=uu8vu4rqqn6vlfp122spfju3g0). The viral genome sequences are available at https://figshare.com/articles/dataset/5346_highquality_airborne_virus/27628491. The supporting code can be found at the following GitHub page: https://github.com/HuaxinLEI-CityU/Global-Built-Environments-Airborne-Viromes.
 
