@@ -170,6 +170,8 @@ Metagenomic characterization of bacterial community and antibiotic resistance ge
 Robin B Guevarra 1, Juchan Hwang 1, Hyunjung Lee 1, Hyung Jun Kim 1, Yunmi Lee 1, David Danko 2, Krista A Ryon 3, Benjamin Grady Young 2, Christopher E Mason 4, Soojin Jang 5
 https://www.sciencedirect.com/science/article/pii/S0147651322010168?via%3Dihub
 
+When we compared the diversity of microbial communities among different surface types, no significant differences (P-value>0.05) were observed, although the ground and the information board showed the highest and lowest microbial richness and diversity, respectively (Fig. 1B, Supplementary Table S2). These results indicate that neither the location type (indoor subway station vs. outdoor bus stop) nor the surface type has any direct influence on within-sample microbe diversity in the Seoul mass transit system.
+
 ### 2022-10-20
 https://pubmed.ncbi.nlm.nih.gov/36299999/
 iScience
@@ -177,8 +179,16 @@ iScience
 A history of the MetaSUB consortium: Tracking urban microbes around the globe
 Krista A Ryon 1 2, Braden T Tierney 1 2, Alina Frolova 3 4, Andre Kahles 5 6, Christelle Desnues 7, Christos Ouzounis 8, Cynthis Gibas 9, Daniela Bezdan 10 11 12, Youping Deng 13, Ding He 14, Emmanuel Dias-Neto 15, Eran Elhaik 16, Evan Afshin 17, George Grills 18, Gregorio Iraola 19, Haruo Suzuki 20, Johannes Werner 21, Klas Udekwu 22, Lynn Schriml 23, Malay Bhattacharyya 24, Manuela Oliveira 25, Maria Mercedes Zambrano 26, Nur Hazlin Hazrin-Chong 27, Olayinka Osuolale 28, Paweł P Łabaj 29, Prisca Tiasse 29, Sampath Rapuri 30, Silvia Borras 31, Sofya Pozdniakova 31, Tieliu Shi 32, Ugur Sezerman 33, Xavier Rodo 31, Zehra Hazal Sezer 34, Christopher E Mason 17 35
 https://www.cell.com/iscience/fulltext/S2589-0042(22)01265-2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589169/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9589169/
 https://www.sciencedirect.com/science/article/pii/S2589004222012652
+
+Beyond cities: Wastewater, hospitals, and monuments
+
+We also have Monumentome project, where samples are collected from monuments and landmarks, which can detail the causes of their degradation. We have already collected samples from 21 monuments and landmarks from 12 different cities, including surface samples from the ancient cities of Tel Megiddo in northern Israel, which follows some of the protocols we developed when doing metagenomics on the Dead Sea Scrolls (Anava et al., 2020). 
+
+Ouzounis
+As Chris points out, MetaSUB was the launchpad project for many new, exciting activities. We are particularly thrilled with Monumentome, which has value for us as a community in a country with vast cultural heritage and unknown parameters about the preservation and restoration of ancient monuments and other artifacts. A new era for Archaeology in general and Conservation Science, in particular, is emerging with the study of microbiomes of cultural landmarks.
+
 
 https://twitter.com/yurigravity/status/1588195221224947713
 yuri on Twitter: "Incredible story of our @MetaSUB Consortium in @CellPressNews Thanks to @mason_lab @krista_ryon @Daniela_Bezdan @dcdanko @pawel_labaj @BradenTierney @emmanueldias @EranElhaik @copypasteusa #metasub #metagenomics #cellpress #bacteria @yurigravity" / Twitter
@@ -194,6 +204,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0013935121014845
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_hal_primary_oai_HAL_hal_03700633v1
 Elsevier ScienceDirect Journals Complete
 
+- Here we uncovered 732 novel bacterial species from 4728 samples collected from various common surface with the matching materials in the mass transit system across 60 cities by the MetaSUB Consortium.
+- Here, we uncovered 732 novel bacterial species by reconstructing 5980 MAGs using the metagenome data provided by the MetaSUB Consortium.
 
 ----------
 ## kaken
@@ -561,7 +573,6 @@ Antonia Bruno 1, Sara Fumagalli 1, Giulia Ghisleni 1, Massimo Labra 1
 https://www.mdpi.com/2076-2607/10/12/2311
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9783557/
 
-
 ### 2022-09-19
 
 5:00 AM · Sep 21, 2022
@@ -615,7 +626,12 @@ Microbiome
 M﻿etagenomic insights into the microbial communities of inert and oligotrophic outdoor pier surfaces of a coastal city
 Xinzhao Tong 1, Marcus H Y Leung 1, Zhiyong Shen 1, Justin Y Y Lee 1, Christopher E Mason 2 3 4 5, Patrick K H Lee 6 7
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01166-y
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8562002/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8562002/
+
+Surface attributes structured the diversity and composition of pier surface microbiomes
+
+ Specifically, the floor microbiomes displayed the highest diversity among the four surface types, while the pole microbiomes had the lowest (KW test, p = 2.35 × 10− 6, Fig. 1e).
+
 Source tracking of surface metagenomes
 The fast expectation-maximization microbial source tracking (FEAST) algorithm [81] was used to track the sources of microbial populations detected on the pier surfaces. To reflect local microbiome sources, 12 marine sediment samples collected near Hong Kong [82] and 20 skin samples of Chinese women [83] were used as the representative microbial sources. Other types of microbial sources were not considered owing to the lack of available local metagenomics data. Sequence processing, quality control, and taxonomic annotation of the source metagenomes were the same as the surface samples. FEAST was performed based on the species-level microbial taxa table using the R package “FEAST” (v1.0.1) with default parameters.
 
@@ -633,8 +649,7 @@ Diversity 2021, 13(10), 475; https://doi.org/10.3390/d13100475
 Submission received: 30 August 2021 / Revised: 24 September 2021 / Accepted: 24 September 2021 / Published: 28 September 2021
 
 
-## 2021-08
-
+### 2021-08
 https://twitter.com/ASMicrobiology/status/1423735679016742912
 ASM on Twitter: "Did you know that different cities around the world have distinct #microbiomes? And, they don't just reflect the microbiomes of their inhabitants. @madelinerb2 discusses what we know about #urbanmicrobiome and all the hints that there's much more to learn: https://t.co/2NSU1oOWqY https://t.co/P8LaOtHHYJ" / Twitter
 Aug. 5, 2021
@@ -786,7 +801,10 @@ PLoS One
 Passenger-surface microbiome interactions in the subway of Mexico City
 Daniela Vargas-Robles 1, Carolina Gonzalez-Cedillo 1 2, Apolinar M Hernandez 1, Luis D Alcaraz 2, Mariana Peimbert 1
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237272
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7437895/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7437895/
+
+Alpha diversity varied among different surface types (for Shannon, Observed OTUs, Chao1, and Simpson metrics, p < 0.02, Kruskal-Wallis; S1 Fig). The platform floor was the most diverse surface, while the stair handrail and pole were the least diverse ones (p < 0.010, Dunn test; S1 Fig). Microbial composition differed among surface types (p = 0.001, F = 1.99, PERMANOVA), with different variance dispersion (p = 0.018, F = 3.35, PERMADISP2; S1 Fig).
+
 Data Availability
 The datasets supporting the conclusions of this article are available in the Sequence Read Archive (SRA) at the NCBI, with the BioProject ID PRJNA629455 and, sample accession numbers: SAMN13706337-425.
 
@@ -1702,6 +1720,7 @@ Microbiome
 Spatial and temporal patterns of public transit aerobiomes
 Russell J S Orr # 1, Ola Brynildsrud # 2 3, Kari O Bøifot 2 4, Jostein Gohli 2 5, Gunnar Skogan 2, Frank J Kelly 6, Mark T Hernandez 7, Klas Udekwu 8 9, Patrick K H Lee 10, Christopher E Mason 11, Marius Dybwad 2 4
 https://link.springer.com/article/10.1186/s40168-025-02303-7
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12896060/
 Methods
 Air sampling
 Air samples were taken interannually during summer months over 3 years (2017–2019) from public transit hubs of six cities, in total 750 air samples (Table 1 and Table S1). For 2018, a total of 261 samples were collected from six cities (Denver, Hong Kong, London, New York, Oslo and Stockholm) and 80 localities. For 2019, a total of 239 samples were collected from five cities (excluding Stockholm) and 71 localities. Further, we reanalysed previously published data for 250 samples, collected and processed using the same protocols, from public transit hubs of the same six cities and 76 localities from 2017 [33]. Negative (22) and positive (5) control samples were utilized for downstream contamination removal.
@@ -1735,9 +1754,7 @@ The raw sequence data has been deposited in the NCBI Sequence Read Archive (SRA)
 https://twitter.com/mason_lab/status/1397733964266315780
 Chris Mason on Twitter: "Then Marius Dybwad and Patrick Lee lead the matching collections of the air microbiome from some of the same cities at the same time, which also mapped microbes and AMR genes around the world: https://t.co/a81voonXMO /14" / Twitter
 
-
-### Bøifot_2020
-
+### 2020-01-13
 https://pubmed.ncbi.nlm.nih.gov/33902731/
 Environ Microbiome
 . 2020 Jan 13;15(1):1. doi: 10.1186/s40793-019-0349-z.
