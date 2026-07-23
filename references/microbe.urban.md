@@ -35,6 +35,11 @@ Urban microbiomes in Japan
 ----------
 
 
+
+
+
+
+
 ----------
 ## mass_gathering
 
@@ -66,63 +71,6 @@ https://www.jmedj.co.jp/blogs/product/product_4589
 
 ----------
 
-## 2026-04-15
-https://www.nature.com/articles/s41893-026-01801-2
-nature  nature sustainability  articles  article
-Article
-Published: 15 April 2026
-The linkage between microbial community dynamics and urbanization age
-Yinghui Jia, Jun Wu, Xun Shi, Jia Tao, Christopher E. Mason, Anne Vernez Moudon, Zhiqiang Wu, Yu Ye, Yuxi Cai, Wenyao Sun, Tieliu Shi & Lan Wang 
-Nature Sustainability (2026)Cite this article
-
-Cite this article
-Jia, Y., Wu, J., Shi, X. et al. The linkage between microbial community dynamics and urbanization age. Nat Sustain (2026). https://doi.org/10.1038/s41893-026-01801-2
-
-Access to this article via Keio University is not available.
-
-
-----------
-
-
-## 2025
-
-### 2025-11-04
-中国・北京の地下鉄15駅の換気システム（エアフィルター）から採取
-https://pubmed.ncbi.nlm.nih.gov/40996265/
-Microbiol Spectr
-. 2025 Nov 4;13(11):e0162625. doi: 10.1128/spectrum.01626-25. Epub 2025 Sep 25.
-Dynamic airborne mycobiome in the metropolitan city transit system is driven by seasonality and station type
-Xin Zhou # 1, Da Li # 1 2, Xiao-Wei Lu 1 2, Clement K M Tsui 3 4 5, Supawadee Ingsriswang 6, Jun-Min Liang 1, Lei Cai 1
-https://journals.asm.org/doi/10.1128/spectrum.01626-25
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12584724/
-
-An international consortium, MetaSUB, has collected samples from urban transport systems, including subways and buses in 60 cities worldwide to investigate the density, types, and dynamics of urban metagenomes (3).
-
-MATERIALS AND METHODS
-Sample collection
-Air samples were collected monthly from October 2021 to September 2022 from the air filters of the ventilation systems at 15 stations (Fig. 1a). 
-
-Fig 1.
-(a) Beijing subway line map with 15 different stations and three different station types marked in the map. IHS, intercity hub stations (green circles); SUS, suburban stations (purple triangles); UHS, urban hub stations (blue squares). 
-
-RESULTS
-
-Factors affecting fungal communities of subway stations
-
-### 2025-03-13
-Posted March 13, 2025.
-doi: https://doi.org/10.1101/2025.03.12.642787
-Microbial communities on station and train surfaces in Chennai Metro: Insights into urban transit microbiome | bioRxiv
-https://www.biorxiv.org/content/10.1101/2025.03.12.642787v1.full
-Vijaya Yuvaram Singh,  View ORCID ProfileVeerendra P. Gadekar, Srijith Sasikumar, R. M. Rajeeva Lokshanan,  View ORCID ProfileBharath Prithiviraj,  View ORCID ProfileHimanshu Sinha,  View ORCID ProfileKarthik Raman
-
-Figure 1:
-(A) Chennai Metro Line Map.
-
-Using the MetaSUB protocol [12], samples were collected with individually packaged Isohelix Buccal Mini Swabs (
-
-https://en.wikipedia.org/wiki/Chennai_Metro
-The Chennai Metro is a rapid transit system serving the city of Chennai, India.
 
 ## 2024
 
@@ -272,8 +220,6 @@ https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19KK0263/
 研究期間 (年度)	2019-10-07 – 2023-03-31
 
 日本の都市域（横浜市）と地方都市郊外（富山市）において，アンダーセンエアーサンプラーで9段階の粒径別捕集（分級範囲 0.43～11.0μm）した各大気試料を，高速シークエンサーでメタゲノム解析した結果を，原著論文として発表した (Tanaka et al., Sci. Rep., 2020, プレスリリース有り)。
-
-
 
 
 ----------
@@ -429,15 +375,81 @@ https://twitter.com/endBooks/status/385905594026033153
 ----------
 
 
-
-
 ----------
 ## updates
 
 https://twitter.com/search?q=bacteria%20urbanization
 
 ----------
+## 2026
+----------
+## 2026-04-15
+https://www.nature.com/articles/s41893-026-01801-2
+nature  nature sustainability  articles  article
+Article
+Published: 15 April 2026
+The linkage between microbial community dynamics and urbanization age
+Yinghui Jia, Jun Wu, Xun Shi, Jia Tao, Christopher E. Mason, Anne Vernez Moudon, Zhiqiang Wu, Yu Ye, Yuxi Cai, Wenyao Sun, Tieliu Shi & Lan Wang 
+Nature Sustainability (2026)Cite this article
 
+Cite this article
+Jia, Y., Wu, J., Shi, X. et al. The linkage between microbial community dynamics and urbanization age. Nat Sustain (2026). https://doi.org/10.1038/s41893-026-01801-2
+
+Access to this article via Keio University is not available.
+
+----------
+## 2026-02-18
+Posted February 18, 2026.
+https://www.biorxiv.org/content/10.64898/2026.02.18.706585v1.full
+A citywide metagenomic analysis reveals surface-specific microbiome and resistome patterns in outdoor urban environments across Liverpool, UK
+
+----------
+## 2025
+----------
+
+### 2025-11-04
+中国・北京の地下鉄15駅の換気システム（エアフィルター）から採取
+https://pubmed.ncbi.nlm.nih.gov/40996265/
+Microbiol Spectr
+. 2025 Nov 4;13(11):e0162625. doi: 10.1128/spectrum.01626-25. Epub 2025 Sep 25.
+Dynamic airborne mycobiome in the metropolitan city transit system is driven by seasonality and station type
+Xin Zhou # 1, Da Li # 1 2, Xiao-Wei Lu 1 2, Clement K M Tsui 3 4 5, Supawadee Ingsriswang 6, Jun-Min Liang 1, Lei Cai 1
+https://journals.asm.org/doi/10.1128/spectrum.01626-25
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12584724/
+
+An international consortium, MetaSUB, has collected samples from urban transport systems, including subways and buses in 60 cities worldwide to investigate the density, types, and dynamics of urban metagenomes (3).
+
+MATERIALS AND METHODS
+Sample collection
+Air samples were collected monthly from October 2021 to September 2022 from the air filters of the ventilation systems at 15 stations (Fig. 1a). 
+
+Fig 1.
+(a) Beijing subway line map with 15 different stations and three different station types marked in the map. IHS, intercity hub stations (green circles); SUS, suburban stations (purple triangles); UHS, urban hub stations (blue squares). 
+
+RESULTS
+
+Factors affecting fungal communities of subway stations
+
+----------
+### 2025-03-13
+Posted January 25, 2026.
+Posted March 13, 2025.
+doi: https://doi.org/10.1101/2025.03.12.642787
+Microbial communities on station and train surfaces in Chennai Metro: Insights into urban transit microbiome | bioRxiv
+https://www.biorxiv.org/content/10.1101/2025.03.12.642787v3.full
+
+Figure 1:
+(A) Chennai Metro Line Map.
+
+Using the MetaSUB protocol [12], samples were collected with individually packaged Isohelix Buccal Mini Swabs (
+
+Acknowledgments
+We thank Christopher Mason, David Danko, Braden Tierney, and Krista Ryon, Weill Medical College of Cornell University, New York, for their advice, support in planning, and for providing kits for sample collection.
+
+https://en.wikipedia.org/wiki/Chennai_Metro
+The Chennai Metro is a rapid transit system serving the city of Chennai, India.
+
+----------
 ## 2025-03-08
 
 https://pubmed.ncbi.nlm.nih.gov/40225043/
@@ -448,13 +460,12 @@ Lijun Zhang 1 2, Xiaojing Li 1 2, Lisha Shi 1 2, Yi Zheng 3, Yichen Ding 1 2, Ta
 https://www.sciencedirect.com/science/article/pii/S2666517425000367
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11992389/
 
-----------
 
+----------
 ## 2024
 
+
 ----------
-
-
 ## 2023
 
 ### 2023-12-07
@@ -608,7 +619,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8876034/
 ----------
 
 ### 2021-11-02
-桟橋
+香港 桟橋
 https://pubmed.ncbi.nlm.nih.gov/34724986/
 Microbiome
 . 2021 Nov 2;9(1):213. doi: 10.1186/s40168-021-01166-y.
@@ -1544,6 +1555,18 @@ I am curious – do they discuss at all how they define urban? I have been wonde
 ## migi
 microbiome-inspired green infrastructure (MIGI) 
 
+### 2025-11-25
+https://pubmed.ncbi.nlm.nih.gov/41085331/
+Review mSphere
+. 2025 Nov 25;10(11):e0061925. doi: 10.1128/msphere.00619-25. Epub 2025 Oct 14.
+Priority research questions in microbiome-integrated urban design
+Richard Beckett 1, Lorraine Archer 2, Alexia Barrable 3, Michael Bogdan-Margineanu 4 5, Sean Bradley 6, Sarah Hawes 7, Christianne Herr 8, Mira Housen 9, Alexandra Lacatusu 10, Olli Laitinen 11, Marja Roslund 12, Heather Rumble 13, William Scott 14, Aki Sinkkonen 15, Xin Sun 16 17 18, Jake M Robinson 19 20
+https://journals.asm.org/doi/10.1128/msphere.00619-25
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12645966/
+
+過度に清潔化された現代都市は、人間が必要とする「多様な微生物（マイクバイオーム）」との接触を絶ち、アレルギーや免疫疾患の増加を招いています。
+本論文は、建築・都市計画・微生物学・心理学などの専門家が集まり、「都市デザインに微生物（バイオーム）を統合するための最重要研究課題（Priority research questions）」を整理したレビュー論文です。建築資材、生体受容性デザイン、緑地形成を通じて、人間の健康と生態系を再生する「微生物フレンドリーな都市作り」の実装に向けたロードマップを示しています。
+
 ### 2024-08
 https://pubmed.ncbi.nlm.nih.gov/38368168/
 Trends Biotechnol
@@ -1745,6 +1768,14 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8157753/
 Results
 Overall community overview of the public transit air microbiome
 A total of 468 species-level taxa were identified in the public transit networks. As expected, the majority of the community were assigned bacteria (average relative abundance of the entire dataset (96.5%), followed by virus (3.21%), fungi (0.19%), and archaea (0.043%) (Fig. 1a). 
+
+Metagenome-assembled genome analysis reveals city-unique coding sequences
+Following city-based co-assembly, metagenome-assembled genomes (MAGs) were generated.
+
+Detection of biosynthetic gene clusters in MAGs from public transit
+
+Fig. 7.
+MAGs within the public transit air microbiome contained a diverse collection of gene clusters encoding proteins involved in biosynthesis of secondary metabolites.
 
 The raw sequence data has been deposited in the NCBI Sequence Read Archive (SRA) under Bioproject ID# PRJNA561080
 
