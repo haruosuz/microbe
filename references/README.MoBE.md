@@ -32,15 +32,44 @@ https://ja.wikipedia.org/wiki/建造環境
 ----------
 ## updates
 
-## 2024
+## 2025
+
+## 2025-08-29
+
+AUTHOR=Joseph Tania M. , Abdulmaksoud Sara , Mortula Md. Maruf , Beheiry Salwa , Zareen Nausheen 
+TITLE=Microbiomes of the built environment: a systematic literature review
+JOURNAL=Frontiers in Built Environment
+VOLUME=Volume 11 - 2025
+YEAR=2025
+URL=https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1657297
+
+https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1657297/full
+
+SYSTEMATIC REVIEW article
+
+Front. Built Environ., 29 August 2025
+
+Sec. Sustainable Design and Construction
+
+Volume 11 - 2025 | https://doi.org/10.3389/fbuil.2025.1657297
+
+Microbiomes of the built environment: a systematic literature review
+Tania M. Joseph
+Tania M. Joseph1*Sara AbdulmaksoudSara Abdulmaksoud1Md. Maruf MortulaMd. Maruf Mortula2Salwa BeheirySalwa Beheiry3Nausheen ZareenNausheen Zareen4
+
+## 2025-04-20
+https://pubmed.ncbi.nlm.nih.gov/40284786/
+Review Microorganisms
+. 2025 Apr 20;13(4):950. doi: 10.3390/microorganisms13040950.
+How the Built Environment Shapes Children's Microbiome: A Systematic Review
+Rozalynne Samira 1, Muntazar Monsur 2, Nazia Afrin Trina 2
+https://www.mdpi.com/2076-2607/13/4/950
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12029762/
 
 ----------
+## 2024
 
-### 2024-07-19
-
-5:32 PM · Jul 22, 2024
-https://x.com/NatureRevMicro/status/1815303953975849449
-Nature Reviews Microbiology on X: "The indoors microbiome and human health https://t.co/fgYY90VnmM Gilbert &amp; Hartmann examine the microbial ecology of indoor spaces, the factors that influence the #microbiome of the built environment, and their influence on human health. https://t.co/lbtSTuWtVa" / X
+### 2024-12
 https://pubmed.ncbi.nlm.nih.gov/39030408/
 Review Nat Rev Microbiol
 . 2024 Dec;22(12):742-755. doi: 10.1038/s41579-024-01077-3. Epub 2024 Jul 19.
@@ -48,16 +77,102 @@ The indoors microbiome and human health
 Jack A Gilbert 1 2 3, Erica M Hartmann 4 5 6
 https://www.nature.com/articles/s41579-024-01077-3
 
+5:32 PM · Jul 22, 2024
+https://x.com/NatureRevMicro/status/1815303953975849449
+Nature Reviews Microbiology on X: "The indoors microbiome and human health https://t.co/fgYY90VnmM Gilbert &amp; Hartmann examine the microbial ecology of indoor spaces, the factors that influence the #microbiome of the built environment, and their influence on human health. https://t.co/lbtSTuWtVa" / X
+
+### 2024-05-28
+https://pubmed.ncbi.nlm.nih.gov/38863750/
+Review Front Microbiol
+. 2024 May 28:15:1380953. doi: 10.3389/fmicb.2024.1380953. eCollection 2024.
+Who inhabits the built environment? A microbiological point of view on the principal bacteria colonizing our urban areas
+Jessica Zampolli # 1, Alessandra De Giani # 1, Massimiliano Rossi 1, Margherita Finazzi 1, Patrizia Di Gennaro 1
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1380953/full
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11165352/
+
 ### 2024-05-14
 https://pubmed.ncbi.nlm.nih.gov/38662573/
 Proc Natl Acad Sci U S A
 . 2024 May 14;121(20):e2313971121. doi: 10.1073/pnas.2313971121. Epub 2024 Apr 25.
 The potential importance of the built-environment microbiome and its impact on human health
+Thomas C G Bosch 1 2, Mark Wigley 3, Beatriz Colomina 4, Brendan Bohannan 5, Forrest Meggers 6, Katherine R Amato 2 7, Meghan B Azad 2 8 9, Martin J Blaser 2 10 11, Kate Brown 2 12, Maria Gloria Dominguez-Bello 2 13 14, Stanislav Dusko Ehrlich 2 15, Eran Elinav 2 16 17, B Brett Finlay 2 18, Kate Geddie 2 19, Naama Geva-Zatorsky 2 20 21, Tamara Giles-Vernick 2 22, Philippe Gros 2 23, Karen Guillemin 2 24, Louis-Patrick Haraoui 2 25, Elizabeth Johnson 2 26, Frédéric Keck 2 27, Jamie Lorimer 2 28, Margaret J McFall-Ngai 2 29, Mark Nichter 2 30, Sven Pettersson 2 31, Hendrik Poinar 2 32, Tobias Rees 2 33, Carolina Tropini 2 34, Eduardo A Undurraga 2 35, Liping Zhao 2 13, Melissa K Melby 2 36
 https://www.pnas.org/doi/abs/10.1073/pnas.2313971121
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11098107/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11098107/
+
+----------
+## 2023
+
+### 2023-12-20
+https://pubmed.ncbi.nlm.nih.gov/38047636/
+Review Microbiol Mol Biol Rev
+. 2023 Dec 20;87(4):e0012121. doi: 10.1128/mmbr.00121-21. Epub 2023 Dec 4.
+Microbiology of the built environment: harnessing human-associated built environment research to inform the study and design of animal nests and enclosures
+Megan S Hill 1 2, Jack A Gilbert 1 2 3
+https://journals.asm.org/doi/10.1128/mmbr.00121-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10732082/
+
+### 2023-11-23
+https://pubmed.ncbi.nlm.nih.gov/38074709/
+Review Front Public Health
+. 2023 Nov 23:11:1285393. doi: 10.3389/fpubh.2023.1285393. eCollection 2023.
+A comprehensive review of microbial contamination in the indoor environment: sources, sampling, health risks, and mitigation strategies
+Hitikk Chawla # 1, Purnima Anand # 2, Kritika Garg 3, Neeru Bhagat 2, Shivani G Varmani 4, Tanu Bansal 5, Andrew J McBain 6, Ruchi Gulati Marwah # 2
+https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1285393/full
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10701447/
+
+
+### 2023-06-
+https://pubmed.ncbi.nlm.nih.gov/37070748/
+Editorial Microb Biotechnol
+. 2023 Jun;16(6):1112-1130. doi: 10.1111/1751-7915.14256. Epub 2023 Apr 18.
+Towards the microbial home: An overview of developments in next-generation sustainable architecture
+Rachel Armstrong 1
+https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14256
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10221549/
+
+Mycelium biocomposites
+The fine root‐like structures of fungi (mycelium) act like a living glue and can bind organic agricultural waste particles together (e.g. sugarcane bagasse, rice husks, cotton stalks and straw) to make a single, solid material called a mycelium biocomposite (Fairus et al., 2022; Sydor et al., 2022) (Figure 1). Part organic block, part fungal matrix, these versatile materials can be moulded, or 3D printed (Rahman et al., 2022), into a wide range of forms to become insulating bricks and even patchwork ‘tapestries’ of recycled materials—which keep our homes warm and insulate them against unwanted noise (Robertson et al., 2020; Yang et al., 2021).
+
+FIGURE 1.
+Mycelium biocomposite produced from cardboard and moulded in a Tupperware container (right) Samuel Hoornaerts, Wicked Home, Masters' Studio, Ghent, 2022.
+
+本論文は、従来の「環境負荷ゼロ（ネットゼロ）」を超え、自然環境を活発化・再生させる「次世代の再生型建築（Regenerative Architecture）」へのアプローチを解説したものです。
+
+微生物の多彩な代謝能力を建築技術や材料として活用することで、低炭素な新規建築資材（バイオセメントや菌糸体複合材料など）の導入、環境を再生する生体受容性表面の創出、さらには尿や廃棄物からエネルギーを生成するバイオリアクター（PeePower®など）を住宅システムへ組み込む可能性を提示しています。これにより、市民自らがエネルギーや資材を調達できる持続可能な住まい（Microbial Home）の実現を目指しています。
+
+菌糸体複合材料（mycelium biocomposites）
+
+While the field is still young, some of these products (e.g. mycelium biocomposites) are poised for uptake by the public–private economic axis to become mainstream within the building industry. 
+この分野はまだ若いものの、これらの製品の一部〔例：菌糸体バイオ複合材料〕は、官民の経済的軸によって取り入れられ、建築業界内でメインストリーム（主流）になる準備が整いつつあります。
 
 ----------
 
+
+----------
+
+2022
+https://www.sciencedirect.com/science/article/pii/S0360132321008349
+Andrés Núñez, Ana M. García,
+Effect of the passive natural ventilation on the bioaerosol in a small room,
+Building and Environment,
+Volume 207, Part B,
+2022,
+
+
+3.3. Human microbiome species and taxa indicators
+Previous works have established that areas indoors are enriched in microorganisms related to human microbiome [42,43]. 
+
+[42]
+B.G. Lee, J.I. Yang, E. Kim, S.W. Geum, J.-H. Park, M.-K. Yeo
+Investigation of bacterial and fungal communities in indoor and outdoor air of elementary school classrooms by 16S rRNA gene and ITS region sequencing
+Indoor Air, 31 (2021), pp. 1553-1562, 10.1111/ina.12825
+
+[43]
+J.F. Meadow, A.E. Altrichter, S.W. Kembel, J. Kline, G. Mhuireach, M. Moriyama, D. Northcutt, T.K. O'Connor, A.M. Womack, G.Z. Brown, J.L. Green, B.J.M. Bohannan
+Indoor airborne bacterial communities are influenced by ventilation, occupancy, and outdoor air source
+Indoor Air, 24 (2014), pp. 41-48, 10.1111/ina.12047
+
+----------
 
 
 
@@ -219,6 +334,15 @@ https://matome.naver.jp/odai/2140057460215399801
 ----------
 ## review
 
+### 2020-04
+https://pubmed.ncbi.nlm.nih.gov/32265315/
+Review mSystems
+. 2020 Apr 7;5(2):e00245-20. doi: 10.1128/mSystems.00245-20.
+2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission
+Leslie Dietz # 1, Patrick F Horve # 2, David A Coil 3, Mark Fretz 1 4, Jonathan A Eisen 5 6 3, Kevin Van Den Wymelenberg 1 4
+https://journals.asm.org/doi/10.1128/msystems.00245-20
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7141890/
+
 ### 2018-11
 https://pubmed.ncbi.nlm.nih.gov/30127345/
 Review Nat Rev Microbiol
@@ -227,6 +351,7 @@ Microbiology of the built environment
 Jack A Gilbert 1 2, Brent Stephens 3
 https://www.nature.com/articles/s41579-018-0065-5
 https://www.built-envi.com/wp-content/uploads/gilbert-and-stephens-2018-nature-reviews-microbiology-MoBE.pdf
+Fig. 4: Shaping the indoor microbiome.
 
 11:52 PM · Aug 21, 2018
 https://twitter.com/NatureRevMicro/status/1031916837896957952
@@ -1018,7 +1143,6 @@ Websites for the Hospital Microbiome Project and the Home Microbiome Project
 ----------
 
 
-
 ### 2024-01-25
 
 Jan. 25, 2024
@@ -1027,10 +1151,9 @@ Why Surface Materials Matter in Health Care Settings
 
 ### 2023-11-29
 
-Nov. 29, 2023
-https://asm.org/Articles/2023/November/How-Viruses-Spread-Indoors-What-to-Do-About-It
+https://asm.org/articles/2023/november/how-viruses-spread-indoors-what-to-do-about-it
 How Viruses Spread Indoors and What to Do About It
-
+Madeline Barron, Ph.D.
 
 
 
@@ -1048,15 +1171,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9888269/
 
 
 ----------
-
-
-----------
-
-
-
-
-
-
-
 
 
